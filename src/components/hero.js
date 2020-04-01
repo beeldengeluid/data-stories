@@ -11,7 +11,7 @@ const Hero = ({ pathname }) => {
         overflowY: `hidden`,
         backgroundImage: `url(${heroimg})`,
         backgroundSize: `cover`,
-        backgroundPosition: `center`,
+        backgroundPosition: `top center`,
       }}
     >
       <div
