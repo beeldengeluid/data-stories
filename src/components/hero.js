@@ -1,9 +1,9 @@
 /** @jsx jsx */
-import { jsx } from 'theme-ui'
+import { jsx } from "theme-ui"
 import heroimg from "../../content/assets/hero.jpg"
 import { Link } from "gatsby"
 
-const Hero = () => {
+const Hero = ({ pathname }) => {
   return (
     <div
       sx={{
@@ -17,37 +17,35 @@ const Hero = () => {
       <div
         sx={{
           maxWidth: 768,
-          mx: 'auto',
+          mx: "auto",
           px: 3,
           py: 5,
         }}
       >
         <h1>
-          <span
-            sx={{ variant: 'text.onimage' }}
-          >
-            Data Stories
-          </span>
+          <span sx={{ variant: "text.onimage" }}>Data Stories</span>
         </h1>
         <div
-          sx={{ 
-            variant: 'text.onimage',
-            display: 'inline-block',
+          sx={{
+            variant: "text.onimage",
+            display: "inline-block",
             fontSize: 3,
           }}
         >
           <div>
             Stories from Dutch multimedia archives, powered by the Media Suite
           </div>
-          <Link 
-            to='/about'
-            sx={{ 
-              variant: 'text.link' ,
-              fontSize: 2,
-            }}
-          >
-            read more
-          </Link>
+          {pathname == "/about" ? null : (
+            <Link
+              to="/about"
+              sx={{
+                variant: "text.link",
+                fontSize: 2,
+              }}
+            >
+              read more
+            </Link>
+          )}
         </div>
       </div>
       {/*<img 
