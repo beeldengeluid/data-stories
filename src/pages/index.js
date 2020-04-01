@@ -1,5 +1,7 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+/** @jsx jsx */
+import { jsx } from "theme-ui"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -11,6 +13,14 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />
+      <div sx={{ mb: 5 }}>
+        <h2>Welcome</h2>
+        <p sx={{ fontSize: 3 }}>
+          Take a look at the data stories and data visualisations resulting from
+          the metadata of multimedia archive material from the collections
+          maintained at leading Dutch heritage institutions.
+        </p>
+      </div>
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
