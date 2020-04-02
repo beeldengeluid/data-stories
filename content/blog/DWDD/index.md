@@ -4,13 +4,13 @@ date: "2020-03-31T16:12:03.284Z"
 description: "2005-2020, einde van een tijdperk: De Wereld Draait Door stopt na 15 jaar. DWDD is een van de populairste programma’s op de Nederlandse televisie. Ontdek wat er zoal valt af te leiden uit 15 seizoenen DWDD (2005-2020) met behulp van de Media Suite"
 ---
 
-**Sinds bekend is dat DWDD stopt, worden lijstjes gedeeld en conclusies getrokken over het programma. Hoe kun je tot zulke inzichten komen? Onderzoekers kijken vaak naar patronen op basis van data. Kijk mee door de lens van het Beeld en Geluid-archief. En ontdek wat er zoal valt af te leiden uit 15 seizoenen DWDD (2005-2020) met behulp van de [Media Suite](https://mediasuite.clariah.nl/).**
+**Sinds bekend is dat DWDD stopt, worden overal lijstjes gedeeld, discussies gevoerd en conclusies getrokken over het programma. Vaak op basis van het spreekwoordelijke bierviltje. Zou het ook anders kunnen? Onderzoekers kijken naar patronen in data, zoals alle DWDD data opgeslagen in het Beeld en Geluid archief. Kijk hieronder mee door de lens van de [Media Suite](https://mediasuite.clariah.nl/) en ontdek wat er zoal valt af te leiden uit 15 seizoenen DWDD (2005-2020) als je puur naar de data kijkt.**
 
-Met de Media Suite kunnen onderzoekers gebruikmaken van tools als metadata inspectie, data-visualisaties, zoeken, visuele analyse, annotatie en spraakherkenning om in televisieprogramma’s en bijbehorende metadata te speuren.
+De Media Suite is een online omgeving speciaal bedoeld voor onderzoekers. Ze kunnen er gebruikmaken van alerlei hulpmiddelen die voor hen nuttig zijn als ze met grote databronnen aan de slag willen. Denk aan diverse uitgebreide zoekmogelijkheden, het inspecteren van de achterliggende metadata, het visualiseren van patronen en het maken van aantekening en annotaties. Onderliggend maakt de Media Suite gebruik van moderne technieken zoals automatische spraak- en beeldherkenning om het speuren in de radio- en televisiearchieven te vergemakkelijken.
 
 ### Metadata
 
-Het tv-archief van Beeld en Geluid gaat vele jaren terug en door de tijd is er op verschillende manieren gearchiveerd. Voor deze data story, hebben we zowel handmatige metadata uit het verleden geanalyseerd, (bijvoorbeeld om de locaties van DWDD letterlijk in kaart te brengen), alsook recente automatische metadata (bijvoorbeeld om spreeksnelheid te berekenen). Daarnaast stelt kunstmatige intelligentie ons ook in staat om 15 jaar DWDD aan de hand van beelden zelf te bekijken.
+Het rtv-archief van Beeld en Geluid gaat vele jaren terug en door de tijd heen is er op verschillende manieren gearchiveerd. Voor deze data story --een verhaal gebaseerd op data-- hebben we naar traditionele, handmatig ingevoerde [metadata](https://www.beeldengeluid.nl/kennis/kennisthemas/metadata) gekeken maar ook naar moderne, automatisch gegenereerde metadata. Met behulp van technieken uit de kunstmatige intelligentie zijn we zo in staat om 15 jaar DWDD aan de hand van het gesproken woord en het beeld zelf te analyseren.
 
 <iframe src='https://public.flourish.studio/visualisation/1655704/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
