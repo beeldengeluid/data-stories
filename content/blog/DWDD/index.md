@@ -33,7 +33,7 @@ De metadata van het Beeld en Geluid archief bestaat uit beschrijvingen die repre
 27 maart 2020 kwam een einde aan een tijdperk uit de Nederlandse tv-geschiedenis. DWDD was een van de populairste en invloedrijkste programma’s op de televisie. Kenmerkend voor DWDD is het hoge tempo waarin onderwerpen elkaar afwisselen en het brede scala aan onderwerpen dat ter tafel komt. Met de Media Suite kun je die afwisseling zichtbaar maken door de onderwerpen in een zogenaamde woordenwolk weer te geven, zoals hieronder in figuur 3. Je ziet hier de door archivarissen aan DWDD-uitzendingen toegekende onderwerpen.
 
 ![Wordcloud van de  Top 100 meest voorkomende onderwerpen (toegekend door archivarissen) ](./top-100-subjects.png)
-_Figuur 3: Wordenwolk van de Top 100 meest voorkomende onderwerpen (toegekend door archivarissen)_
+_Figuur 3: Woordenwolk van de Top 100 meest voorkomende onderwerpen (toegekend door archivarissen)_
 
 ### Distant and close reading
 
