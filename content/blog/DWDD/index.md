@@ -14,11 +14,14 @@ Het RTV-archief van Beeld en Geluid gaat vele jaren terug en door de tijd heen i
 
 Voorbeelden van visualisaties gebaseerd op handmatig door archivarissen toegekende metadata zie je in figuur 1 en 2. Op een wereldkaart en kaart van Nederland worden de meest besproken locaties (2 keer of meer) in 15 jaar DWDD weergegeven. Niet geheel onverwacht ging het blijkbaar relatief vaak over de Verenigde Staten (op wereldschaal) en Amsterdam (binnen Nederland). Opvallend is dan weer dat het relatief vaak over Uruzgan is gegaan.
 
+
 <iframe src='https://public.flourish.studio/visualisation/1655704/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 _Figuur 1: De meest besproken locaties in 15 jaar DWDD op wereldschaal (toegekend door archivarissen)_
 
+
 <iframe src='https://public.flourish.studio/visualisation/1560024/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 _Figuur 2: De meest besproken locaties in 15 jaar DWDD in Nederland (toegekend door archivarissen)_
+
 
 Omdat we in bovenstaande statistieken gebruik maken van de handmatige metadata, weten we bij voorbaat dat deze statistieken wel heel *betrouwbaar* zijn (de kans op een fout is klein) maar ook, dat het heel waarschijnlijk is dat we besproken of genoemde locaties hebben gemist. Stel dat we woord voor woord zouden gaan turven hoe vaak locaties worden genoemd komen we op andere cijfers. Het wordt dan alleen de vraag of het noemen van een locatie ook betekent dat het écht over die locatie gaat. Daar zit een stukje *interpretatie* in die traditioneel door archivarissen werd uitgevoerd. Met relatief eenvoudige middelen zou je iets aan automatische interpretatie kunnen doen: door het aantal keer dat een locatie binnen een kort tijdsbestek wordt genoemd te tellen bijvoorbeeld.
 
@@ -42,6 +45,7 @@ Weergaves zoals woordenwolken geven een overzicht van de spreiding van onderwerp
 _Figuur 4: Top 10 meest frequente onderwerpen in termen van aantal afleveringen van DWDD, gemeten in de periode 2005-2015_
 
 ![Wordcloud van de  Top 100 meest voorkomende onderwerpen (toegekend door archivarissen) ](./Screenshot-MediaSuite-WordCloud-resourceviewer.png)
+
 _Figuur 5: Screenshot van een woordenwolk op het niveau van een individueel programma in de Media Suite Tten behoeve van 'close reading'. Klikken op een term brengt je naar het fragment in het programma_
 
 ### Data criticism
