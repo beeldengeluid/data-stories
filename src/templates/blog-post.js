@@ -3,7 +3,6 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Timelens from '../components/timelens'
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
@@ -33,17 +32,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             {post.frontmatter.date}
           </p>
         </header>
-        <Timelens 
-          timeline = "/timelens/PGMTV2000612871/PGMTV2000612871.mp4.timeline.jpg"
-          thumbnails = "/timelens/PGMTV2000612871/thumbnails.vtt"
-        />
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr
-          style={{
-          }}
-        />
-        <footer>
-        </footer>
+        <hr style={{}} />
+        <footer></footer>
       </article>
 
       <nav>
