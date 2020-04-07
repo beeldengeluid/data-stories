@@ -14,16 +14,15 @@ Het RTV-archief van Beeld en Geluid gaat vele jaren terug en door de tijd heen i
 
 Voorbeelden van visualisaties gebaseerd op handmatig door archivarissen toegekende metadata zie je in figuur 1 en 2. Op een wereldkaart en kaart van Nederland worden de meest besproken locaties (2 keer of meer) in 15 jaar DWDD weergegeven. Niet geheel onverwacht ging het blijkbaar relatief vaak over de Verenigde Staten (op wereldschaal) en Amsterdam (binnen Nederland). Opvallend is dan weer dat het relatief vaak over Uruzgan is gegaan.
 
+<iframe src='https://public.flourish.studio/visualisation/1655704/embed' frameborder='0' scrolling='no' style='width:100%;height:420px;'></iframe>
 
-<iframe src='https://public.flourish.studio/visualisation/1655704/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 _Figuur 1: De meest besproken locaties in 15 jaar DWDD op wereldschaal (toegekend door archivarissen)_
 
-
 <iframe src='https://public.flourish.studio/visualisation/1560024/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
+
 _Figuur 2: De meest besproken locaties in 15 jaar DWDD in Nederland (toegekend door archivarissen)_
 
-
-Omdat we in bovenstaande statistieken gebruik maken van de handmatige metadata, weten we bij voorbaat dat deze statistieken wel heel *betrouwbaar* zijn (de kans op een fout is klein) maar ook, dat het heel waarschijnlijk is dat we besproken of genoemde locaties hebben gemist. Stel dat we woord voor woord zouden gaan turven hoe vaak locaties worden genoemd komen we op andere cijfers. Het wordt dan alleen de vraag of het noemen van een locatie ook betekent dat het écht over die locatie gaat. Daar zit een stukje *interpretatie* in die traditioneel door archivarissen werd uitgevoerd. Met relatief eenvoudige middelen zou je iets aan automatische interpretatie kunnen doen: door het aantal keer dat een locatie binnen een kort tijdsbestek wordt genoemd te tellen bijvoorbeeld.
+Omdat we in bovenstaande statistieken gebruik maken van de handmatige metadata, weten we bij voorbaat dat deze statistieken wel heel _betrouwbaar_ zijn (de kans op een fout is klein) maar ook, dat het heel waarschijnlijk is dat we besproken of genoemde locaties hebben gemist. Stel dat we woord voor woord zouden gaan turven hoe vaak locaties worden genoemd komen we op andere cijfers. Het wordt dan alleen de vraag of het noemen van een locatie ook betekent dat het écht over die locatie gaat. Daar zit een stukje _interpretatie_ in die traditioneel door archivarissen werd uitgevoerd. Met relatief eenvoudige middelen zou je iets aan automatische interpretatie kunnen doen: door het aantal keer dat een locatie binnen een kort tijdsbestek wordt genoemd te tellen bijvoorbeeld.
 
 ### Beeldanalyse
 
@@ -46,7 +45,7 @@ _Figuur 4: Top 10 meest frequente onderwerpen in termen van aantal afleveringen 
 
 ![Wordcloud van de  Top 100 meest voorkomende onderwerpen (toegekend door archivarissen) ](./Screenshot-MediaSuite-WordCloud-resourceviewer.png)
 
-_Figuur 5: Screenshot van een woordenwolk op het niveau van een individueel programma in de Media Suite Tten behoeve van 'close reading'. Klikken op een term brengt je naar het fragment in het programma_
+_Figuur 5: Screenshot van een woordenwolk op het niveau van een individueel programma in de Media Suite ten behoeve van 'close reading'. Klikken op een term brengt je naar het fragment in het programma_
 
 ### Data criticism
 
@@ -66,7 +65,7 @@ _Figuur 7: Aantal afleveringen waarin bepaalde wetenschappelijke onderwerpen bes
 
 ### Sprekende data
 
-Matthijs van Nieuwkerk is “verbaal behendig, vloeiend en dwingend,” vat Genootschap Onze Taal samen in [Trouw](https://myprivacy.dpgmedia.net/?siteKey=w38GrtRHtDg4T8xq&callbackUrl=https://www.trouw.nl/privacy-wall/accept?redirectUri=%2fcultuur-media%2fmatthijs-van-nieuwkerk-gooit-het-roer-om%7eb63fd414%2f). Hij staat erom bekend dat hij snel praat. Een gemiddelde spreker produceert zo'n 130 woorden per minuut, een snelle spreker 160. De vraag is, kunnen we *berekenen* wat Matthijs van Nieuwkerk doet? We maken daarbij gebruik van twee automatische technieken: sprekerherkenning om te zien wie er wanneer ('who speaks when') en spraakherkenning om het aantal woorden te tellen. We hebben de spreeksnelheid gemeten in 266 afleveringen DWDD. Om ook nog even een vergelijk te maken met Eva Jinek hebben we ook haar spreeksnelheid gemeten in de eerste 2 minuten van 39 afleveringen van Jinek. We komen dan bij Matthijs uit op een gemiddelde van 160 en bij Eva op 158. Allebei snelle sprekers dus!
+Matthijs van Nieuwkerk is “verbaal behendig, vloeiend en dwingend,” vat Genootschap Onze Taal samen in [Trouw](https://myprivacy.dpgmedia.net/?siteKey=w38GrtRHtDg4T8xq&callbackUrl=https://www.trouw.nl/privacy-wall/accept?redirectUri=%2fcultuur-media%2fmatthijs-van-nieuwkerk-gooit-het-roer-om%7eb63fd414%2f). Hij staat erom bekend dat hij snel praat. Een gemiddelde spreker produceert zo'n 130 woorden per minuut, een snelle spreker 160. De vraag is, kunnen we _berekenen_ wat Matthijs van Nieuwkerk doet? We maken daarbij gebruik van twee automatische technieken: sprekerherkenning om te zien wie er wanneer ('who speaks when') en spraakherkenning om het aantal woorden te tellen. We hebben de spreeksnelheid gemeten in 266 afleveringen DWDD. Om ook nog even een vergelijk te maken met Eva Jinek hebben we ook haar spreeksnelheid gemeten in de eerste 2 minuten van 39 afleveringen van Jinek. We komen dan bij Matthijs uit op een gemiddelde van 160 en bij Eva op 158. Allebei snelle sprekers dus!
 
 Hoewel Matthijs en Eva even snel praten tijdens de show, verschilt de snelheid in hun intro (we zijn uitgegaan van de eerste 2 minuten), die bij Matthijs richting de 190 gaat, heel snel dus, terwijl Eva juist rustiger aan doet richting 145. Zet de intro de toon van het programma? Een interessant onderzoek zou kunnen zijn om te kijken of de spreeksnelheid van tv-presentatoren door de jaren heen is veranderd.
 
@@ -75,7 +74,6 @@ Met behulp van sprekerherkenning kunnen we ook berekenen hoeveel tijd van het pr
 <iframe src='https://public.flourish.studio/visualisation/1732423/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
 _Figuur 8: Percentages van het programma waar de presentator aan het woord is_
-
 
 ### Matthijs is DWDD
 
@@ -118,6 +116,5 @@ Door data te analyseren kun je trends ontdekken of juist onregelmatigheden opspo
 Data bieden geen absolute waarheid maar worden gekleurd door de processen waarmee ze zijn verzameld. Voorheen werden DWDD-afleveringen handmatig voorzien van metadata. Sinds 2015 worden veel metadata automatisch gegenereerd, bijvoorbeeld door spraak, stemmen of gezichten te herkennen. Handmatige metadata is meestal van goede kwaliteit maar door de jaren heen is de manier van werken regelmatig veranderd waardoor er verschillen kunnen optreden in zowel kwaliteit en rijkheid van de data. Maar we weten bijvoorbeeld vrij zeker dat wanneer er iemand als gast staat genoteerd, diegene ook daadwerkelijk in die uitzending aanwezig was.
 
 Maar stel je voor dat er in diezelfde uitzending iemand te gast was die pas later een 'Bekende Nederlander' is geworden. Die persoon zal mogelijk niet door de archivaris zijn opgemerkt. Dat is dan weer het voordeel van automatische processen: als iemand een paar zinnen heeft gesproken, kunnen we hem of haar jaren later alsnog terugvinden.
-
 
 _Met bijdragen van: Philo van Kemenade, Nanne van Noord, Muriel van Peteghem, Mari Wigham, Wytze Koppelman en Roeland Ordelman._
