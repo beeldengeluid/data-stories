@@ -35,7 +35,7 @@ const Hero = ({ pathname }) => {
           <div>
             Stories from Dutch multimedia archives, powered by the Media Suite
           </div>
-          {pathname == "/about" ? null : (
+          {pathname.includes("/about") ? null : (
             <Link
               to="/about"
               sx={{
