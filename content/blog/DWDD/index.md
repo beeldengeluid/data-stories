@@ -10,7 +10,7 @@ De Media Suite is een online omgeving speciaal bedoeld voor onderzoekers. Ze kun
 
 ### Metadata
 
-Het RTV-archief van Beeld en Geluid gaat vele jaren terug en door de tijd heen is er op verschillende manieren gearchiveerd. Voor deze data story --een verhaal gebaseerd op data-- hebben we naar traditionele, handmatig ingevoerde [metadata](https://www.beeldengeluid.nl/kennis/kennisthemas/metadata) gekeken maar ook naar moderne, automatisch gegenereerde metadata. Met behulp van technieken uit de kunstmatige intelligentie zijn we zo in staat om 15 jaar DWDD aan de hand van het gesproken woord en het beeld zelf te analyseren en te visualiseren.
+Het archief van Beeld en Geluid gaat vele jaren terug en door de tijd heen is er op verschillende manieren gearchiveerd. Voor deze data story --een verhaal gebaseerd op data-- hebben we naar traditionele, handmatig ingevoerde [metadata](https://www.beeldengeluid.nl/kennis/kennisthemas/metadata) gekeken maar ook naar moderne, automatisch gegenereerde metadata. Met behulp van technieken uit de 'kunstmatige intelligentie' zijn we zo in staat om 15 jaar DWDD aan de hand van het gesproken woord en het beeld zelf te analyseren en te visualiseren.
 
 Voorbeelden van visualisaties gebaseerd op handmatig door archivarissen toegekende metadata zie je in figuur 1 en 2. Op een wereldkaart en kaart van Nederland worden de meest besproken locaties (2 keer of meer) in 15 jaar DWDD weergegeven. Niet geheel onverwacht ging het blijkbaar relatief vaak over de Verenigde Staten (op wereldschaal) en Amsterdam (binnen Nederland). Opvallend is dan weer dat het relatief vaak over Uruzgan is gegaan.
 
@@ -22,11 +22,7 @@ _Figuur 1: De meest besproken locaties in 15 jaar DWDD op wereldschaal (toegeken
 
 _Figuur 2: De meest besproken locaties in 15 jaar DWDD in Nederland (toegekend door archivarissen)_
 
-Omdat we in bovenstaande statistieken gebruik maken van de handmatige metadata, weten we bij voorbaat dat deze statistieken wel heel _betrouwbaar_ zijn (de kans op een fout is klein) maar ook, dat het heel waarschijnlijk is dat we besproken of genoemde locaties hebben gemist. Stel dat we woord voor woord zouden gaan turven hoe vaak locaties worden genoemd komen we op andere cijfers. Het wordt dan alleen de vraag of het noemen van een locatie ook betekent dat het écht over die locatie gaat. Daar zit een stukje _interpretatie_ in die traditioneel door archivarissen werd uitgevoerd. Met relatief eenvoudige middelen zou je iets aan automatische interpretatie kunnen doen: door het aantal keer dat een locatie binnen een kort tijdsbestek wordt genoemd te tellen bijvoorbeeld.
-
-### Beeldanalyse
-
-De metadata van het Beeld en Geluid archief bestaat uit beschrijvingen die representeren hoe menselijke archivarissen gebeurtenissen in een programma interpreteren. Maar omdat televisie een visueel medium is, zou je denken dat het bij uitstek geschikt is om beeldverwerking op toe te passen. Dus in feite software naar alle afleveringen te laten kijken en de beelden te analyseren.
+Omdat we in bovenstaande statistieken gebruik maken van de handmatige metadata, weten we bij voorbaat dat deze statistieken wel heel _betrouwbaar_ zijn (de kans op een fout is klein) maar ook, dat het heel waarschijnlijk is dat we besproken of genoemde locaties hebben gemist. Stel dat we woord voor woord zouden gaan turven hoe vaak locaties worden genoemd komen we op andere cijfers. Het wordt dan alleen de vraag of het noemen van een locatie ook betekent dat het écht over die locatie gaat. Daar zit een stukje _interpretatie_ in die traditioneel door archivarissen werd uitgevoerd. Met relatief eenvoudige middelen zou je iets aan automatische interpretatie kunnen doen: door het aantal keer dat een locatie binnen een kort tijdsbestek wordt genoemd te tellen bijvoorbeeld. De metadata van het Beeld en Geluid archief bestaat uit beschrijvingen die representeren hoe menselijke archivarissen gebeurtenissen in een programma interpreteren. Maar omdat televisie een visueel medium is, is het bij uitstek geschikt om beeldanalyse op toe te passen: software naar alle afleveringen te laten kijken en de beelden te analyseren.
 
 ### TV-geschiedenis
 
@@ -49,19 +45,23 @@ _Figuur 5: Screenshot van een woordenwolk op het niveau van een individueel prog
 
 ### Data criticism
 
-Wat we er bij bovenstaande statistieken wel bij moeten vertellen is dat bij de "exacte aantallen" in Figuur 4 wel rekening moeten houden met het feit dat de data niet altijd compleet is. Van 35% van de DWDD uitzendingen is het onderwerp ook daadwerkelijk ingevuld. Dat kan verschillende oorzaken hebben. Handmatig toekennen van onderwerpen is veel werk enZie ook Figuur
+Wat we er bij bovenstaande statistieken wel bij moeten vertellen is dat bij de "exacte aantallen" in Figuur 4 wel rekening moeten houden met het feit dat de data niet altijd compleet is. Van 35% van de DWDD uitzendingen is het onderwerp ook daadwerkelijk ingevuld. Dat kan verschillende oorzaken hebben. Handmatig toekennen van onderwerpen is veel werk en door de jaren heen was er soms meer en soms minder tijd voor of veranderden procedures voor het toekennen. Zie ook Figuur 6 hieronder die laat zien dat de onderwerpen door de heen niet altijd zijn ingevuld, met name in de laatste jaren.
+
+![Overzicht van de beschikbaarheid van onderwerplabels in DWDD door de jaren heen](./onderwerplabeling_DWDD.png)
+_Figuur 6: Overzicht van de beschikbaarheid van onderwerplabels in DWDD door de jaren heen._
+
 
 ### Oerknal
 
-Het meest invloedrijk is DWDD waarschijnlijk geweest met ingewikkelde materie toegankelijk maken voor een breed publiek. Zo legde Robbert Dijkgraaf in Jip en Janneke-taal uit wat de oerknal inhoudt en kunnen we de volgende dag meepraten over technologische ontwikkelingen na een item met Alexander Klöpping. In Figuur 6 zien we dat wetenschap goed is vertegenwoordigd bij DWDD. Ons vermoeden zou zijn dat als we het aantal wetenschappelijke onderwerpen besproken in DWDD zouden vergelijken met andere tv-programma, DWDD er met kop en schouders bovenuit zou steken. Inderdaad zien we in Figuur 7 dat DWDD het heel goed doet in vergelijking tot actualiteiten- en praatprogramma's (current affairs en chat shows).
+Het meest invloedrijk is DWDD waarschijnlijk geweest met ingewikkelde materie toegankelijk maken voor een breed publiek. Zo legde Robbert Dijkgraaf in Jip en Janneke-taal uit wat de oerknal inhoudt en kunnen we de volgende dag meepraten over technologische ontwikkelingen na een item met Alexander Klöpping. In Figuur 7 zien we dat wetenschap goed is vertegenwoordigd bij DWDD. Ons vermoeden zou zijn dat als we het aantal wetenschappelijke onderwerpen besproken in DWDD zouden vergelijken met andere tv-programma, DWDD er met kop en schouders bovenuit zou steken. Inderdaad zien we in Figuur 8 dat DWDD het heel goed doet in vergelijking tot actualiteiten- en praatprogramma's (current affairs en chat shows).
 
 <iframe src='https://public.flourish.studio/visualisation/1625272/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
-_Figuur 6: Top 10 meest besproken (door archivarissen toegekende) wetenschappelijke onderwerpen in termen van aantal afleveringen van DWDD, gemeten in de periode 2005-2015_
+_Figuur 7: Top 10 meest besproken (door archivarissen toegekende) wetenschappelijke onderwerpen in termen van aantal afleveringen van DWDD, gemeten in de periode 2005-2015_
 
 <iframe src='https://public.flourish.studio/visualisation/1731894/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
-_Figuur 7: Aantal afleveringen waarin bepaalde wetenschappelijke onderwerpen besproken (toegekend door archivarissen) worden, gemeten in de periode 2005-2015_
+_Figuur 8: Aantal afleveringen waarin bepaalde wetenschappelijke onderwerpen besproken (toegekend door archivarissen) worden, gemeten in de periode 2005-2015_
 
 ### Sprekende data
 
@@ -69,11 +69,11 @@ Matthijs van Nieuwkerk is “verbaal behendig, vloeiend en dwingend,” vat Geno
 
 Hoewel Matthijs en Eva even snel praten tijdens de show, verschilt de snelheid in hun intro (we zijn uitgegaan van de eerste 2 minuten), die bij Matthijs richting de 190 gaat, heel snel dus, terwijl Eva juist rustiger aan doet richting 145. Zet de intro de toon van het programma? Een interessant onderzoek zou kunnen zijn om te kijken of de spreeksnelheid van tv-presentatoren door de jaren heen is veranderd.
 
-Met behulp van sprekerherkenning kunnen we ook berekenen hoeveel tijd van het programma een presentator aan het woord is. In Figuur 8 vergelijken we Eva Jinek, Matthijs van Nieuwkerk en Jeroen Pauw in de seizoenen 2018 en 2019 en zien we dat Eva Jinek haar gasten iets meer ruimte lijkt te geven en wat minder aan het woord is dan de mannen. Wellicht een interessant onderwerp voor een vervolgonderzoek van een stagiair: is het zo dat vrouwelijke talkshowhosts hun gasten meer aan het woord laten dan hun mannelijke collega’s?
+Met behulp van sprekerherkenning kunnen we ook berekenen hoeveel tijd van het programma een presentator aan het woord is. In Figuur 9 vergelijken we Eva Jinek, Matthijs van Nieuwkerk en Jeroen Pauw in de seizoenen 2018 en 2019 en zien we dat Eva Jinek haar gasten iets meer ruimte lijkt te geven en wat minder aan het woord is dan de mannen. Wellicht een interessant onderwerp voor een vervolgonderzoek van een stagiair: is het zo dat vrouwelijke talkshowhosts hun gasten meer aan het woord laten dan hun mannelijke collega’s?
 
 <iframe src='https://public.flourish.studio/visualisation/1732423/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
-_Figuur 8: Percentages van het programma waar de presentator aan het woord is_
+_Figuur 9: Percentages van het programma waar de presentator aan het woord is_
 
 ### Matthijs is DWDD
 
@@ -91,7 +91,7 @@ In het begin werd DWDD gepresenteerd door Francisco van Jole (23 keer tot decemb
 
 ![15 jaar Matthijs van Nieuwkerk](15jaarmvn-8fps.gif)
 
-_Figuur 9: Beeldvisualisatie van Matthijs van Nieuwkerk met één keyframe per maand in 15 seizoenen._
+_Figuur 10: Beeldvisualisatie van Matthijs van Nieuwkerk met één keyframe per maand in 15 seizoenen._
 
 Zie je verandering in kledingstijl? We vroegen ons ook af hoe het programma door al die jaren heen visueel is veranderd of juist niet. Daarom zoomden we in op een heel herkenbaar onderdeel van het format: het DWDD-openingsshot.
 
@@ -99,11 +99,11 @@ Zie je verandering in kledingstijl? We vroegen ons ook af hoe het programma door
 
 Om 15 jaar aan openingsshots te kunnen bekijken hebben we in twee stappen automatische beeldanalyse toegepast. Eerst hebben we automatische _shot detectie_ gebruikt om de verschillende shots van het programma los te knippen. Voor elke shot in het programma heb je dan één beeld. Vervolgens hebben we met deze beelden _machine learning_ toegepast en een model getraind om specifiek openingsshots te kunnen detecteren.
 
-Gewapend met een heuse openingsshot-detector zijn we door 2826 afleveringen gegaan om heel veel shots van Matthijs van Nieuwkerk met gekruiste armen te vinden! In Figuur 10 hieronder zie je deze poses sinds het begin van DWDD achter elkaar gezet (suggestie: beweeg met de muis over het plaatje om de losse shots te zien).
+Gewapend met een heuse openingsshot-detector zijn we door 2826 afleveringen gegaan om heel veel shots van Matthijs van Nieuwkerk met gekruiste armen te vinden! In Figuur 11 hieronder zie je deze poses sinds het begin van DWDD achter elkaar gezet (suggestie: beweeg met de muis over het plaatje om de losse shots te zien).
 
 <iframe src='https://beeldengeluid.github.io/frameviewer-dwdd/' frameborder='0' scrolling='no' style='width:100%;height:213px ;'></iframe>
 
-_Figuur 10: 15 jaar ‘welkom’ door Matthijs van Nieuwkerk in één beeldje per maand_
+_Figuur 11: 15 jaar ‘welkom’ door Matthijs van Nieuwkerk in één beeldje per maand_
 
 ### Werken met de Media Suite: wat waren onze uitdagingen?
 
