@@ -1,5 +1,5 @@
 ---
-title: 15 jaar De Wereld Draait Door
+title: 15 jaar De Wereld Draait Door in data
 date: "2020-03-31T16:12:03.284Z"
 description: "DWDD is een van de populairste programma’s op de Nederlandse televisie. Ontdek wat er zoal valt af te leiden uit 15 seizoenen DWDD (2005-2020) met behulp van de Media Suite"
 ---
