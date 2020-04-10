@@ -1,10 +1,10 @@
 ---
 title: 15 jaar De Wereld Draait Door in data
 date: "2020-03-27T16:12:03.284Z"
-description: "DWDD is een van de populairste programma’s op de Nederlandse televisie. Ontdek wat er zoal valt af te leiden uit 15 seizoenen DWDD (2005-2020) met behulp van de Media Suite."
+description: "Einde van een tijdperk: De Wereld Draait Door stopt na 15 jaar. DWDD is een van de populairste programma’s op de Nederlandse televisie. Kijk mee door de lens van de Media Suite en ontdek wat er zoal valt af te leiden uit 15 seizoenen DWDD (2005-2020) als je puur naar de data kijkt."
 ---
 
-**Sinds bekend is dat DWDD stopt, worden overal lijstjes gedeeld, discussies gevoerd en conclusies getrokken over het programma. Vaak op basis van het spreekwoordelijke bierviltje. Zou het ook anders kunnen? Onderzoekers kijken naar patronen in data, zoals alle DWDD data opgeslagen in het Beeld en Geluid archief. Kijk hieronder mee door de lens van de [Media Suite](https://mediasuite.clariah.nl/) en ontdek wat er zoal valt af te leiden uit 15 seizoenen DWDD (2005-2020) als je puur naar de data kijkt.**
+**Sinds bekend is dat DWDD stopt, worden overal lijstjes gedeeld, discussies gevoerd en conclusies getrokken over het programma. Vaak op basis van het spreekwoordelijke bierviltje. Zou het ook anders kunnen? Onderzoekers kijken naar patronen in data, zoals alle DWDD data opgeslagen in het Beeld en Geluid archief. Kijk mee door de lens van de [Media Suite](https://mediasuite.clariah.nl/) en ontdek wat er zoal valt af te leiden uit 15 seizoenen DWDD (2005-2020) als je puur naar de data kijkt.**
 
 De Media Suite is een online omgeving speciaal bedoeld voor onderzoekers. Ze kunnen er gebruikmaken van alerlei hulpmiddelen die voor hen nuttig zijn als ze met grote databronnen aan de slag willen. Denk aan diverse uitgebreide zoekmogelijkheden, het inspecteren van de achterliggende metadata, het visualiseren van patronen en het maken van aantekeningen en annotaties. Onderliggend maakt de Media Suite gebruik van moderne technieken zoals automatische spraak- en beeldherkenning om het speuren in de radio- en televisiearchieven te vergemakkelijken.
 
