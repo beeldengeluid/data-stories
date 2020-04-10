@@ -106,7 +106,7 @@ Gewapend met een heuse openingsshot-detector zijn we door 2826 afleveringen gega
 
 <iframe src='https://beeldengeluid.github.io/frameviewer-dwdd/' frameborder='0' scrolling='no' style='width:100%;height:213px ;'></iframe>
 
-_Figuur 11: 15 jaar ‘welkom’ door Matthijs van Nieuwkerk in één beeldje per maand._
+_Figuur 11: 15 jaar ‘welkom’ door Matthijs van Nieuwkerk in één beeldje per maand. Beweeg je muis over het plaatje voor een kijkje door de jaren heen._
 
 ### Werken met de Media Suite
 
