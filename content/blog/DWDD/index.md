@@ -90,7 +90,9 @@ In de laatste week van DWDD zijn deze data allemaal uit de top verstoten door de
 
 In het begin werd DWDD gepresenteerd door Francisco van Jole (23 keer tot december 2005). Uit de Media Suite haalden we dat ook Claudia de Breij DWDD 57 keer presenteerde door de jaren heen. Maar de populariteit van het programma is vooral te danken aan Matthijs van Nieuwkerk. Matthijs ís DWDD.
 
-![15 jaar Matthijs van Nieuwkerk](15jaarmvn-8fps.gif)
+<div style="text-align: center;">
+    <img src="15jaarmvn-8fps.gif" alt="15 jaar Matthijs van Nieuwkerk">
+</div>
 
 _Figuur 10: Beeldvisualisatie van Matthijs van Nieuwkerk met één keyframe per maand in 15 seizoenen._
 
