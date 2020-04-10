@@ -22,7 +22,7 @@ _Figuur 1: De meest besproken locaties in 15 jaar DWDD op wereldschaal (toegeken
 
 _Figuur 2: De meest besproken locaties in 15 jaar DWDD in Nederland (toegekend door archivarissen)._
 
-Omdat we in bovenstaande statistieken gebruikmaken van de handmatige metadata, weten we bij voorbaat dat deze statistieken wel heel betrouwbaar zijn (de kans op een fout is klein) maar ook, dat het heel waarschijnlijk is dat we besproken of genoemde locaties hebben gemist. Stel dat we woord voor woord zouden turven hoe vaak locaties worden genoemd komen we op andere cijfers. Het wordt dan alleen de vraag of het noemen van een locatie ook betekent dat het écht over die locatie gaat. Daar zit een stukje interpretatie in dat traditioneel door archivarissen werd uitgevoerd. 
+Omdat we in bovenstaande statistieken gebruikmaken van de handmatige metadata, weten we bij voorbaat dat deze statistieken wel heel betrouwbaar zijn (de kans op een fout is klein) maar ook, dat het heel waarschijnlijk is dat we besproken of genoemde locaties hebben gemist. Stel dat we woord voor woord zouden turven hoe vaak locaties worden genoemd komen we op andere cijfers. Het wordt dan alleen de vraag of het noemen van een locatie ook betekent dat het écht over die locatie gaat. Daar zit een stukje interpretatie in dat traditioneel door archivarissen werd uitgevoerd.
 
 Met relatief eenvoudige middelen zou je iets aan automatische interpretatie kunnen doen: door het aantal keer dat een locatie, binnen een kort tijdsbestek wordt genoemd, te tellen bijvoorbeeld. De metadata van het Beeld en Geluid archief bestaat uit beschrijvingen die representeren hoe menselijke archivarissen gebeurtenissen in een programma interpreteren. Maar omdat televisie een visueel medium is, is het bij uitstek geschikt om beeldanalyse op toe te passen: software naar alle afleveringen te laten kijken en de beelden te analyseren.
 
@@ -51,7 +51,6 @@ Wat we er bij bovenstaande statistieken wel bij moeten vertellen is dat bij de '
 
 ![Overzicht van de beschikbaarheid van onderwerplabels in DWDD door de jaren heen](./onderwerplabeling_DWDD.png)
 _Figuur 6: Overzicht van de beschikbaarheid van onderwerplabels in DWDD door de jaren heen._
-
 
 ### Oerknal
 
