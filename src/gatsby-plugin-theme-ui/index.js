@@ -34,7 +34,8 @@ export default {
     navlink: {
       textDecoration: "none",
       color: "muted",
-      p: 3,
+      py: 3,
+      px: [2, 3, 4],
     },
     onimage: {
       backgroundColor: alpha("primary", 0.8),
