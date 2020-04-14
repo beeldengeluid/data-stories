@@ -28,6 +28,14 @@ const Layout = ({ location, title, children }) => {
         </Link>
         <div sx={{ mx: "auto" }} />
         <Link
+          to="/"
+          sx={{
+            variant: "text.navlink",
+          }}
+        >
+          Home
+        </Link>
+        <Link
           to="/about"
           sx={{
             variant: "text.navlink",
