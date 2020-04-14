@@ -38,6 +38,7 @@ const BlogIndex = ({ data, location }) => {
                 }}
               />
             </section>
+            <Link to={node.fields.slug}>see the full story</Link>
           </article>
         )
       })}
