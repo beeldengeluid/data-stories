@@ -1,0 +1,21 @@
+:root {
+  --c-text: #000;
+  --c-background: #fff;
+  --c-primary: #2d343a;
+  --c-secondary: #468dcb;
+  --c-accent: #f26c50;
+  --c-accent-dark: #e53611;
+  --c-muted: #a9b4bd;
+  --main-bg-color: brown;
+}
+
+article a {
+  color: var(--c-accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: 0.25s ease;
+}
+article a:hover {
+  color: var(--c-accent-dark);
+  border-color: var(--c-accent-dark);
+}

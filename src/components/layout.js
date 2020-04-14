@@ -1,6 +1,7 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
 import { Link } from "gatsby"
+import "./layout.css"
 import Hero from "../components/hero"
 import logo from "../../content/assets/mediasuite-logo.svg"
 
