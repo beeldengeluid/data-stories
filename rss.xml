@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Media Suite Data Stories]]></title><description><![CDATA[Stories from Dutch multimedia archives, powered by the Media Suite]]></description><link>https://mediasuite.clariah.nl</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 14 Apr 2020 12:58:04 GMT</lastBuildDate><item><title><![CDATA[15 jaar De Wereld Draait Door in data]]></title><description><![CDATA[Sinds bekend is dat DWDD stopt, worden overal lijstjes gedeeld, discussies gevoerd en conclusies getrokken over het programma. Vaak op basis…]]></description><link>https://mediasuite.clariah.nl/DWDD/</link><guid isPermaLink="false">https://mediasuite.clariah.nl/DWDD/</guid><pubDate>Fri, 27 Mar 2020 16:12:03 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Sinds bekend is dat DWDD stopt, worden overal lijstjes gedeeld, discussies gevoerd en conclusies getrokken over het programma. Vaak op basis van het spreekwoordelijke bierviltje. Zou het ook anders kunnen? Onderzoekers kijken naar patronen in data, zoals alle DWDD data opgeslagen in het Beeld en Geluid archief. Kijk mee door de lens van de &lt;a href=&quot;https://mediasuite.clariah.nl/&quot;&gt;Media Suite&lt;/a&gt; en ontdek wat er zoal valt af te leiden uit 15 seizoenen DWDD (2005-2020) als je puur naar de data kijkt.&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Media Suite Data Stories]]></title><description><![CDATA[Stories from Dutch multimedia archives, powered by the Media Suite]]></description><link>https://mediasuite.clariah.nl</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 14 Apr 2020 13:03:17 GMT</lastBuildDate><item><title><![CDATA[15 jaar De Wereld Draait Door in data]]></title><description><![CDATA[Sinds bekend is dat DWDD stopt, worden overal lijstjes gedeeld, discussies gevoerd en conclusies getrokken over het programma. Vaak op basis…]]></description><link>https://mediasuite.clariah.nl/DWDD/</link><guid isPermaLink="false">https://mediasuite.clariah.nl/DWDD/</guid><pubDate>Fri, 27 Mar 2020 16:12:03 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Sinds bekend is dat DWDD stopt, worden overal lijstjes gedeeld, discussies gevoerd en conclusies getrokken over het programma. Vaak op basis van het spreekwoordelijke bierviltje. Zou het ook anders kunnen? Onderzoekers kijken naar patronen in data, zoals alle DWDD data opgeslagen in het Beeld en Geluid archief. Kijk mee door de lens van de &lt;a href=&quot;https://mediasuite.clariah.nl/&quot;&gt;Media Suite&lt;/a&gt; en ontdek wat er zoal valt af te leiden uit 15 seizoenen DWDD (2005-2020) als je puur naar de data kijkt.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;De Media Suite is een online omgeving speciaal bedoeld voor onderzoekers. Ze kunnen er gebruikmaken van alerlei hulpmiddelen die voor hen nuttig zijn als ze met grote databronnen aan de slag willen. Denk aan diverse uitgebreide zoekmogelijkheden, het inspecteren van de achterliggende metadata, het visualiseren van patronen en het maken van aantekeningen en annotaties. Onderliggend maakt de Media Suite gebruik van moderne technieken zoals automatische spraak- en beeldherkenning om het speuren in de radio- en televisiearchieven te vergemakkelijken.&lt;/p&gt;
 &lt;h3&gt;Metadata&lt;/h3&gt;
 &lt;p&gt;Het archief van Beeld en Geluid gaat vele jaren terug en door de tijd heen is er op verschillende manieren gearchiveerd. Voor deze data story – een verhaal gebaseerd op data - hebben we naar traditionele, handmatig ingevoerde &lt;a href=&quot;https://www.beeldengeluid.nl/kennis/kennisthemas/metadata&quot;&gt;metadata&lt;/a&gt; gekeken maar ook naar moderne, automatisch gegenereerde metadata. Met behulp van technieken uit de ‘kunstmatige intelligentie’ zijn we zo in staat om 15 jaar DWDD aan de hand van het gesproken woord en het beeld zelf te analyseren en te visualiseren.&lt;/p&gt;
@@ -17,7 +17,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/data-stories/static/dd47a53b0ff312d66b8f9dde8d9236e0/a805e/top-100-subjects.png&quot;
+    href=&quot;/static/dd47a53b0ff312d66b8f9dde8d9236e0/a805e/top-100-subjects.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -30,10 +30,10 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Wordcloud van de  Top 100 meest voorkomende onderwerpen (toegekend door archivarissen) &quot;
         title=&quot;Wordcloud van de  Top 100 meest voorkomende onderwerpen (toegekend door archivarissen) &quot;
-        src=&quot;/data-stories/static/dd47a53b0ff312d66b8f9dde8d9236e0/a805e/top-100-subjects.png&quot;
-        srcset=&quot;/data-stories/static/dd47a53b0ff312d66b8f9dde8d9236e0/12f09/top-100-subjects.png 148w,
-/data-stories/static/dd47a53b0ff312d66b8f9dde8d9236e0/e4a3f/top-100-subjects.png 295w,
-/data-stories/static/dd47a53b0ff312d66b8f9dde8d9236e0/a805e/top-100-subjects.png 572w&quot;
+        src=&quot;/static/dd47a53b0ff312d66b8f9dde8d9236e0/a805e/top-100-subjects.png&quot;
+        srcset=&quot;/static/dd47a53b0ff312d66b8f9dde8d9236e0/12f09/top-100-subjects.png 148w,
+/static/dd47a53b0ff312d66b8f9dde8d9236e0/e4a3f/top-100-subjects.png 295w,
+/static/dd47a53b0ff312d66b8f9dde8d9236e0/a805e/top-100-subjects.png 572w&quot;
         sizes=&quot;(max-width: 572px) 100vw, 572px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -51,7 +51,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/data-stories/static/1011a0272ef04afebc16135d964d531a/6295b/Screenshot-MediaSuite-WordCloud-resourceviewer.png&quot;
+    href=&quot;/static/1011a0272ef04afebc16135d964d531a/6295b/Screenshot-MediaSuite-WordCloud-resourceviewer.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -64,12 +64,12 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Wordcloud van de  Top 100 meest voorkomende onderwerpen (toegekend door archivarissen) &quot;
         title=&quot;Wordcloud van de  Top 100 meest voorkomende onderwerpen (toegekend door archivarissen) &quot;
-        src=&quot;/data-stories/static/1011a0272ef04afebc16135d964d531a/fcda8/Screenshot-MediaSuite-WordCloud-resourceviewer.png&quot;
-        srcset=&quot;/data-stories/static/1011a0272ef04afebc16135d964d531a/12f09/Screenshot-MediaSuite-WordCloud-resourceviewer.png 148w,
-/data-stories/static/1011a0272ef04afebc16135d964d531a/e4a3f/Screenshot-MediaSuite-WordCloud-resourceviewer.png 295w,
-/data-stories/static/1011a0272ef04afebc16135d964d531a/fcda8/Screenshot-MediaSuite-WordCloud-resourceviewer.png 590w,
-/data-stories/static/1011a0272ef04afebc16135d964d531a/efc66/Screenshot-MediaSuite-WordCloud-resourceviewer.png 885w,
-/data-stories/static/1011a0272ef04afebc16135d964d531a/6295b/Screenshot-MediaSuite-WordCloud-resourceviewer.png 919w&quot;
+        src=&quot;/static/1011a0272ef04afebc16135d964d531a/fcda8/Screenshot-MediaSuite-WordCloud-resourceviewer.png&quot;
+        srcset=&quot;/static/1011a0272ef04afebc16135d964d531a/12f09/Screenshot-MediaSuite-WordCloud-resourceviewer.png 148w,
+/static/1011a0272ef04afebc16135d964d531a/e4a3f/Screenshot-MediaSuite-WordCloud-resourceviewer.png 295w,
+/static/1011a0272ef04afebc16135d964d531a/fcda8/Screenshot-MediaSuite-WordCloud-resourceviewer.png 590w,
+/static/1011a0272ef04afebc16135d964d531a/efc66/Screenshot-MediaSuite-WordCloud-resourceviewer.png 885w,
+/static/1011a0272ef04afebc16135d964d531a/6295b/Screenshot-MediaSuite-WordCloud-resourceviewer.png 919w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -85,7 +85,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/data-stories/static/e2d62e863fc9d11c0dd1cd414b8e9c0f/8c557/onderwerplabeling_DWDD.png&quot;
+    href=&quot;/static/e2d62e863fc9d11c0dd1cd414b8e9c0f/8c557/onderwerplabeling_DWDD.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -98,11 +98,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Overzicht van de beschikbaarheid van onderwerplabels in DWDD door de jaren heen&quot;
         title=&quot;Overzicht van de beschikbaarheid van onderwerplabels in DWDD door de jaren heen&quot;
-        src=&quot;/data-stories/static/e2d62e863fc9d11c0dd1cd414b8e9c0f/fcda8/onderwerplabeling_DWDD.png&quot;
-        srcset=&quot;/data-stories/static/e2d62e863fc9d11c0dd1cd414b8e9c0f/12f09/onderwerplabeling_DWDD.png 148w,
-/data-stories/static/e2d62e863fc9d11c0dd1cd414b8e9c0f/e4a3f/onderwerplabeling_DWDD.png 295w,
-/data-stories/static/e2d62e863fc9d11c0dd1cd414b8e9c0f/fcda8/onderwerplabeling_DWDD.png 590w,
-/data-stories/static/e2d62e863fc9d11c0dd1cd414b8e9c0f/8c557/onderwerplabeling_DWDD.png 700w&quot;
+        src=&quot;/static/e2d62e863fc9d11c0dd1cd414b8e9c0f/fcda8/onderwerplabeling_DWDD.png&quot;
+        srcset=&quot;/static/e2d62e863fc9d11c0dd1cd414b8e9c0f/12f09/onderwerplabeling_DWDD.png 148w,
+/static/e2d62e863fc9d11c0dd1cd414b8e9c0f/e4a3f/onderwerplabeling_DWDD.png 295w,
+/static/e2d62e863fc9d11c0dd1cd414b8e9c0f/fcda8/onderwerplabeling_DWDD.png 590w,
+/static/e2d62e863fc9d11c0dd1cd414b8e9c0f/8c557/onderwerplabeling_DWDD.png 700w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -134,7 +134,7 @@
 &lt;p&gt;In de laatste week van DWDD zijn deze data allemaal uit de top verstoten door de uitzendingen van 23, 16, 20, 19 en 17 maart 2020 die nu de best bekeken DWDD uitzendingen ooit (tussen de 2.151.000 en 4.561.000 kijkers). Het coronavirus vormt een rode draad in deze uitzendingen. Is Matthijs onze hoop in bange dagen? Of houden Nederlanders niet van verandering? Vaststaat dat DWDD piekt in populariteit met de aller-allerlaatste uitzendingen.&lt;/p&gt;
 &lt;p&gt;In het begin werd DWDD gepresenteerd door Francisco van Jole (23 keer tot december 2005). Uit de Media Suite haalden we dat ook Claudia de Breij DWDD 57 keer presenteerde door de jaren heen. Maar de populariteit van het programma is vooral te danken aan Matthijs van Nieuwkerk. Matthijs ís DWDD.&lt;/p&gt;
 &lt;div style=&quot;text-align: center;&quot;&gt;
-    &lt;img src=&quot;/data-stories/04dc1e3ce9d42654e7d65fab07e48bb5/15jaarmvn-8fps.gif&quot; alt=&quot;15 jaar Matthijs van Nieuwkerk&quot;&gt;
+    &lt;img src=&quot;/04dc1e3ce9d42654e7d65fab07e48bb5/15jaarmvn-8fps.gif&quot; alt=&quot;15 jaar Matthijs van Nieuwkerk&quot;&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;em&gt;Figuur 10: Beeldvisualisatie van Matthijs van Nieuwkerk met één keyframe per maand in 15 seizoenen.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Zie je verandering in kledingstijl? We vroegen ons ook af hoe het programma door al die jaren heen visueel is veranderd of juist niet. Daarom zoomden we in op een heel herkenbaar onderdeel van het format: het DWDD openingsshot.&lt;/p&gt;
