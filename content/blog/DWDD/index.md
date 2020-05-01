@@ -6,6 +6,11 @@ description: "Einde van een tijdperk: De Wereld Draait Door stopt na 15 jaar. DW
 
 **Sinds bekend is dat DWDD stopt, worden overal lijstjes gedeeld, discussies gevoerd en conclusies getrokken over het programma. Vaak op basis van het spreekwoordelijke bierviltje. Zou het ook anders kunnen? Onderzoekers kijken naar patronen in data, in dit geval alle DWDD data opgeslagen in het Beeld en Geluid archief. Kijk mee door de lens van de [Media Suite](https://mediasuite.clariah.nl/) en ontdek wat er zoal valt af te leiden uit 15 seizoenen DWDD als je puur naar de data kijkt.**
 
+<div style="text-align: center;">
+    <img class="dn-ns"    src="15jaarmvn-8fps-small.gif" alt="15 jaar Matthijs van Nieuwkerk">
+    <img class="dn dib-ns" src="15jaarmvn-8fps-large.gif" alt="15 jaar Matthijs van Nieuwkerk">
+</div>
+
 De Media Suite is een online omgeving speciaal bedoeld voor onderzoekers. Ze kunnen er gebruikmaken van allerlei hulpmiddelen die voor hen nuttig zijn als ze met grote databronnen aan de slag willen. Denk aan diverse uitgebreide zoekmogelijkheden, het inspecteren van de achterliggende metadata, het visualiseren van patronen en het maken van aantekeningen en annotaties. Onderliggend maakt de Media Suite gebruik van moderne technieken zoals automatische spraak- en beeldherkenning om het speuren in de radio- en televisiearchieven makkelijker te maken.
 
 ### Metadata
@@ -49,8 +54,8 @@ _Figuur 5: Screenshot van een woordenwolk op het niveau van een individueel prog
 
 Wat we er bij bovenstaande statistieken wel bij moeten vertellen is dat bij de 'exacte aantallen' in Figuur 4 wel rekening moeten houden met het feit dat de data niet altijd compleet zijn. Van 35% van de DWDD uitzendingen is het onderwerp ook daadwerkelijk ingevuld. Dat kan verschillende oorzaken hebben:
 
-- Handmatig toekennen van onderwerpen is veel werk. Soms was er meer, soms minder tijd voor, of 
-- De procedures voor het toekennen veranderden. 
+- Handmatig toekennen van onderwerpen is veel werk. Soms was er meer, soms minder tijd voor, of
+- De procedures voor het toekennen veranderden.
 
 Figuur 6 hieronder laat zien dat de onderwerpen door de tijd heen niet altijd zijn ingevuld, met name in de laatste jaren.
 
@@ -96,7 +101,8 @@ In de laatste week van DWDD zijn deze data allemaal uit de top verstoten door de
 In het begin werd DWDD gepresenteerd door Francisco van Jole (23 keer tot december 2005). Uit de Media Suite haalden we dat ook Claudia de Breij DWDD 57 keer presenteerde door de jaren heen. Maar de populariteit van het programma is vooral te danken aan Matthijs van Nieuwkerk. Matthijs ís DWDD.
 
 <div style="text-align: center;">
-    <img src="15jaarmvn-8fps.gif" alt="15 jaar Matthijs van Nieuwkerk">
+    <img class="dn-ns"    src="15jaarmvn-8fps-small.gif" alt="15 jaar Matthijs van Nieuwkerk">
+    <img class="dn dib-ns" src="15jaarmvn-8fps-large.gif" alt="15 jaar Matthijs van Nieuwkerk">
 </div>
 
 _Figuur 10: Beeldvisualisatie van Matthijs van Nieuwkerk met één keyframe per maand in 15 seizoenen._

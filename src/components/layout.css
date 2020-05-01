@@ -19,3 +19,17 @@ article a:hover {
   color: var(--c-accent-dark);
   border-color: var(--c-accent-dark);
 }
+
+.dn {
+  display: none;
+}
+
+@media (min-width: 30em) {
+  .dn-ns {
+    display: none;
+  }
+
+  .dib-ns {
+    display: inline-block;
+  }
+}
