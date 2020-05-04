@@ -113,7 +113,7 @@ Zie je verandering in kledingstijl? We vroegen ons ook af hoe het programma door
 
 Om 15 jaar aan openingsshots te kunnen bekijken hebben we in 2 stappen automatische beeldanalyse toegepast. Eerst hebben we automatische _shot detectie_ gebruikt om de verschillende shots van het programma los te knippen. Voor elk shot in het programma heb je dan één beeld. Vervolgens hebben we met deze beelden _machine learning_ toegepast en een model getraind om specifiek openingsshots te kunnen detecteren.
 
-Gewapend met een heuse openingsshot-detector zijn we door 2826 afleveringen gegaan om heel veel shots van Matthijs van Nieuwkerk met gekruiste armen te vinden! In Figuur 11 hieronder zie je deze poses sinds het begin van DWDD achter elkaar gezet. (Beweeg je muis over het plaatje om de losse shots te zien).
+Gewapend met een heuse openingsshot-detector zijn we door zo'n 2400 afleveringen gegaan om heel veel shots van Matthijs van Nieuwkerk met gekruiste armen te vinden! In Figuur 11 hieronder zie je deze poses sinds het begin van DWDD achter elkaar gezet. (Beweeg je muis over het plaatje om de losse shots te zien).
 
 <iframe src='https://beeldengeluid.github.io/frameviewer-dwdd/' frameborder='0' scrolling='no' style='width:100%;height:213px ;'></iframe>
 
