@@ -14,6 +14,7 @@ const Layout = ({ location, title, children }) => {
           alignItems: "center",
           backgroundColor: "primary",
           p: 3,
+          fontFamily: "heading",
         }}
       >
         <Link to="/">
