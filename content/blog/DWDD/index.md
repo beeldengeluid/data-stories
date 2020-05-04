@@ -52,7 +52,7 @@ _Figuur 5: Screenshot van een woordenwolk op het niveau van een individueel prog
 
 ### Data criticism
 
-Wat we er bij bovenstaande statistieken wel bij moeten vertellen is dat bij de 'exacte aantallen' in Figuur 4 wel rekening moeten houden met het feit dat de data niet altijd compleet zijn. Van 35% van de DWDD uitzendingen is het onderwerp ook daadwerkelijk ingevuld. Dat kan verschillende oorzaken hebben:
+Bij de ‘exacte aantallen’ in Figuur 4 moeten we er wel rekening mee houden dat de data niet altijd compleet zijn. Van 35% van de DWDD uitzendingen is het onderwerp ook daadwerkelijk ingevuld. Dat kan verschillende oorzaken hebben:
 
 - Handmatig toekennen van onderwerpen is veel werk. Soms was er meer, soms minder tijd voor, of
 - De procedures voor het toekennen veranderden.
