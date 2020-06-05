@@ -86,28 +86,28 @@ As DWDD began its final month, the Top 5 most viewed DWDD programmes were as fol
 - 8th January 2014: 1,782,000 viewers
 - 2nd March 2018: 1,767,000 viewers
 
-In the last week of DWDD all these programmes were knocked out of the top five by the broadcasts from the 23rd, 16th, 20th, 19th and 17th March 2020, that are now the most-watched DWDD programmes ever (between 2,151,000 and 4,561,000 viewers). The coronavirus was the common thread of all these programmes. Is Matthijs Holland's hope in frightening days? Or do Dutch people dislike change? Vast staat dat DWDD piekt in populariteit met de aller-allerlaatste uitzendingen.
+In the last week of DWDD all these programmes were summarily knocked out of their positions, and the new Top 5 became the 23rd, 16th, 20th, 19th and 17th March 2020, that are now the most-watched DWDD programmes ever (between 2,151,000 and 4,561,000 viewers). The coronavirus was the common thread running through all these programmes. Is Matthijs Holland's hope in dark days? Or do Dutch people dislike change? What is certain, is that DWDD peaked in popularity with the very last broadcasts.
 
-In het begin werd DWDD gepresenteerd door Francisco van Jole (23 keer tot december 2005). Uit de Media Suite haalden we dat ook Claudia de Breij DWDD 57 keer presenteerde door de jaren heen. Maar de populariteit van het programma is vooral te danken aan Matthijs van Nieuwkerk. Matthijs ís DWDD.
+In the beginning, DWDD was actually presented by Francisco van Jole (23 times between the first broadcast and December 2005). From the Media Suite we can see that Claudia de Breij presented DWDD 57 times over the years. Yet it is mainly Matthijs van Nieuwkerk who is to thank for the popularity of DWDD. Matthijs **is** DWDD.
 
 <div style="text-align: center;">
-    <img class="dn-ns"    src="15jaarmvn-8fps-small.gif" alt="15 jaar Matthijs van Nieuwkerk">
-    <img class="dn dib-ns" src="15jaarmvn-8fps-large.gif" alt="15 jaar Matthijs van Nieuwkerk">
+    <img class="dn-ns"    src="15jaarmvn-8fps-small.gif" alt="15 years of Matthijs van Nieuwkerk">
+    <img class="dn dib-ns" src="15jaarmvn-8fps-large.gif" alt="15 years of Matthijs van Nieuwkerk">
 </div>
 
-_Figuur 10: Beeldvisualisatie van Matthijs van Nieuwkerk met één keyframe per maand in 15 seizoenen._
+_Figure 10: Visualisation of Matthijs van Nieuwkerk with one keyframe per month in 15 seasons._
 
-Zie je verandering in kledingstijl? We vroegen ons ook af hoe het programma door al die jaren heen visueel is veranderd of juist niet. Daarom zoomden we in op een heel herkenbaar onderdeel van het format: het DWDD openingsshot.
+Do you see a change in clothing style? We asked ourselves how, over all those years, the programme's visual style had changed - or not. For this reason, we zoomed in on a very characteristic part of the format - the  DWDD opening shot.
 
-### Gekruiste armen
+### Arms crossed
 
-Om 15 jaar aan openingsshots te kunnen bekijken hebben we in 2 stappen automatische beeldanalyse toegepast. Eerst hebben we automatische _shot detectie_ gebruikt om de verschillende shots van het programma los te knippen. Voor elk shot in het programma heb je dan één beeld. Vervolgens hebben we met deze beelden _machine learning_ toegepast en een model getraind om specifiek openingsshots te kunnen detecteren.
+To look at 15 years of opening shots, we applied image analysis in two steps. First we used automatic _shot detection_ to cut the programme up into different shots. For each shot in the programme, we had a single image. With these images, we applied _machine learning_ and trained a model to specifically detect opening shots.
 
-Gewapend met een heuse openingsshot-detector zijn we door 2826 afleveringen gegaan om heel veel shots van Matthijs van Nieuwkerk met gekruiste armen te vinden! In Figuur 11 hieronder zie je deze poses sinds het begin van DWDD achter elkaar gezet. (Beweeg je muis over het plaatje om de losse shots te zien).
+Thus armed with a genuine opening shot detector, we went through 2826 programmes - to find very many shots of Matthijs van Nieuwkerk with his arms crossed! In Figure 11 below you can see these poses since the start of DWDD, put into a row (Move your mouse over the image to see the individual shots)
 
 <iframe src='https://beeldengeluid.github.io/frameviewer-dwdd/' frameborder='0' scrolling='no' style='width:100%;height:213px ;'></iframe>
 
-_Figuur 11: 15 jaar ‘welkom’ door Matthijs van Nieuwkerk in één beeldje per maand. Beweeg je muis over het plaatje voor een kijkje door de jaren heen._
+_Figure 11: 15 years ‘welcome’ by Matthijs van Nieuwkerk in one image per month. Move your mouse over the image to browse through the years_
 
 ### Werken met de Media Suite
 
