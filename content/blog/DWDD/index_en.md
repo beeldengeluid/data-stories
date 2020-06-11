@@ -4,13 +4,13 @@ date: "2020-03-27T16:12:03.284Z"
 description: "End of an era: After 15 years, the weekday Dutch chat show ['De Wereld Draait Door'](https://en.wikipedia.org/wiki/De_Wereld_Draait_Door) was discontinued in March 2020. DWDD was one of the most popular programmes on Dutch television. Look through the lens of the Media Suite and discover what can be found out about 15 seasons of DWDD (2005-2020) by looking purely at the data."
 ---
 
-**Since it was announced that [DWDD](https://en.wikipedia.org/wiki/De_Wereld_Draait_Door) was going to stop, people everywhere have been discussing the programme, sharing lists and drawing conclusions, often on the back of the proverbial napkin. Is there another way to do this? Researchers look for patterns in data, such as the DWDD data stored in the [Netherlands Institute for Sound and Vision](https://en.wikipedia.org/wiki/Netherlands_Institute_for_Sound_and_Vision) archive. Join us to look through the lens of the [Media Suite](https://mediasuite.clariah.nl/) and discover what we can find out about 15 seasons of DWDD (2005-2020) by looking purely at the data.**
+**Since it was announced that [DWDD](https://en.wikipedia.org/wiki/De_Wereld_Draait_Door) was going to stop, people everywhere have been discussing the programme, sharing lists and drawing conclusions, often on the back of the proverbial napkin. Is there another way to do this? Researchers look for patterns in data, such as the DWDD data stored in the [Netherlands Institute for Sound and Vision](https://en.wikipedia.org/wiki/Netherlands_Institute_for_Sound_and_Vision) archive. Join us to look through the lens of the [Media Suite](https://mediasuite.clariah.nl/) and discover what we can find out about 15 seasons of DWDD (2005-2020) by looking purely at the data**
 
 The Media Suite is an online environment intended specially for researchers. They can use various aids that are useful for them when they want to work with large datasets. Think of advanced search capabilities, inspecting the underlying metadata, visualising patterns and making notes and annotations. Under the hood, the Media Suite uses modern techniques, such as automatic speech and image recognition, to make it easier to nose around in the radio en television archives.
 
 ### Metadata
 
-The Sound and Vision archive goes back many years, and during that time the archiving process has gone through many changes. For this 'data story' – a story based on data - we have looked at traditional, manually entered metadata, but also modern, automatically generated metadata. With the help of 'artificial intelligence' techniques, we are able to analyse and visualise 15 years of DWDD based on spoken words and images.
+The Sound and Vision archive goes back many years, and during that time the archiving process has gone through many changes. For this 'data story' – a story based on data – we have looked at traditional, manually entered metadata, but also modern, automatically generated metadata. With the help of 'artificial intelligence' techniques, we are able to analyse and visualise 15 years of DWDD based on spoken words and images.
 
 Examples of visualisations based on metadata that was manually entered by archivists can be seen in Figures 1 and 2. The most frequently (twice or more) discussed locations from manually annotated DWDD programmes are plotted on both a world map and a map of the Netherlands. It is not terribly surprising that the discussion was, apparently, quite frequently about the United States (on a global scale) and Amsterdam (within the Netherlands). What is more remarkable, is that Uruzgan features relatively often.
 
@@ -28,7 +28,7 @@ With relatively simple means, we could do some sort of automatic interpretation:
 
 ### TV history
 
-The 27th of March 2020 brought the end of an era in Dutch TV history. DWDD was one of the most popular - and influential - programmes on television. DWDD was characterised by the rapid tempo with which the subject was changed, and the wide range of subjects that were brought to the table. With the Media Suite we can make that variety visible by showing the subjects in a so-called 'word cloud', as shown below in Figure 3. Here you can see the subjects that archivists annotated DWDD programmes with. 
+The 27th of March 2020 brought the end of an era in Dutch TV history. DWDD was one of the most popular - and influential - programmes on television. DWDD was characterised by the rapid tempo with which the subject was changed, and the wide range of subjects that were brought to the table. With the Media Suite we can make that variety visible by showing the subjects in a word cloud, as shown below in Figure 3. Here you can see the subjects that archivists annotated DWDD programmes with. 
 
 ![Wordcloud of the top 100 most frequently occurring subjects (annotated by archivists) ](./top-100-subjects-programme-and-segment.png)
 _Figure 3: Wordcloud of the top 100 most frequently occurring subjects (annotated by archivists)._
@@ -103,7 +103,7 @@ Do you see a change in clothing style? We asked ourselves how, over all those ye
 
 To look at 15 years of opening shots, we applied image analysis in two steps. First we used automatic _shot detection_ to cut the programme up into different shots. For each shot in the programme, we had a single image. With these images, we applied _machine learning_ and trained a model to specifically detect opening shots.
 
-Thus armed with a genuine opening shot detector, we went through 2826 programmes - to find very many shots of Matthijs van Nieuwkerk with his arms crossed! In Figure 11 below you can see these poses since the start of DWDD, put into a row (Move your mouse over the image to see the individual shots)
+Thus armed with a genuine opening shot detector, we went through 2826 programmes - to find very many shots of Matthijs van Nieuwkerk with his arms crossed! You can explore the poses since the start of DWDD in the interactive figure below (Move your mouse over the image to see the individual shots).
 
 <iframe src='https://beeldengeluid.github.io/frameviewer-dwdd/' frameborder='0' scrolling='no' style='width:100%;height:213px ;'></iframe>
 
