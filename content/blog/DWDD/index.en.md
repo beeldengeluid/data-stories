@@ -1,7 +1,7 @@
 ---
 title: 15 years of the popular Dutch chat show 'DWDD' - in data
 date: "2020-03-27T16:12:03.284Z"
-description: "End of an era: After 15 years, the weekday Dutch chat show ['De Wereld Draait Door'](https://en.wikipedia.org/wiki/De_Wereld_Draait_Door)(DWDD) was discontinued in March 2020. DWDD was one of the most popular programmes on Dutch television. Look through the lens of the Media Suite and discover what can be found out about 15 seasons of DWDD (2005-2020) by looking purely at the data."
+description: "End of an era: After 15 years, the weekday Dutch chat show 'De Wereld Draait Door' (DWDD) was discontinued in March 2020. DWDD was one of the most popular programmes on Dutch television. Look through the lens of the Media Suite and discover what can be found out about 15 seasons of DWDD (2005-2020) by looking purely at the data."
 ---
 
 **Since it was announced that [DWDD](https://en.wikipedia.org/wiki/De_Wereld_Draait_Door) was going to stop, people everywhere have been discussing the programme, sharing lists and drawing conclusions, often on the back of the proverbial napkin. Is there another way to do this? Researchers look for patterns in data, such as the DWDD data stored in the [Netherlands Institute for Sound and Vision](https://en.wikipedia.org/wiki/Netherlands_Institute_for_Sound_and_Vision) archive. Join us to look through the lens of the [Media Suite](https://mediasuite.clariah.nl/) and discover what we can find out about 15 seasons of DWDD (2005-2020) by looking purely at the data**

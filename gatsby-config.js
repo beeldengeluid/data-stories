@@ -46,6 +46,19 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: 'gatsby-plugin-i18n',
+      options: {        
+        langKeyDefault: 'en',
+        langKeyForNull: 'en',
+        prefixDefault: false,
+        useLangKeyLayout: false,
+        pagesPaths: [
+          `${__dirname}/content/blog`,
+          `${__dirname}/src/pages`
+        ]
+      }
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {

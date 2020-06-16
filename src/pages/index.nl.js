@@ -16,9 +16,7 @@ const BlogIndex = ({ data, location }) => {
       <div sx={{ mb: 5 }}>
         <h2>Welcome</h2>
         <p sx={{ fontSize: 3 }}>
-          Take a look at the data stories and data visualisations resulting from
-          the metadata of multimedia archive material from the collections
-          maintained at leading Dutch heritage institutions.
+          Neem een kijkje!
         </p>
       </div>
       {posts.map(({ node }) => {
@@ -55,12 +53,16 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC },
+      filter: { fields: { langKey: { regex: "/(nl|any)/" } } }
+    ) {
       edges {
         node {
           excerpt
           fields {
-            slug
+            slug,
+            langKey
           }
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
