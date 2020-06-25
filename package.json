@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "mediasuite-data-stories",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "description": "Stories from Dutch multimedia archives, powered by the Media Suite",
+  "version": "0.2.0",
+  "author": "Philo van Kemenade <pvkemenade@beeldengeluid.nl>",
   "dependencies": {
     "@theme-ui/color": "^0.3.1",
     "gatsby": "^2.23.11",
@@ -42,16 +39,6 @@
   },
   "devDependencies": {
     "prettier": "^1.19.1"
-  },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby"
-  ],
-  "license": "MIT",
-  "main": "n/a",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
   },
   "scripts": {
     "build": "gatsby build",
