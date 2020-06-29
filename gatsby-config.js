@@ -7,6 +7,10 @@ module.exports = {
     social: {
       twitter: `mediasuite_nl`,
     },
+    languages: {
+      langs: ['en', 'nl'],
+      defaultLangKey: 'en'
+    }
   },
   plugins: [
     "gatsby-plugin-theme-ui",

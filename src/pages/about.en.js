@@ -13,7 +13,7 @@ const BlogIndex = ({ data, location }) => {
       <article>
         <p>
           The{" "}
-          <a href="https://mediasuite.clariah.nl/" target="_blank">
+          <a href="https://mediasuite.clariah.nl/" target="_blank" rel="noreferrer">
             CLARIAH Media Suite
           </a>{" "}
           gives researchers access to Dutch multimedia archives from, among
