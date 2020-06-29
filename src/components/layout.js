@@ -17,8 +17,7 @@ const Layout = ({ location, title, children }) => {
   const { langs, defaultLangKey } = useSiteMetadata().languages;
   const langKey = getCurrentLangKey(langs, defaultLangKey, url);
   const homeLink = `/${langKey !== defaultLangKey ? `${langKey}/` : ''}`;
-  const langsMenu1 = getLangs(langs, langKey, getUrlForLang(homeLink, url));
-  const langsMenu = langsMenu1.map(
+  const langsMenu = getLangs(langs, langKey, getUrlForLang(homeLink, url)).map(
     (item) => ({
       ...item,
       link: item.link
