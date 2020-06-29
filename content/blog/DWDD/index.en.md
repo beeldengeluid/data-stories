@@ -6,6 +6,11 @@ description: "End of an era: After 15 years, the weekday Dutch chat show 'De Wer
 
 **Since it was announced that [DWDD](https://en.wikipedia.org/wiki/De_Wereld_Draait_Door) was going to stop, people everywhere have been discussing the programme, sharing lists and drawing conclusions, often on the back of the proverbial napkin. Is there another way to do this? Researchers look for patterns in data, such as the DWDD data stored in the [Netherlands Institute for Sound and Vision](https://en.wikipedia.org/wiki/Netherlands_Institute_for_Sound_and_Vision) archive. Join us to look through the lens of the [Media Suite](https://mediasuite.clariah.nl/) and discover what we can find out about 15 seasons of DWDD (2005-2020) by looking purely at the data**
 
+<div style="text-align: center;">
+    <img class="dn-ns"    src="15jaarmvn-8fps-small.gif" alt="15 jaar Matthijs van Nieuwkerk">
+    <img class="dn dib-ns" src="15jaarmvn-8fps-large.gif" alt="15 jaar Matthijs van Nieuwkerk">
+</div>
+
 The Media Suite is an online environment intended specially for researchers. They can use various aids that are useful for them when they want to work with large datasets. Think of advanced search capabilities, inspecting the underlying metadata, visualising patterns and making notes and annotations. Under the hood, the Media Suite uses modern techniques, such as automatic speech and image recognition, to make it easier to nose around in the radio and television archives.
 
 ### Metadata
