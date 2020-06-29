@@ -16,7 +16,7 @@ const Layout = ({ location, title, children }) => {
   const url = location.pathname;
   const { langs, defaultLangKey } = useSiteMetadata().languages;
   const langKey = getCurrentLangKey(langs, defaultLangKey, url);
-  const homeLink = `/${langKey !== defaultLangKey ? langKey : ''}`;
+  const homeLink = `/${langKey !== defaultLangKey ? `${langKey}/` : ''}`;
   const langsMenu1 = getLangs(langs, langKey, getUrlForLang(homeLink, url));
   const langsMenu = langsMenu1.map(
     (item) => ({
@@ -37,7 +37,7 @@ const Layout = ({ location, title, children }) => {
           fontFamily: "heading",
         }}
       >
-        <Link to="/">
+        <Link to={homeLink}>
           <img
             src={logo}
             alt="Media Suite Logo"
@@ -49,15 +49,7 @@ const Layout = ({ location, title, children }) => {
         </Link>
         <div sx={{ mx: "auto" }} />
         <Link
-          to="/"
-          sx={{
-            variant: "text.navlink",
-          }}
-        >
-          Home
-        </Link>
-        <Link
-          to="/about"
+          to={homeLink + "about"}
           sx={{
             variant: "text.navlink",
           }}
