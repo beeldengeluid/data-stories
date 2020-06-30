@@ -56,7 +56,7 @@ const Layout = ({ location, title, children }) => {
             variant: "text.navlink",
           }}
         >
-          Media Suite
+          Media Suite ↗︎
         </a>
         <a
           href="https://twitter.com/mediasuite_nl"
@@ -64,7 +64,7 @@ const Layout = ({ location, title, children }) => {
             variant: "text.navlink",
           }}
         >
-          Twitter
+          Twitter ↗︎
         </a>
         <SelectLanguage langs={langsMenu} className="select-languages" />
       </header>
