@@ -7,6 +7,10 @@ module.exports = {
     social: {
       twitter: `mediasuite_nl`,
     },
+    languages: {
+      langs: ['en', 'nl'],
+      defaultLangKey: 'en'
+    }
   },
   plugins: [
     "gatsby-plugin-theme-ui",
@@ -45,6 +49,19 @@ module.exports = {
           `gatsby-remark-smartypants`,
         ],
       },
+    },
+    {
+      resolve: 'gatsby-plugin-i18n',
+      options: {        
+        langKeyDefault: 'en',
+        langKeyForNull: 'en',
+        prefixDefault: false,
+        useLangKeyLayout: false,
+        pagesPaths: [
+          `${__dirname}/content/blog`,
+          `${__dirname}/src/pages`
+        ]
+      }
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,

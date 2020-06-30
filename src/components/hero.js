@@ -2,8 +2,22 @@
 import { jsx } from "theme-ui"
 import heroimg from "../../content/assets/hero.jpg"
 import { Link } from "gatsby"
+import useSiteMetadata from "../hooks/use-site-metadata"
+import { getCurrentLangKey } from "ptz-i18n"
 
 const Hero = ({ pathname }) => {
+  const url = pathname
+  const { langs, defaultLangKey } = useSiteMetadata().languages
+  const langKey = getCurrentLangKey(langs, defaultLangKey, url)
+  const homeLink = `/${langKey !== defaultLangKey ? `${langKey}/` : ""}`
+
+  const titleText =
+    langKey === "en"
+      ? "Stories from Dutch multimedia archives, powered by the Media Suite"
+      : "Verhalen uit multimediale archieven, mogelijk gemaakt door de Media Suite"
+
+  const moreText = langKey === "en" ? "read more" : "meer info"
+
   return (
     <div
       sx={{
@@ -32,18 +46,16 @@ const Hero = ({ pathname }) => {
             fontSize: 3,
           }}
         >
-          <div>
-            Stories from Dutch multimedia archives, powered by the Media Suite
-          </div>
+          <div>{titleText}</div>
           {pathname.includes("/about") ? null : (
             <Link
-              to="/about"
+              to={homeLink + "about"}
               sx={{
                 variant: "text.link",
                 fontSize: 2,
               }}
             >
-              read more
+              {moreText}
             </Link>
           )}
         </div>
