@@ -3,7 +3,6 @@ import { jsx } from "theme-ui"
 import Link from 'gatsby-link';
 
 const SelectLanguage = (props) => {
-  console.log(props.langs);
   const links = props.langs.map(lang =>
     <Link to={lang.link} key={lang.langKey} sx={{
       color: 'muted',

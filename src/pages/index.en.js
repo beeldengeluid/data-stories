@@ -13,7 +13,6 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="All stories" />
       <div sx={{ mb: 5 }}>
-        <h2>Welcome</h2>
         <p sx={{ fontSize: 3 }}>
           Take a look at the data stories and data visualisations resulting from
           the metadata of multimedia archive material from the collections
@@ -37,7 +36,7 @@ const BlogIndex = ({ data, location }) => {
                 }}
               />
             </section>
-            <Link to={node.fields.slug}>see the full story</Link>
+            <Link to={node.fields.slug}>read the full story</Link>
           </article>
         )
       })}

@@ -9,20 +9,29 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="About" />
+      <SEO title="Over Data Stories" />
       <article>
         <p>
           De{" "}
-          <a href="https://mediasuite.clariah.nl/" target="_blank" rel="noreferrer">
+          <a
+            href="https://mediasuite.clariah.nl/"
+            target="_blank"
+            rel="noreferrer"
+          >
             CLARIAH Media Suite
           </a>{" "}
-          geeft onderzoekers toegang tot Nederlandse multimedia archieven.
+          geeft onderzoekers toegang tot Nederlandse multimediale archieven uit
+          de collecties van onder andere het Nederlands Instituut voor Beeld en
+          Geluid, Eye Film Institute, Meertens Instituut, DANS en de Koninklijke
+          Bibliotheek.
         </p>
 
         <p>
-          The Media Suite tools offer the core functionalities needed for
-          research with these data and to generate “data stories” based on
-          interesting facts and figures that are extracted from these data.
+          Media Suite Data Stories dient als platform voor het presenteren van
+          verschillende soorten van dergelijke dataverhalen. Ze kunnen deel
+          uitmaken van een onderzoek waar wetenschappers aan werken in de Media
+          Suite, het resultaat zijn van een Data-A-Thon met studenten, of
+          geïnspireerd zijn door gebeurtenissen in het nieuws.
         </p>
 
         <p>

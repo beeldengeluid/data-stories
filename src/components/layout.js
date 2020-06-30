@@ -4,27 +4,21 @@ import { Link } from "gatsby"
 import "./layout.css"
 import Hero from "../components/hero"
 import logo from "../../content/assets/logo-media_suite.png"
-import SelectLanguage from './SelectLanguage';
+import SelectLanguage from "./SelectLanguage"
 import useSiteMetadata from "../hooks/use-site-metadata"
-import {
-  getLangs,
-  getUrlForLang,
-  getCurrentLangKey
-} from 'ptz-i18n';
+import { getLangs, getUrlForLang, getCurrentLangKey } from "ptz-i18n"
 
 const Layout = ({ location, title, children }) => {
-  const url = location.pathname;
-  const { langs, defaultLangKey } = useSiteMetadata().languages;
-  const langKey = getCurrentLangKey(langs, defaultLangKey, url);
-  const homeLink = `/${langKey !== defaultLangKey ? `${langKey}/` : ''}`;
+  const url = location.pathname
+  const { langs, defaultLangKey } = useSiteMetadata().languages
+  const langKey = getCurrentLangKey(langs, defaultLangKey, url)
+  const homeLink = `/${langKey !== defaultLangKey ? `${langKey}/` : ""}`
   const langsMenu = getLangs(langs, langKey, getUrlForLang(homeLink, url)).map(
-    (item) => ({
+    item => ({
       ...item,
-      link: item.link
-        .replace(`/${defaultLangKey}/`, '/')
-        .replace(`//`, '/') // remove double slashes wrongly returned by getLangs()
+      link: item.link.replace(`/${defaultLangKey}/`, "/").replace(`//`, "/"), // remove double slashes wrongly returned by getLangs()
     })
-  );
+  )
   return (
     <div>
       <header
@@ -40,6 +34,7 @@ const Layout = ({ location, title, children }) => {
           <img
             src={logo}
             alt="Media Suite Logo"
+            title="Home"
             sx={{
               width: 5,
               margin: 0,

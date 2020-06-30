@@ -13,9 +13,10 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="All stories" />
       <div sx={{ mb: 5 }}>
-        <h2>Welcome</h2>
         <p sx={{ fontSize: 3 }}>
-          Neem een kijkje!
+          Bekijk dataverhalen en -visualisaties die voortvloeien uit de metadata
+          van multimediaal archiefmateriaal uit de collecties van toonaangevende
+          Nederlandse erfgoedinstellingen.
         </p>
       </div>
       {posts.map(({ node }) => {
@@ -35,7 +36,7 @@ const BlogIndex = ({ data, location }) => {
                 }}
               />
             </section>
-            <Link to={node.fields.slug}>see the full story</Link>
+            <Link to={node.fields.slug}>lees het hele verhaal</Link>
           </article>
         )
       })}
@@ -53,14 +54,14 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC },
+      sort: { fields: [frontmatter___date], order: DESC }
       filter: { fields: { langKey: { regex: "/(nl|any)/" } } }
     ) {
       edges {
         node {
           excerpt
           fields {
-            slug,
+            slug
             langKey
           }
           frontmatter {

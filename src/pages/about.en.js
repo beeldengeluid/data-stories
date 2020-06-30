@@ -9,11 +9,15 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="About" />
+      <SEO title="About Data Stories" />
       <article>
         <p>
           The{" "}
-          <a href="https://mediasuite.clariah.nl/" target="_blank" rel="noreferrer">
+          <a
+            href="https://mediasuite.clariah.nl/"
+            target="_blank"
+            rel="noreferrer"
+          >
             CLARIAH Media Suite
           </a>{" "}
           gives researchers access to Dutch multimedia archives from, among
