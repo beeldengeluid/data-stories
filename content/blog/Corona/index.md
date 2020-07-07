@@ -1,3 +1,8 @@
+---
+title: "Factual divergences in Dutch television news: comparisons between AIDS/HIV, SARS and COVID-19 news reportings"
+date: "2020-07-07"
+description: "One of the defining features of the COVID-19 pandemic in the Netherlands has been the early ambiguity of government-issued prevention guidelines. While trust in government measures has arguably risen, the early days of the pandemic were marked by confusion on several “facts” related to the virus: whether people without symptoms and children can or cannot contaminate others; whether cyclists should keep a distance from each other; whether stopping handshakes was a prevention method sufficient to contain such a reputedly contagious virus; and so on."
+---
 
 # Factual divergences in Dutch television news: comparisons between AIDS/HIV, SARS and COVID-19 news reportings
 by Emillie de Keulenaar and Ivan Kisjes
