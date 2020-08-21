@@ -2,16 +2,11 @@ Amon, J. J. (2008) ‘Dangerous medicines: Unproven AIDS cures and counterfeit a
 
 CDC (2020) Coronavirus Disease 2019 (COVID-19) – Prevention & Treatment, Centers for Disease Control and Prevention. Available at: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html (Accessed: 22 June 2020).
 
-
 Centers for Disease Control and Prevention (2019a) HIV Transmission | HIV Basics | HIV/AIDS | CDC. Available at: https://www.cdc.gov/hiv/basics/transmission.html (Accessed: 22 June 2020).
-
 
 Centers for Disease Control and Prevention (2019b) Prevention | HIV Basics | HIV/AIDS | CDC, Centers for Disease Control and Prevention. Available at: https://www.cdc.gov/hiv/basics/prevention.html (Accessed: 22 June 2020).
 
-
 Centers for Disease Control and Prevention (2019c) SARS | Basics Factsheet | CDC, Centers for Disease Control and Prevention. Available at: https://www.cdc.gov/sars/about/fs-sars.html (Accessed: 22 June 2020).
-
-
 
 Centers for Disease Control and Prevention (2019d) SARS | Frequently Asked Questions | CDC, Centers for Disease Control and Prevention. Available at: https://www.cdc.gov/sars/about/faq.html (Accessed: 22 June 2020).
 
@@ -20,6 +15,8 @@ Centers for Disease Control and Prevention (2020) Treatment | Living with HIV | 
 Department of Communicable Disease Surveillance and Response (2004) WHO SARS Risk Assessment and Preparedness Framework. World Health Organization. Available at: https://www.who.int/csr/resources/publications/CDS\_CSR\_ARO\_2004\_2.pdf?ua=1 (Accessed: 22 June 2020).
 
 Diem, S. J., Lantos, J. D. and Tulsky, J. A. (1996) ‘Cardiopulmonary Resuscitation on Television — Miracles and Misinformation’, New England Journal of Medicine. Massachusetts Medical Society, 334(24), pp. 1578–1582. doi: 10.1056/NEJM199606133342406.
+
+GOODING, P., 2018. HISTORIC NEWSPAPERS IN THE DIGITAL AGE. New York: ROUTLEDGE.
 
 Harvard Health Publishing (2020) Treatments for COVID-19, Harvard Health Publishing. Available at: https://www.health.harvard.edu/diseases-and-conditions/treatments-for-covid-19 (Accessed: 22 June 2020).
 

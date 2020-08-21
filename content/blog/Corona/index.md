@@ -11,17 +11,17 @@ by Emillie de Keulenaar and Ivan Kisjes
 
 One of the defining features of the COVID-19 pandemic in the Netherlands has been the early ambiguity of government-issued prevention guidelines. While trust in government measures has arguably risen, the early days of the pandemic were marked by confusion on several “facts” related to the virus: whether people without symptoms and children can or cannot contaminate others; whether cyclists should keep a distance from each other; whether stopping handshakes was a prevention method sufficient to contain such a reputedly contagious virus; and so on.
 
-With the World Health Organisation’s characterisation of COVID-19 as an “infodemic” (United Nations, 2020), the ambiguity of information about the coronavirus has been frequently linked to the diversity of information traversing new media infrastructures. Social media users contest official facts not just with “alternative” theories of events, but also with a pool of information far outside the confines of national broadcasting. Still, the argument that confusion and volatility is heightened by new media may benefit from skepticism, as it is a reputed fact that information stemming from television news was far from homogeneous, and also peddled various medical misinformation (Diem, Lantos and Tulsky, 1996). 
+With the World Health Organisation’s characterisation of COVID-19 as an “infodemic” (United Nations, 2020), the ambiguity of information about the coronavirus has been frequently linked to the diversity of information traversing new media infrastructures. Social media users contest official claims not just with “alternative” theories of events, but also with a pool of information far outside the confines of national broadcasting. Still, the argument that confusion and volatility is heightened by new media may benefit from skepticism, as it is a reputed fact that information stemming from television news was far from homogeneous, and also peddled various medical misinformation (Diem, Lantos and Tulsky, 1996). 
 
-To what extent can we argue that present-day information technologies have made news reporting of “facts” more volatile? If we were to compare news media reporting of other complex, international pandemics of the past -- AIDS/HIV and SARS, for example -- would we see a similar effect? 
+To what extent can we argue that present-day information technologies have made news reporting of official institutional claims more volatile? If we were to compare news media reporting of other complex, international pandemics of the past -- AIDS/HIV and SARS, for example -- would we see a similar effect? 
 
-With archives of Dutch television news media reporting on AIDS/HIV (1980-2000), SARS (2002-2004) and COVID-19 (January 2020 - June 2020), we compared words related to various “facts” about each pandemic in news reports, over time. We specifically looked at what television news programmes have stated about the transmission, prevention, treatments and risk groups and origins of the three pandemics. We used natural language processing techniques to capture words frequently associated with those four issues, filtered them with a pre-set list of true and false issue-specific facts, and compared them across pandemics, over time. 
+With archives of Dutch television news media reporting on AIDS/HIV (1980-2000), SARS (2002-2004) and COVID-19 (January 2020 - June 2020), we compared words related to various “facts” about each pandemic in news reports, over time. We specifically looked at what television news programmes have stated about the transmission, prevention, treatments and risk groups and origins of the three pandemics. We used natural language processing techniques to capture words frequently associated with those four issues, filtered them with a pre-set list of true and false issue-specific claims, and compared them across pandemics, over time. 
 
 ## Methodological recipe
 
 ### Researching television with the Media Suite
 
-While television news continues to be the main information source for most users, little systematic research has been done on big data from television news reporting -- most scholars focus on more accessible textual data, such as digital or digitised print news. This is a problem as television broadcasting has shaped public discourse over the past decades. Without access to our televised past, researchers, journalists and citizens may be trapped in online amnesia: they cannot bridge the memory of the past with remnants of the present. 
+While television news continues to be the main information source for most users, little systematic research has been done on data from television news reporting -- most scholars focus on more accessible textual data, such as digital or digitised print news (Gooding, 2018). This is a problem as television broadcasting has shaped public discourse over the past decades. Without access to our televised past, researchers, journalists and citizens cannot bridge the memory of the past with remnants of the present. 
 
 The Media Suite is particularly useful for obtaining what the web usually does not have: recently digitized television programs. It provides a large collection of digitized public television programs, as well as several digitised collections of Dutch media material (Martínez Ortiz et al., 2017; Ordelman, Melgar Estrada and Noordegraaf, 2017). 
 
@@ -37,9 +37,9 @@ _Fig. 1. Amount of ASR files for the queries “HIV” or “AIDS”_
 ![Fig. 2. Amount of ASR files for the query “SARS”](./fig 2 - asr sars.png)
 _Fig. 2. Amount of ASR files for the query “SARS”_
 
-3. COVID-19, from early January to present-day June 2020. Drawing our data from the DAAN system, we obtained 3,810 subtitle files.
+3. COVID-19, from early January to present-day June 2020. Drawing our data from the DAAN system, we obtained 3,810 subtitle files. This dataset has been curated differently than others used for this research.
 
-It is worth indicating that not all results were equally transcribed. ASR transcriptions containing the words “AIDS” are inexistent until about 1999, and have, as such, been merged with those mentioning “HIV”. 
+It is worth indicating that not all results were equally transcribed. ASR transcriptions containing the words “AIDS” are nonexistent until about 1999, and have, as such, been merged with those mentioning “HIV”. 
 
 ![Fig. 3. ASR availability for programmes mentioning "HIV" ](./fig 3.png)
 _Fig. 3. ASR availability for programmes mentioning "HIV"_
@@ -48,7 +48,7 @@ _Fig. 3. ASR availability for programmes mentioning "HIV"_
 _Fig. 4. ASR availability for programmes mentioning "AIDS"_
 ### How do we capture “factual ambiguities”?
 
-We have drawn from largely experimental filtering and natural language processing techniques to detect contradicting statements around a single fact. This implied collecting a wide enough range of facts about a given issue. In order to reflect on the widest possible range of facts, we extracted words from sources of both true and false information. To test what news media have said in relation to COVID-19 prevention methods, for example, we first collected a list of words that reflect on the variety of preventative techniques reportedly being used (e.g., masks, social distancing, hand sanitisers...). Wikipedia’s page on COVID-19 is one such source, as it reports information from official channels -- the World Health Organisation, for example -- and also comments on what misinformation has been spread on various aspects of the pandemic.  
+We have drawn from largely experimental filtering and natural language processing techniques to detect contradicting statements around a single issue. This implied collecting a wide enough range of statements about a given issue. In order to reflect on the widest possible range of statements, we extracted words from sources of both true and false information. To test what news media have said in relation to COVID-19 prevention methods, for example, we first collected a list of words that reflect on the variety of preventative techniques reportedly being used (e.g., masks, social distancing, hand sanitisers...). Wikipedia’s page on COVID-19 is one such source, as it reports information from official channels -- the World Health Organisation, for example -- and also comments on what misinformation has been spread on various aspects of the pandemic.  
 
 To begin capturing [these lists of words -- or “dictionaries”][2] -- we, as indicated above, settled for five topics of each pandemic: 
 
@@ -146,8 +146,8 @@ Of a few preventative methods we have found for AIDS/HIV infections, only two ar
 
 > “There are no easy solutions and thirdly the condom is not the solution. The cordon always has a very limited place in the fight against AIDS in the world especially in developing countries. [...]() When asked how to prevent infection with the HIV virus, one of the women present has the desired answer: ‘You should limit yourself to one partner and if you cannot use condoms.’ [...]() In particular, there are still many resistances against the actual use of condoms, according to the cup of the AIDS information center. Their use is not consistent with the sexual habits in Zambia.”
 
-![Fig. 11. Most frequently methods of prevention for AIDS/HIV (1987-2000)](./fig 11 - hiv_prevent.png)
-_Fig. 11. Most frequently methods of prevention for AIDS/HIV (1987-2000)_
+![Fig. 11. Most frequently mentioned methods of prevention for AIDS/HIV (1987-2000)](./fig 11 - hiv_prevent.png)
+_Fig. 11. Most frequently mentioned methods of prevention for AIDS/HIV (1987-2000)_
 
 Also remarkable is the mention of the Church in the early 1980s as partaking in the official approval of the use of condoms for AIDS/HIV prevention. The Catholic Church’s position on the use of contraceptives (including condoms) [has for decades been controversial][7], with [recent Popes only timidly approving contraceptives][8] as a method to prevent the transmission of the disease. 
 
@@ -157,8 +157,8 @@ Also remarkable is the mention of the Church in the early 1980s as partaking in 
 
 In the case of COVID-19, reports on preventive methods often act to debunk orthodox ideas by politicians and other individuals. This is particularly the case for the term “sauna”, which an individual reportedly uses to say that “Sitting in the sauna for 20 minutes will kill the coronavirus.”. The term “vodka” is used to refer to a statement by Belarusian President Lukashenko, who reportedly suggested that the coronavirus “is best combated with vodka.”
 
-![Fig. 12. Most frequently methods of prevention for COVID-19 (January-June 2020)](./fig 12 - corona_prevent.png)
-_Fig. 12. Most frequently methods of prevention for COVID-19 (January-June 2020)_
+![Fig. 12. Most frequently mentioned methods of prevention for COVID-19 (January-June 2020)](./fig 12 - corona_prevent.png)
+_Fig. 12. Most frequently mentioned methods of prevention for COVID-19 (January-June 2020)_
 
 Other times, transcripts voice a certain dissatisfaction with the Dutch government’s passivity with regards to reinforcing measures to wear masks in public. One transcript extract mentions that the World Health Organisation “now advises all healthcare providers in hospitals to wear a mask” — but that “in recent weeks, the House of Representatives has really only been about corona AND about cold chocolate milk.” 
 
