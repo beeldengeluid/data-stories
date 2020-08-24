@@ -205,17 +205,17 @@ Finally, we must throw one word of caution around the method used for this data 
 This work was conducted by Emillie Van de Keulenaar (University of Amsterdam), under the supervision of Dr Jasmijn van Gorp (University of Utrecht). Dr Ivan Kisjes (University of Amsterdam) provided the analysis code, and Mari Wigham (Sound and Vision) supplied the data.
 
 ## References
-Accessible [here](Corona/references)
+Accessible [here](appendix-references)
 
 ## Appendix: dictionary sources
-Accessible [here](Corona/appendix - sources)
+Accessible [here](appendix-sources)
 ## Appendix: dictionaries
 
 Accessible [here][9].
 
 ## Appendix: code
 
-Accessible [here](Corona/appendix - code)
+Accessible [here](appendix-code)
 
 
 [1]:	http://mediasuitedata.clariah.nl/dataset/nisv-catalogue
