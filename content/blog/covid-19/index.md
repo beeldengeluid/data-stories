@@ -29,22 +29,22 @@ Because we wanted to capture what news programmes said about each pandemic, we r
 
 1. AIDS/HIV, during the early outbreak of 1980 all the way to the relative demystification of the disease up until 2000. Merging ASR files of both “HIV” and “AIDS” as queries, we obtained a total of 1,722 results.
 
-![Fig. 1. Amount of ASR files for the queries “HIV” or “AIDS”](./fig 1 - asr hiv_aids.png)
+![Fig. 1. Amount of ASR files for the queries “HIV” or “AIDS”](./fig1 - asr hiv_aids.png)
 _Fig. 1. Amount of ASR files for the queries “HIV” or “AIDS”_
 
 2. SARS, during the outbreak of 2002 to 2004. The Media Suite returns a total of 822 results.
 
-![Fig. 2. Amount of ASR files for the query “SARS”](./fig 2 - asr sars.png)
+![Fig. 2. Amount of ASR files for the query “SARS”](./fig2 - asr sars.png)
 _Fig. 2. Amount of ASR files for the query “SARS”_
 
 3. COVID-19, from early January to present-day June 2020. Drawing our data from the DAAN system, we obtained 3,810 subtitle files. This dataset has been curated differently than others used for this research.
 
 It is worth indicating that not all results were equally transcribed. ASR transcriptions containing the words “AIDS” are nonexistent until about 1999, and have, as such, been merged with those mentioning “HIV”. 
 
-![Fig. 3. ASR availability for programmes mentioning "HIV" ](./fig 3.png)
+![Fig. 3. ASR availability for programmes mentioning "HIV" ](./fig3.png)
 _Fig. 3. ASR availability for programmes mentioning "HIV"_
 
-![Fig. 4. ASR availability for programmes mentioning "AIDS"](./fig 4.png)
+![Fig. 4. ASR availability for programmes mentioning "AIDS"](./fig4.png)
 _Fig. 4. ASR availability for programmes mentioning "AIDS"_
 ### How do we capture “factual ambiguities”?
 
@@ -68,10 +68,10 @@ In some instances, ASR transcripts and subtitles would contain words we did not 
 
 We then counted the number of times each of the words in our dictionaries is mentioned per month or year in our three ASR and subtitle datasets. We pasted the results into Bernhard Rieder’s Rank Flow visualisation tool to observe the frequency of each term over time. 
 
-![Fig. 5. Example of results for prevention against SARS ](./fig 5.png)
+![Fig. 5. Example of results for prevention against SARS ](./fig5.png)
 _Fig. 5. Example of results for prevention against SARS_
 
-![Fig. 6. Method pipeline](./fig 6 - data story method(1).png)
+![Fig. 6. Method pipeline](./fig6 - data story method(1).png)
 _Fig. 6. Method pipeline_
 
 ## Findings
@@ -82,7 +82,7 @@ _Fig. 6. Method pipeline_
 
 From 1985 to 1992, news media reported mostly on the sexual aspects of AIDS/HIV transmission. Few information was known in these early days of the pandemic, except that it appeared to affect those engaging in homosexual sexual relations most. It is only in 1992 that news affairs began mentioning blood transfusion and a variety of other vehicles of transmission. News programmes begin to report on wider repertoire of sexual transmissions with additional genders and sexual practices, in particular women (mothers) and heterosexual sex. In 2000, drugs such as heroïne were also mentioned. 
 
-![Fig 7. Most frequently mentioned means of transmission of AIDS/HIV (1985-2000)](./fig 7 - aids-hiv_how.png)
+![Fig 7. Most frequently mentioned means of transmission of AIDS/HIV (1985-2000)](./fig7 - aids-hiv_how.png)
 _Fig 7. Most frequently mentioned means of transmission of AIDS/HIV (1985-2000)_
 
 In 1992, Dutch television made an evident intervention in AIDS/HIV debates, notably by having Bam to Bam-Bam singer René Klijn sing in one of its programmes. Klijn was at the time seropositive and two years away from passing, and took time, in the programme, to discuss his disease in the open, reputedly helping to confront some of its taboos. 
@@ -97,18 +97,19 @@ In the case of SARS, particular attention is given to air or “lucht” for mul
 ![GIF 1. Most frequently mentioned means of transmission of SARS](./gif 1 - sars_transmission.gif)
 _GIF 1. Most frequently mentioned means of transmission of SARS_
 
+
 Still, other uses of the word “lucht” do capture true suspicions that, like COVID-19, SARS may be airborne — a question still unclear today (Lewis, 2020). Programs voice open questions on how the virus spread — “Maybe via a doorknob or something with a droplet on it between objects” — and reflect current-day preoccupations on the speed of transmission through invisible means: “the rate of spread now makes it a bit more worrying; perhaps there is transmission possible via its mist in the air, and then you get infectiousness in the direction of influenza virus-like behavior.”
 
 With the exception of mouth, close contact is another frequently reported means of transmission. Early reports on the disease (in March and April 2003) mention how the first four individuals to have been infected in China were “Hong Kong television workers who have been in contact with the first SARS patients this year”, as well as “a waitress that has also been admitted with symptoms of the dangerous lung disease.” Contact or touch remained until late 2004 the principal means of transmission, following the report that “researchers … made significant discoveries about the SARS virus, including finding that the virus can survive for several hours outside the human body” and that “touching a tabletop a doorknob or similar object may be enough to infect.” In other cases, words like “mouth” capture reports on policies for or against wearing masks, rather than evidence that the disease spreads through it. 
 
-![Fig. 8. Most frequently mentioned means of transmission of SARS (2003-2004)](./fig 8 - sars_how.png)
+![Fig. 8. Most frequently mentioned means of transmission of SARS (2003-2004)](./fig8 - sars_how.png)
 _Fig. 8. Most frequently mentioned means of transmission of SARS (2003-2004)_
 
 #### COVID
 
 In the case of COVID-19, terms such as “hand”, “adem”, “hoesten”, “aanrak” and “druppel” describe the early symptoms associated with coronavirus infections in China and, progressively, Europe. A word like “5g” is an outlier here, as unlike reports on previous pandemics, it addresses the reach of conspiracies spread online — one, in this case, that alleges the relation between “corona contamination … to radiation from 5G transmission masts”. This is noteworthy in the sense that television picks up on misinformation for the sake of exposing it rather than falling prey to it, attesting to news media’s current embodiment of the role of “debunkers”. 
 
-![Fig. 9. Most frequently mentioned means of transmission of COVID-19 (February-May 2020)](./fig 9 - corona_how.png)
+![Fig. 9. Most frequently mentioned means of transmission of COVID-19 (February-May 2020)](./fig9 - corona_how.png)
 _Fig. 9. Most frequently mentioned means of transmission of COVID-19 (February-May 2020)_
 
 ### Are children contagious?
@@ -118,6 +119,7 @@ In the Netherlands, there has been significant debate as to whether children are
 ![GIF 2. Statements related to children, transmission and COVID-19 (February-June 2020)](./gif 2 - covid_kids.gif)
 _GIF 2. Statements related to children, transmission and COVID-19 (February-June 2020)_
 
+
 ### Treatment
 
 #### AIDS/HIV
@@ -126,6 +128,7 @@ Since 1990, HIV-inhibitors and zidovudine have been the most frequently mentione
 
 ![Fig. 10. Most frequently mentioned treatments for AIDS/HIV (1990-2000)](./fig 10 - hiv_treatment.png)
 _Fig. 10. Most frequently mentioned treatments for AIDS/HIV (1990-2000)_
+
 
 #### COVID-19
 
@@ -171,7 +174,6 @@ _Fig. 14. Most frequently mentioned risk groups for AIDS/HIV (1985-2000)_
 
 From 1997 onwards, sexual lifestyles and genders are sidelined by nationalities — perhaps due to the weight of campaigns against stigmas associated to homosexuality and AIDS/HIV. 
 
-
 #### SARS
 
 With the exception of the elderly, sexual and socio-economic identities are rarely mentioned. Instead, reports focus on the nationalities of individuals affected throughout the pandemic. 
@@ -181,7 +183,7 @@ _Fig. 15. Most frequently mentioned risk groups for SARS (2003-2004)_
 
 This is particularly visible in April 2003, when the mention of Dutch, British, Italian, African and Chinese individuals is dramatically outnumbered by several new nationalities: Russian, Serbian, German, American, Syrian, French. As the disease is successfully quarantined in China, the mention of nationalities narrows down to remaining Chinese patients. 
 
-![GIF 6 - Most frequently mentioned SARS risk groups or affected populations](./gif 6 - sars_risk_groups.gif)
+![GIF 6 - Most frequently mentioned SARS risk groups or affected populations](./gif6 - sars_risk_groups.gif)
 
 #### COVID-19
 
