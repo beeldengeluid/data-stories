@@ -219,7 +219,7 @@ Accessible [here](Corona/appendix - code)
 
 
 [1]:	http://mediasuitedata.clariah.nl/dataset/nisv-catalogue
-[2]:	https://docs.google.com/document/d/1K7xkkQzaPwcsZWpiDx2mQvNwUPWg2CVWiRItpFMSpJ0/edit#heading=h.smihynddokho
+[2]:	[Link to dictionaries](Corona/appendix - sources)
 [3]:	https://docs.google.com/spreadsheets/d/1MSdMuwjw-XO3_tY0ixKp0wQMkHcIrc38vziSZREnRE4/edit?usp=sharing
 [7]:	https://en.wikipedia.org/wiki/Catholic_Church_and_HIV/AIDS
 [8]:	https://www.nytimes.com/2010/11/24/world/europe/24pope.html
