@@ -185,7 +185,7 @@ _Fig. 14. Most frequently mentioned risk groups for SARS (2003-2004)_
 
 This is particularly visible in April 2003, when the mention of Dutch, British, Italian, African and Chinese individuals is dramatically outnumbered by several new nationalities: Russian, Serbian, German, American, Syrian, French. As the disease is successfully quarantined in China, the mention of nationalities narrows down to remaining Chinese patients. 
 
-![]()
+![GIF 6 - Most frequently mentioned SARS risk groups or affected populations](./gif 6 - sars_risk_groups.gif)
 
 #### COVID-19
 
