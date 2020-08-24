@@ -202,10 +202,13 @@ Finally, we must throw one word of caution around the method used for this data 
 This work was conducted by Emillie Van de Keulenaar (University of Amsterdam), under the supervision of Dr Jasmijn van Gorp (University of Utrecht). Dr Ivan Kisjes (University of Amsterdam) provided the analysis code, and Mari Wigham (Data specialist at Sound and Vision) offered metadata support and advice.
 
 ## References
+
 Accessible [here](appendix-references)
 
 ## Appendix: dictionary sources
+
 Accessible [here](appendix-sources)
+
 ## Appendix: dictionaries
 
 Accessible [here][9].
@@ -216,9 +219,8 @@ Accessible [here](appendix-code)
 
 
 [1]: http://mediasuitedata.clariah.nl/dataset/nisv-catalogue
-[2]: [Link to dictionaries](appendix-sources)
+[2]: appendix-sources
 [3]: https://docs.google.com/spreadsheets/d/1MSdMuwjw-XO3_tY0ixKp0wQMkHcIrc38vziSZREnRE4/edit?usp=sharing
 [7]: https://en.wikipedia.org/wiki/Catholic_Church_and_HIV/AIDS
 [8]: https://www.nytimes.com/2010/11/24/world/europe/24pope.html
 [9]: https://docs.google.com/spreadsheets/d/1MSdMuwjw-XO3_tY0ixKp0wQMkHcIrc38vziSZREnRE4/edit?usp=sharing
-
