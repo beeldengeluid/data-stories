@@ -55,7 +55,10 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { fields: { langKey: { regex: "/(nl|any)/" } } }
+      filter: { fields: { 
+        langKey: { regex: "/(en|any)/" } 
+        slug: {regex: "/^((?!appendix).)*$/"}
+      } }
     ) {
       edges {
         node {
