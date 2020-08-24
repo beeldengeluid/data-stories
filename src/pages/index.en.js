@@ -22,7 +22,7 @@ const BlogIndex = ({ data, location }) => {
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
-          <article key={node.fields.slug}>
+          <article sx={{ mb: 5 }} key={node.fields.slug}>
             <header sx={{ mb: 2 }}>
               <h3>
                 <Link to={node.fields.slug}>{title}</Link>
@@ -55,7 +55,10 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC },
-      filter: { fields: { langKey: { regex: "/(en|any)/" } } }
+      filter: { fields: { 
+        langKey: { regex: "/(en|any)/" } 
+        slug: {regex: "/^((?!appendix).)*$/"}
+      } }
     ) {
       edges {
         node {

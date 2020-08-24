@@ -4,7 +4,6 @@ date: "2020-07-07"
 description: "One of the defining features of the COVID-19 pandemic in the Netherlands has been the early ambiguity of government-issued prevention guidelines. While trust in government measures has arguably risen, the early days of the pandemic were marked by confusion on several “facts” related to the virus: whether people without symptoms and children can or cannot contaminate others; whether cyclists should keep a distance from each other; whether stopping handshakes was a prevention method sufficient to contain such a reputedly contagious virus; and so on."
 ---
 
-# Factual divergences in Dutch television news: comparisons between AIDS/HIV, SARS and COVID-19 news reportings
 by Emillie de Keulenaar and Ivan Kisjes
 
 ## Introduction
@@ -205,17 +204,17 @@ Finally, we must throw one word of caution around the method used for this data 
 This work was conducted by Emillie Van de Keulenaar (University of Amsterdam), under the supervision of Dr Jasmijn van Gorp (University of Utrecht). Dr Ivan Kisjes (University of Amsterdam) provided the analysis code, and Mari Wigham (Sound and Vision) supplied the data.
 
 ## References
-Accessible [here](Corona/references)
+Accessible [here](appendix-references)
 
 ## Appendix: dictionary sources
-Accessible [here](Corona/appendix - sources)
+Accessible [here](appendix-sources)
 ## Appendix: dictionaries
 
 Accessible [here][9].
 
 ## Appendix: code
 
-Accessible [here](Corona/appendix - code)
+Accessible [here](appendix-code)
 
 
 [1]:	http://mediasuitedata.clariah.nl/dataset/nisv-catalogue
