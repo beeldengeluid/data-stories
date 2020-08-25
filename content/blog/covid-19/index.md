@@ -199,7 +199,7 @@ Coverage of all pandemics have been susceptible to considerable changes in tone 
 
 Finally, we must throw one word of caution around the method used for this data story. Using dictionaries, we have covered a limited range of factual statements on AIDS/HIV, SARS and COVID-19. Thus, we must have failed to capture additional statements outside of our dictionary, and oftentimes picked up on several false positives. Still, this method stands as an attempt to diversify current research methods to study misinformation, particularly as an alternative to misinformation detection or “flagging”. 
 
-This work was conducted by Emillie Van de Keulenaar (University of Amsterdam), under the supervision of Dr Jasmijn van Gorp (University of Utrecht). Dr Ivan Kisjes (University of Amsterdam) provided the analysis code, and Mari Wigham (Data specialist at Sound and Vision) offered metadata support and advice.
+The authors would like to thank Jasmijn Van Gorp (University of Utrecht), Thomas Poell (University of Amsterdam) and Roeland Ordelman (Sound and Vision) for their feedback on earlier versions of this data story, and Mari Wigham (Data specialist at Sound and Vision) for metadata support and advice.
 
 ## References
 

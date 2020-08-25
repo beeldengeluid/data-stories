@@ -32,7 +32,7 @@ National Health Service (2017a) HIV and AIDS - Treatment, nhs.uk. Available at: 
 
 National Health Service (2017b) SARS (severe acute respiratory syndrome), nhs.uk. Available at: https://www.nhs.uk/conditions/sars/ (Accessed: 22 June 2020).
 
-Ordelman, R., Melgar Estrada, L. and Noordegraaf, J. (2017) ‘Media Suite: Scholarly Research Environment for Multimedia Archives’, in. Dutch-Belgian Information Retrieval (DIR) Workshop, Hilversum.
+Ordelman, R. J. F., Melgar Estrada, L., Martínez Ortíz, C., & Noordegraaf, J. (2018). Media Suite: Unlocking Archives for Mixed Media Scholarly Research. In I. Skadina, & M. Eskevich (Eds.), CLARIN 2018 Annual Conference (pp. 21-25)
 
 RIVM (2020a) Risk groups and COVID-19 | RIVM, RIVM. Available at: https://www.rivm.nl/en/novel-coronavirus-covid-19/risk-groups (Accessed: 22 June 2020).
 
