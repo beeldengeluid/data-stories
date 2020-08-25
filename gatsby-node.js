@@ -1,5 +1,5 @@
 const path = require(`path`)
-const { createFilePath } = require(`gatsby-source-filesystem`)
+// const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
@@ -50,15 +50,17 @@ exports.createPages = async ({ graphql, actions }) => {
   })
 }
 
-exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
+// out-commented to fix error 'A plugin tried to update a node field that it doesn't own'
+// based on https://github.com/erikthedeveloper/erikaybar.name-gatsby/issues/3#issuecomment-482573760
+// exports.onCreateNode = ({ node, actions, getNode }) => {
+//   const { createNodeField } = actions
 
-  if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
-    createNodeField({
-      name: `slug`,
-      node,
-      value,
-    })
-  }
-}
+//   if (node.internal.type === `MarkdownRemark`) {
+//     const value = createFilePath({ node, getNode })
+//     createNodeField({
+//       name: `slug`,
+//       node,
+//       value,
+//     })
+//   }
+// }
