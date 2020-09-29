@@ -34,6 +34,8 @@ then run the development version
 this will start a live reloading development server with debug info logged to your command line. you can now view the project in your browser at
 
     http://localhost:8000/
+	
+IF YOU GET ERROR MESSAGES SUCH AS 'Field "fields" is not defined' and you are running on Windows, then you need to go to gatsby-config.js and edit pagesPaths in 'gatsby-plugin-i18n' to contain the absolute paths to data-stories/content/blog and data-stories/src/pages
 
 ## Deployment
 

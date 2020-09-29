@@ -15,17 +15,17 @@ The Media Suite is an online environment intended specially for researchers. The
 
 ### Metadata
 
-The Sound and Vision archive goes back many years, and during that time the archiving process has gone through many changes. For this 'data story' – a story based on data – we have looked at traditional, manually entered metadata, but also modern, automatically generated metadata. With the help of 'artificial intelligence' techniques, we are able to analyse and visualise 15 years of DWDD based on spoken words and images.
+The Sound and Vision archive goes back many years, and during that time the archiving process has gone through many changes. For this 'data story' – a story based on data – we have looked at traditional, manually entered metadata, but also modern, automatically generated metadata. With the help of 'artificial intelligence' techniques, we are able to analyse and visualise 15 years of DWDD based on spoken words and images. Click [here](https://mediasuite.clariah.nl/tool/single-search?queryId=649782d5-9e37-492e-b551-051389e68098) to see the metadata for all the DWDD programmes in the Media Suite (if you have a login then you can also watch the programmes).
 
 Examples of visualisations based on metadata that was manually entered by archivists can be seen in Figures 1 and 2. The most frequently (twice or more) discussed locations from manually annotated DWDD programmes are plotted on both a world map and a map of the Netherlands. It is not terribly surprising that the discussion was, apparently, quite frequently about the United States (on a global scale) and Amsterdam (within the Netherlands). What is more remarkable, is that Uruzgan features relatively often.
 
 <iframe src='https://public.flourish.studio/visualisation/1925837/embed' frameborder='0' scrolling='no' style='width:100%;height:420px;'></iframe>
 
-_Figure 1: The most frequently discussed locations in 15 years DWDD, on a global scale (annotated by archivists)._
+_Figure 1: The most frequently discussed locations in 15 years DWDD, on a global scale (annotated by archivists). [Click](https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e) to view in the Media Suite (scroll down to see 'Location discussed' on the lefthand side)_
 
 <iframe src='https://public.flourish.studio/visualisation/1926238/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
-_Figure 2: The most frequently discussed locations in 15 years DWDD, in the Netherlands (annotated by archivists)._
+_Figure 2: The most frequently discussed locations in 15 years DWDD, in the Netherlands (annotated by archivists). [Click](https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e) to view in the Media Suite (scroll down to see 'Location discussed' on the lefthand side)_
 
 As we use manually entered metadata in the statistics above, we know that they are very reliable (the chance of an error is small) - but also that it is highly likely that we have missed some locations that were discussed or mentioned. Suppose that we were to go through the programmes word by word and count up how often locations were mentioned, then we would come up with different numbers. The question then is whether the fact that a location was mentioned also means that the discussion was really about the location. This interpretation step is traditionally done by the archivist.
 
@@ -36,7 +36,7 @@ With relatively simple means, we could do some sort of automatic interpretation:
 The 27th of March 2020 brought the end of an era in Dutch TV history. DWDD was one of the most popular - and influential - programmes on television. DWDD was characterised by the rapid tempo with which the subject was changed, and the wide range of subjects that were brought to the table. With the Media Suite we can make that variety visible by showing the subjects in a word cloud, as shown below in Figure 3. Here you can see the subjects that archivists annotated DWDD programmes with. 
 
 ![Wordcloud of the top 100 most frequently occurring subjects (annotated by archivists) ](./top-100-subjects-programme-and-segment.png)
-_Figure 3: Wordcloud of the top 100 most frequently occurring subjects (annotated by archivists)._
+_Figure 3: Wordcloud of the top 100 most frequently occurring subjects (annotated by archivists). [Click](https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975) to view in the Media Suite (scroll down to see 'Subject' on the lefthand side)_
 
 ### Distant and close reading
 
@@ -44,11 +44,12 @@ Representations such as word clouds can give an overview of the spread of subjec
 
 <iframe src='https://public.flourish.studio/visualisation/1823202/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
-_Figure 4: Top 10 most frequent subjects in terms of number of DWDD programmes, measured in the period 2005-2015._
+_Figure 4: Top 10 most frequent subjects in terms of number of DWDD programmes, measured in the period 2005-2015.
+[Click](https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975) to view in the Media Suite (scroll down to see 'Subject' on the lefthand side)_
 
 ![Screenshot of a word cloud on the level of an individual programme in the Media Suite, to assist 'close reading'. Clicking on a term takes the viewer to that fragment in the programme ](./Screenshot-MediaSuite-WordCloud-resourceviewer.png)
 
-_Figure 5: Screenshot of a word cloud on the level of an individual programme in the Media Suite, to assist 'close reading'. Clicking on a term takes the viewer to that fragment in the programme_
+_Figure 5: Screenshot of a word cloud on the level of an individual programme in the Media Suite, to assist 'close reading'. Clicking on a term takes the viewer to that fragment in the programme. [Click](https://mediasuite.clariah.nl/tool/resource-viewer?id=5345542@program&cid=nisv-catalogue-aggr&st=%22%5C%22de%20wereld%20draait%20door%5C%22%22) to view in the Media Suite._
 
 ### Data criticism
 
@@ -67,7 +68,7 @@ _Figure 7: Top 10 most frequently discussed scientific subjects (annotated by ar
 
 <iframe src='https://public.flourish.studio/visualisation/1824353/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
-_Figure 8: Number of programmes in which certain scientific subjects were discussed (annotated by archivists), measured in the period 2005-2015._
+_Figure 8: Number of programmes in which certain scientific subjects were discussed (annotated by archivists), measured in the period 2005-2015. Click to see the subjects of [DWDD](https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975), [chat shows](https://mediasuite.clariah.nl/tool/single-search?queryId=8f22e43b-cc2e-468e-a3c9-d039320c43ba) and [current affairs programmes](https://mediasuite.clariah.nl/tool/single-search?queryId=4b231be6-1c37-49a2-9b4f-d6d2fb49c0c7)  in the Media Suite (scroll down to see 'Subject' on the lefthand side)_
 
 ### The data speaks for itself
 
