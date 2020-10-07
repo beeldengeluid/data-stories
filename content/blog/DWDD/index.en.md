@@ -15,7 +15,9 @@ The Media Suite is an online environment intended specially for researchers. The
 
 ### Metadata
 
-The Sound and Vision archive goes back many years, and during that time the archiving process has gone through many changes. For this 'data story' – a story based on data – we have looked at traditional, manually entered metadata, but also modern, automatically generated metadata. With the help of 'artificial intelligence' techniques, we are able to analyse and visualise 15 years of DWDD based on spoken words and images. Click [here](https://mediasuite.clariah.nl/tool/single-search?queryId=649782d5-9e37-492e-b551-051389e68098) to see the metadata for all the DWDD programmes in the Media Suite (if you have a login then you can also watch the programmes).
+The Sound and Vision archive goes back many years, and during that time the archiving process has gone through many changes. For this 'data story' – a story based on data – we have looked at traditional, manually entered metadata, but also modern, automatically generated metadata. With the help of 'artificial intelligence' techniques, we are able to analyse and visualise 15 years of DWDD based on spoken words and images. 
+
+> _[See the metadata](https://mediasuite.clariah.nl/tool/single-search?queryId=649782d5-9e37-492e-b551-051389e68098) for all the DWDD programmes in the Media Suite (if you have a login then you can also watch the programmes)._
 
 Examples of visualisations based on metadata that was manually entered by archivists can be seen in Figures 1 and 2. The most frequently (twice or more) discussed locations from manually annotated DWDD programmes are plotted on both a world map and a map of the Netherlands. It is not terribly surprising that the discussion was, apparently, quite frequently about the United States (on a global scale) and Amsterdam (within the Netherlands). What is more remarkable, is that Uruzgan features relatively often.
 
