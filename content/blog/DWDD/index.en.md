@@ -60,7 +60,7 @@ _[See subjects](https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a3
 
 _Figure 5: Screenshot of a word cloud on the level of an individual programme in the Media Suite, to assist 'close reading'. Clicking on a term takes the viewer to that fragment in the programme._
 <br>
-_[See this word cloud](https://mediasuite.clariah.nl/tool/resource-viewer?id=5345542@program&cid=nisv-catalogue-aggr&st=%22%5C%22de%20wereld%20draait%20door%5C%22%22) in the Media Suite._
+_[See this wordcloud](https://mediasuite.clariah.nl/tool/resource-viewer?id=5345542@program&cid=nisv-catalogue-aggr&st=%22%5C%22de%20wereld%20draait%20door%5C%22%22) in the Media Suite (select the 'Content Annotations' tab and choose 'Word cloud' from the dropdown). Users with a login can also watch the programme_
 
 ### Data criticism
 

@@ -15,17 +15,23 @@ De Media Suite is een online omgeving speciaal bedoeld voor onderzoekers. Ze kun
 
 ### Metadata
 
-Het archief van Beeld en Geluid gaat vele jaren terug en door de tijd heen is er op verschillende manieren gearchiveerd. Voor deze data story – een verhaal gebaseerd op data - hebben we naar traditionele, handmatig ingevoerde [metadata](https://www.beeldengeluid.nl/kennis/kennisthemas/metadata) gekeken maar ook naar moderne, automatisch gegenereerde metadata. Met behulp van technieken uit de 'kunstmatige intelligentie' zijn we zo in staat om 15 jaar DWDD (2005-2015) aan de hand van het gesproken woord en het beeld zelf te analyseren en te visualiseren. Klik [hier](https://mediasuite.clariah.nl/tool/single-search?queryId=649782d5-9e37-492e-b551-051389e68098) om de  metadata voor alle DWDD programma's te zien in de Media Suite (als je een login hebt dan mag je de programma's ook afspelen)
+Het archief van Beeld en Geluid gaat vele jaren terug en door de tijd heen is er op verschillende manieren gearchiveerd. Voor deze data story – een verhaal gebaseerd op data - hebben we naar traditionele, handmatig ingevoerde [metadata](https://www.beeldengeluid.nl/kennis/kennisthemas/metadata) gekeken maar ook naar moderne, automatisch gegenereerde metadata. Met behulp van technieken uit de 'kunstmatige intelligentie' zijn we zo in staat om 15 jaar DWDD (2005-2015) aan de hand van het gesproken woord en het beeld zelf te analyseren en te visualiseren. 
+
+> _[Zie de metadata](https://mediasuite.clariah.nl/tool/single-search?queryId=649782d5-9e37-492e-b551-051389e68098) voor alle DWDD programma's in de Media Suite (als je een login hebt dan mag je de programma's ook afspelen)_
 
 Voorbeelden van visualisaties gebaseerd op handmatig door archivarissen toegekende metadata zie je in Figuur 1 en 2. Op een wereldkaart en kaart van Nederland worden de meest besproken locaties (2 keer of meer) in 15 jaar DWDD weergegeven. Niet geheel onverwacht ging het blijkbaar relatief vaak over de Verenigde Staten (op wereldschaal) en Amsterdam (binnen Nederland). Opvallend is dan weer dat het relatief vaak over Uruzgan is gegaan.
 
 <iframe src='https://public.flourish.studio/visualisation/1925837/embed' frameborder='0' scrolling='no' style='width:100%;height:420px;'></iframe>
 
-_Figuur 1: De meest besproken locaties in 15 jaar DWDD op wereldschaal (toegekend door archivarissen). [Klik](https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e) te bekijken in de Media Suite (scroll omlaag en zie 'Location discussed' aan de linkerkant)_
+_Figuur 1: De meest besproken locaties in 15 jaar DWDD op wereldschaal (toegekend door archivarissen)._
+<br>
+_[Zie locaties](https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e) in de Media Suite (scroll omlaag en zie 'Location discussed' aan de linkerkant)_
 
 <iframe src='https://public.flourish.studio/visualisation/1926238/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
-_Figuur 2: De meest besproken locaties in 15 jaar DWDD in Nederland (toegekend door archivarissen). [Klik](https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e) te bekijken in de Media Suite (scroll omlaag en zie 'Location discussed' aan de linkerkant)_
+_Figuur 2: De meest besproken locaties in 15 jaar DWDD in Nederland (toegekend door archivarissen)._
+<br>
+_[Zie locaties](https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e) in de Media Suite (scroll omlaag en zie 'Location discussed' aan de linkerkant)_
 
 Omdat we in bovenstaande statistieken gebruikmaken van de handmatige metadata, weten we bij voorbaat dat deze statistieken wel heel betrouwbaar zijn (de kans op een fout is klein). Maar ook, dat het heel waarschijnlijk is dat we besproken of genoemde locaties hebben gemist. Stel dat we woord voor woord zouden turven hoe vaak locaties worden genoemd komen we op andere cijfers. Het wordt dan alleen de vraag of het noemen van een locatie ook betekent dat het écht over die locatie gaat. Daar zit een stukje interpretatie in dat traditioneel door archivarissen werd uitgevoerd.
 
@@ -36,7 +42,9 @@ Met relatief eenvoudige middelen zou je iets aan automatische interpretatie kunn
 27 maart 2020 kwam een einde aan een tijdperk uit de Nederlandse tv-geschiedenis. DWDD was een van de populairste en invloedrijkste programma’s op de televisie. Kenmerkend is het hoge tempo waarin onderwerpen elkaar afwisselen en het brede scala aan onderwerpen dat ter tafel komt. Met de Media Suite kun je die afwisseling zichtbaar maken door de onderwerpen in een zogenaamde woordenwolk weer te geven, zoals hieronder in Figuur 3. Je ziet hier de door archivarissen aan DWDD uitzendingen toegekende onderwerpen.
 
 ![Wordcloud van de  Top 100 meest voorkomende onderwerpen (toegekend door archivarissen) ](./top-100-subjects-programme-and-segment.png)
-_Figuur 3: Woordenwolk van de Top 100 meest voorkomende onderwerpen (toegekend door archivarissen). [Klik](https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975) te bekijken in de Media Suite (scroll omlaag en zie 'Subject' aan de linkerkant)_
+_Figuur 3: Woordenwolk van de Top 100 meest voorkomende onderwerpen (toegekend door archivarissen)._
+<br>
+_[Zie onderwerpen](https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975) in de Media Suite (scroll omlaag en zie 'Subject' aan de linkerkant)_
 
 ### Distant and close reading
 
@@ -44,11 +52,15 @@ Weergaves zoals woordenwolken geven een overzicht van de spreiding van onderwerp
 
 <iframe src='https://public.flourish.studio/visualisation/1823202/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
-_Figuur 4: Top 10 meest frequente onderwerpen in termen van aantal afleveringen van DWDD, gemeten in de periode 2005-2015. [Klik](https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975) te bekijken in de Media Suite (scroll omlaag en zie 'Subject' aan de linkerkant)_
+_Figuur 4: Top 10 meest frequente onderwerpen in termen van aantal afleveringen van DWDD, gemeten in de periode 2005-2015._ 
+<br>
+_[Zie onderwerpen](https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975) in de Media Suite (scroll omlaag en zie 'Subject' aan de linkerkant)_
 
 ![Wordcloud van de  Top 100 meest voorkomende onderwerpen (toegekend door archivarissen) ](./Screenshot-MediaSuite-WordCloud-resourceviewer.png)
 
-_Figuur 5: Screenshot van een woordenwolk op het niveau van een individueel programma in de Media Suite ten behoeve van 'close reading'. Klikken op een term brengt je naar het fragment in het programma. [Klik](https://mediasuite.clariah.nl/tool/resource-viewer?id=5345542@program&cid=nisv-catalogue-aggr&st=%22%5C%22de%20wereld%20draait%20door%5C%22%22) te bekijken in de Media Suite._
+_Figuur 5: Screenshot van een woordenwolk op het niveau van een individueel programma in de Media Suite ten behoeve van 'close reading'. Klikken op een term brengt je naar het fragment in het programma._
+<br>
+_[Zie deze woordenwolk](https://mediasuite.clariah.nl/tool/resource-viewer?id=5345542@program&cid=nisv-catalogue-aggr&st=%22%5C%22de%20wereld%20draait%20door%5C%22%22) in de Media Suite (klik op de 'Content Annotations' tab en kies 'Word cloud' uit de dropdown). Gebruikers met een login mogen ook het programma afspelen_
 
 ### Data criticism
 
@@ -72,7 +84,9 @@ _Figuur 7: Top 10 meest besproken (door archivarissen toegekende) wetenschappeli
 
 <iframe src='https://public.flourish.studio/visualisation/1824353/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
-_Figuur 8: Aantal afleveringen waarin bepaalde wetenschappelijke onderwerpen besproken worden (toegekend door archivarissen), gemeten in de periode 2005-2015. Klik om de onderwerpen van [DWDD](https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975), [praatprogramma's](https://mediasuite.clariah.nl/tool/single-search?queryId=8f22e43b-cc2e-468e-a3c9-d039320c43ba) en [actualiteitenprogramma's](https://mediasuite.clariah.nl/tool/single-search?queryId=4b231be6-1c37-49a2-9b4f-d6d2fb49c0c7) in de Media Suite (scroll omlaag en zie 'Subject' aan de linkerkant)_
+_Figuur 8: Aantal afleveringen waarin bepaalde wetenschappelijke onderwerpen besproken worden (toegekend door archivarissen), gemeten in de periode 2005-2015._
+<br>
+_Zie de onderwerpen van [DWDD](https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975), [praatprogramma's](https://mediasuite.clariah.nl/tool/single-search?queryId=8f22e43b-cc2e-468e-a3c9-d039320c43ba) en [actualiteitenprogramma's](https://mediasuite.clariah.nl/tool/single-search?queryId=4b231be6-1c37-49a2-9b4f-d6d2fb49c0c7) in de Media Suite (scroll omlaag en zie 'Subject' aan de linkerkant)_
 
 ### Sprekende data
 
