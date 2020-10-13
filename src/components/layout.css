@@ -44,3 +44,22 @@ article a:hover {
     display: inline-block;
   }
 }
+
+.ma0 {
+  margin: 0;
+}
+.mb0 {
+  margin-bottom: 0;
+}
+.mr2 {
+  margin-right: 0.5rem;
+}
+.v-mid {
+  vertical-align: middle;
+}
+.br-100 {
+  border-radius: 100%;
+}
+.w-icon {
+  width: 1.5rem;
+}
