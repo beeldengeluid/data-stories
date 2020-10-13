@@ -27,13 +27,13 @@ Voorbeelden van visualisaties gebaseerd op handmatig door archivarissen toegeken
 
 _Figuur 1: De meest besproken locaties in 15 jaar DWDD op wereldschaal (toegekend door archivarissen)._
 <br>
-<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e">Zie locaties</a> in de Media Suite (scroll omlaag en zie 'Location discussed' aan de linkerkant).</i>
+<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e">Zie alle locaties</a> in de Media Suite (scroll omlaag en zie 'Location discussed', per programma en per programma-segment, aan de linkerkant. Klik op de drie verticale stippen voor sorteeropties).</i>
 
 <iframe src='https://public.flourish.studio/visualisation/1926238/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
 _Figuur 2: De meest besproken locaties in 15 jaar DWDD in Nederland (toegekend door archivarissen)._
 <br>
-<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e">Zie locaties</a> in de Media Suite (scroll omlaag en zie 'Location discussed' aan de linkerkant).</i>
+<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e">Zie alle locaties (Nederlandse en buitenlandse)</a> in de Media Suite (scroll omlaag en zie 'Location discussed', per programma en per programma-segment, aan de linkerkant. Klik op de drie verticale stippen voor sorteeropties).</i>
 
 Omdat we in bovenstaande statistieken gebruikmaken van de handmatige metadata, weten we bij voorbaat dat deze statistieken wel heel betrouwbaar zijn (de kans op een fout is klein). Maar ook, dat het heel waarschijnlijk is dat we besproken of genoemde locaties hebben gemist. Stel dat we woord voor woord zouden turven hoe vaak locaties worden genoemd komen we op andere cijfers. Het wordt dan alleen de vraag of het noemen van een locatie ook betekent dat het écht over die locatie gaat. Daar zit een stukje interpretatie in dat traditioneel door archivarissen werd uitgevoerd.
 
@@ -43,10 +43,10 @@ Met relatief eenvoudige middelen zou je iets aan automatische interpretatie kunn
 
 27 maart 2020 kwam een einde aan een tijdperk uit de Nederlandse tv-geschiedenis. DWDD was een van de populairste en invloedrijkste programma’s op de televisie. Kenmerkend is het hoge tempo waarin onderwerpen elkaar afwisselen en het brede scala aan onderwerpen dat ter tafel komt. Met de Media Suite kun je die afwisseling zichtbaar maken door de onderwerpen in een zogenaamde woordenwolk weer te geven, zoals hieronder in Figuur 3. Je ziet hier de door archivarissen aan DWDD uitzendingen toegekende onderwerpen.
 
-![Wordcloud van de  Top 100 meest voorkomende onderwerpen (toegekend door archivarissen) ](./top-100-subjects-programme-and-segment.png)
+![Woordenwolk van de  Top 100 meest voorkomende onderwerpen (toegekend door archivarissen) ](./top-100-subjects-programme-and-segment.png)
 _Figuur 3: Woordenwolk van de Top 100 meest voorkomende onderwerpen (toegekend door archivarissen)._
 <br>
-<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975">Zie onderwerpen</a> in de Media Suite (scroll omlaag en zie 'Subject' aan de linkerkant).</i>
+<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975">Zie onderwerpen</a> in de Media Suite (scroll omlaag en zie 'Subject' aan de linkerkant. Klik op de drie verticale stippen voor sorteeropties).</i>
 
 ### Distant and close reading
 
@@ -56,9 +56,9 @@ Weergaves zoals woordenwolken geven een overzicht van de spreiding van onderwerp
 
 _Figuur 4: Top 10 meest frequente onderwerpen in termen van aantal afleveringen van DWDD, gemeten in de periode 2005-2015._ 
 <br>
-<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975">Zie onderwerpen</a> in de Media Suite (scroll omlaag en zie 'Subject' aan de linkerkant).</i>
+<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975">Zie onderwerpen</a> in de Media Suite (scroll omlaag en zie 'Subject' aan de linkerkant. Klik op de drie verticale stippen voor sorteeropties).</i>
 
-![Wordcloud van de  Top 100 meest voorkomende onderwerpen (toegekend door archivarissen) ](./Screenshot-MediaSuite-WordCloud-resourceviewer.png)
+![Woordenwolk van de Top 100 meest voorkomende onderwerpen (toegekend door archivarissen) ](./Screenshot-MediaSuite-WordCloud-resourceviewer.png)
 
 _Figuur 5: Screenshot van een woordenwolk op het niveau van een individueel programma in de Media Suite ten behoeve van 'close reading'. Klikken op een term brengt je naar het fragment in het programma._
 <br>

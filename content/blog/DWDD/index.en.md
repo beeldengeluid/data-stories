@@ -27,13 +27,13 @@ Examples of visualisations based on metadata that was manually entered by archiv
 
 _Figure 1: The most frequently discussed locations in 15 years DWDD, on a global scale (annotated by archivists)._
 <br>
-<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e">See locations</a> in the Media Suite (scroll down to see 'Location discussed' on the lefthand side).</i>
+<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e">See all locations</a> in the Media Suite (scroll down to see 'Location discussed', per programme or segment in the programme, on the lefthand side. Click on the three vertical dots for sorting options).</i>
 
 <iframe src='https://public.flourish.studio/visualisation/1926238/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
 _Figure 2: The most frequently discussed locations in 15 years DWDD, in the Netherlands (annotated by archivists)._
 <br>
-<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e">See locations</a> in the Media Suite (scroll down to see 'Location discussed' on the lefthand side).</i>
+<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e">See all locations (Dutch and global)</a> in the Media Suite (scroll down to see 'Location discussed', per programme or segment in the programme, on the lefthand side. Click on the three vertical dots for sorting options).</i>
 
 As we use manually entered metadata in the statistics above, we know that they are very reliable (the chance of an error is small) - but also that it is highly likely that we have missed some locations that were discussed or mentioned. Suppose that we were to go through the programmes word by word and count up how often locations were mentioned, then we would come up with different numbers. The question then is whether the fact that a location was mentioned also means that the discussion was really about the location. This interpretation step is traditionally done by the archivist.
 
@@ -43,10 +43,10 @@ With relatively simple means, we could do some sort of automatic interpretation:
 
 The 27th of March 2020 brought the end of an era in Dutch TV history. DWDD was one of the most popular - and influential - programmes on television. DWDD was characterised by the rapid tempo with which the subject was changed, and the wide range of subjects that were brought to the table. With the Media Suite we can make that variety visible by showing the subjects in a word cloud, as shown below in Figure 3. Here you can see the subjects that archivists annotated DWDD programmes with. 
 
-![Wordcloud of the top 100 most frequently occurring subjects (annotated by archivists) ](./top-100-subjects-programme-and-segment.png)
-_Figure 3: Wordcloud of the top 100 most frequently occurring subjects (annotated by archivists)._
+![Word cloud of the top 100 most frequently occurring subjects (annotated by archivists) ](./top-100-subjects-programme-and-segment.png)
+_Figure 3: Word cloud of the top 100 most frequently occurring subjects (annotated by archivists)._
 <br>
-<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975">See subjects</a> in the Media Suite (scroll down to see 'Subject' on the lefthand side).</i>
+<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975">See subjects</a> in the Media Suite (scroll down to see 'Subject' on the lefthand side. Click on the three vertical dots for sorting options).</i>
 
 ### Distant and close reading
 
@@ -56,13 +56,13 @@ Representations such as word clouds can give an overview of the spread of subjec
 
 _Figure 4: Top 10 most frequent subjects in terms of number of DWDD programmes, measured in the period 2005-2015._
 <br>
-<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975">See subjects</a> in the Media Suite (scroll down to see 'Subject' on the lefthand side).</i>
+<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=38bf8a34-1b0c-4e25-a33c-724063787975">See subjects</a> in the Media Suite (scroll down to see 'Subject' on the lefthand side. Click on the three vertical dots for sorting options).</i>
 
 ![Screenshot of a word cloud on the level of an individual programme in the Media Suite, to assist 'close reading'. Clicking on a term takes the viewer to that fragment in the programme ](./Screenshot-MediaSuite-WordCloud-resourceviewer.png)
 
 _Figure 5: Screenshot of a word cloud on the level of an individual programme in the Media Suite, to assist 'close reading'. Clicking on a term takes the viewer to that fragment in the programme._
 <br>
-<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/resource-viewer?id=5345542@program&cid=nisv-catalogue-aggr&st=%22%5C%22de%20wereld%20draait%20door%5C%22%22">See this wordcloud</a> in the Media Suite (select the 'Content Annotations' tab and choose 'Word cloud' from the dropdown). Users with a login can also watch the programme.</i>
+<img class="mb0 mr2 v-mid br-100 w-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/resource-viewer?id=5345542@program&cid=nisv-catalogue-aggr&st=%22%5C%22de%20wereld%20draait%20door%5C%22%22">See this word cloud</a> in the Media Suite (select the 'Content Annotations' tab and choose 'Word cloud' from the dropdown). Users with a login can also watch the programme.</i>
 
 ### Data criticism
 
