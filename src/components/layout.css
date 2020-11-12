@@ -44,3 +44,11 @@ article a:hover {
     display: inline-block;
   }
 }
+
+.link-icon {
+  margin-bottom: 0;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+  border-radius: 100%;
+  width: 1.5rem;
+}
