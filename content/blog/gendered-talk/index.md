@@ -1,7 +1,7 @@
 ---
 title: Gendered talk - female and male presence in Dutch news, current affairs and tv documentaries
 date: "2021-03-09T16:13:03.284Z"
-description: ""
+description: "This project will look into the presence in and contribution to Dutch news, current affairs and documentaries of female and male guests and participants. As a variety of individuals contribute to these non-fiction genres and thereby co-construct representations of our historical world, and as media representations play an important role in our own constructions of the world, it is important to understand who gets an opportunity to contribute to these constructions, and what they contribute. "
 ---
 
 Willemien Sanders
