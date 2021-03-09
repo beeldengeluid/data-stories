@@ -1,7 +1,7 @@
 ---
 title: ‘Ladies and gentlemen…’. Female and male presence in Dutch popular media
 date: "2021-03-09T16:12:03.284Z"
-description: ""
+description: "Gender representation in popular media has been a topic of interest for years in many countries, both among professional groups as well as among researchers. Despite all kinds of initiatives focusing on inclusion and diversity, robust numbers about how many women are involved in the audio-visual sector, and how this compares to men, are not available in the Netherlands. This data story discusses gender in Dutch popular media from a range of perspectives and will develop and grow over time, as new analyses and insights are added to the story. "
 ---
 
 ### Introduction 
