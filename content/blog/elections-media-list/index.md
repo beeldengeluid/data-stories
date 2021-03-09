@@ -10,10 +10,10 @@ The media play an important role in political campaigns. Whether it involves pol
 
 Researchers and developers from the Vrije Universiteit Amsterdam, Utrecht University and NISV collaborate to explore how data analysis with technologies such as facial recognition, speaker recognition, and speech recognition might help answer these questions. 
 
-Data
+### Data
 The data used for this research includes ASR files of about 50 programmes broadcast between 1 February and 16 March 2021 (the day before the elections). It also relies on facial and voice recognition of 220 politicians, their gender based on the list of candidates and the political parties’ websites, and topics gleaned from statements in the 2021 <a target="_blank" href="https://home.kieskompas.nl/en/tools/">Kieskompas</a> voting aid application, the programmes of the political parties, supplemented by synonyms and other relevant terms. 
 
-Research questions
+### Research questions
 The research questions we will address in this project include:
 
 1.	Which politicians are speaking?  
