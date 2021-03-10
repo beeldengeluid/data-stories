@@ -1,8 +1,3 @@
----
-title: The Media List - male and female politicians, the 2021 campaign and the media
-date: "2021-03-09T16:14:03.284Z"
-description: "The media play an important role in political campaigns. Whether it involves political debates, talk shows, or entertainment, politicians on the campaign trail will show up to address different members of their constituencies with difference media preferences. Which female and male politicians and candidates appear in which radio and television programmes? Which political parties do they represent? Which politicians, candidates and parties are discussed and by whom? Which topics do they address?"
----
 
 Willemien Sanders and Mari Wigham
 
