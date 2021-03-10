@@ -30,9 +30,9 @@ These data stories will be developed to make it possible to combine different co
 ### Contents 
 The contents of this data story will develop over time. It contains, at the moment, 
 
-1.	[Gendered talk: female and male presence in Dutch news and current affairs](https://mediasuitedatastories.clariah.nl/gendered-talk/)
+1.	[Gendered talk: female and male presence in Dutch news and current affairs](appendix-gendered-talk)
 1.1 Initial exploration: searching in the database 
-2.	[The Media List: male and female politicians, the 2021 campaign and the media](https://mediasuitedatastories.clariah.nl/elections-media-list/)
+2.	[The Media List: male and female politicians, the 2021 campaign and the media](appendix-election-media-list)
 
 [^1]: Although the binary opposition of ‘men’ versus ‘women’, and the idea that any individual is either one or the other is problematic for several reasons, for practical reasons we stick to this somewhat outdated distinction. 
 [^2]: See also https://jupyter.org. 
