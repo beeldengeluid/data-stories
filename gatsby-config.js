@@ -89,8 +89,8 @@ module.exports = {
       resolve: "gatsby-plugin-matomo",
       options: {
         siteId: "3",
-        matomoUrl: "https://clariah-mediasuite.innocraft.cloud/",
-        siteUrl: "https://mediasuitedatastories.clariah.nl/",
+        matomoUrl: "https://clariah-mediasuite.innocraft.cloud",
+        siteUrl: "https://mediasuitedatastories.clariah.nl",
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
