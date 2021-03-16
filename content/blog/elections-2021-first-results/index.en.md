@@ -40,7 +40,7 @@ Mainly Rutte (VVD) dominates as a topic of discussion: his name is mentioned by 
 
 Henk Krol's second position is thanks to his recent appearances on _1 op 1_ on 26th February, _Goedemorgen Nederland_ on 4th March and _Op 1_ on 10th March. 
 
-(NB: The software has trouble recognising the name Thierry Baudet and so he is under-represented in these results.) 
+(NB: From test samples it turned out that the speech recogniser has trouble recognising the name Thierry Baudet. As we can't manually correct this, he is currently under-represented in the results) 
 
 The female politician whose name was mentioned most often was Esther Ouwehand (PvdD, see Figure 1) in seventh position, followed by Sigrid Kaag (D66) in ninth position. They are the only women in the top 10, while five relevant parties have a female leader.
 

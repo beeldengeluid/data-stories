@@ -1,5 +1,5 @@
 ---
-title: ‘Wie is aan het woord?’. Politici en partijen in de media tijdens de verkiezingscampagne 2021 
+title: ‘Wie is aan het woord?’- Politici en partijen in de media tijdens de verkiezingscampagne 2021 
 date: "2021-03-16T16:12:03.284Z"
 description: "Tijdens de verkiezingscampagne verschijnen veel politici in de media. Maar welke politici? Komen vrouwelijke en mannelijke politici even veel in beeld en aan het woord? Welke partijen krijgen de meeste aandacht? Wij hebben tijdens de campagne tal van NPO programma's geanalyseerd om deze vragen te kunnen onderzoeken. Bekijk verder onze eerste bevindingen "
 ---
@@ -44,7 +44,7 @@ Vooral Rutte (VVD) domineert als gespreksonderwerp: zijn naam wordt verreweg het
 
 De tweede plek van Henk Krol is te danken aan zijn recente optredens bij _1 op 1_ op 26 februari, _Goedemorgen Nederland_ op 4 maart en _Op 1_ op 10 maart. 
 
-(NB: de software heeft moeite de naam van Thierry Baudet te herkennen en hij wordt nu ondergerepresenteerd in deze resultaten.) 
+(NB: Uit steekproeven is gebleken dat de spraakherkenner moeite heeft met het herkennen van de naam Thierry Baudet. Omdat we dit niet handmatig kunnen corrigeren is hij nu ondergerepresenteerd in de resultaten.) 
 
 De vrouwelijke politicus wier naam het meest wordt genoemd, staat op plaats 7 en is Esther Ouwehand (PvdD, zie Figuur 1), gevolgd door Sigrid Kaag (D66) op plek 9. Zij zijn de enige vrouwen in de top 10, terwijl vijf relevante partijen een vrouwelijke lijsttrekker hebben.
 
