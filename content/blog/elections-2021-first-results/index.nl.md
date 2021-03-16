@@ -4,12 +4,12 @@ date: "2021-03-16T16:12:03.284Z"
 description: "Tijdens de verkiezingscampagne verschijnen veel politici in de media. Maar welke politici? Komen vrouwelijke en mannelijke politici even veel in beeld en aan het woord? Welke partijen krijgen de meeste aandacht? Wij hebben tijdens de campagne tal van NPO programma's geanalyseerd om deze vragen te kunnen onderzoeken. Bekijk verder onze eerste bevindingen "
 ---
 
-Willemien Sanders (Utrecht Universiteit), Helene Ayar (Vrije Universiteit), Edith Brooks (Vrije Universiteit), Mari Wigham (Beeld en Geluid), André Krouwel (Vrije Universiteit)
+Willemien Sanders (Utrecht Universiteit en Beeld en Geluid), Helene Ayar (Vrije Universiteit), Edith Brooks (Vrije Universiteit), Mari Wigham (Beeld en Geluid), André Krouwel (Vrije Universiteit)
 
 ### Inleiding 
 
 Nieuwsuitzendingen, zendtijd voor de politieke partijen, interviews en discussies in praatprogramma’s - de 
-media zijn niet weg te denken bij de verkiezingen. Omdat veel kiezers zich via de media informeren over de verschillende partijen en hun standpunten, is het belangrijk te bekijken wie er aan het woord en in beeld komt en wat ze bespreken, vooral bij de publieke omroep. Zijn het altijd dezelfde politici die worden uitgenodigd?
+media zijn niet weg te denken bij de verkiezingen. Omdat veel kiezers zich via de media informeren over de verschillende partijen en hun standpunten, is het belangrijk te bekijken wie er aan het woord en in beeld komen en wat ze bespreken, vooral bij de publieke omroep. Zijn het altijd dezelfde politici die worden uitgenodigd?
 Komen mannen en vrouwen evenveel voor de camera? Is er een voorkeur voor linkse of rechtse partijen? Dit onderzoeken we in een <a target="_blank" href="https://mediasuitedatastories.clariah.nl/gender-research-intro/appendix-election-media-list/"> selectie van radio en TV-uitzendingen</a> op de publieke
 omroep uitgezonden van 1 februari tot en met 16 maart (de dag voor verkiezingsdag, waarop geen campagne meer wordt gevoerd). 
 
