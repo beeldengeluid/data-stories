@@ -150,7 +150,7 @@ The ASR files were analysed to detect the complete names of cabinet members, mem
 Faces and voices were recognised in approximately 38 programmes. These were linked to 220 politicians in the Gemeenschappelijke Thesaurus voor Audiovisuele Archieven (GTAA), the thesaurus used by Sound and Vision. In this way it is possible to analyse the presence of the person as a voice or on-screen. It is also possible to compare how long someone speaks or appears on-screen. Caution: someone can appear on-screen without being on the programme, for example in a video clip or on a poster that is in view of the camera.
 
 ### Team
-Researcher: Willemien Sanders (UU)
+Researcher: Willemien Sanders (UU and S&V)
 
 Research assistants: Helene Ayar (VU), Edith Brooks (VU)
 

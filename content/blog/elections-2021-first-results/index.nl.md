@@ -153,7 +153,7 @@ De ASR bestanden zijn geanalyseerd op de aanwezigheid van volledige namen van ka
 In ongeveer 38 programmatitels werden gezichten en stemmen herkend. Deze zijn gekoppeld aan 220 politici in de Gemeenschappelijke Thesaurus voor Audiovisuele Archieven (GTAA). Hiermee is het mogelijk om de aanwezigheid van de persoon als stem of in beeld te analyseren. Ook is het mogelijk om te vergelijken hoe lang iemand spreekt of in beeld is. Let op: iemand kan in beeld zijn zonder aanwezig te zijn in het programma, bijvoorbeeld in een clip of op een poster dat in beeld is.
 
 ### Team
-Onderzoeker: Willemien Sanders (UU)
+Onderzoeker: Willemien Sanders (UU en B&G)
 
 Onderzoeksassistenten: Helene Ayar (VU), Edith Brooks (VU)
 
