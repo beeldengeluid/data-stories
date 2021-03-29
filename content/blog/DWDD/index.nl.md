@@ -1,9 +1,12 @@
 ---
 title: 15 jaar De Wereld Draait Door in data
-date: "2020-03-27T16:12:03.284Z"
-description: "Einde van een tijdperk: De Wereld Draait Door stopt na 15 jaar. DWDD is een van de populairste programma’s op de Nederlandse televisie. Kijk mee door de lens van de Media Suite en ontdek wat er zoal valt af te leiden uit 15 seizoenen DWDD (2005-2020) als je puur naar de data kijkt."
----
+date: 2020-03-27T16:12:03Z
+description: 'Einde van een tijdperk: De Wereld Draait Door stopt na 15 jaar. DWDD
+  is een van de populairste programma’s op de Nederlandse televisie. Kijk mee door
+  de lens van de Media Suite en ontdek wat er zoal valt af te leiden uit 15 seizoenen
+  DWDD (2005-2020) als je puur naar de data kijkt.'
 
+---
 **Sinds bekend is dat DWDD stopt, worden overal lijstjes gedeeld, discussies gevoerd en conclusies getrokken over het programma. Vaak op basis van het spreekwoordelijke bierviltje. Zou het ook anders kunnen? Onderzoekers kijken naar patronen in data, in dit geval alle DWDD data opgeslagen in het Beeld en Geluid archief. Kijk mee door de lens van de [Media Suite](https://mediasuite.clariah.nl/) en ontdek wat er zoal valt af te leiden uit 15 seizoenen DWDD als je puur naar de data kijkt.**
 
 <div style="text-align: center;">
