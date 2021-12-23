@@ -26,3 +26,12 @@ De bevindingen worden besproken aan de hand van, achtereenvolgens, politici, par
 
 [^1]: Op 16 maart publiceerden we een voorlopige versie van dit onderzoek. Zie <a target="_blank" href="https://mediasuitedatastories.clariah.nl/nl/elections-2021-first-results">https://mediasuitedatastories.clariah.nl/nl/elections-2021-first-results</a>. 
 [^2]: In de voorlopige versie is zijn de ASR-bestanden ook geanalyseerd op namen maar uiteindelijk bleken er in deze bestanden fouten te zitten die binnen de kaders van dit onderzoek niet op te lossen waren. Daarom zijn deze analyses niet verder gebruikt. 
+
+#### 1. Politici: eerst Rutte, dan Hoekstra
+Bij politici is gekeken naar hoe lang zij in beeld waren, hoe lang zij aan het woord waren en hoe vaak hun stem herkend is. Met die laatste kunnen we laten zien over hoeveel momenten de minuten gezicht- en stemherkenning verdeeld waren. Door alleen het aantal keren dat de stem werd herkend te tellen en niet het gezicht, wordt voorkomen dat er dubbel geteld wordt wanneer een politicus zowel spreekt als in beeld is. 
+
+##### 1.1 In de laatste weken gaan vijf politici domineren 
+Figuur 1.1 geeft weer in welke mate verschillende politici in de programma’s zijn herkend (duur in seconden). De grootte van de bollen wordt bepaald door het aantal keren dat politici zijn herkend. 
+
+<iframe src='https://flo.uri.sh/visualisation/6466245/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6466245/?utm_source=embed&utm_campaign=visualisation/6466245' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+_Figuur 1.1. De aanwezigheid van politici tijdens de zes campagneweken._ 
