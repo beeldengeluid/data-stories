@@ -1,7 +1,7 @@
 ---
 title: Coalitiemannen spreken over (internationale) veiligheid - Analyse van mediaoptredens bij de NPO tijdens de verkiezingscampagne 2021
 date: "2021-12-23T16:12:03.284Z"
-description: "Negen maanden na de verkiezingen is er nu een coalitieakkoord bereikt. Als we terugkijken naar de media-optredens van politici toen, welke trends zien we? Wie was aan het woord, en waar hadden ze het over?"
+description: "Negen maanden na de verkiezingen is vorige week een coalitieakkoord gepresenteerd. Als we terugkijken naar de media-optredens van politici toen, welke patronen zien we dan? Wie was aan het woord en waar hadden ze het over?"
 ---
 
 Willemien Sanders (Utrecht Universiteit en Beeld en Geluid), Helene Ayar (Vrije Universiteit, Universiteit van Amsterdam), Edith Brooks (Vrije Universiteit), Mari Wigham (Beeld en Geluid), André Krouwel (Vrije Universiteit), Andjela Meštrović (Vrije Universiteit, Universiteit van Amsterdam)
@@ -45,9 +45,11 @@ Figuur 1.2 geeft de totalen weer voor gezichtsherkenning, Figuur 1.3 voor stemhe
 
 _Figuur 1.2. Totaal aantal seconden gezichtsherkenning top/bottom 20._
 
+
 <iframe src='https://flo.uri.sh/visualisation/6650740/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6650740/?utm_source=embed&utm_campaign=visualisation/6650740' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 1.3. Totaal aantal seconden stemherkenning top/bottom 20._
+
 
 <iframe src='https://flo.uri.sh/visualisation/6650761/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6650761/?utm_source=embed&utm_campaign=visualisation/6650761' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
@@ -62,6 +64,7 @@ Onder de laagst scorende politici, van degenen dus die gemiddeld een minuut per 
 Figuur 1.5a laat de gemiddelde spreektijd zien: de totale stemherkenning uit Figuur 1.3 gedeeld door het aantal keren dat een politicus herkend is uit Figuur 1.4. In Figuur 1.5b is de volgorde aangepast en gelijk aan die van stemherkenning (dus gelijk aan Figuur 1.3).
 
 <iframe src='https://flo.uri.sh/visualisation/7927830/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/7927830/?utm_source=embed&utm_campaign=visualisation/7927830' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
 
 _Figuur 1.5a. De gemiddelde spreektijd van de top/bottom 20._
 
@@ -90,13 +93,16 @@ Onderstaande figuren tonen de totalen per partij voor gezichtsherkenning (Figuur
 
 _Figuur 2.2. Totaal aantal seconden gezichtsherkenning per partij._
 
+
 <iframe src='https://flo.uri.sh/visualisation/6651801/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6651801/?utm_source=embed&utm_campaign=visualisation/6651801' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 2.3. Totaal aantal seconden stemherkenning per partij._
 
+
 <iframe src='https://flo.uri.sh/visualisation/6651894/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6651894/?utm_source=embed&utm_campaign=visualisation/6651894' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 2.4. Totaal aantal keren herkend per partij._
+
 
 Ook hier is de dominantie van de coalitiepartijen VVD, CDA en D66 goed te zien. De analyse per partij laat een dominante rol voor het CDA zien, terwijl de analyse op individueel niveau de disproportionele aandacht voor Mark Rutte aantoont (zie Figuur 1.4). Nieuwe partijen die het lukt enige media-aandacht te krijgen, zijn wat betreft het politieke spectrum in meerderheid meer rechts-georiënteerd (zoals Code Oranje, JA21, (Eerste Kamer-)Fractie Nanninga, Fractie Otten, BBB) dan links georiënteerd (zoals BIJ1). 
 
@@ -217,7 +223,6 @@ De indeling van partijen langs het politieke spectrum is gebaseerd op het <a tar
  
 ### Appendix 4
  * <a target="_blank" href="https://mediasuitedatastories.clariah.nl/nl/elections-2021-first-results/appendix_partij_categorisering">Partijcategorisering</a> 
- * Coalitie, linkse oppositie en rechts populistische oppositie
  
 ### Appendix 5
  * <a target="_blank" href="https://docs.google.com/document/d/1EqLGsC1bzRHCvOOlhSlKfpa2vUbpXeU-zWS6JGML5Vk/edit">Onderwerpen</a>
