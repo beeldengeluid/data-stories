@@ -15,8 +15,8 @@ Natuurlijk waren deze verkiezingen anders dan anders: de Coronacrisis zorgde erv
 Deze vier onderzoeksvragen beantwoorden we aan de hand van een [selectie van radio en TV-uitzendingen](#selectie) van 45 programmatitels van de NPO uitgezonden van 1 februari tot en met 16 maart 2021 (de dag voor verkiezingsdag, waarop geen campagne meer wordt gevoerd).[^1] 
 
 Om analyseerbare data te krijgen, zijn de geselecteerde programma’s onderworpen aan gezichts- en stemherkenning. Daarnaast is [automatische spraakherkenning (ASR)](#asr) ingezet om de inhoud van programma’s om te zetten in tekst. De volgende analyses zijn uitgevoerd:
-De inhoud is met gezichts- en stemherkenning geanalyseerd op politici. Aan die namen is een geslacht (man of vrouw) en een partij gekoppeld. Zo kunnen ook uitspraken worden gedaan over de genderverdeling en de verdeling langs (coalitie- en oppositie)partijen. 
-De spraakherkenningsbestanden zijn geanalyseerd op onderwerpen die aan bod kwamen.[^2]
+1. De inhoud is met gezichts- en stemherkenning geanalyseerd op politici. Aan die namen is een geslacht (man of vrouw) en een partij gekoppeld. Zo kunnen ook uitspraken worden gedaan over de genderverdeling en de verdeling langs (coalitie- en oppositie)partijen. 
+2. De spraakherkenningsbestanden zijn geanalyseerd op onderwerpen die aan bod kwamen.[^2]
 Een uitgebreide methodische verantwoording is opgenomen in [Appendix 1](#appendix1).
 
 
@@ -110,9 +110,9 @@ De grote aandacht voor regeringspartijen in de cruciale eindfase van de campagne
 
 <iframe src='https://flo.uri.sh/visualisation/6716554/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6716554/?utm_source=embed&utm_campaign=visualisation/6716554' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-Figuur 2.6 laat zien hoeveel seconden politici herkend zijn wanneer we ze indelen langs het politieke spectrum (<a target="_blank" href=https://mediasuitedatastories.clariah.nl/elections-2021-first-results/appendix_party_categories/>links, centrum-links, centrum, centrum-rechts, rechts, populistisch rechts</a>).
-
 _Figuur 2.6. Totale herkenning van politici in seconden, verdeeld over het politieke spectrum._
+
+Figuur 2.6 laat zien hoeveel seconden politici herkend zijn wanneer we ze indelen langs het politieke spectrum (<a target="_blank" href=https://mediasuitedatastories.clariah.nl/elections-2021-first-results/appendix_party_categories/>links, centrum-links, centrum, centrum-rechts, rechts, populistisch rechts</a>).
 
 Er is veel meer aandacht voor centrum-rechtse politici en partijen dan voor de linkse politieke alternatieven. Politici van centrum-rechtse partijen (zoals VVD en CDA) krijgen de meeste aandacht, gevolgd door politici van centrumpartijen (zoals D66). Politici van rechtse (zoals SGP) en rechts populistische (zoals PVV) partijen krijgen de minste aandacht. Politici van linkse (zoals SP) en centrum-linkse (zoals GroenLinks) partijen zitten tussen centrumrechts en populistisch rechts in. Aangezien de coalitie van VVD, CDA en D66 bestaat uit twee centrum-rechtse partijen (VVD en CDA) en een centrumpartij (D66), wordt het reeds ontstane beeld hier nogmaals bevestigd: politiek rechts krijgt meer aandacht dan politiek links en de regeringspartijen domineren het debat. 
 
@@ -195,13 +195,16 @@ Om analyseerbare data te krijgen, zijn de geselecteerde programma’s onderworpe
 
 ##### <a name="analyses"></a>Analyses
 <a name="asr"></a>Spraakherkenning (ASR)
-De ASR-bestanden zijn eveneens geanalyseerd op het voorkomen van onderwerpen. Deze onderwerpen zijn gebaseerd op het Kieskompas en op de programma’s van de politieke partijen die in de week van 15 februari 2021 ten minste twee keer in de peilingwijzer op tenminste één zetel stonden. Termen die daarin voorkwamen zijn gegroepeerd om een overkoepelend onderwerp te representeren. Dubbelingen zijn verwijderd en termen die problematisch zouden kunnen zijn omdat ze bijvoorbeeld meerdere betekenissen hebben of in meerdere contexten worden gebruikt, zijn getest. Indien de resultaten vaak niet gebruik van de term in de context van het overkoepelende onderwerp weergaven, werd de term verwijderd. Een volledig overzicht van de onderwerpen en gebruikte termen is opgenomen in Appendix 5[^4]. 
+
+De ASR-bestanden zijn eveneens geanalyseerd op het voorkomen van onderwerpen. Deze onderwerpen zijn gebaseerd op het Kieskompas en op de programma’s van de politieke partijen die in de week van 15 februari 2021 ten minste twee keer in de peilingwijzer op tenminste één zetel stonden. Termen die daarin voorkwamen zijn gegroepeerd om een overkoepelend onderwerp te representeren. Dubbelingen zijn verwijderd en termen die problematisch zouden kunnen zijn omdat ze bijvoorbeeld meerdere betekenissen hebben of in meerdere contexten worden gebruikt, zijn getest. Indien de resultaten vaak niet gebruik van de term in de context van het overkoepelende onderwerp weergaven, werd de term verwijderd. Een volledig overzicht van de onderwerpen en gebruikte termen is opgenomen in Appendix 5.[^4] 
 
 <a name="andere-herkenning"></a>Gezichts- en stemherkenning
+
 In ongeveer 38 programmatitels werden gezichten en stemmen herkend. Deze zijn gekoppeld aan 220 politici in de Gemeenschappelijke Thesaurus voor Audiovisuele Archieven (<a target="_blank" href="https://www.pldn.nl/wiki/GTAA">GTAA</a>). Hiermee is het mogelijk om de aanwezigheid van de persoon als stem of in beeld te analyseren. Ook is het mogelijk om te vergelijken hoe lang iemand spreekt of in beeld is. Let op: iemand kan in beeld zijn zonder aanwezig te zijn in het programma, bijvoorbeeld in een clip of op een poster dat in beeld is. De aanwezigheid wordt gemeten in seconden en als zodanig weergegeven, tenzij anders vermeld. 
 Aan die namen van herkende politici is een geslacht (man of vrouw) gekoppeld op basis van de kieslijst en andere openbare bronnen. Ook zijn de politici aan een partij gekoppeld. Zo kunnen ook uitspraken worden gedaan over de genderverdeling en de verdeling langs (coalitie- en oppositie)partijen en langs het politieke spectrum. 
 
 Partij-indeling
+
 De indeling van partijen langs het politieke spectrum is gebaseerd op het <a target="_blank" href="https://tweedekamer2021.kieskompas.nl/nl/results/compass">politieke landschap</a> gehanteerd door het Kieskompas.
 
 [^4]: In de voorlopige versie is zijn de ASR-bestanden ook geanalyseerd op namen van politici maar uiteindelijk bleken er in deze bestanden fouten te zitten die binnen de kaders van dit onderzoek niet op te lossen waren. Daarom zijn ze hier buiten beschouwing gelaten. 
