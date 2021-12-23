@@ -1,7 +1,7 @@
 ---
 title: Coalitiemannen spreken over (internationale) veiligheid - Analyse van mediaoptredens bij de NPO tijdens de verkiezingscampagne 2021
 date: "2021-12-23T16:12:03.284Z"
-description: "Negen maanden na de verkiezingen is er nu een coalitieakkoord bereikt. Als we terugkijken naar de media-optredens van politici toen, welke trends zien we? Wie was aan het woord, en waar hadden ze het over?"
+description: "Negen maanden na de verkiezingen is vorige week een coalitieakkoord gepresenteerd. Als we terugkijken naar de media-optredens van politici toen, welke patronen zien we dan? Wie was aan het woord en waar hadden ze het over?"
 ---
 
 Willemien Sanders (Utrecht Universiteit en Beeld en Geluid), Helene Ayar (Vrije Universiteit, Universiteit van Amsterdam), Edith Brooks (Vrije Universiteit), Mari Wigham (Beeld en Geluid), André Krouwel (Vrije Universiteit), Andjela Meštrović (Vrije Universiteit, Universiteit van Amsterdam)
@@ -14,7 +14,7 @@ Natuurlijk waren deze verkiezingen anders dan anders: de Coronacrisis zorgde erv
 ### Data en analyses
 Deze vier onderzoeksvragen beantwoorden we aan de hand van een [selectie van radio en TV-uitzendingen](#selectie) van 45 programmatitels van de NPO uitgezonden van 1 februari tot en met 16 maart 2021 (de dag voor verkiezingsdag, waarop geen campagne meer wordt gevoerd).[^1] 
 
-Om analyseerbare data te krijgen, zijn de geselecteerde programma’s onderworpen aan gezichts- en stemherkenning. Daarnaast is [automatische spraakherkenning (ASR)](#asr) ingezet om de inhoud van programma’s om te zetten in tekst. De volgende analyses zijn uitgevoerd:
+Om analyseerbare data te krijgen, zijn de geselecteerde programma’s onderworpen aan [gezichts- en stemherkenning](#andere-herkenning). Daarnaast is [automatische spraakherkenning (ASR)](#asr) ingezet om de inhoud van programma’s om te zetten in tekst. De volgende analyses zijn uitgevoerd:
 1. De inhoud is met gezichts- en stemherkenning geanalyseerd op politici. Aan die namen is een geslacht (man of vrouw) en een partij gekoppeld. Zo kunnen ook uitspraken worden gedaan over de genderverdeling en de verdeling langs (coalitie- en oppositie)partijen. 
 2. De spraakherkenningsbestanden zijn geanalyseerd op onderwerpen die aan bod kwamen.[^2]
 Een uitgebreide methodische verantwoording is opgenomen in [Appendix 1](#appendix1).
@@ -37,6 +37,7 @@ Figuur 1.1 geeft weer in welke mate verschillende politici in de programma’s z
 _Figuur 1.1. De aanwezigheid van politici tijdens de zes campagneweken._ 
 
 De ontwikkeling door de zes campagneweken heen laat allereerst zien dat pas de laatste twee weken van de campagne er echt grote verschillen optreden in de media-aandacht voor verschillende politici. In de eerste drie weken bewegen alle politici zich nog binnen de marges van zo’n 2000 seconden (ca. 33 minuten) gesproken woord en/of schermtijd. In week 4 begint dat iets te schuiven, in week 5 springen met name Ploumen, Marijnissen en Hoekstra eruit en in week 6 worden Hoekstra, Kaag en Rutte als het ware gelanceerd. 
+
 Daarnaast laat de grootte van de bollen zien dat vooral de mannelijke politici vaak herkend zijn. Dit duidt erop dat zij vaker in beeld en/of aan het woord zijn geweest dan de vrouwelijke politici. 
 
 ##### 1.2 Eerst twee mannen, dan drie vrouwen
@@ -45,9 +46,11 @@ Figuur 1.2 geeft de totalen weer voor gezichtsherkenning, Figuur 1.3 voor stemhe
 
 _Figuur 1.2. Totaal aantal seconden gezichtsherkenning top/bottom 20._
 
+
 <iframe src='https://flo.uri.sh/visualisation/6650740/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6650740/?utm_source=embed&utm_campaign=visualisation/6650740' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 1.3. Totaal aantal seconden stemherkenning top/bottom 20._
+
 
 <iframe src='https://flo.uri.sh/visualisation/6650761/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6650761/?utm_source=embed&utm_campaign=visualisation/6650761' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
@@ -63,6 +66,7 @@ Figuur 1.5a laat de gemiddelde spreektijd zien: de totale stemherkenning uit Fig
 
 <iframe src='https://flo.uri.sh/visualisation/7927830/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/7927830/?utm_source=embed&utm_campaign=visualisation/7927830' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
+
 _Figuur 1.5a. De gemiddelde spreektijd van de top/bottom 20._
 
 <iframe src='https://flo.uri.sh/visualisation/7927661/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/7927661/?utm_source=embed&utm_campaign=visualisation/7927661' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
@@ -74,6 +78,7 @@ Uit de gemiddelden rijst een ander beeld: juist een aantal vrouwelijk politici d
 ### 2. Partijen: de regeringspartijen en -politici domineren
 #### 2.1 Coalitiepartijen CDA, VVD en D66 domineren 
 Als we alle herkende politici die in dit onderzoek zijn meegenomen koppelen aan hun partij en per partij de gegevens optellen, blijkt dat de regeringspartijen VVD en CDA veruit de meeste aandacht hebben gekregen in deze campagneperiode en met name in de laatste weken ook samen met D66. Figuur 2.1 geeft deze resultaten weer voor, waarbij de grootte van de bollen gerelateerd is aan het aantal keren dat politici van de betreffende partij zijn herkend.
+
 De rollen van Rutte, De Jong en Hoekstra in de Coronacrisis zullen zeker een rol hebben gespeeld bij de dominantie van VVD en CDA. Tegelijkertijd is deze disproportionele aandacht voor de drie centrum(-rechtse) partijen wellicht van invloed op de uitslag van de verkiezingen geweest doordat kiezersonderzoek aantoont dat rond de 40 procent van de kiezers pas in de laatste dagen voor de verkiezingen de uiteindelijke partijkeuze maakt.[^3]
 
 <iframe src='https://flo.uri.sh/visualisation/6662965/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6662965/?utm_source=embed&utm_campaign=visualisation/6662965' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
@@ -90,13 +95,16 @@ Onderstaande figuren tonen de totalen per partij voor gezichtsherkenning (Figuur
 
 _Figuur 2.2. Totaal aantal seconden gezichtsherkenning per partij._
 
+
 <iframe src='https://flo.uri.sh/visualisation/6651801/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6651801/?utm_source=embed&utm_campaign=visualisation/6651801' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 2.3. Totaal aantal seconden stemherkenning per partij._
 
+
 <iframe src='https://flo.uri.sh/visualisation/6651894/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6651894/?utm_source=embed&utm_campaign=visualisation/6651894' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 2.4. Totaal aantal keren herkend per partij._
+
 
 Ook hier is de dominantie van de coalitiepartijen VVD, CDA en D66 goed te zien. De analyse per partij laat een dominante rol voor het CDA zien, terwijl de analyse op individueel niveau de disproportionele aandacht voor Mark Rutte aantoont (zie Figuur 1.4). Nieuwe partijen die het lukt enige media-aandacht te krijgen, zijn wat betreft het politieke spectrum in meerderheid meer rechts-georiënteerd (zoals Code Oranje, JA21, (Eerste Kamer-)Fractie Nanninga, Fractie Otten, BBB) dan links georiënteerd (zoals BIJ1). 
 
@@ -108,11 +116,11 @@ _Figuur 2.5 Resultaten voor partijen behorende tot de regering, de linkse opposi
 
 De grote aandacht voor regeringspartijen in de cruciale eindfase van de campagne is relevant gezien het late moment waarop kiezers hun keuze bepalen (zie bij hierboven).
 
+Figuur 2.6 laat zien hoeveel seconden politici herkend zijn wanneer we ze indelen langs het politieke spectrum (<a target="_blank" href=https://mediasuitedatastories.clariah.nl/elections-2021-first-results/appendix_party_categories/>links, centrum-links, centrum, centrum-rechts, rechts, populistisch rechts</a>).
+
 <iframe src='https://flo.uri.sh/visualisation/6716554/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6716554/?utm_source=embed&utm_campaign=visualisation/6716554' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 2.6. Totale herkenning van politici in seconden, verdeeld over het politieke spectrum._
-
-Figuur 2.6 laat zien hoeveel seconden politici herkend zijn wanneer we ze indelen langs het politieke spectrum (<a target="_blank" href=https://mediasuitedatastories.clariah.nl/elections-2021-first-results/appendix_party_categories/>links, centrum-links, centrum, centrum-rechts, rechts, populistisch rechts</a>).
 
 Er is veel meer aandacht voor centrum-rechtse politici en partijen dan voor de linkse politieke alternatieven. Politici van centrum-rechtse partijen (zoals VVD en CDA) krijgen de meeste aandacht, gevolgd door politici van centrumpartijen (zoals D66). Politici van rechtse (zoals SGP) en rechts populistische (zoals PVV) partijen krijgen de minste aandacht. Politici van linkse (zoals SP) en centrum-linkse (zoals GroenLinks) partijen zitten tussen centrumrechts en populistisch rechts in. Aangezien de coalitie van VVD, CDA en D66 bestaat uit twee centrum-rechtse partijen (VVD en CDA) en een centrumpartij (D66), wordt het reeds ontstane beeld hier nogmaals bevestigd: politiek rechts krijgt meer aandacht dan politiek links en de regeringspartijen domineren het debat. 
 
@@ -160,6 +168,7 @@ Figuur 4.2 laat zien hoe de bespreking van deze onderwerpen zich ontwikkelde ove
 _Figuur 4.2: Gespreksonderwerpen gedurende de zes campagneweken._
 
 Hoewel Corona domineerde in de eerste drie weken, domineert het onderwerp Overheid/democratie in de tweede helft van de campagne, wat, gezien de termen die gebruikt zijn voor dit onderwerp, grotendeels verklaard kan worden door groeiende aandacht voor de verkiezingen en discussie over het functioneren van de democratie. 
+
 De onderwerpen die meer met welzijn van mens en dier te maken hebben, krijgen gaandeweg wel iets meer aandacht maar deze blijft beperkt in verhouding tot de onderwerpen die te maken hebben met (internationale) veiligheid en democratie. 
 
 ### Conclusie
@@ -173,15 +182,20 @@ Hoewel de dominantie van mannelijke coalitiepolitici te verklaren valt uit de co
 De onderwerpen die het meest besproken worden, hebben - naast corona en de overheid/democratie - met name te maken met (internationale) veiligheid. Welzijn van mens en dier komen veel minder aan bod. De relatie met gender kunnen we in dit onderzoek niet leggen maar traditioneel worden deze onderwerpen eerder verbonden met vrouwen dan aan mannen. 
 
 Dit onderzoek geeft op basis van drie vormen van data - gezichtsherkenning stemherkenning en spraakherkenning - een beperkt beeld van het politieke landschap in Nederland rond de verkiezingen van 17 maart 2021. Voor een beter beeld van dat landschap en de rol van vrouwelijke en mannelijke politici daarin is aanvullend onderzoek nodig, waarin bijvoorbeeld ook gekeken wordt naar de grootte van partijen in de Tweede Kamer en/of de peilingen, welke politici in welke programma’s verschijnen en de kijkcijfers van die programma’s. Daarnaast kunnen optredens in programma’s van de commerciële omroepen worden meegenomen in dergelijk onderzoek, alsmede het gebruik van sociale media door politici. 
+
 De hier onderzochte verkiezingen vonden midden in de Coronacrisis plaats. Dat heeft ongetwijfeld een rol gespeeld. Welke rol dat is, is op basis van dit onderzoek niet te zeggen en ook hier zou nader onderzoek naar gedaan kunnen worden. 
 
 
 ### Team
 
 Onderzoeker: Willemien Sanders (UU en B&G)
+
 Onderzoeksassistenten: Helene Ayar (VU, UvA), Edith Brooks (VU), Andjela Meštrovic (VU, UvA)
+
 Ontwikkelaar en visualisaties: Mari Wigham (B&G)
+
 Adviseur: André Krouwel (VU)
+
 Reviewers: Rana Klein (B&G), Matthijs Rooduijn (UvA)
 
 ### Appendixen
@@ -196,11 +210,12 @@ Om analyseerbare data te krijgen, zijn de geselecteerde programma’s onderworpe
 ##### <a name="analyses"></a>Analyses
 <a name="asr"></a>Spraakherkenning (ASR)
 
-De ASR-bestanden zijn eveneens geanalyseerd op het voorkomen van onderwerpen. Deze onderwerpen zijn gebaseerd op het Kieskompas en op de programma’s van de politieke partijen die in de week van 15 februari 2021 ten minste twee keer in de peilingwijzer op tenminste één zetel stonden. Termen die daarin voorkwamen zijn gegroepeerd om een overkoepelend onderwerp te representeren. Dubbelingen zijn verwijderd en termen die problematisch zouden kunnen zijn omdat ze bijvoorbeeld meerdere betekenissen hebben of in meerdere contexten worden gebruikt, zijn getest. Indien de resultaten vaak niet gebruik van de term in de context van het overkoepelende onderwerp weergaven, werd de term verwijderd. Een volledig overzicht van de onderwerpen en gebruikte termen is opgenomen in Appendix 5.[^4] 
+De ASR-bestanden zijn eveneens geanalyseerd op het voorkomen van onderwerpen. Deze onderwerpen zijn gebaseerd op het Kieskompas en op de programma’s van de politieke partijen die in de week van 15 februari 2021 ten minste twee keer in de <a target="_blank" href="https://peilingwijzer.tomlouwerse.nl">peilingwijzer</a> op tenminste één zetel stonden. Termen die daarin voorkwamen zijn gegroepeerd om een overkoepelend onderwerp te representeren. Dubbelingen zijn verwijderd en termen die problematisch zouden kunnen zijn omdat ze bijvoorbeeld meerdere betekenissen hebben of in meerdere contexten worden gebruikt, zijn getest. Indien de resultaten vaak niet gebruik van de term in de context van het overkoepelende onderwerp weergaven, werd de term verwijderd. Een volledig overzicht van de onderwerpen en gebruikte termen is opgenomen in Appendix 5.[^4] 
 
 <a name="andere-herkenning"></a>Gezichts- en stemherkenning
 
 In ongeveer 38 programmatitels werden gezichten en stemmen herkend. Deze zijn gekoppeld aan 220 politici in de Gemeenschappelijke Thesaurus voor Audiovisuele Archieven (<a target="_blank" href="https://www.pldn.nl/wiki/GTAA">GTAA</a>). Hiermee is het mogelijk om de aanwezigheid van de persoon als stem of in beeld te analyseren. Ook is het mogelijk om te vergelijken hoe lang iemand spreekt of in beeld is. Let op: iemand kan in beeld zijn zonder aanwezig te zijn in het programma, bijvoorbeeld in een clip of op een poster dat in beeld is. De aanwezigheid wordt gemeten in seconden en als zodanig weergegeven, tenzij anders vermeld. 
+
 Aan die namen van herkende politici is een geslacht (man of vrouw) gekoppeld op basis van de kieslijst en andere openbare bronnen. Ook zijn de politici aan een partij gekoppeld. Zo kunnen ook uitspraken worden gedaan over de genderverdeling en de verdeling langs (coalitie- en oppositie)partijen en langs het politieke spectrum. 
 
 Partij-indeling
@@ -217,8 +232,7 @@ De indeling van partijen langs het politieke spectrum is gebaseerd op het <a tar
  
 ### Appendix 4
  * <a target="_blank" href="https://mediasuitedatastories.clariah.nl/nl/elections-2021-first-results/appendix_partij_categorisering">Partijcategorisering</a> 
- * Coalitie, linkse oppositie en rechts populistische oppositie
  
 ### Appendix 5
- * <a target="_blank" href="https://docs.google.com/document/d/1EqLGsC1bzRHCvOOlhSlKfpa2vUbpXeU-zWS6JGML5Vk/edit">Onderwerpen</a>
+ * [Onderwerpen](appendix_subjects)
 
