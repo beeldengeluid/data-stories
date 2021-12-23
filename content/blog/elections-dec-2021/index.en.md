@@ -60,7 +60,7 @@ Op basis van deze drie analyses wordt duidelijk dat vooral Rutte en Hoekstra zow
 
 Na Rutte en Hoekstra volgen Kaag, Marijnissen en Ploumen op enige afstand. Kaag is ruim 134 minuten in beeld en bijna 187 minuten aan het woord; Marijnissen is bijna 132 minuten in beeld en bijna 200 minuten aan het woord; Ploumen is ruim 116 minuten in beeld en ruim 152 minuten aan het woord. 
 
-Onder de laagst scorende politici, van degenen dus die gemiddeld een minuut per campagneweek herkend zijn, zijn veel bekende politici. Van politici van nieuwe partijen bestaat deels nog geen profiel en zij worden derhalve niet herkend. Echter, zij die wel een profiel hebben, komen niet vaak aan bod in het debat. Nieuwe politici krijgen in campagnetijd veel minder aandacht dan zittende politici.
+Onder de laagst scorende politici, van degenen dus die gemiddeld een minuut per campagneweek herkend zijn, zijn veel bekende politici. Van politici van nieuwe partijen bestaat deels nog geen profiel en zij worden derhalve niet herkend. Echter, zij die wel een profiel hebben, komen niet vaak aan bod in het debat (het gaat hier om tien politici van zeven nieuwe partijen). Nieuwe politici krijgen in campagnetijd veel minder aandacht dan zittende politici.
 
 Figuur 1.5a laat de gemiddelde spreektijd zien: de totale stemherkenning uit Figuur 1.3 gedeeld door het aantal keren dat een politicus herkend is uit Figuur 1.4. In Figuur 1.5b is de volgorde aangepast en gelijk aan die van stemherkenning (dus gelijk aan Figuur 1.3).
 
@@ -108,7 +108,7 @@ _Figuur 2.4. Totaal aantal keren herkend per partij._
 
 Ook hier is de dominantie van de coalitiepartijen VVD, CDA en D66 goed te zien. De analyse per partij laat een dominante rol voor het CDA zien, terwijl de analyse op individueel niveau de disproportionele aandacht voor Mark Rutte aantoont (zie Figuur 1.4). Nieuwe partijen die het lukt enige media-aandacht te krijgen, zijn wat betreft het politieke spectrum in meerderheid meer rechts-georiënteerd (zoals Code Oranje, JA21, (Eerste Kamer-)Fractie Nanninga, Fractie Otten, BBB) dan links georiënteerd (zoals BIJ1). 
 
-Wanneer we de resultaten van gezichtsherkenning optellen voor partijen behorende tot <a target="_blank" href="https://mediasuitedatastories.clariah.nl/elections-2021-first-results/appendix_party_categories/">de coalitie, de linkse oppositie en de rechts-populistische oppositie</a> en datzelfde doen met de resultaten van stemherkenning, blijkt opnieuw dat vooral politici van de coalitiepartijen in de publieke media domineerden en met name in de laatste week veel meer aandacht kregen dan die van andere partijen (Figuur 2.5). Politici van de linkse oppositie zijn veel minder herkend dan die van de regeringspartijen en politici van de populistische oppositie het minst. Dit kan ermee te maken hebben dat zij niet op uitnodigingen van redacties ingingen.
+Wanneer we de resultaten van gezichtsherkenning optellen voor partijen behorende tot [de coalitie, de linkse oppositie en de rechts-populistische oppositie](appendix_partij_categorisering_links_rechts) en datzelfde doen met de resultaten van stemherkenning, blijkt opnieuw dat vooral politici van de coalitiepartijen in de publieke media domineerden en met name in de laatste week veel meer aandacht kregen dan die van andere partijen (Figuur 2.5). Politici van de linkse oppositie zijn veel minder herkend dan die van de regeringspartijen en politici van de populistische oppositie het minst. Dit kan ermee te maken hebben dat zij niet op uitnodigingen van redacties ingingen.
 
 <iframe src='https://flo.uri.sh/visualisation/6715965/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6715965/?utm_source=embed&utm_campaign=visualisation/6715965' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
@@ -116,7 +116,7 @@ _Figuur 2.5 Resultaten voor partijen behorende tot de regering, de linkse opposi
 
 De grote aandacht voor regeringspartijen in de cruciale eindfase van de campagne is relevant gezien het late moment waarop kiezers hun keuze bepalen (zie bij hierboven).
 
-Figuur 2.6 laat zien hoeveel seconden politici herkend zijn wanneer we ze indelen langs het politieke spectrum (<a target="_blank" href=https://mediasuitedatastories.clariah.nl/elections-2021-first-results/appendix_party_categories/>links, centrum-links, centrum, centrum-rechts, rechts, populistisch rechts</a>).
+Figuur 2.6 laat zien hoeveel seconden politici herkend zijn wanneer we ze indelen langs het politieke spectrum ([links, centrum-links, centrum, centrum-rechts, rechts, populistisch rechts](appendix_partij_categorisering_regering_oppositie)).
 
 <iframe src='https://flo.uri.sh/visualisation/6716554/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/6716554/?utm_source=embed&utm_campaign=visualisation/6716554' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
@@ -231,7 +231,8 @@ De indeling van partijen langs het politieke spectrum is gebaseerd op het <a tar
  * <a target="_blank" href="https://mediasuitedatastories.clariah.nl/nl/elections-2021-first-results/appendix_programmalijst_sprekers_gezichten">Programma’s met gezicht- en stemherkenning</a>
  
 ### Appendix 4
- * <a target="_blank" href="https://mediasuitedatastories.clariah.nl/nl/elections-2021-first-results/appendix_partij_categorisering">Partijcategorisering</a> 
+ * [Links, centrum-links, centrum, centrum-rechts, rechts, populistisch rechts](appendix_partij_categorisering_links_rechts)
+ * [Coalitie, linkse oppositie en rechts populistische oppositie](appendix_partij_categorisering_regering_oppositie) 
  
 ### Appendix 5
  * [Onderwerpen](appendix_subjects)
