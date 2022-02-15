@@ -15,8 +15,7 @@ Onderzoeksvraag: Hoe heeft de aandacht voor technologie in haar verschillende fa
 [wat is de kern van Tegenlicht? Agenderen? Exploreren?] 
 
 ### Ontwikkeling door de tijd
-<iframe src='https://public.flourish.studio/visualisation/866652/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/866652/?utm_source=embed&utm_campaign=visualisation/866652' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a>
-
+<iframe src='https://public.flourish.studio/visualisation/8701967/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/8701967/?utm_source=embed&utm_campaign=visualisation/8701967' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a>
 
 Duidelijke opkomst maar na de piek in 2015 wisselende resultaten. 
 
