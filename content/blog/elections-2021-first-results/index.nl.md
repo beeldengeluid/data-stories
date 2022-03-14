@@ -1,8 +1,4 @@
----
-title: ‘Wie is aan het woord?’- Politici en partijen in de media tijdens de verkiezingscampagne 2021 
-date: "2021-03-16T16:12:03.284Z"
-description: "Tijdens de verkiezingscampagne verschijnen veel politici in de media. Maar welke politici? Komen vrouwelijke en mannelijke politici even veel in beeld en aan het woord? Welke partijen krijgen de meeste aandacht? Wij hebben tijdens de campagne tal van NPO programma's geanalyseerd om deze vragen te kunnen onderzoeken. Bekijk verder onze eerste bevindingen "
----
+
 
 Willemien Sanders (Utrecht Universiteit en Beeld en Geluid), Helene Ayar (Vrije Universiteit), Edith Brooks (Vrije Universiteit), Mari Wigham (Beeld en Geluid), André Krouwel (Vrije Universiteit)
 
