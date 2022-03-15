@@ -1,4 +1,9 @@
-
+---
+title: ‘Who's speaking?’- Politicians and parties in the media during the Dutch election campaign 2021 
+date: "2021-03-16T16:12:03.284Z"
+description: "During the election campaign many politicians appear in the media. But which politicians? Do female and male politicians appear and speak for equal amounts of time? Which parties get the most attention? We analysed numerous public service broadcast programmes during the campaign to investigate these questions. Take a look at our initial results. "
+published: false
+---
 
 Willemien Sanders (Utrecht University and Sound and Vision), Helene Ayar (Vrije Universiteit Amsterdam), Edith Brooks (Vrije Universiteit Amsterdam), Mari Wigham (Sound and Vision), André Krouwel (Vrije Universiteit Amsterdam)
 
