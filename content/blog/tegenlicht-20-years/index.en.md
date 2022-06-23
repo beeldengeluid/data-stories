@@ -24,8 +24,8 @@ naar een 'merk' met permanente aanwezigheid op 11 platforms: naast tv en
 website is dat op YouTube, Facebook, Instagram en Twitter. Tegenlicht
 produceert daarnaast podcasts, 'Tegenlicht in de klas', een wekelijkse
 nieuwsbrief, Tegenlicht MeetUps en een jaarlijkse pioniersverkiezing.
-Naar aanleiding van het 20-jarig jubileum werd eveneens een [<u>Archief
-van de Toekomst</u>](https://avdt.vpro.nl/?utm_source=nisvdatastory) ontwikkeld.
+Naar aanleiding van het 20-jarig jubileum werd eveneens een <u>[Archief
+van de Toekomst](https://avdt.vpro.nl/?utm_source=nisvdatastory)</u> ontwikkeld.
 
 Tegenlicht identificeert zich als 'future affairs'. Wie over de toekomst
 praat, praat al snel over technologie: technologie wordt immers vaak
