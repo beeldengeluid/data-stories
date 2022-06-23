@@ -141,7 +141,8 @@ Figuur 2 laat de resultaten zien in de dataset van 20 jaar Tegenlicht.
 
 
 <iframe src='https://flo.uri.sh/visualisation/9764465/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9789979/?utm_source=embed&utm_campaign=visualisation/9789979' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
-##### [Figuur2](https://flo.uri.sh/visualisation/9764465/embed). Aanwezigheid van "\*technologi\*" in 20 jaar Tegenlicht. 
+
+##### [Figuur 2](https://flo.uri.sh/visualisation/9764465/embed). Aanwezigheid van "\*technologi\*" in 20 jaar Tegenlicht. 
 
 De analyse van de aanwezigheid van de term "\*technologi\*" laat een
 piek zien in termen als technologie en technologisch in 2008 en daarna
@@ -300,7 +301,7 @@ tal van producten en diensten. Figuur 8 toont de aanwezigheid van
 "google" alsmede van de werkwoordsvormen "googlen", "googlet" en
 "googled" in de data.
 
-<iframe src='https://flo.uri.sh/visualisation/9766288/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/9766288/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9766288/?utm_source=embed&utm_campaign=visualisation/9766288' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ##### [Figuur 8](https://flo.uri.sh/visualisation/9766288/embed). Aanwezigheid van de term "google" en de termen "googlen", "googlet" en "googled" in de dataset.
 
@@ -335,7 +336,7 @@ technologie als oplossing. Vandaar dat we ook hebben gekeken naar de
 aanwezigheid van dit begrip in de data. Figuur 9 laat het resultaat
 zien.
 
-<iframe src='https://flo.uri.sh/visualisation/9766321/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/9766321/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9766321/?utm_source=embed&utm_campaign=visualisation/9766321' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ##### [Figuur 9](https://flo.uri.sh/visualisation/9766321/embed) De aanwezigheid van "algoritme" en "algoritmes" in Tegenlicht. 
 
@@ -396,7 +397,7 @@ Tabel 1. Software- en hardware-termen
 Figuur 10 toont de aanwezigheid van deze 'software-termen' en
 'hardware-termen' in de data door de jaren heen.
 
-<iframe src='https://flo.uri.sh/visualisation/9766399/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<<iframe src='https://flo.uri.sh/visualisation/9766399/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9766399/?utm_source=embed&utm_campaign=visualisation/9766399' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ##### [Figuur 10.](https://flo.uri.sh/visualisation/9766399/embed) Aanwezigheid van software- en hardware-termen in de Tegenlicht-data. 
 
@@ -459,7 +460,7 @@ Daarnaast hebben we specifiek gezocht op 'robot'. Figuur 12 toont de
 aanwezigheid van 'automatisering', 'robotisering' en 'robot' ("robot"en
 "robots") in de data.
 
-<iframe src='https://flo.uri.sh/visualisation/9767850/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/9767850/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9767850/?utm_source=embed&utm_campaign=visualisation/9767850' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ##### [Figuur 12](https://flo.uri.sh/visualisation/9767850/embed). De begrippen 'automatisering', 'robotisering' en 'robot' in de data.
 
@@ -482,7 +483,7 @@ aanwezigheid zien van het begrip 'innovatie' door te analyseren op
 'revolutie' door te analyseren op "revolutie", "revoluties",
 "revolutionair" en "revolutionaire".
 
-<iframe src='https://flo.uri.sh/visualisation/9766866/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/9766866/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9766866/?utm_source=embed&utm_campaign=visualisation/9766866' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ##### [Figuur 13](https://flo.uri.sh/visualisation/9766866/embed). Aanwezigheid van 'innovatie' en 'revolutie' in de data van Tegenlicht.
 
@@ -550,7 +551,7 @@ hebben we gecombineerd met 'verleden' door te analyseren op "vroeger",
 "vroegere" en "verleden", om deze met elkaar te kunnen vergelijken.
 Figuur 14 laat de resultaten zien.
 
-<iframe src='https://flo.uri.sh/visualisation/9791102/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/9791102/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9791102/?utm_source=embed&utm_campaign=visualisation/9791102' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ##### [Figuur 14](https://flo.uri.sh/visualisation/9791102/embed). De aanwezigheid van 'toekomst' en 'verleden' in Tegenlicht.
 
@@ -586,7 +587,7 @@ menselijke gemeenschap/samenleving was aanleiding voor nadere analyses.
 Figuur 15 toont de aanwezigheid van de termen "we", "wij", "ons", en
 "onze" in de buurt van de technologie-termen per thema.
 
-<iframe src='https://flo.uri.sh/visualisation/9680033/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/9680033/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9680033/?utm_source=embed&utm_campaign=visualisation/9680033' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ##### [Figuur 15.](https://flo.uri.sh/visualisation/9680033/embed) De termen "we", "wij", "ons", "onze" in de buurt van technologie-termen per thema.
 
@@ -600,7 +601,7 @@ We ook hebben nog gekeken naar het begrip 'mens' in Tegenlicht door te
 zoeken op "mens", "mensen", "menselijk", "menselijke" en "mensheid".
 Figuur 16 toont het resultaat.
 
-<iframe src='https://flo.uri.sh/visualisation/9792192/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/9792192/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9792192/?utm_source=embed&utm_campaign=visualisation/9792192' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ##### [Figuur 16.](https://flo.uri.sh/visualisation/9792192/embed) Het begrip 'mens' in de buurt van technologie-termen per thema.
 
