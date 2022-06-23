@@ -1,11 +1,13 @@
 ---
 title: Meten is onderzoeken - 20 jaar Tegenlicht in data
 date: "2022-06-23T16:12:03.284Z"
-description: "Twintig jaar Tegenlicht biedt een schat aan metadata en spraaktranscripten om te analyseren. Hoe heeft deze 'Future Affairs' programma gekeken naar technologie en de toekomst? Deze vraag hebben we adhv de data onderzocht. Hieruit blijkt duidelijk - Meten is niet weten, meten is onderzoeken"
+description: "Twintig jaar Tegenlicht biedt een schat aan metadata en spraaktranscripten om te analyseren. Hoe heeft de aandacht van Tegenlicht
+voor technologie in verschillende facetten zich in deze tijd
+ontwikkeld? Deze vraag hebben we aan de hand van de data onderzocht. Hieruit blijkt duidelijk - Meten is niet weten, meten is onderzoeken"
 ---
-## Meten is onderzoeken
 
 Wat data van 20 jaar Tegenlicht kan zeggen ... en wat niet.
+
 
 Willemien Sanders (Utrecht Universiteit en Beeld & Geluid)
 
@@ -14,6 +16,7 @@ Rana Klein (Beeld & Geluid)
 Mari Wigham (Beeld & Geluid)
 
 William de Bruijn (VPRO)
+
 
 ### Inleiding
 
@@ -42,7 +45,7 @@ mogelijkheden lijken eindeloos.
 
 Tijdens gesprekken met de redactie bleek dat er aanvankelijk bij
 Tegenlicht enthousiasme was over de technologische en digitale
-mogelijkheden en ontwikkelingen aan het begin van de 21^e^ eeuw. Echter,
+mogelijkheden en ontwikkelingen aan het begin van de 21<sup>e</sub> eeuw. Echter,
 de vertekeningen in data, de consequenties daarvan bij het gebruik van
 algoritmes, de groeiende surveillance-industrie en de kosten voor zaken
 als privacy, gelijkheid en rechtvaardigheid, zorgen voor kritische noten
@@ -256,7 +259,7 @@ Tegenlicht zien.
 ##### [Figuur 6](https://flo.uri.sh/visualisation/9766364/embed). De aanwezigheid van "smartphone" en "smartphones" in Tegenlicht. 
 
 Figuur 6 weerspiegelt de opkomst van de smartphone aan het einde van het
-eerste decennium van de 21^e^ eeuw en toont een grote toename van de
+eerste decennium van de 21<sup>e</sup> eeuw en toont een grote toename van de
 term tot en met 2014-2015 en vervolgens een afname. De piek is niet
 logisch te verklaren vanuit de algemene technologische ontwikkelingen:
 hoewel er andere 'schermen' bijkwamen, zoals de tablet, is de smartphone
@@ -394,7 +397,7 @@ grote lijnen weer afnemen. De redactie geeft bij navraag aan dat de
 periode 2008-2013 sterk werd bepaald door de financiële crisis; pas
 daarna kwam er ruimte voor de Silicon Valley (de Bruijn 2022d). Verder
 springt de piek in de software-termen in 2018 in het oog. In dat jaar
-waren er [[8 afleveringen in dertien
+waren er [28 afleveringen in dertien
 thema's](https://avdt.vpro.nl/browse?layout=episode_timeline&layoutParam=theme&filter=%7B%22years%22%3A%5B%222018%22%5D%7D&mode=simple&utm_source=nisvdatastory),
 waarvan drie in het thema Internet en vier in het thema Technologie. Ook
 hier ligt een verklaring niet voor de hand.
@@ -719,26 +722,26 @@ Bruijn, William de. 2022d. 'Pagina 10', e-mail aan de auteurs, 7 June
 Bruijn, William de. 2022e. 'Pagina 15', e-mail aan de auteurs, 8 June
 2022.
 
-Cheng, Jacqui. 2007. [['It's Official: Google Announces Open-Source
+Cheng, Jacqui. 2007. ['It's Official: Google Announces Open-Source
 Mobile Phone OS,
-Android']{.underline}](https://arstechnica.com/gadgets/2007/11/its-official-google-announces-open-source-mobile-phone-os-android/).
+Android'](https://arstechnica.com/gadgets/2007/11/its-official-google-announces-open-source-mobile-phone-os-android/).
 *Ars Technica*, 5 november 2007.
 
 D'Ignazio, Catherine, and Lauren F. Klein. 2020. *Data Feminism*.
 Cambridge, MA: The MIT Press.
 
-Gibbs, Samuel. 2015. [['Google Maps: A Decade of Transforming the
+Gibbs, Samuel. 2015. ['Google Maps: A Decade of Transforming the
 Mapping
-Landscape']{.underline}](https://www.theguardian.com/technology/2015/feb/08/google-maps-10-anniversary-iphone-android-street-view).
+Landscape'](https://www.theguardian.com/technology/2015/feb/08/google-maps-10-anniversary-iphone-android-street-view).
 *The Guardian*, 8 February 2015.
 
-iCulture. 2022. [['iPhone-geschiedenis: de complete tijdlijn van de
-iPhone']{.underline}](https://www.iculture.nl/uitleg/iphone-geschiedenis/).
+iCulture. 2022. ['iPhone-geschiedenis: de complete tijdlijn van de
+iPhone'](https://www.iculture.nl/uitleg/iphone-geschiedenis/).
 *iCulture*, januari 2022.
 
-Trends. 2018. [['Google wordt 20 jaar: de geschiedenis van het bedrijf
+Trends. 2018. ['Google wordt 20 jaar: de geschiedenis van het bedrijf
 in 15
-mijlpalen']{.underline}](https://trends.knack.be/economie/bedrijven/google-wordt-20-jaar-de-geschiedenis-van-het-bedrijf-in-15-mijlpalen/article-normal-1190535.html).
+mijlpalen'](https://trends.knack.be/economie/bedrijven/google-wordt-20-jaar-de-geschiedenis-van-het-bedrijf-in-15-mijlpalen/article-normal-1190535.html).
 *Trends*-NL, 3 september 2018.
 
 Marr, Bernard (Ed.). 2016. *Big Data in Practice: How 45 Successful
@@ -753,12 +756,12 @@ Broadway Books.
     'technologie' beide als relevante onderwerpen voor een Data Story
     naar voren. Een eerste exploratie van 'klimaat' leverde onvoldoende
     handvatten voor een vervolg en daarop is overgestapt op het
-    onderwerp 'technologie'. Zie verder de [[Methodische
-    verantwoording]{.underline}](appendix_methodische_verantwoording).
+    onderwerp 'technologie'. Zie verder de [Methodische
+    verantwoording](appendix_methodische_verantwoording).
 
 [^2]: De metadata van de afleveringen van Tegenlicht zijn te bekijken in
-    de [[Clariah Media
-    Suite]{.underline}](https://mediasuite.clariah.nl/). Deze werkt het
+    de [Clariah Media
+    Suite](https://mediasuite.clariah.nl/). Deze werkt het
     best met Chrome. Het bekijken van afleveringen is alleen mogelijk
     door in te loggen via een Nederlandse universiteit of hogeschool.
 
