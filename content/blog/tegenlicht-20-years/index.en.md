@@ -73,7 +73,7 @@ gesproken worden in de afleveringen. Alleen door de redactie zelf
 gemaakte afleveringen zijn meegenomen, aangekochte afleveringen zijn
 buiten beschouwing gelaten. Door de oorlog in Oekraïne was het niet
 mogelijk deze set compleet te maken (zie [Methodische
-verantwoording](methodische_verantwoording)). Figuur 1 toont de
+verantwoording](appendix_methodische_verantwoording)). Figuur 1 toont de
 beschikbaarheid van transcripten van Tegenlicht per jaar in percentages.
 Hieruit blijkt dat met name transcripties uit de beginperiode missen.
 Bij de interpretatie van de resultaten hebben we hier uiteraard rekening
@@ -131,7 +131,7 @@ percentages tonen in plaats van absolute aantallen, om vertekening door
 onbalansen in de dataset te voorkomen.
 
 Voor een nadere toelichting op de werkwijze, zie de [Methodische
-verantwoording](methodische_verantwoording).
+verantwoording](appendix_methodische_verantwoording).
 
 ## Technologie in Tegenlicht
 
@@ -186,6 +186,7 @@ gekoppeld aan een thema. Figuur 4 laat zien binnen welke thema's de
 technologie-termen voorkomen, verspreid over de 20 jaar Tegenlicht.
 
 <iframe src='https://flo.uri.sh/visualisation/9764400/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9764400/?utm_source=embed&utm_campaign=visualisation/9764400' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
 ##### [Figuur 4](https://flo.uri.sh/visualisation/9764400/embed). Aanwezigheid van technologie-termen binnen de verschillende thema's van 20 jaar Tegenlicht.
 
 Naast de algehele toename uit figuren 2 en 3 is in figuur 4 ook een
@@ -358,40 +359,40 @@ Tabel 1 geeft de diverse begrippen weer die we hebben geschaard onder
 'software' en 'hardware'. Bij elk begrip hebben we in de data gezocht
 naar varianten voor enkelvoud en meervoud.
 
-Tabel 1. Software- en hardware-termen
+##### Tabel 1. Software- en hardware-termen
 
   -----------------------------------------------------------------------
-  **Software-termen**                     **Hardware-termen**
+  **Software-termen**                     |**Hardware-termen**
   --------------------------------------- -------------------------------
-  AI                                      apparatuur
+  AI                                      |apparatuur
 
-  algoritme                               beeldscherm
+  algoritme                               |beeldscherm
 
-  app                                     camera
+  app                                     |camera
 
-  applicatie                              component
+  applicatie                              |component
 
-  browser                                 computer
+  browser                                 |computer
 
-  kunstmatige intelligentie               device
+  kunstmatige intelligentie               |device
 
-  malware                                 elektronisch
+  malware                                 |elektronisch
 
-  programmatuur                           harde schijf
+  programmatuur                           |harde schijf
 
-  programmeren                            hardware
+  programmeren                            |hardware
 
-  software                                laptop
+  software                                |laptop
 
-  webbrowser                              machine
+  webbrowser                              |machine
 
-  website                                 processor
+  website                                 |processor
 
-                                          scherm
+                                          |scherm
 
-                                          server
+                                          |server
 
-                                          webcam
+                                          |webcam
   -----------------------------------------------------------------------
 
 Figuur 10 toont de aanwezigheid van deze 'software-termen' en
@@ -777,7 +778,7 @@ Broadway Books.
     naar voren. Een eerste exploratie van 'klimaat' leverde onvoldoende
     handvatten voor een vervolg en daarop is overgestapt op het
     onderwerp 'technologie'. Zie verder de [[Methodische
-    verantwoording]{.underline}](methodische_verantwoording).
+    verantwoording]{.underline}](appendix_methodische_verantwoording).
 
 [^2]: De metadata van de afleveringen van Tegenlicht zijn te bekijken in
     de [[Clariah Media
