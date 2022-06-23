@@ -361,39 +361,25 @@ naar varianten voor enkelvoud en meervoud.
 
 ##### Tabel 1. Software- en hardware-termen
 
-  -----------------------------------------------------------------------
- | **Software-termen**                     |**Hardware-termen**|
-  --------------------------------------- -------------------------------
- | AI                                      |apparatuur|
-
- | algoritme                               |beeldscherm|
-
- | app                                     |camera|
-
- | applicatie                              |component|
-
- | browser                                 |computer|
-
- | kunstmatige intelligentie               |device|
-
- | malware                                 |elektronisch|
-
- | programmatuur                           |harde schijf|
-
- | programmeren                            |hardware|
-
- | software                                |laptop|
-
- | webbrowser                              |machine|
-
- | website                                 |processor|
-
- |                                         |scherm|
-
- |                                         |server|
-
- |                                         |webcam|
-  -----------------------------------------------------------------------
+-----------------------------------------------------------------------
+| **Software-termen**                     |**Hardware-termen**|
+| --------------------------------------- |-------------------------------|
+| AI                                      |apparatuur|
+| algoritme                               |beeldscherm|
+| app                                     |camera|
+| applicatie                              |component|
+| browser                                 |computer|
+| kunstmatige intelligentie               |device|
+| malware                                 |elektronisch|
+| programmatuur                           |harde schijf|
+| programmeren                            |hardware|
+| software                                |laptop|
+| webbrowser                              |machine|
+| website                                 |processor|
+|                                         |scherm|
+|                                         |server|
+|                                         |webcam|
+|------------------------------------------|-----------------------------|
 
 Figuur 10 toont de aanwezigheid van deze 'software-termen' en
 'hardware-termen' in de data door de jaren heen.
