@@ -24,8 +24,8 @@ naar een 'merk' met permanente aanwezigheid op 11 platforms: naast tv en
 website is dat op YouTube, Facebook, Instagram en Twitter. Tegenlicht
 produceert daarnaast podcasts, 'Tegenlicht in de klas', een wekelijkse
 nieuwsbrief, Tegenlicht MeetUps en een jaarlijkse pioniersverkiezing.
-Naar aanleiding van het 20-jarig jubileum werd eveneens een <u>[Archief
-van de Toekomst](https://avdt.vpro.nl/?utm_source=nisvdatastory)</u> ontwikkeld.
+Naar aanleiding van het 20-jarig jubileum werd eveneens een [Archief
+van de Toekomst](https://avdt.vpro.nl/?utm_source=nisvdatastory) ontwikkeld.
 
 Tegenlicht identificeert zich als 'future affairs'. Wie over de toekomst
 praat, praat al snel over technologie: technologie wordt immers vaak
@@ -58,7 +58,7 @@ uit aan de hand van de volgende onderzoeksvraag: Hoe heeft de aandacht
 voor technologie in verschillende facetten zich in 20 jaar Tegenlicht
 ontwikkeld? Omdat we voor deze Data Story onderzoek doen op basis van
 metadata van afleveringen van
-[[Tegenlicht]{.underline}](https://mediasuite.clariah.nl/tool/single-search?queryId=d024329e-c778-44f6-a515-0e9148b62798)[^2]
+[Tegenlicht](https://mediasuite.clariah.nl/tool/single-search?queryId=d024329e-c778-44f6-a515-0e9148b62798)[^2]
 stellen we ook de vraag wat we kunnen meten en wat niet. In deze Data
 Story gaan we dan ook nader in op de beperkingen van data-onderzoek en
 de noodzaak een kritisch perspectief aan te nemen ten opzichte van data
@@ -72,8 +72,8 @@ bestanden met de letterlijke, al dan niet vertaalde teksten die
 gesproken worden in de afleveringen. Alleen door de redactie zelf
 gemaakte afleveringen zijn meegenomen, aangekochte afleveringen zijn
 buiten beschouwing gelaten. Door de oorlog in Oekraïne was het niet
-mogelijk deze set compleet te maken (zie [[Methodische
-verantwoording]{.underline}](methodische_verantwoording)). Figuur 1 toont de
+mogelijk deze set compleet te maken (zie [Methodische
+verantwoording](methodische_verantwoording)). Figuur 1 toont de
 beschikbaarheid van transcripten van Tegenlicht per jaar in percentages.
 Hieruit blijkt dat met name transcripties uit de beginperiode missen.
 Bij de interpretatie van de resultaten hebben we hier uiteraard rekening
@@ -130,8 +130,8 @@ We hebben ervoor gekozen relatieve grafieken op te nemen, die
 percentages tonen in plaats van absolute aantallen, om vertekening door
 onbalansen in de dataset te voorkomen.
 
-Voor een nadere toelichting op de werkwijze, zie de [[Methodische
-verantwoording]{.underline}](methodische_verantwoording).
+Voor een nadere toelichting op de werkwijze, zie de [Methodische
+verantwoording](methodische_verantwoording).
 
 ## Technologie in Tegenlicht
 
@@ -142,7 +142,7 @@ Figuur 2 laat de resultaten zien in de dataset van 20 jaar Tegenlicht.
 
 <iframe src='"&H3&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-##### [[Figuur]{.underline} [2]{.underline}](https://flo.uri.sh/visualisation/9764465/embed). Aanwezigheid van "\*technologi\*" in 20 jaar Tegenlicht. 
+##### [Figuur2](https://flo.uri.sh/visualisation/9764465/embed). Aanwezigheid van "\*technologi\*" in 20 jaar Tegenlicht. 
 
 De analyse van de aanwezigheid van de term "\*technologi\*" laat een
 piek zien in termen als technologie en technologisch in 2008 en daarna
@@ -161,7 +161,7 @@ de specifieke termen "technologie", "technologieën", "technologisch" en
 
 <iframe src='"&H4&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-##### [[Figuur]{.underline} [3]{.underline}](https://flo.uri.sh/visualisation/9789979/embed). Technologie-termen in Tegenlicht. 
+##### [Figuur 3](https://flo.uri.sh/visualisation/9789979/embed). Technologie-termen in Tegenlicht. 
 
 Figuur 3 verschilt weinig van figuur 2. Dit duidt erop dat er naast de
 gezochte termen weinig andere varianten van woorden met 'technologi'
@@ -187,7 +187,7 @@ technologie-termen voorkomen, verspreid over de 20 jaar Tegenlicht.
 
 <iframe src='"&H5&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-##### [[Figuur]{.underline} [4]{.underline}](https://flo.uri.sh/visualisation/9764400/embed). Aanwezigheid van technologie-termen binnen de verschillende thema's van 20 jaar Tegenlicht.
+##### [Figuur 4](https://flo.uri.sh/visualisation/9764400/embed). Aanwezigheid van technologie-termen binnen de verschillende thema's van 20 jaar Tegenlicht.
 
 Naast de algehele toename uit figuren 2 en 3 is in figuur 4 ook een
 spreiding over steeds meer thema's zichtbaar. Technologie-termen komen
@@ -236,12 +236,12 @@ transcripten.
 
 <iframe src='"&H6&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-##### [[Figuur]{.underline} [5]{.underline}](https://flo.uri.sh/visualisation/9766347/embed). De aanwezigheid van "computer" en "computers" in Tegenlicht. 
+##### [Figuur 5](https://flo.uri.sh/visualisation/9766347/embed). De aanwezigheid van "computer" en "computers" in Tegenlicht. 
 
 In grote lijnen is in figuur 5 een toename van 'computer' te zien tot en
-piek in 2014 en daarna een afname. In 2014 waren er [[24 afleveringen in
+piek in 2014 en daarna een afname. In 2014 waren er [24 afleveringen in
 elf
-thema's]{.underline}](https://avdt.vpro.nl/browse?layout=episode_timeline&layoutParam=theme&filter=%7B%22years%22%3A%5B%222014%22%5D%7D&mode=simple&utm_source=nisvdatastory).
+thema's](https://avdt.vpro.nl/browse?layout=episode_timeline&layoutParam=theme&filter=%7B%22years%22%3A%5B%222014%22%5D%7D&mode=simple&utm_source=nisvdatastory).
 Waar die piek precies aan ligt, kunnen we dus zo niet zeggen, maar een
 duidelijk verband met 'technologie' is nog niet te zien.
 
@@ -253,7 +253,7 @@ Tegenlicht zien.
 
 <iframe src='"&H7&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-##### [[Figuur]{.underline} [6]{.underline}](https://flo.uri.sh/visualisation/9766364/embed). De aanwezigheid van "smartphone" en "smartphones" in Tegenlicht. 
+##### [Figuur 6](https://flo.uri.sh/visualisation/9766364/embed). De aanwezigheid van "smartphone" en "smartphones" in Tegenlicht. 
 
 Figuur 6 weerspiegelt de opkomst van de smartphone aan het einde van het
 eerste decennium van de 21^e^ eeuw en toont een grote toename van de
@@ -274,7 +274,7 @@ dataset.
 
 <iframe src='"&H8&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-##### [[Figuur]{.underline} [7.]{.underline}](https://flo.uri.sh/visualisation/9764599/embed) De aanwezigheid van de termen "app", "apps", "website" en "websites" in Tegenlicht.
+##### [Figuur 7](https://flo.uri.sh/visualisation/9764599/embed) De aanwezigheid van de termen "app", "apps", "website" en "websites" in Tegenlicht.
 
 Niet geheel verrassend laat Figuur 7 zien dat 'website' vanaf het begin
 van Tegenlicht wordt genoemd. Daarentegen komt 'app' pas vanaf 2013 op.
@@ -304,13 +304,13 @@ tal van producten en diensten. Figuur 8 toont de aanwezigheid van
 
 <iframe src='https://flo.uri.sh/visualisation/9766288/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-##### [[Figuur]{.underline}](https://flo.uri.sh/visualisation/9766288/embed) 8. Aanwezigheid van de term "google" en de termen "googlen", "googlet" en "googled" in de dataset.
+##### [Figuur 8](https://flo.uri.sh/visualisation/9766288/embed). Aanwezigheid van de term "google" en de termen "googlen", "googlet" en "googled" in de dataset.
 
 Google werd opgericht in 1998 en ging in 2004 naar de beurs (Trends
 2018). In 2005 werden eveneens Google Earth en Google Maps gelanceerd
 (Gibbs 2015). De eerste piek in 'google' in 2006 roept allerlei vragen
-op. Nader onderzoek leert dat er in mei 2006 een [[aflevering over
-Google]{.underline}](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608040031359731&cid=daan-catalogue-aggr)
+op. Nader onderzoek leert dat er in mei 2006 een [aflevering over
+Google](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608040031359731&cid=daan-catalogue-aggr)
 was, hetgeen de piek in figuur 8 verklaart. Na de eerste piek wordt het
 even rustig rond 'google' maar vanaf 2011 is er een min of met constante
 aanwezigheid van deze term in de data. Je zou denken dat dit de
@@ -339,12 +339,12 @@ zien.
 
 <iframe src='https://flo.uri.sh/visualisation/9766321/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-##### [[Figuur]{.underline} [9.]{.underline}](https://flo.uri.sh/visualisation/9766321/embed) De aanwezigheid van "algoritme" en "algoritmes" in Tegenlicht. 
+##### [Figuur 9](https://flo.uri.sh/visualisation/9766321/embed) De aanwezigheid van "algoritme" en "algoritmes" in Tegenlicht. 
 
 Al in 2006 kwam 'algoritme' voor in Tegenlicht en ook daarna werd erover
 gesproken maar de piek in 2018 springt in het oog. In dat jaar was er
-een aflevering met de titel [[Verslaafd aan het
-algoritme]{.underline}](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101805220245150031&cid=daan-catalogue-aggr)
+een aflevering met de titel [Verslaafd aan het
+algoritme](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101805220245150031&cid=daan-catalogue-aggr)
 en dit zou deze piek kunnen verklaren.
 
 De termen die we los onderzochten, hebben vooral betrekking op digitale
@@ -400,7 +400,7 @@ Figuur 10 toont de aanwezigheid van deze 'software-termen' en
 
 <iframe src='https://flo.uri.sh/visualisation/9766399/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-##### [[Figuur]{.underline} [10.]{.underline}](https://flo.uri.sh/visualisation/9766399/embed) Aanwezigheid van software- en hardware-termen in de Tegenlicht-data. 
+##### [Figuur 10.](https://flo.uri.sh/visualisation/9766399/embed) Aanwezigheid van software- en hardware-termen in de Tegenlicht-data. 
 
 Hoewel de hardware-termen in de meeste jaren hoger scoren, zijn zowel
 software- als hardware-termen over de gehele periode aanwezig in de data
@@ -410,8 +410,8 @@ grote lijnen weer afnemen. De redactie geeft bij navraag aan dat de
 periode 2008-2013 sterk werd bepaald door de financiële crisis; pas
 daarna kwam er ruimte voor de Silicon Valley (de Bruijn 2022d). Verder
 springt de piek in de software-termen in 2018 in het oog. In dat jaar
-waren er [[28 afleveringen in dertien
-thema's]{.underline}](https://avdt.vpro.nl/browse?layout=episode_timeline&layoutParam=theme&filter=%7B%22years%22%3A%5B%222018%22%5D%7D&mode=simple&utm_source=nisvdatastory),
+waren er [[8 afleveringen in dertien
+thema's](https://avdt.vpro.nl/browse?layout=episode_timeline&layoutParam=theme&filter=%7B%22years%22%3A%5B%222018%22%5D%7D&mode=simple&utm_source=nisvdatastory),
 waarvan drie in het thema Internet en vier in het thema Technologie. Ook
 hier ligt een verklaring niet voor de hand.
 
@@ -431,7 +431,7 @@ verhouding tot de andere zoektermen in dat jaar.
 
 <iframe src='https://flo.uri.sh/visualisation/10104388/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe
 
-##### [[Figuur]{.underline} [11]{.underline}](https://public.flourish.studio/visualisation/10104388/). Software- en hardware-termen door de tijd.
+##### [Figuur 11](https://public.flourish.studio/visualisation/10104388/). Software- en hardware-termen door de tijd.
 
 Figuur 11 laat zien dat hardware-termen lang de boventoon voeren: de
 blauwe bol is steeds groter dan de groene. Pas in 2016 verandert dit.
@@ -463,15 +463,15 @@ aanwezigheid van 'automatisering', 'robotisering' en 'robot' ("robot"en
 
 <iframe src='https://flo.uri.sh/visualisation/9767850/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-##### [[Figuur]{.underline} [12]{.underline}](https://flo.uri.sh/visualisation/9767850/embed). De begrippen 'automatisering', 'robotisering' en 'robot' in de data.
+##### [Figuur 12](https://flo.uri.sh/visualisation/9767850/embed). De begrippen 'automatisering', 'robotisering' en 'robot' in de data.
 
 De termen "robot"en "robots" komen veel vaker voor dan automatisering en
 robotisering. Blijkbaar wordt er meer gesproken over het resultaat dan
 over de processen. In figuur 12 is ook een scherpe piek te zien in 2015
 en bescheiden pieken in 2014 en 2022, specifiek bij 'robot'. In andere
 jaren komen de termen niet of veel minder voor. In 2015 was er een
-aflevering over [[De robot als
-mens]{.underline}](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608170156743431&cid=daan-catalogue-aggr&st=robot),
+aflevering over [De robot als
+mens](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608170156743431&cid=daan-catalogue-aggr&st=robot),
 dat verklaart deels deze piek.
 
 ### Innovatie en revolutie
@@ -486,7 +486,7 @@ aanwezigheid zien van het begrip 'innovatie' door te analyseren op
 
 <iframe src='https://flo.uri.sh/visualisation/9766866/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-##### [[Figuur]{.underline} [13]{.underline}](https://flo.uri.sh/visualisation/9766866/embed). Aanwezigheid van 'innovatie' en 'revolutie' in de data van Tegenlicht.
+##### [Figuur 13](https://flo.uri.sh/visualisation/9766866/embed). Aanwezigheid van 'innovatie' en 'revolutie' in de data van Tegenlicht.
 
 Figuur 13 laat zien dat innovatie in alle seizoenen voorkomt, met een
 bescheiden piek in 2015. Bij revolutie is er sprake van een scherpe piek
@@ -554,7 +554,7 @@ Figuur 14 laat de resultaten zien.
 
 <iframe src='https://flo.uri.sh/visualisation/9791102/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-##### [[Figuur]{.underline} [14]{.underline}](https://flo.uri.sh/visualisation/9791102/embed). De aanwezigheid van 'toekomst' en 'verleden' in Tegenlicht.
+##### [Figuur 14](https://flo.uri.sh/visualisation/9791102/embed). De aanwezigheid van 'toekomst' en 'verleden' in Tegenlicht.
 
 Figuur 14 laat zien dat er aanvankelijk een toenemende verwijzing naar
 de toekomst zichtbaar is en dat dit vanaf de piek in 2012 een beetje
@@ -590,7 +590,7 @@ Figuur 15 toont de aanwezigheid van de termen "we", "wij", "ons", en
 
 <iframe src='https://flo.uri.sh/visualisation/9680033/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-##### [[Figuur]{.underline}](https://flo.uri.sh/visualisation/9680033/embed) 15. De termen "we", "wij", "ons", "onze" in de buurt van technologie-termen per thema.
+##### [Figuur 15.](https://flo.uri.sh/visualisation/9680033/embed) De termen "we", "wij", "ons", "onze" in de buurt van technologie-termen per thema.
 
 De termen 'we'-termen "we", "wij", "ons" en "onze" komen in alle thema's
 voor in de buurt van de technologie-termen, zoals figuur 15 laat zien.
@@ -604,7 +604,7 @@ Figuur 16 toont het resultaat.
 
 <iframe src='https://flo.uri.sh/visualisation/9792192/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-##### [[Figuur]{.underline}](https://flo.uri.sh/visualisation/9792192/embed) 16. Het begrip 'mens' in de buurt van technologie-termen per thema.
+##### [Figuur 16.](https://flo.uri.sh/visualisation/9792192/embed) Het begrip 'mens' in de buurt van technologie-termen per thema.
 
 Ook het begrip 'mens' wordt in alle thema's in de buurt van de
 technologie-termen genoemd, zij het in veel mindere mate dan de termen
@@ -626,8 +626,7 @@ aantallen.
 
 <iframe src='https://flo.uri.sh/visualisation/8673305/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/8673305/?utm_source=embed&utm_campaign=visualisation/8673305' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-[[Figuur
-17]{.underline}](https://public.flourish.studio/visualisation/8673305/).
+[Figuur 17](https://public.flourish.studio/visualisation/8673305/).
 De samenhang tussen de verschillende onderzochte begrippen op basis van
 absolute aantallen.
 
@@ -640,8 +639,7 @@ van percentages.
 
 <iframe src='https://flo.uri.sh/visualisation/10102734/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/10102734/?utm_source=embed&utm_campaign=visualisation/10102734' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-[[Figuur
-18]{.underline}](https://public.flourish.studio/visualisation/10102734).
+[Figuur 18](https://public.flourish.studio/visualisation/10102734).
 De samenhang tussen de verschillende onderzochte begrippen in
 percentages.
 
