@@ -79,7 +79,7 @@ Hieruit blijkt dat met name transcripties uit de beginperiode missen.
 Bij de interpretatie van de resultaten hebben we hier uiteraard rekening
 mee gehouden.
 
-<iframe src='"&H2&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/9814115/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9814115/?utm_source=embed&utm_campaign=visualisation/9814115' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ##### Figuur 1. Beschikbaarheid van Tegenlicht-transcripten in percentages.
 
@@ -140,8 +140,7 @@ We hebben aanvankelijk gekeken naar de aanwezigheid van termen als
 Figuur 2 laat de resultaten zien in de dataset van 20 jaar Tegenlicht.
 
 
-<iframe src='"&H3&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
-
+<iframe src='https://flo.uri.sh/visualisation/9764465/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9789979/?utm_source=embed&utm_campaign=visualisation/9789979' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 ##### [Figuur2](https://flo.uri.sh/visualisation/9764465/embed). Aanwezigheid van "\*technologi\*" in 20 jaar Tegenlicht. 
 
 De analyse van de aanwezigheid van de term "\*technologi\*" laat een
@@ -159,7 +158,7 @@ de specifieke termen "technologie", "technologieën", "technologisch" en
 "technologische". We verwijzen hier in het vervolg naar als de
 'technologie-termen'. Figuur 3 laat de resultaten zien.
 
-<iframe src='"&H4&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/9789979/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9764400/?utm_source=embed&utm_campaign=visualisation/9764400' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ##### [Figuur 3](https://flo.uri.sh/visualisation/9789979/embed). Technologie-termen in Tegenlicht. 
 
@@ -185,8 +184,7 @@ verder te onderzoeken. De afleveringen van Tegenlicht zijn allemaal
 gekoppeld aan een thema. Figuur 4 laat zien binnen welke thema's de
 technologie-termen voorkomen, verspreid over de 20 jaar Tegenlicht.
 
-<iframe src='"&H5&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
-
+<iframe src='https://flo.uri.sh/visualisation/9764400/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9764400/?utm_source=embed&utm_campaign=visualisation/9764400' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 ##### [Figuur 4](https://flo.uri.sh/visualisation/9764400/embed). Aanwezigheid van technologie-termen binnen de verschillende thema's van 20 jaar Tegenlicht.
 
 Naast de algehele toename uit figuren 2 en 3 is in figuur 4 ook een
@@ -234,7 +232,7 @@ Technologie hangt nauw samen met machines en apparaten. Figuur 5 toont
 de aanwezigheid van 'computer' ("computer" en "computers") in de
 transcripten.
 
-<iframe src='"&H6&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/9766347/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9766347/?utm_source=embed&utm_campaign=visualisation/9766347' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ##### [Figuur 5](https://flo.uri.sh/visualisation/9766347/embed). De aanwezigheid van "computer" en "computers" in Tegenlicht. 
 
@@ -251,7 +249,7 @@ Tegenwoordig worden steeds meer diensten specifiek ontwikkeld voor de
 smartphone. Figuur 6 laat de aanwezigheid van dit woord in de data van
 Tegenlicht zien.
 
-<iframe src='"&H7&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/9766364/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9766364/?utm_source=embed&utm_campaign=visualisation/9766364' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ##### [Figuur 6](https://flo.uri.sh/visualisation/9766364/embed). De aanwezigheid van "smartphone" en "smartphones" in Tegenlicht. 
 
@@ -272,7 +270,7 @@ Dergelijke terugkerende teksten kunnen de uitkomsten vertekenen.
 Figuur 7 toont de aanwezigheid van de begrippen 'website' en 'app' in de
 dataset.
 
-<iframe src='"&H8&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/visualisation/9764599/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9764599/?utm_source=embed&utm_campaign=visualisation/9764599' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ##### [Figuur 7](https://flo.uri.sh/visualisation/9764599/embed) De aanwezigheid van de termen "app", "apps", "website" en "websites" in Tegenlicht.
 
