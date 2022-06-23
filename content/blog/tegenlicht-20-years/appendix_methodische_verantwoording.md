@@ -24,8 +24,8 @@ we ervoor gekozen ze niet te gebruiken.
 
 Hoewel televisieprogramma's worden gemaakt per seizoen, hebben we bij de
 analyses gekozen voor analyses per kalenderjaar. We verwijzen regelmatig
-naar het [[Archief van de
-Toekomst]{.underline}](https://avdt.vpro.nl/browse?layout=episode_timeline&layoutParam=theme&search=%7B%22all%22%3A%22oekraine%22%7D&mode=simple),
+naar het [Archief van de
+Toekomst](https://avdt.vpro.nl/browse?layout=episode_timeline&layoutParam=theme&search=%7B%22all%22%3A%22oekraine%22%7D&mode=simple),
 de website die naar aanleiding van 20 jaar Tegenlicht is ontwikkeld.
 Daarvoor zijn de afleveringen ook per jaar gegroepeerd. Om de relatie
 tussen de informatie in het AvdT en onze analyses begrijpelijker te

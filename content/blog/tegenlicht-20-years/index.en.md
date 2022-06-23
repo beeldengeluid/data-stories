@@ -45,7 +45,7 @@ mogelijkheden lijken eindeloos.
 
 Tijdens gesprekken met de redactie bleek dat er aanvankelijk bij
 Tegenlicht enthousiasme was over de technologische en digitale
-mogelijkheden en ontwikkelingen aan het begin van de 21<sup>e</sub> eeuw. Echter,
+mogelijkheden en ontwikkelingen aan het begin van de 21<sup>e</sup> eeuw. Echter,
 de vertekeningen in data, de consequenties daarvan bij het gebruik van
 algoritmes, de groeiende surveillance-industrie en de kosten voor zaken
 als privacy, gelijkheid en rechtvaardigheid, zorgen voor kritische noten
