@@ -362,37 +362,37 @@ naar varianten voor enkelvoud en meervoud.
 ##### Tabel 1. Software- en hardware-termen
 
   -----------------------------------------------------------------------
-  **Software-termen**                     |**Hardware-termen**
+ | **Software-termen**                     |**Hardware-termen**|
   --------------------------------------- -------------------------------
-  AI                                      |apparatuur
+ | AI                                      |apparatuur|
 
-  algoritme                               |beeldscherm
+ | algoritme                               |beeldscherm|
 
-  app                                     |camera
+ | app                                     |camera|
 
-  applicatie                              |component
+ | applicatie                              |component|
 
-  browser                                 |computer
+ | browser                                 |computer|
 
-  kunstmatige intelligentie               |device
+ | kunstmatige intelligentie               |device|
 
-  malware                                 |elektronisch
+ | malware                                 |elektronisch|
 
-  programmatuur                           |harde schijf
+ | programmatuur                           |harde schijf|
 
-  programmeren                            |hardware
+ | programmeren                            |hardware|
 
-  software                                |laptop
+ | software                                |laptop|
 
-  webbrowser                              |machine
+ | webbrowser                              |machine|
 
-  website                                 |processor
+ | website                                 |processor|
 
-                                          |scherm
+ |                                         |scherm|
 
-                                          |server
+ |                                         |server|
 
-                                          |webcam
+ |                                         |webcam|
   -----------------------------------------------------------------------
 
 Figuur 10 toont de aanwezigheid van deze 'software-termen' en
