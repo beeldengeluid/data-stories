@@ -1,3 +1,8 @@
+---
+title: Meten is onderzoeken - 20 jaar Tegenlicht in data
+date: "2022-06-23T16:12:03.284Z"
+description: "Twintig jaar Tegenlicht biedt een schat aan metadata en spraaktranscripten om te analyseren. Hoe heeft deze 'Future Affairs' programma gekeken naar technologie en de toekomst? Deze vraag hebben we adhv de data onderzocht. Hieruit blijkt duidelijk - Meten is niet weten, meten is onderzoeken"
+---
 ## Meten is onderzoeken
 
 Wat data van 20 jaar Tegenlicht kan zeggen ... en wat niet.
@@ -19,9 +24,8 @@ naar een 'merk' met permanente aanwezigheid op 11 platforms: naast tv en
 website is dat op YouTube, Facebook, Instagram en Twitter. Tegenlicht
 produceert daarnaast podcasts, 'Tegenlicht in de klas', een wekelijkse
 nieuwsbrief, Tegenlicht MeetUps en een jaarlijkse pioniersverkiezing.
-Naar aanleiding van het 20-jarig jubileum werd eveneens een [[Archief
-van de]{.underline}](https://avdt.vpro.nl/?utm_source=nisvdatastory)
-[[Toekomst]{.underline}](https://avdt.vpro.nl/?utm_source=nisvdatastory) ontwikkeld.
+Naar aanleiding van het 20-jarig jubileum werd eveneens een [Archief
+van de Toekomst{.underline}](https://avdt.vpro.nl/?utm_source=nisvdatastory) ontwikkeld.
 
 Tegenlicht identificeert zich als 'future affairs'. Wie over de toekomst
 praat, praat al snel over technologie: technologie wordt immers vaak
@@ -75,7 +79,7 @@ Hieruit blijkt dat met name transcripties uit de beginperiode missen.
 Bij de interpretatie van de resultaten hebben we hier uiteraard rekening
 mee gehouden.
 
-<iframe src='https://flo.uri.sh/visualisation/9814115/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9814115/?utm_source=embed&utm_campaign=visualisation/9814115' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<iframe src='"&H2&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### Figuur 1. Beschikbaarheid van Tegenlicht-transcripten in percentages.
 
@@ -136,12 +140,7 @@ We hebben aanvankelijk gekeken naar de aanwezigheid van termen als
 Figuur 2 laat de resultaten zien in de dataset van 20 jaar Tegenlicht.
 
 
-<iframe src=\'https://flo.uri.sh/visualisation/9764465/embed
-title=\'Interactive or visual content\' frameborder=\'0\'
-scrolling=\'no\' style=\'width:100%;height:600px;\'
-sandbox=\'allow-same-origin allow-forms allow-scripts allow-downloads
-allow-popups allow-popups-to-escape-sandbox
-allow-top-navigation-by-user-activation\'\>\</iframe\>
+<iframe src='"&H3&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### [[Figuur]{.underline} [2]{.underline}](https://flo.uri.sh/visualisation/9764465/embed). Aanwezigheid van "\*technologi\*" in 20 jaar Tegenlicht. 
 
@@ -160,12 +159,7 @@ de specifieke termen "technologie", "technologieën", "technologisch" en
 "technologische". We verwijzen hier in het vervolg naar als de
 'technologie-termen'. Figuur 3 laat de resultaten zien.
 
-<iframe src=\'https://flo.uri.sh/visualisation/9789979/embed
-title=\'Interactive or visual content\' frameborder=\'0\'
-scrolling=\'no\' style=\'width:100%;height:600px;\'
-sandbox=\'allow-same-origin allow-forms allow-scripts allow-downloads
-allow-popups allow-popups-to-escape-sandbox
-allow-top-navigation-by-user-activation\'\>\</iframe\>
+<iframe src='"&H4&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### [[Figuur]{.underline} [3]{.underline}](https://flo.uri.sh/visualisation/9789979/embed). Technologie-termen in Tegenlicht. 
 
@@ -191,12 +185,7 @@ verder te onderzoeken. De afleveringen van Tegenlicht zijn allemaal
 gekoppeld aan een thema. Figuur 4 laat zien binnen welke thema's de
 technologie-termen voorkomen, verspreid over de 20 jaar Tegenlicht.
 
-<iframe src=\'https://flo.uri.sh/visualisation/9764400/embed
-title=\'Interactive or visual content\' frameborder=\'0\'
-scrolling=\'no\' style=\'width:100%;height:600px;\'
-sandbox=\'allow-same-origin allow-forms allow-scripts allow-downloads
-allow-popups allow-popups-to-escape-sandbox
-allow-top-navigation-by-user-activation\'\>\</iframe\>
+<iframe src='"&H5&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### [[Figuur]{.underline} [4]{.underline}](https://flo.uri.sh/visualisation/9764400/embed). Aanwezigheid van technologie-termen binnen de verschillende thema's van 20 jaar Tegenlicht.
 
@@ -245,12 +234,7 @@ Technologie hangt nauw samen met machines en apparaten. Figuur 5 toont
 de aanwezigheid van 'computer' ("computer" en "computers") in de
 transcripten.
 
-<iframe src=\'https://flo.uri.sh/visualisation/9766347/embed
-title=\'Interactive or visual content\' frameborder=\'0\'
-scrolling=\'no\' style=\'width:100%;height:600px;\'
-sandbox=\'allow-same-origin allow-forms allow-scripts allow-downloads
-allow-popups allow-popups-to-escape-sandbox
-allow-top-navigation-by-user-activation\'\>\</iframe\>
+<iframe src='"&H6&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### [[Figuur]{.underline} [5]{.underline}](https://flo.uri.sh/visualisation/9766347/embed). De aanwezigheid van "computer" en "computers" in Tegenlicht. 
 
@@ -267,12 +251,7 @@ Tegenwoordig worden steeds meer diensten specifiek ontwikkeld voor de
 smartphone. Figuur 6 laat de aanwezigheid van dit woord in de data van
 Tegenlicht zien.
 
-<iframe src=\'https://flo.uri.sh/visualisation/9766364/embed
-title=\'Interactive or visual content\' frameborder=\'0\'
-scrolling=\'no\' style=\'width:100%;height:600px;\'
-sandbox=\'allow-same-origin allow-forms allow-scripts allow-downloads
-allow-popups allow-popups-to-escape-sandbox
-allow-top-navigation-by-user-activation\'\>\</iframe\>
+<iframe src='"&H7&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### [[Figuur]{.underline} [6]{.underline}](https://flo.uri.sh/visualisation/9766364/embed). De aanwezigheid van "smartphone" en "smartphones" in Tegenlicht. 
 
@@ -293,12 +272,7 @@ Dergelijke terugkerende teksten kunnen de uitkomsten vertekenen.
 Figuur 7 toont de aanwezigheid van de begrippen 'website' en 'app' in de
 dataset.
 
-<iframe src=\'https://flo.uri.sh/visualisation/9764599/embed
-title=\'Interactive or visual content\' frameborder=\'0\'
-scrolling=\'no\' style=\'width:100%;height:600px;\'
-sandbox=\'allow-same-origin allow-forms allow-scripts allow-downloads
-allow-popups allow-popups-to-escape-sandbox
-allow-top-navigation-by-user-activation\'\>\</iframe\>
+<iframe src='"&H8&" title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### [[Figuur]{.underline} [7.]{.underline}](https://flo.uri.sh/visualisation/9764599/embed) De aanwezigheid van de termen "app", "apps", "website" en "websites" in Tegenlicht.
 
@@ -328,12 +302,7 @@ tal van producten en diensten. Figuur 8 toont de aanwezigheid van
 "google" alsmede van de werkwoordsvormen "googlen", "googlet" en
 "googled" in de data.
 
-<iframe src=\'https://flo.uri.sh/visualisation/9766288/embed
-title=\'Interactive or visual content\' frameborder=\'0\'
-scrolling=\'no\' style=\'width:100%;height:600px;\'
-sandbox=\'allow-same-origin allow-forms allow-scripts allow-downloads
-allow-popups allow-popups-to-escape-sandbox
-allow-top-navigation-by-user-activation\'\>\</iframe\>
+<iframe src='https://flo.uri.sh/visualisation/9766288/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### [[Figuur]{.underline}](https://flo.uri.sh/visualisation/9766288/embed) 8. Aanwezigheid van de term "google" en de termen "googlen", "googlet" en "googled" in de dataset.
 
@@ -368,12 +337,7 @@ technologie als oplossing. Vandaar dat we ook hebben gekeken naar de
 aanwezigheid van dit begrip in de data. Figuur 9 laat het resultaat
 zien.
 
-<iframe src=\'https://flo.uri.sh/visualisation/9766321/embed
-title=\'Interactive or visual content\' frameborder=\'0\'
-scrolling=\'no\' style=\'width:100%;height:600px;\'
-sandbox=\'allow-same-origin allow-forms allow-scripts allow-downloads
-allow-popups allow-popups-to-escape-sandbox
-allow-top-navigation-by-user-activation\'\>\</iframe\>
+<iframe src='https://flo.uri.sh/visualisation/9766321/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### [[Figuur]{.underline} [9.]{.underline}](https://flo.uri.sh/visualisation/9766321/embed) De aanwezigheid van "algoritme" en "algoritmes" in Tegenlicht. 
 
@@ -434,12 +398,7 @@ Tabel 1. Software- en hardware-termen
 Figuur 10 toont de aanwezigheid van deze 'software-termen' en
 'hardware-termen' in de data door de jaren heen.
 
-<iframe src=\'https://flo.uri.sh/visualisation/9766399/embed
-title=\'Interactive or visual content\' frameborder=\'0\'
-scrolling=\'no\' style=\'width:100%;height:600px;\'
-sandbox=\'allow-same-origin allow-forms allow-scripts allow-downloads
-allow-popups allow-popups-to-escape-sandbox
-allow-top-navigation-by-user-activation\'\>\</iframe\>
+<iframe src='https://flo.uri.sh/visualisation/9766399/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### [[Figuur]{.underline} [10.]{.underline}](https://flo.uri.sh/visualisation/9766399/embed) Aanwezigheid van software- en hardware-termen in de Tegenlicht-data. 
 
@@ -470,20 +429,7 @@ hardware-termen zich door de tijd heen tot elkaar verhouden. De grote
 van een bol laat zien hoe vaak de betreffende zoekterm voorkwam in
 verhouding tot de andere zoektermen in dat jaar.
 
-<iframe src=\'https://flo.uri.sh/visualisation/10104388/embed\'
-title=\'Interactive or visual content\' class=\'flourish-embed-iframe\'
-frameborder=\'0\' scrolling=\'no\' style=\'width:100%;height:600px;\'
-sandbox=\'allow-same-origin allow-forms allow-scripts allow-downloads
-allow-popups allow-popups-to-escape-sandbox
-allow-top-navigation-by-user-activation\'\>\</iframe\>\<div
-style=\'width:100%!;margin-top:4px!important;text-align:right!important;\'\>\<a
-class=\'flourish-credit\'
-href=\'https://public.flourish.studio/visualisation/8701137/?utm_source=embed&utm_campaign=visualisation/8701137\'
-target=\'\_top\' style=\'text-decoration:none!important\'\>\<img
-alt=\'Made with Flourish\'
-src=\'https://public.flourish.studio/resources/made_with_flourish.svg\'
-style=\'width:105px!important;height:16px!important;border:none!important;margin:0!important;\'\>
-\</a\>\</div\>
+<iframe src='https://flo.uri.sh/visualisation/10104388/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe
 
 ##### [[Figuur]{.underline} [11]{.underline}](https://public.flourish.studio/visualisation/10104388/). Software- en hardware-termen door de tijd.
 
@@ -515,12 +461,7 @@ Daarnaast hebben we specifiek gezocht op 'robot'. Figuur 12 toont de
 aanwezigheid van 'automatisering', 'robotisering' en 'robot' ("robot"en
 "robots") in de data.
 
-<iframe src=\'https://flo.uri.sh/visualisation/9767850/embed
-title=\'Interactive or visual content\' frameborder=\'0\'
-scrolling=\'no\' style=\'width:100%;height:600px;\'
-sandbox=\'allow-same-origin allow-forms allow-scripts allow-downloads
-allow-popups allow-popups-to-escape-sandbox
-allow-top-navigation-by-user-activation\'\>\</iframe\>
+<iframe src='https://flo.uri.sh/visualisation/9767850/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### [[Figuur]{.underline} [12]{.underline}](https://flo.uri.sh/visualisation/9767850/embed). De begrippen 'automatisering', 'robotisering' en 'robot' in de data.
 
@@ -543,12 +484,7 @@ aanwezigheid zien van het begrip 'innovatie' door te analyseren op
 'revolutie' door te analyseren op "revolutie", "revoluties",
 "revolutionair" en "revolutionaire".
 
-<iframe src=\'https://flo.uri.sh/visualisation/9766866/embed
-title=\'Interactive or visual content\' frameborder=\'0\'
-scrolling=\'no\' style=\'width:100%;height:600px;\'
-sandbox=\'allow-same-origin allow-forms allow-scripts allow-downloads
-allow-popups allow-popups-to-escape-sandbox
-allow-top-navigation-by-user-activation\'\>\</iframe\>
+<iframe src='https://flo.uri.sh/visualisation/9766866/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### [[Figuur]{.underline} [13]{.underline}](https://flo.uri.sh/visualisation/9766866/embed). Aanwezigheid van 'innovatie' en 'revolutie' in de data van Tegenlicht.
 
@@ -616,12 +552,7 @@ hebben we gecombineerd met 'verleden' door te analyseren op "vroeger",
 "vroegere" en "verleden", om deze met elkaar te kunnen vergelijken.
 Figuur 14 laat de resultaten zien.
 
-<iframe src=\'https://flo.uri.sh/visualisation/9791102/embed
-title=\'Interactive or visual content\' frameborder=\'0\'
-scrolling=\'no\' style=\'width:100%;height:600px;\'
-sandbox=\'allow-same-origin allow-forms allow-scripts allow-downloads
-allow-popups allow-popups-to-escape-sandbox
-allow-top-navigation-by-user-activation\'\>\</iframe\>
+<iframe src='https://flo.uri.sh/visualisation/9791102/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### [[Figuur]{.underline} [14]{.underline}](https://flo.uri.sh/visualisation/9791102/embed). De aanwezigheid van 'toekomst' en 'verleden' in Tegenlicht.
 
@@ -657,12 +588,7 @@ menselijke gemeenschap/samenleving was aanleiding voor nadere analyses.
 Figuur 15 toont de aanwezigheid van de termen "we", "wij", "ons", en
 "onze" in de buurt van de technologie-termen per thema.
 
-<iframe src=\'https://flo.uri.sh/visualisation/9680033/embed
-title=\'Interactive or visual content\' frameborder=\'0\'
-scrolling=\'no\' style=\'width:100%;height:600px;\'
-sandbox=\'allow-same-origin allow-forms allow-scripts allow-downloads
-allow-popups allow-popups-to-escape-sandbox
-allow-top-navigation-by-user-activation\'\>\</iframe\>
+<iframe src='https://flo.uri.sh/visualisation/9680033/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### [[Figuur]{.underline}](https://flo.uri.sh/visualisation/9680033/embed) 15. De termen "we", "wij", "ons", "onze" in de buurt van technologie-termen per thema.
 
@@ -676,12 +602,7 @@ We ook hebben nog gekeken naar het begrip 'mens' in Tegenlicht door te
 zoeken op "mens", "mensen", "menselijk", "menselijke" en "mensheid".
 Figuur 16 toont het resultaat.
 
-<iframe src=\'https://flo.uri.sh/visualisation/9792192/embed
-title=\'Interactive or visual content\' frameborder=\'0\'
-scrolling=\'no\' style=\'width:100%;height:600px;\'
-sandbox=\'allow-same-origin allow-forms allow-scripts allow-downloads
-allow-popups allow-popups-to-escape-sandbox
-allow-top-navigation-by-user-activation\'\>\</iframe\>
+<iframe src='https://flo.uri.sh/visualisation/9792192/embed title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### [[Figuur]{.underline}](https://flo.uri.sh/visualisation/9792192/embed) 16. Het begrip 'mens' in de buurt van technologie-termen per thema.
 
