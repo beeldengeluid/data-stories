@@ -361,7 +361,6 @@ naar varianten voor enkelvoud en meervoud.
 
 ##### Tabel 1. Software- en hardware-termen
 
------------------------------------------------------------------------
 | **Software-termen**                     |**Hardware-termen**|
 | --------------------------------------- |-------------------------------|
 | AI                                      |apparatuur|
@@ -379,7 +378,6 @@ naar varianten voor enkelvoud en meervoud.
 |                                         |scherm|
 |                                         |server|
 |                                         |webcam|
-|------------------------------------------|-----------------------------|
 
 Figuur 10 toont de aanwezigheid van deze 'software-termen' en
 'hardware-termen' in de data door de jaren heen.
@@ -492,27 +490,19 @@ voor innovaties in hardware, gevolgd door revolutie en software.
 
 ##### Tabel 2. Pieken in de grafieken
 
-  -----------------------------------------------------------------------
-  **begrip**                                **piekt in**
-  ----------------------------------------- -----------------------------
-  google                                    2006
 
-  innovatie                                 2011
+|**begrip**                                |**piekt in**|
+|----------------------------------------- |-----------------------------|
+|google                                    |2006|
+|innovatie                                 |2011|
+|computer / hardware-termen                |2014|
+|technologie-termen                        |2014-2015|
+|smartphone / automatisering / robot / revolutie    |2015|
+|app / robotisering                        |2016|
+|website / software-termen / algoritme     |2018|
+|technologie-termen / app / algoritme / smartphone   |2022|
+                                
 
-  computer / hardware-termen                2014
-
-  technologie-termen                        2014-2015
-
-  smartphone / automatisering / robot /     2015
-  revolutie                                 
-
-  app / robotisering                        2016
-
-  website / software-termen / algoritme     2018
-
-  technologie-termen / app / algoritme /    2022
-  smartphone                                
-  -----------------------------------------------------------------------
 
 In grote lijnen is Tabel 2 ook een weerspiegeling van de algemene
 technologische ontwikkelingen. De pieken concentreren zich rond de
