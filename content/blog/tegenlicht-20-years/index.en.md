@@ -60,7 +60,7 @@ In deze Data Story diepen we de relatie van Tegenlicht met technologie
 uit aan de hand van de volgende onderzoeksvraag: Hoe heeft de aandacht
 voor technologie in verschillende facetten zich in 20 jaar Tegenlicht
 ontwikkeld? Omdat we voor deze Data Story onderzoek doen op basis van
-metadata van afleveringen van <a href="https://mediasuite.clariah.nl/tool/single-search?queryId=d024329e-c778-44f6-a515-0e9148b62798" target="_blank">Tegenlicht[^2]</a>
+metadata van afleveringen van <a href="https://mediasuite.clariah.nl/tool/single-search?queryId=d024329e-c778-44f6-a515-0e9148b62798" target="_blank">Tegenlicht</a>[^2]
 stellen we ook de vraag wat we kunnen meten en wat niet. In deze Data
 Story gaan we dan ook nader in op de beperkingen van data-onderzoek en
 de noodzaak een kritisch perspectief aan te nemen ten opzichte van data
@@ -380,7 +380,7 @@ naar varianten voor enkelvoud en meervoud.
 Figuur 10 toont de aanwezigheid van deze 'software-termen' en
 'hardware-termen' in de data door de jaren heen.
 
-<<iframe src='https://flo.uri.sh/visualisation/9766399/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9766399/?utm_source=embed&utm_campaign=visualisation/9766399' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<iframe src='https://flo.uri.sh/visualisation/9766399/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9766399/?utm_source=embed&utm_campaign=visualisation/9766399' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ##### Figuur 10. Aanwezigheid van software- en hardware-termen in de Tegenlicht-data. 
 
@@ -599,8 +599,7 @@ aantallen.
 
 <iframe src='https://flo.uri.sh/visualisation/8673305/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/8673305/?utm_source=embed&utm_campaign=visualisation/8673305' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-Figuur 17.
-De samenhang tussen de verschillende onderzochte begrippen op basis van
+##### Figuur 17. De samenhang tussen de verschillende onderzochte begrippen op basis van
 absolute aantallen.
 
 Het lijkt alsof de 'we'-termen en de 'mens'-termen een grote rol spelen
@@ -612,8 +611,7 @@ van percentages.
 
 <iframe src='https://flo.uri.sh/visualisation/10102734/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/10102734/?utm_source=embed&utm_campaign=visualisation/10102734' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-Figuur 18.
-De samenhang tussen de verschillende onderzochte begrippen in
+##### Figuur 18. De samenhang tussen de verschillende onderzochte begrippen in
 percentages.
 
 Figuur 18 laat zien dat de samenhang veel gelijkmatiger is verdeeld: de
@@ -716,26 +714,25 @@ Bruijn, William de. 2022d. 'Pagina 10', e-mail aan de auteurs, 7 June
 Bruijn, William de. 2022e. 'Pagina 15', e-mail aan de auteurs, 8 June
 2022.
 
-Cheng, Jacqui. 2007. ['It's Official: Google Announces Open-Source
-Mobile Phone OS,
-Android'](https://arstechnica.com/gadgets/2007/11/its-official-google-announces-open-source-mobile-phone-os-android/).
+Cheng, Jacqui. 2007. <a href="https://arstechnica.com/gadgets/2007/11/its-official-google-announces-open-source-mobile-phone-os-android/" target="_blank">'It's Official: Google Announces Open-Source
+Mobile Phone OS,Android'</a>.
 *Ars Technica*, 5 november 2007.
 
 D'Ignazio, Catherine, and Lauren F. Klein. 2020. *Data Feminism*.
 Cambridge, MA: The MIT Press.
 
-Gibbs, Samuel. 2015. ['Google Maps: A Decade of Transforming the
+Gibbs, Samuel. 2015. <a href="https://www.theguardian.com/technology/2015/feb/08/google-maps-10-anniversary-iphone-android-street-view" target="_blank">'Google Maps: A Decade of Transforming the
 Mapping
-Landscape'](https://www.theguardian.com/technology/2015/feb/08/google-maps-10-anniversary-iphone-android-street-view).
+Landscape'</a>.
 *The Guardian*, 8 February 2015.
 
-iCulture. 2022. ['iPhone-geschiedenis: de complete tijdlijn van de
-iPhone'](https://www.iculture.nl/uitleg/iphone-geschiedenis/).
+iCulture. 2022. <a href="https://www.iculture.nl/uitleg/iphone-geschiedenis/" target="_blank">'iPhone-geschiedenis: de complete tijdlijn van de
+iPhone'</a>.
 *iCulture*, januari 2022.
 
-Trends. 2018. ['Google wordt 20 jaar: de geschiedenis van het bedrijf
+Trends. 2018. <a href="https://trends.knack.be/economie/bedrijven/google-wordt-20-jaar-de-geschiedenis-van-het-bedrijf-in-15-mijlpalen/article-normal-1190535.html" target="_blank">'Google wordt 20 jaar: de geschiedenis van het bedrijf
 in 15
-mijlpalen'](https://trends.knack.be/economie/bedrijven/google-wordt-20-jaar-de-geschiedenis-van-het-bedrijf-in-15-mijlpalen/article-normal-1190535.html).
+mijlpalen'</a>.
 *Trends*-NL, 3 september 2018.
 
 Marr, Bernard (Ed.). 2016. *Big Data in Practice: How 45 Successful
@@ -754,8 +751,8 @@ Broadway Books.
     verantwoording](appendix_methodische_verantwoording).
 
 [^2]: De metadata van de afleveringen van Tegenlicht zijn te bekijken in
-    de [Clariah Media
-    Suite](https://mediasuite.clariah.nl/). Deze werkt het
+    de <a href="https://mediasuite.clariah.nl/" target="_blank">Clariah Media
+    Suite</a>. Deze werkt het
     best met Chrome. Het bekijken van afleveringen is alleen mogelijk
     door in te loggen via een Nederlandse universiteit of hogeschool.
 
