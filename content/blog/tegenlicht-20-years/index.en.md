@@ -411,7 +411,7 @@ hardware-termen zich door de tijd heen tot elkaar verhouden. De grote
 van een bol laat zien hoe vaak de betreffende zoekterm voorkwam in
 verhouding tot de andere zoektermen in dat jaar.
 
-<iframe src='https://flo.uri.sh/visualisation/10104388/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe
+<iframe src='https://flo.uri.sh/visualisation/10104388/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 ##### Figuur 11. Software- en hardware-termen door de tijd.
 
@@ -599,8 +599,7 @@ aantallen.
 
 <iframe src='https://flo.uri.sh/visualisation/8673305/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/8673305/?utm_source=embed&utm_campaign=visualisation/8673305' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-##### Figuur 17. De samenhang tussen de verschillende onderzochte begrippen op basis van
-absolute aantallen.
+##### Figuur 17. De samenhang tussen de verschillende onderzochte begrippen op basis van absolute aantallen.
 
 Het lijkt alsof de 'we'-termen en de 'mens'-termen een grote rol spelen
 en vooral met elkaar verbonden zijn. Ook zijn er sterkere banden tussen
@@ -611,8 +610,7 @@ van percentages.
 
 <iframe src='https://flo.uri.sh/visualisation/10102734/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/10102734/?utm_source=embed&utm_campaign=visualisation/10102734' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-##### Figuur 18. De samenhang tussen de verschillende onderzochte begrippen in
-percentages.
+##### Figuur 18. De samenhang tussen de verschillende onderzochte begrippen in percentages.
 
 Figuur 18 laat zien dat de samenhang veel gelijkmatiger is verdeeld: de
 'we'-termen en 'mens'-termen zijn ongeveer even sterk met alle andere
