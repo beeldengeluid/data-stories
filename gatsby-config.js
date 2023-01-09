@@ -58,8 +58,8 @@ module.exports = {
         prefixDefault: false,
         useLangKeyLayout: false,
         pagesPaths: [
-          `${__dirname}/content/blog`,
-          `${__dirname}/src/pages`
+          `C:\\Users\\mwigham\\Documents\\GitHub\\data-stories\\content\\blog`,
+          `C:\\Users\\mwigham\\Documents\\GitHub\\data-stories\\src\\pages`
         ]
       }
     },
