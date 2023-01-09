@@ -23,8 +23,8 @@ Wij denken dat dit verhaal relevant is op twee manieren. Ten eerste reflecteert 
 
 <table>
 <tr>
-<td><img src="images/KBNRC01_000087944_mpeg21_p001_image.jpg" width=200></td>
-<td><img src="images/MMNIOD05_000146218_mpeg21_p001_image.jpg" width=200></td>
+<td><img src="images/KBNRC01_000087944_mpeg21_p001_image.jpg" width=150></td>
+<td><img src="images/MMNIOD05_000146218_mpeg21_p001_image.jpg" width=150></td>
 </tr>
 <tr>
 <td><i>Algemeen Handelsblad</i>, 10 mei 1940</td>
