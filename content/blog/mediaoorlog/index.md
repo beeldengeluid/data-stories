@@ -1,8 +1,8 @@
 ---
 title: Onderzoek naar gedigitaliseerde kranten uit de Tweede Wereldoorlog 
 date: "2023-01-09T16:12:03.284Z"
-description: "**nog in te vullen**"
+description: "een onderzoek"
 ---
 
-**<span style="text-decoration:underline;">1. Inleiding en methodologie</span>**
+**1. Inleiding en methodologie**
 
