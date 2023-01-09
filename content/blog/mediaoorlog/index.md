@@ -21,16 +21,18 @@ Deze Data Story belicht de manier waarop het team van MediaOorlog deze enorme da
 
 Wij denken dat dit verhaal relevant is op twee manieren. Ten eerste reflecteert deze Data Story op het ontsluiten van een groot corpus aan gedigitaliseerde historische data en in die hoedanigheid kan het dienen als een voorbeeld voor andere projecten. Ten tweede geven we rekenschap van de omgang met een bronnencorpus uit een van de meest beladen periodes uit de Nederlandse geschiedenis: de nazi-bezetting tijdens de Tweede Wereldoorlog. In het onderzoek, dat inmiddels verricht is door onderzoek-fellows blijkt dat collectie oorlogskranten een zeer rijke bron is en we hopen met deze Data Story anderen te inspireren om eigen onderzoek te verrichten en  nodigen iedereen uit om gebruik te maken van deze dataset.
 
+<table>
+<tr>
+<td>![Voorpagina Algemeen Handelsblad 10 mei 1940](images/KBNRC01_000087944_mpeg21_p001_image.jpg "Voorpagina Algemeen Handelsblad 10 mei 1940")</td>
+<td>![Voorpagina Het Parool 5 mei 1945](images/MMNIOD05_000146218_mpeg21_p001_image.jpg "Voorpagina Het Parool 5 mei 1945")</td>
+</tr>
+<tr>
+<td>_Algemeen Handelsblad_, 10 mei 1940</td>
+<td>_Het Parool_, 5 mei 1945</td>
+</tr>
+</table>
 
-![Voorpagina Algemeen Handelsblad 10 mei 1940](images/KBNRC01_000087944_mpeg21_p001_image.jpg "Voorpagina Algemeen Handelsblad 10 mei 1940")
-
-
-![Voorpagina Het Parool 5 mei 1945](images/MMNIOD05_000146218_mpeg21_p001_image.jpg "Voorpagina Het Parool 5 mei 1945")
-
-
-       _Algemeen Handelsblad_, 10 mei 1940			_Het Parool_, 5 mei 1945
-
-Afbeelding 1: voorpagina’s van twee kranten die het begin- en eind markeren van de periode die wordt onderzocht
+_Afbeelding 1: voorpagina’s van twee kranten die het begin- en eind markeren van de periode die wordt onderzocht_
 
 Deze Data Story is de uitkomst van een intensieve samenwerking tussen mensen die werken in verschillende disciplines: data engineering, AI development en geschiedenis. Het proces was in veel opzichten een vruchtbare dialoog tussen kwalitatieve en kwantitatieve onderzoeksmethodologiën, die elkaar goed aanvullen. Aan de ene kant valideren kwantitatieve trends in de data enkele belangrijke punten in de bestaande historische literatuur over de Nederlandse media tijdens de Tweede Wereldoorlog. Aan de andere kant kan kwalitatief historisch onderzoek helpen om de beschikbare data te verifiëren en waar nodig te corrigeren. Het eerste deel van deze Data Story geeft inzicht in deze interdisciplinaire samenwerking. Daarnaast toont deze bijdrage aan dat de beschikbare data in de Media Suite mogelijkheden biedt voor nieuw mediahistorisch onderzoek. In het tweede deel laten we zien hoe met behulp van verschillende strategieën semantische patronen kunnen worden blootgelegd die onze kennis over het gebruik van media voor propagandadoeleinden tijdens oorlogstijd kunnen verdiepen. Uitgangspunt hierbij is om de wisselwerking bloot te leggen tussen de propaganda-narratieven in media die de bezetting steunden en de media die zich daartegen verzetten.
 
