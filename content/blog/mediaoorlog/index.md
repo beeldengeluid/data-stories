@@ -21,8 +21,16 @@ Deze Data Story belicht de manier waarop het team van MediaOorlog deze enorme da
 
 Wij denken dat dit verhaal relevant is op twee manieren. Ten eerste reflecteert deze Data Story op het ontsluiten van een groot corpus aan gedigitaliseerde historische data en in die hoedanigheid kan het dienen als een voorbeeld voor andere projecten. Ten tweede geven we rekenschap van de omgang met een bronnencorpus uit een van de meest beladen periodes uit de Nederlandse geschiedenis: de nazi-bezetting tijdens de Tweede Wereldoorlog. In het onderzoek, dat inmiddels verricht is door onderzoek-fellows blijkt dat collectie oorlogskranten een zeer rijke bron is en we hopen met deze Data Story anderen te inspireren om eigen onderzoek te verrichten en  nodigen iedereen uit om gebruik te maken van deze dataset.
 
-![Voorpagina Algemeen Handelsblad 10 mei 1940](images/KBNRC01_000087944_mpeg21_p001_image.jpg "Voorpagina Algemeen Handelsblad 10 mei 1940" =50%x) 
-![Voorpagina Het Parool 5 mei 1945](images/MMNIOD05_000146218_mpeg21_p001_image.jpg "Voorpagina Het Parool 5 mei 1945" =50%x)
+<table>
+<tr>
+<td><img src="images/KBNRC01_000087944_mpeg21_p001_image.jpg" width=200></td>
+<td><img src="images/MMNIOD05_000146218_mpeg21_p001_image.jpg" width=200></td>
+</tr>
+<tr>
+<td><i>Algemeen Handelsblad</i>, 10 mei 1940</td>
+<td><i>Het Parool</i>, 5 mei 1945</td>
+</tr>
+</table>
 
 _Afbeelding 1: voorpagina’s van twee kranten die het begin- en eind markeren van de periode die wordt onderzocht_
 
