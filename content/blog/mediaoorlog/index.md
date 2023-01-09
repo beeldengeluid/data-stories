@@ -21,16 +21,8 @@ Deze Data Story belicht de manier waarop het team van MediaOorlog deze enorme da
 
 Wij denken dat dit verhaal relevant is op twee manieren. Ten eerste reflecteert deze Data Story op het ontsluiten van een groot corpus aan gedigitaliseerde historische data en in die hoedanigheid kan het dienen als een voorbeeld voor andere projecten. Ten tweede geven we rekenschap van de omgang met een bronnencorpus uit een van de meest beladen periodes uit de Nederlandse geschiedenis: de nazi-bezetting tijdens de Tweede Wereldoorlog. In het onderzoek, dat inmiddels verricht is door onderzoek-fellows blijkt dat collectie oorlogskranten een zeer rijke bron is en we hopen met deze Data Story anderen te inspireren om eigen onderzoek te verrichten en  nodigen iedereen uit om gebruik te maken van deze dataset.
 
-<table>
-<tr>
-<td>![Voorpagina Algemeen Handelsblad 10 mei 1940](images/KBNRC01_000087944_mpeg21_p001_image.jpg "Voorpagina Algemeen Handelsblad 10 mei 1940")</td>
-<td>![Voorpagina Het Parool 5 mei 1945](images/MMNIOD05_000146218_mpeg21_p001_image.jpg "Voorpagina Het Parool 5 mei 1945")</td>
-</tr>
-<tr>
-<td>_Algemeen Handelsblad_, 10 mei 1940</td>
-<td>_Het Parool_, 5 mei 1945</td>
-</tr>
-</table>
+![Voorpagina Algemeen Handelsblad 10 mei 1940](images/KBNRC01_000087944_mpeg21_p001_image.jpg "Voorpagina Algemeen Handelsblad 10 mei 1940") ![Voorpagina Het Parool 5 mei 1945](images/MMNIOD05_000146218_mpeg21_p001_image.jpg "Voorpagina Het Parool 5 mei 1945")</td>
+
 
 _Afbeelding 1: voorpagina’s van twee kranten die het begin- en eind markeren van de periode die wordt onderzocht_
 
@@ -40,7 +32,7 @@ Deze Data Story is de uitkomst van een intensieve samenwerking tussen mensen die
 
 De metadata-velden van de krantencollectie Delpher kennen verschillende categorieën, die inzicht geven in de aard van de publicaties. Wat ontbreekt is een indeling op redactioneel-politieke gronden.  Als het gaat om kranten uit de Tweede Wereldoorlog is het van groot belang om een indeling te maken langs politieke lijnen om tot een goede analyse van de bronnen (bronnenkritiek) te komen . De belangrijkste scheidslijn was die tussen de publicaties die onder controle stonden van de bezettingsautoriteiten, en dus informatie verspreidden die het regime ondersteunde, en publicaties die opriepen tot verzet. Deze eerste categorie ‘genazificeerde kranten’ kan verder onderverdeeld worden. Er waren kranten die werden uitgegeven door organisaties verbonden met de ‘nazi partij’ die het regime vrijwillig  en uit overtuiging steunden. Daarnaast waren er kranten die ‘gelijkgeschakeld’ waren en onder strikt toezicht stonden van bezettingsautoriteiten, die veel druk uitoefenden op de journalisten die werkzaam waren bij deze kranten. De ‘anti-nazi kranten’ in bezet Nederland verschenen clandestien omdat uitgave ‘illegaal’ was, een term die zij als geuzennaam adopteerden. In september 1944 werden de zuidelijke provincies van Nederland ‘bevrijd gebied’ en ook daar verschenen kranten die ageerden tegen de nazi’s.
 
-Op basis van deze inzichten uit de bestaande historiografie zijn categorieën geformeerd om de metadata van het Delpher materiaal te verrijken. Met name waardevol was de publicatie _[Woord als wapen ](http://publications.niod.knaw.nl/publications/Woord_wapen.pdf)_uit 1952, dat een overzicht bevat van de verzetskranten die zijn gearchiveerd door het Rijksinstituut voor Oorlogsdocumentatie (thans NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies). Met behulp van een lijst van 1273 titels is handmatig een indeling gemaakt in een excel sheet, die is gebruikt om in de Media Suite selecties (zogeheten _queries_) te maken zodat onderzoekers de verschillende segmenten van het krantenlandschap in samenhang kunnen onderzoeken en vergelijken met behulp van de compare-functie. De hyperlinks hieronder geven toegang tot de verschillende _queries _en kunnen voor eigen doeleinden worden opgeslagen door ingelogde gebruikers van de Media Suite en gebruik voor eigen onderzoek.
+Op basis van deze inzichten uit de bestaande historiografie zijn categorieën geformeerd om de metadata van het Delpher materiaal te verrijken. Met name waardevol was de publicatie [_Woord als wapen_](http://publications.niod.knaw.nl/publications/Woord_wapen.pdf) uit 1952, dat een overzicht bevat van de verzetskranten die zijn gearchiveerd door het Rijksinstituut voor Oorlogsdocumentatie (thans NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies). Met behulp van een lijst van 1273 titels is handmatig een indeling gemaakt in een excel sheet, die is gebruikt om in de Media Suite selecties (zogeheten _queries_) te maken zodat onderzoekers de verschillende segmenten van het krantenlandschap in samenhang kunnen onderzoeken en vergelijken met behulp van de compare-functie. De hyperlinks hieronder geven toegang tot de verschillende _queries _en kunnen voor eigen doeleinden worden opgeslagen door ingelogde gebruikers van de Media Suite en gebruik voor eigen onderzoek.
 
 **[Hele corpus (alle krantentitels 10 mei 1940 t/m 5 mei 1945)](https://mediasuite.clariah.nl/tool/single-search?queryId=15710a10-1c6d-4c3c-bbb7-73b2c12784c9)**
 
