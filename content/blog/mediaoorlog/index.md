@@ -32,7 +32,7 @@ Wij denken dat dit verhaal relevant is op twee manieren. Ten eerste reflecteert 
 </tr>
 </table>
 
-_Afbeelding 1: voorpagina’s van twee kranten die het begin- en eind markeren van de periode die wordt onderzocht_
+_Afbeelding 1: voorpagina’s van twee kranten die het begin- en eind markeren van de periode die wordt onderzocht_ Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
 Deze Data Story is de uitkomst van een intensieve samenwerking tussen mensen die werken in verschillende disciplines: data engineering, AI development en geschiedenis. Het proces was in veel opzichten een vruchtbare dialoog tussen kwalitatieve en kwantitatieve onderzoeksmethodologiën, die elkaar goed aanvullen. Aan de ene kant valideren kwantitatieve trends in de data enkele belangrijke punten in de bestaande historische literatuur over de Nederlandse media tijdens de Tweede Wereldoorlog. Aan de andere kant kan kwalitatief historisch onderzoek helpen om de beschikbare data te verifiëren en waar nodig te corrigeren. Het eerste deel van deze Data Story geeft inzicht in deze interdisciplinaire samenwerking. Daarnaast toont deze bijdrage aan dat de beschikbare data in de Media Suite mogelijkheden biedt voor nieuw mediahistorisch onderzoek. In het tweede deel laten we zien hoe met behulp van verschillende strategieën semantische patronen kunnen worden blootgelegd die onze kennis over het gebruik van media voor propagandadoeleinden tijdens oorlogstijd kunnen verdiepen. Uitgangspunt hierbij is om de wisselwerking bloot te leggen tussen de propaganda-narratieven in media die de bezetting steunden en de media die zich daartegen verzetten.
 
@@ -70,7 +70,7 @@ Tijdens het categoriseren, en ook in het onderzoek daarna, viel het op dat sommi
 </tr>
 </table>
               
-_Afbeelding 2: twee versies van _Veritas_ ‘gelijkgeschakeld’ (links) en ‘bevrijd gebied’ (rechts)_
+_Afbeelding 2: twee versies van Veritas ‘gelijkgeschakeld’ (links) en ‘bevrijd gebied’ (rechts)_ Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
 Een andere factor was de dynamiek van de propagandastrijd. Sommige titels van nazi-partij kranten werden gebruikt door verzetsgroepen. Deze vorm van imitatie was waarschijnlijk bedoeld om nationaal-socialisten te desoriënteren. Een voorbeeld is _Storm: Blad der Nederlandsche SS_ dat, op niet echt overtuigende wijze, werd nagemaakt in Amsterdam in de laatste dagen van de bezetting.
 <table>
@@ -84,17 +84,18 @@ Een andere factor was de dynamiek van de propagandastrijd. Sommige titels van na
 </tr>
 </table>
 
-_Afbeelding 3: twee versies van Storm SS: de originele nazistische versie (links) en de imitatie door het Amsterdamse verzet (rechts)_
+_Afbeelding 3: twee versies van Storm SS: de originele nazistische versie (links) en de imitatie door het Amsterdamse verzet (rechts)_ Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
  
 
 ### 3. Ongelijk medialandschap
 
-Om tot een goede afweging te komen van de betekenis van de verschillende publicaties tijdens de Tweede Wereldoorlog, is het van belang om te beseffen dat het medialandschap in die jaren ongelijk was. Het autocratische bezettingsregime in Nederland liet geen vrijheid van meningsuiting toe en had als doel om via de kranten de Nederlandse publieke opinie te winnen voor Hitler’s Derde Rijk. Bladen die werden uitgegeven door de NSB of andere nationaal-socialistische organisaties, deden dit vanuit ideologische overtuiging en waren open doorgeefkanalen voor de nazi-propaganda uit Berlijn. Deze kranten bevatten extremistische uitingen, zoals een virulent antisemitisme.[^1] Wat jodenhaat betreft, spande het weekblad _De Misthoorn _de kroon.
-<iframe src='https://flo.uri.sh/visualisation/12397344/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'>
-      De misthoorn_, 5 september 1942
+Om tot een goede afweging te komen van de betekenis van de verschillende publicaties tijdens de Tweede Wereldoorlog, is het van belang om te beseffen dat het medialandschap in die jaren ongelijk was. Het autocratische bezettingsregime in Nederland liet geen vrijheid van meningsuiting toe en had als doel om via de kranten de Nederlandse publieke opinie te winnen voor Hitler’s Derde Rijk. Bladen die werden uitgegeven door de NSB of andere nationaal-socialistische organisaties, deden dit vanuit ideologische overtuiging en waren open doorgeefkanalen voor de nazi-propaganda uit Berlijn. Deze kranten bevatten extremistische uitingen, zoals een virulent antisemitisme.[^1] Wat jodenhaat betreft, spande het weekblad _De Misthoorn_ de kroon.
 
-_Afbeelding 4: een voorbeeld van antisemitisme in het kranten-materiaal_
+<iframe src='https://flo.uri.sh/visualisation/12397344/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'>
+_De misthoorn_, 5 september 1942
+
+_Afbeelding 4: een voorbeeld van antisemitisme in het kranten-materiaal_ Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
 Bestaande kranten van andere politieke signatuur mochten blijven bestaan maar werden onder strikte controle gesteld (gelijkgeschakeld), door middel van censuur en ‘vertrouwelijke mededelingen’, richtlijnen die elke dag werden uitgedeeld tijdens een persconferentie.[^2] Na de bevrijding, in 1945, verbeeldde de cartoonist Leo Jordaan dit _top-down _informatiesysteem op iconische wijze:
 
@@ -110,13 +111,15 @@ De omgang met de verzetskranten was totaal anders. Medewerkers van illegale blad
 Deze contrasten, voortgekomen uit de machtsongelijkheid van de bezettingsperiode, vertalen zich in de kwantitatieve data: de gelijkgeschakelde kranten tellen veruit de meeste artikelen. Om dit te kunnen uitbeelden hebben we visualisaties gemaakt van de aantallen krantenartikelen per categorie. De Media Suite biedt de mogelijkheid voor dit soort analyses niet, omdat deze specifiek zijn per onderzoeker. Naast de Media Suite wordt er daarom een omgeving opgezet waarin de data geanalyseerd kan worden via Jupyter Notebooks, een laagdrempelige manier voor onderzoekers om aan de slag te gaan met data en visualisaties. Deze omgeving is nu alleen binnen het online domein van Beeld en Geluid beschikbaar maar zal binnenkort breder toegankelijk worden gemaakt.
 
 <iframe src='https://flo.uri.sh/visualisation/11870031/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11870031/?utm_source=embed&utm_campaign=visualisation/11870031' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
-_Figuur 2: totaal aantal artikelen per categorie_
+
+_Figuur 2_: totaal aantal artikelen per categorie_
 
 ### 4. Ontwikkeling over tijd: afname van genazificeerde kranten, groei anti-nazi kranten
 
 De ongelijkheden in het medialandschap waren niet constant tijdens de gehele bezetting. Zoals figuur 3 laat zien, kalfde de gelijkgeschakelde pers af tijdens de periode 1940-1945 en groeide de illegale pers. In de laatste maanden van de oorlog bevat het corpus zelfs meer materiaal uit de illegale pers dan uit de genazificeerde pers.
 
 <iframe src='https://flo.uri.sh/visualisation/11868560/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11868560/?utm_source=embed&utm_campaign=visualisation/11868560' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
 _Figuur 3. Aantal artikelen per categorie kranten, over tijd_ 
 
 Deze trends zijn te verklaren met behulp van de bestaande literatuur. Ten eerste is aangetoond dat de bezettingsautoriteiten steeds strenger werden en in de loop van de oorlog meer kranten verboden (soms tijdelijk, soms permanent), waardoor er in de loop van de tijd minder gelijkgeschakelde titels verschenen.[^4] Aan de andere kant werden de illegale bladen steeds beter georganiseerd. Waar in de eerste maanden individuen veelal alleen werkten, ontstonden er later tijdens de bezetting steeds uitgebreidere netwerken die de productie van bladen faciliteerden. Een belangrijke impuls voor de groei van de illegale pers was het verbod op radio-ontvangst toestellen in mei 1943. Dat verbod werd door de bezettingsautoriteiten ingevoerd om te voorkomen dat mensen luisterden naar zenders die vanuit Londen uitzonden. Verzetsgroepen in verschillende steden namen daarom het initiatief om illegale bladen te maken op basis van die radio-uitzendingen, zodat mensen er toch kennis van konden nemen, zonder dat zij het risico hoefden te nemen om een radio in huis te hebben.[^5] De radiozenders uit Londen waren zich bewust van deze praktijken en maakten in de laatste fase van de oorlog speciale uitzendingen op dicteer-snelheid zodat de Nederlandse verzetsmensen de berichten goed konden overtypen, zoals te horen is in dit [audiofragment](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608150134284931&cid=daan-catalogue-aggr&bodyClass=noHeader&singleResource=1). Veel titels van illegale bladen verwezen naar de Britse zenders, zoals de _Hier is Londen!_, en _B.B.C. Nieuws_.
@@ -147,7 +150,7 @@ Er is ook een materiële verklaring voor de dalende trend in de genazificeerde p
 </tr>
 </table>
 
-_Afbeelding 7: _Nieuwsbrief van Pieter ’t Hoen_, 25 juli 1940 en_ Het Parool_, 10 mei 1941, 10 mei 1942 en 5 mei 1945. De vormgeving werd steeds professioneler_ 
+_Afbeelding 7: _Nieuwsbrief van Pieter ’t Hoen_, 25 juli 1940 en_ Het Parool_, 10 mei 1941, 10 mei 1942 en 5 mei 1945. De vormgeving werd steeds professioneler_ Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
 
 
@@ -158,21 +161,26 @@ De bestaande literatuur over de oorlogsmedia richt zich sterk op de Nederlandse 
 Deze krantendataset bestaat uit ingescande voorpagina’s waaruit met behulp van optische tekenherkenning (OCR, optical character recognition) de tekst is geëxtraheerd. Vervolgens is eigennamen-extractie (NER, named entity recognition) gebruikt om de geopolitieke context in kaart te brengen. Op deze manier kunnen zowel de verschillende spellingsvarianten zoals Duitsland/Duitschland als  varianten zoals Duitachland en Duitsohland, die ontstaan zijn door OCR fouten, worden geïdentificeerd (zie afbeeldingen 8 t/m 11). Omdat het gebruikte algoritme niet alle geografische termenherkent (precision 0.78, recall 0.76, F-score 0.77) hebben we de meest voorkomende geografische termen (inclusief spelling variaties) vervolgens gezocht en geteld.
 
 ![Duitsland](images/werkgelegenheid.jpg)
+
 _Afbeelding 8: ‘Duitşland’_, bron: _Het Volk_, 06-06-1940 [https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:011117564:mpeg21:a0052](https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:011117564:mpeg21:a0052)
 
 ![Duitschland](images/duitschland.PNG)
+
 _Afbeelding 9: ‘Duitschland’_, bron: _Zutphensche Courant_, 06-06-1940 [https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010695301:mpeg21:a0077](https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010695301:mpeg21:a0077) 
 
 ![Duitachland](images/de joden in duitsland.PNG)
+
 _Afbeelding 10: ‘Duitachland’_, bron: _Residentiebode_, 04-10-1941 [https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:011062607:mpeg21:a0212](https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:011062607:mpeg21:a0212) 
 
 ![Duitsohland](images/duitsohland.PNG)
+
 _Afbeelding 11: ‘Duitsohland’_, bron: _Het nieuws_, 21-03-1945 [https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010431700:mpeg21:a0002](https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010431700:mpeg21:a0002)
 
 Om de spellingsvarianten mee te nemen hebben we deze geclusterd voor een aantal belangrijke geografische termen , bepaald aan de hand van een eerste inventarisatie van de frequenties van alle spellingsvarianten. 
 
 <iframe src='https://flo.uri.sh/visualisation/9972759/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9972759/?utm_source=embed&utm_campaign=visualisation/9972759' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
-_Figuur 4. Grafiek met uitkomsten NER-analyse geografische termen voorpagina’s_. [https://public.flourish.studio/visualisation/9972759/](https://public.flourish.studio/visualisation/9972759/) 
+
+_Figuur 4. Grafiek met uitkomsten NER-analyse geografische termen voorpagina’s_
 
 Figuur 4 laat zien dat het Nederlandse medialandschap tijdens de Tweede Wereldoorlog gericht was op de internationale context. Met name de strijd tussen nazi-Duitsland en het laatste bastion van de geallieerden, Engeland, in Noordwest Europa was vaak voorpagina-nieuws. Het feit dat de twee hoofdsteden van deze landen, Berlijn en Londen, op plekken 5 en 6 staan, onderstreept deze dynamiek. In de huidige literatuur wordt de geschiedenis van de kranten tijdens de Nederlandse bezetting nog vaak in strikte nationale context bezien.[^7] Deze visualisatie laat echter zien dat het Nederlandse medialandschap in transnationaal perspectief geplaatst moet worden. Via de geschreven pers hadden Nederlanders toegang tot informatie over de gebeurtenissen buiten de grenzen die het lot van hun eigen land in grote mate bepaalden. Die informatie was niet neutraal en lezers waren zich hiervan bewust, zoals blijkt uit egodocumenten die zij achter hebben gelaten.[^8] Bovendien, als we naar de NER diagrammen kijken van afzonderlijke categorieën, zien we interessante verschillen in de top 4. Een nadere blik op deze uitkomsten roept nieuwe reflecties op.
 
@@ -188,7 +196,8 @@ Vanwege het grote aantal locaties was clustering niet haalbaar voor alle geograf
 #### Europa domineert in Nazi-partij kranten
 
 <iframe src='https://flo.uri.sh/visualisation/9972939/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9972939/?utm_source=embed&utm_campaign=visualisation/9972939' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
-_Figuur 5. Uitkomsten NER analyse geografische termen voorpagina’s voor de categorie nazi-partij kranten_ [https://public.flourish.studio/visualisation/9972939/](https://public.flourish.studio/visualisation/9972939/) 
+
+_Figuur 5. Uitkomsten NER analyse geografische termen voorpagina’s voor de categorie nazi-partij kranten_
 
 Een van de uitkomsten van de NER-analyse is dat ‘Europa’ de meest voorkomende geografische aanduiding is op de voorpagina’s van de nazi-partijkranten. Hoewel Hitler uitsluitend geïnteresseerd was in het belang van Duitsland, maakten de nazi’s, vooral in hun propaganda gericht op de bezette gebieden, veelvuldig gebruik van het ideaal ‘Europa’ om hun oorlogsdoelen en bezettingspolitiek te legitimeren. De wijze waarop door de nazi-autoriteiten en hun collaborateurs invulling werd gegeven aan ‘Europa’ was echter divers, veranderlijk, soms conflicterend en dikwijls vaag. Na capitulatie van Frankrijk in juni 1940 promootten de nazi’s een toekomstige, nieuwe orde in Europa, die gekenmerkt zou worden door een behoud van nationale eigenheden, autarkie, vrede en welvaart en gecontrasteerd werd met het Verenigd Koninkrijk als imperialistische macht die slechts uit was op chaos en verdeeldheid op het Europese continent. De nazi-plannen voor deze nieuwe Europese orde in vredestijd waren het meest concreet op het gebied van de economie en kregen onder andere gestalte in het door de Duitse minister van Economische Zaken, Walther Funk, in juli 1940 gelanceerde plan voor een Europese betalingsunie. 
 
@@ -196,24 +205,25 @@ Met de inval van de Sovjet-Unie op 22 juni 1941 kreeg het idee van Europa voor d
 
 <iframe src='https://flo.uri.sh/visualisation/12397564/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-<iframe src='https://flo.uri.sh/visualisation/12397564/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12397564/?utm_source=embed&utm_campaign=visualisation/12397564' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
-_Afbeelding 12: voorpagina _Volk en Vaderland_, 23 juni 1941, over de Duitse aanval op de Sovjet-Unie_
+_Afbeelding 12: voorpagina _Volk en Vaderland_, 23 juni 1941, over de Duitse aanval op de Sovjet-Unie_ Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
 #### Nederland domineert in illegale pers
 
 <iframe src='https://flo.uri.sh/visualisation/9973014/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9973014/?utm_source=embed&utm_campaign=visualisation/9973014' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
-_Figuur 6. Uitkomsten NER analyse geografische termen voorpagina’s voor de categorie illegale kranten_ [https://public.flourish.studio/visualisation/9973014/](https://public.flourish.studio/visualisation/9973014/) 
+
+_Figuur 6. Uitkomsten NER analyse geografische termen voorpagina’s voor de categorie illegale kranten_
 
 In de illegale pers is het trefwoord ‘Nederland’ de meest voorkomende geografische term. Deze nadruk laat zich verklaren doordat de auteurs in deze categorie kranten met name bezig waren met de bestrijding van het nazi-bezettingsregime in eigen land. Dit kan ook verklaren waarom ‘Duitsland’ en ‘Berlijn’ ook hoog scoren. Een belangrijke bron voor inspiratie voor dit verzet was het nationale verleden, met name de vrijheidsstrijd tegen Spanje tijdens de Tachtigjarige Oorlog, die vaak werd aangehaald als voorbeeld voor de twintigste-eeuwse ‘geuzen’ die het nazisme bestreden. 
 
 In de laatste twee jaar van de oorlog, toen steeds duidelijker werd dat het Hitler-regime het onderspit zou delven tegen de geallieerden, functioneerden de illegale kranten bovendien als belangrijke fora voor discussies over de toekomst van Nederland na de bevrijding.[^9] _Vrij Nederland_ was de titel van een van de meest bekende verzetsbladen maar dit waren ook gevleugelde woorden die het opkomende optimisme over de eindoverwinning van de geallieerden tot uitdrukking brachten. De focus op Nederland in de illegale pers kan ook een van de redenen zijn waarom in de naoorlogse literatuur zoveel nadruk lag op de nationale context van de bezettingsgeschiedenis. Zoals vaker in het verleden werd ook in Nederland de geschiedenis geschreven door de overwinnaars. Veel journalisten die voor de illegale pers hadden geschreven, werden prominente stemmen in het historische debat over de Tweede Wereldoorlog.
 
 ![Ons Vrije Nederland](images/ddd_010435281_mpeg21_p001_image.jpg)
-_Afbeelding 13: Ons Vrije Nederland_, 29 April 1945, naar aanleiding van de aanstaande bevrijding van Nederland
+
+_Afbeelding 13: Ons Vrije Nederland_, 29 April 1945, naar aanleiding van de aanstaande bevrijding van Nederland Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
 ### 6. Trefwoorden
 
-Een andere strategie waarmee we in het project MediaOorlog hebben gewerkt is het uitvoeren van _keyword searches _om inzicht te krijgen in de semantische patronen in het Nederlandse gedigitaliseerde krantenmateriaal uit de Tweede Wereldoorlog. In deze strategie neemt de onderzoeker niet automatisch gegenereerde data-patronen als uitgangspunt maar zelf-geformuleerde trefwoorden die zijn gebaseerd op haar/zijn inzichten uit de bestaande literatuur. Om deze methode werkbaar te maken, gezien de grote hoeveelheid data, gebruiken de onderzoekers de _compare_-functie in de Media Suite, waarin verschillende trefwoord-_queries _met elkaar kunnen worden vergeleken. Op deze manier kunnen onderzoekers semantische patronen over de tijd heen zichtbaar maken en momenten selecteren die nader kunnen worden onderzocht. In de _compare-functie_ van de Media Suite is het mogelijk een selectie van artikelen te bekijken en daarna door te klikken naar het oorspronkelijke gedigitaliseerde materiaal op de website van Delpher, waar het materiaal nader kan worden onderworpen aan historische bronnenkritiek. De ervaringen van de onderzoekers leren dat specifieke termen het beste werken, omdat op die manier de meest duidelijke mediamomenten zichtbaar gemaakt kunnen worden, die dan nader kunnen worden geanalyseerd. Op deze manier is wordt het data-onderzoek in de Media Suite actief in verband gebracht met de bestaande historische kennis.
+Een andere strategie waarmee we in het project MediaOorlog hebben gewerkt is het uitvoeren van _keyword searches_ om inzicht te krijgen in de semantische patronen in het Nederlandse gedigitaliseerde krantenmateriaal uit de Tweede Wereldoorlog. In deze strategie neemt de onderzoeker niet automatisch gegenereerde data-patronen als uitgangspunt maar zelf-geformuleerde trefwoorden die zijn gebaseerd op haar/zijn inzichten uit de bestaande literatuur. Om deze methode werkbaar te maken, gezien de grote hoeveelheid data, gebruiken de onderzoekers de _compare_-functie in de Media Suite, waarin verschillende trefwoord-_queries_ met elkaar kunnen worden vergeleken. Op deze manier kunnen onderzoekers semantische patronen over de tijd heen zichtbaar maken en momenten selecteren die nader kunnen worden onderzocht. In de _compare-functie_ van de Media Suite is het mogelijk een selectie van artikelen te bekijken en daarna door te klikken naar het oorspronkelijke gedigitaliseerde materiaal op de website van Delpher, waar het materiaal nader kan worden onderworpen aan historische bronnenkritiek. De ervaringen van de onderzoekers leren dat specifieke termen het beste werken, omdat op die manier de meest duidelijke mediamomenten zichtbaar gemaakt kunnen worden, die dan nader kunnen worden geanalyseerd. Op deze manier is wordt het data-onderzoek in de Media Suite actief in verband gebracht met de bestaande historische kennis.
 
 #### Casestudy: Stalingrad
 
@@ -222,29 +232,34 @@ In Nederlandse kranten werd veel aandacht besteed aan de oorlog tussen nazi-Duit
 Figuur 7 geeft het aantal artikelen waarin ‘Stalingrad’ voorkomt weer relatief aan het totaal aantal artikelen in de collectie van dit onderzoek op een bepaald moment in de tijd. Echter toont dit een vertekend beeld, vanwege de onbalans in de dataset. Het is logisch dat de gelijkgeschakelde categorie de hoogste pieken toont, gezien deze categorie veruit het meeste materiaal bevat en dus een groot aandeel heeft in de collectie. Daaruit vallen dus geen betekenisvolle conclusies te trekken over de relatieve aandacht voor Stalingrad binnen de verschillende categorieën. 
 
 <iframe src='https://flo.uri.sh/visualisation/12388756/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12388756/?utm_source=embed&utm_campaign=visualisation/12388756' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
 _Figuur 7: trefwoord Stalingrad, relative to collection_
 
-Om deze reden hebben we nieuwe functionaliteit toegevoegd aan de compare-functie om _query_resultaten relatief tot hun eigen categorie te tonen - of in de termen van de Media Suite: ‘relative to query facet’. Figuur 8 geeft een heel ander beeld van de aandacht voor Stalingrad in de verschillende Nederlandse kranten.
+Om deze reden hebben we nieuwe functionaliteit toegevoegd aan de compare-functie om _queryresultaten_ relatief tot hun eigen categorie te tonen - of in de termen van de Media Suite: ‘relative to query facet’. Figuur 8 geeft een heel ander beeld van de aandacht voor Stalingrad in de verschillende Nederlandse kranten.
 
 
 <iframe src='https://flo.uri.sh/visualisation/12388726/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12388726/?utm_source=embed&utm_campaign=visualisation/12388726' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
 _Figuur 8: trefwoord Stalingrad, relative to query facets_
 
 Figuur 8 laat zien dat tijdens de eerste fase van de slag (september-oktober 1942) ‘Stalingrad’ relatief gezien ongeveer evenveel aandacht kreeg in de categorieën ‘gelijkgeschakeld’, ‘nazi-partij’ en ‘illegaal’. Als we kijken naar de genazificeerde pers, zien we  dat dit materiaal veel loftuitingen bevat op het Duitse leger en afkeer van de Sovjet-troepen. Toen de slag in een stadsoorlog uitmondde, met bloedige straat-tot-straat-gevechten, werd de kracht van de Duitse artillerie benadrukt, die de stad tot puin schoot. Foto’s van in lompen gehulde Russische soldaten die werden afgevoerd en van een uitgebrande tank in het vernietigde stadscentrum ‘sierden’ de voorpagina van het _Rotterdamsch Nieuwsblad_ op 3 November 1942. Het bijschrift meldde: ‘De Bolsjewisten verdedigen zich tot hun vernietiging’.
 
 ![Foto's over Stalingrad](images/stalingrad.jpg)
-_Afbeelding 14: foto’s over Stalingrad, Rotterdamsch Nieuwsblad _op 3 November 1942
+
+_Afbeelding 14: foto’s over Stalingrad, Rotterdamsch Nieuwsblad_ op 3 November 1942 Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
 In de tweede fase van de slag (november 1942-februari 1943) zien we  dat de aandacht in de genazificeerde kranten afnam, terwijl de illegale pers juist meer ging schrijven over Stalingrad. Dat is te verklaren door het feit dat de slag uiteindelijk werd gewonnen door het Rode Leger. Die overwinning werd in februari 1943 vooral breed uitgemeten in de communistische illegale pers. _De Waarheid _pakte groots uit met een illustratie op de voorpagina, die de overwinning van het Rode Leger verheerlijkte, verpersoonlijkt door aanstormende tanks die een Duitse soldaat de handen in de lucht doet steken.
 
 ![Berichtgeving over Stalingrad](images/de weg vooruit.jpg)
-_Afbeelding 15: berichtgeving over Stalingrad, De Waarheid_, 16 februari 1943
+
+_Afbeelding 15: berichtgeving over Stalingrad, De Waarheid_, 16 februari 1943 Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
 Aanvankelijk waren illegale bladen van andere politieke signatuur minder uitgesproken over de overwinning van het Rode Leger. Naarmate de tijd verstreek, echter, werd het belang van Stalingrad ook door deze kranten benadrukt, zoals de piekjes in figuur 7 laten zien. In dit soort beschouwingen, die vaak verschenen rond het jubileum van het einde van de slag (in februari 1944 en 1945), werd deze gebeurtenis getypeerd als een ‘keerpunt’, omdat het Duitse leger vanaf dat moment in het defensief werd gedwongen aan het Oostfront in Europa. Een beschouwing in het conservatief-protestantse blad _Trouw_ uit februari 1945 illustreerde dit met twee kaartjes: een die Hitler-Duitsland op zijn hoogtepunt toonde en een die het sterk gereduceerde grondgebied in het begin van 1945 liet zien.
 
 
 ![Reflectie op de slag bij Stalingrad](images/ddd_010442860_mpeg21_p003_image.jpg)
-_Afbeelding 16: reflectie op de betekenis van de Slag bij Stalingrad, Trouw_, 24 februari 1945
+
+_Afbeelding 16: reflectie op de betekenis van de Slag bij Stalingrad, Trouw_, 24 februari 1945 Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
 ### 7. Ter conclusie
 
