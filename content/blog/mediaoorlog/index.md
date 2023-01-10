@@ -144,7 +144,7 @@ Er is ook een materiële verklaring voor de dalende trend in de genazificeerde p
 
 <table>
 <tr>
-<td><img src="images/ddd_010425436_mpeg21_p001_image.jpg" width=150></td>
+<td><img src="images/ddd_010432846_mpeg21_p001_image.jpg" width=150></td>
 <td><img src="images/ddd_010900793_mpeg21_p001_image.jpg" width=150></td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@ Er is ook een materiële verklaring voor de dalende trend in de genazificeerde p
 </tr>
 </table>
 
-_Afbeelding 7: _Nieuwsbrief van Pieter ’t Hoen_, 25 juli 1940 en_ Het Parool_, 10 mei 1941, 10 mei 1942 en 5 mei 1945. De vormgeving werd steeds professioneler_ Bron: [delpher](https://www.delpher.nl/nl/kranten)
+_Afbeelding 7: Nieuwsbrief van Pieter ’t Hoen_, 25 juli 1940 en _Het Parool_, 10 mei 1941, 10 mei 1942 en 5 mei 1945. De vormgeving werd steeds professioneler Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
 
 
@@ -238,7 +238,7 @@ Figuur 7 geeft het aantal artikelen waarin ‘Stalingrad’ voorkomt weer relati
 
 _Figuur 7: trefwoord Stalingrad, relative to collection_
 
-Om deze reden hebben we nieuwe functionaliteit toegevoegd aan de compare-functie om _queryresultaten_ relatief tot hun eigen categorie te tonen - of in de termen van de Media Suite: ‘relative to query facet’. Figuur 8 geeft een heel ander beeld van de aandacht voor Stalingrad in de verschillende Nederlandse kranten.
+Om deze reden hebben we nieuwe functionaliteit toegevoegd aan de compare-functie om _query_resultaten relatief tot hun eigen categorie te tonen - of in de termen van de Media Suite: ‘relative to query facet’. Figuur 8 geeft een heel ander beeld van de aandacht voor Stalingrad in de verschillende Nederlandse kranten.
 
 
 <iframe src='https://flo.uri.sh/visualisation/12388726/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12388726/?utm_source=embed&utm_campaign=visualisation/12388726' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
