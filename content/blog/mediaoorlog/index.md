@@ -94,7 +94,7 @@ _Afbeelding 3: twee versies van Storm SS: de originele nazistische versie (links
 
 Om tot een goede afweging te komen van de betekenis van de verschillende publicaties tijdens de Tweede Wereldoorlog, is het van belang om te beseffen dat het medialandschap in die jaren ongelijk was. Het autocratische bezettingsregime in Nederland liet geen vrijheid van meningsuiting toe en had als doel om via de kranten de Nederlandse publieke opinie te winnen voor Hitler’s Derde Rijk. Bladen die werden uitgegeven door de NSB of andere nationaal-socialistische organisaties, deden dit vanuit ideologische overtuiging en waren open doorgeefkanalen voor de nazi-propaganda uit Berlijn. Deze kranten bevatten extremistische uitingen, zoals een virulent antisemitisme.[^1] Wat jodenhaat betreft, spande het weekblad _De Misthoorn_ de kroon.
 
-<iframe src='https://flo.uri.sh/visualisation/12397344/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'>
+<iframe src='https://flo.uri.sh/visualisation/12397344/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 _De misthoorn_, 5 september 1942
 
