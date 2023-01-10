@@ -59,16 +59,32 @@ Op basis van deze inzichten uit de bestaande historiografie zijn categorieën ge
 * [Bevrijd gebied](https://mediasuite.clariah.nl/tool/single-search?queryId=ed256a74-d65c-4cf8-a56d-e02e9fa9ff1c) (157 titels, 60.592 artikelen)
 
 Tijdens het categoriseren, en ook in het onderzoek daarna, viel het op dat sommige titels in meerdere categorieën passen. Deze zijn gezet in een aparte restcategorie [‘onbekend’](https://mediasuite.clariah.nl/tool/single-search?queryId=ab65ffd3-a043-404c-b750-1a5afb8196d5) (22 titels, 40.904 artikelen).  Zulke categoriseringsproblemen hebben verschillende oorzaken. Een daarvan is dat de historische omstandigheden veranderden. Zo zijn sommige kranten die in het zuiden van Nederland verschenen zowel in te delen in de categorie ‘gelijkgeschakeld’ als in de categorie ‘bevrijd gebied’ (vanaf september 1944). Een voorbeeld is het in Maastricht gepubliceerde katholieke blad _Veritas_.
-
-      5 mei 1941 (gelijkgeschakeld)        25 september 1944 (bevrijd gebied)
-
-Afbeelding 2: twee versies van _Veritas_ ‘gelijkgeschakeld’ (links) en ‘bevrijd gebied’ (rechts)
+<table>
+<tr>
+<td><img src="images/ddd_011028230_mpeg21_p001_image.jpg" width=100></td>
+<td><img src="images/ddd_010419283_mpeg21_p001_image.jpg" width=150></td>
+</tr>
+<tr>
+<td>5 mei 1941 (gelijkgeschakeld)</td>
+<td>25 september 1944 (bevrijd gebied)</td>
+</tr>
+</table>
+              
+_Afbeelding 2: twee versies van _Veritas_ ‘gelijkgeschakeld’ (links) en ‘bevrijd gebied’ (rechts)_
 
 Een andere factor was de dynamiek van de propagandastrijd. Sommige titels van nazi-partij kranten werden gebruikt door verzetsgroepen. Deze vorm van imitatie was waarschijnlijk bedoeld om nationaal-socialisten te desoriënteren. Een voorbeeld is _Storm: Blad der Nederlandsche SS_ dat, op niet echt overtuigende wijze, werd nagemaakt in Amsterdam in de laatste dagen van de bezetting.
+<table>
+<tr>
+<td><iframe src='https://flo.uri.sh/visualisation/11869761/embed' title='Storm with disclaimer' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:50%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11869761/?utm_source=embed&utm_campaign=visualisation/11869761' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div></td>
+<td><img src="images/ddd_010448596_mpeg21_p001_image.jpg" width=150></td>
+</tr>
+<tr>
+<td>25 april 1941</td>
+<td>29 april 1945</td>
+</tr>
+</table>
 
-    25 april 1941	_				_29 april 1945
-
-Afbeelding 3: twee versies van Storm SS: de originele nazistische versie (links) en de imitatie door het Amsterdamse verzet (rechts)
+_Afbeelding 3: twee versies van Storm SS: de originele nazistische versie (links) en de imitatie door het Amsterdamse verzet (rechts)_
 
  
 
