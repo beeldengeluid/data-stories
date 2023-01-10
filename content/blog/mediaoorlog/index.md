@@ -4,7 +4,9 @@ date: "2023-01-09T14:12:03.284Z"
 description: "een onderzoek"
 ---
 
-### Inleiding en methodologie
+Mari Wigham, Marjet Brolsma, Rana Klein, Vincent Kuitenbrouwer
+
+### 1. Inleiding en methodologie
 
 De bezetting van Nederland tijdens Tweede Wereldoorlog was in veel opzichten een unieke periode in de moderne nationale geschiedenis. Alle aspecten van het maatschappelijke leven werden diep beïnvloed -  zo ook de media in die tijd, zoals krant en radio. Zowel voorstanders als tegenstanders van de bezetting gebruikten deze media om mensen te mobiliseren voor hun politieke doeleinden. Zo werd Nederland een belangrijk slagveld in de propagandaoorlog tussen nazi-Duitsland en Groot-Brittannië. Er is veel historisch onderzoek gedaan naar verschillende aspecten van de Nederlandstalige propaganda maar deze publicaties beperken zich vooral tot de institutionele aspecten van het medialandschap. Tot nu toe mist een integrale inhoudelijke analyse van de mediabronnen uit de Tweede Wereldoorlog.
 
@@ -40,7 +42,7 @@ Deze Data Story is de uitkomst van een intensieve samenwerking tussen mensen die
 
 De metadata-velden van de krantencollectie Delpher kennen verschillende categorieën, die inzicht geven in de aard van de publicaties. Wat ontbreekt is een indeling op redactioneel-politieke gronden.  Als het gaat om kranten uit de Tweede Wereldoorlog is het van groot belang om een indeling te maken langs politieke lijnen om tot een goede analyse van de bronnen (bronnenkritiek) te komen . De belangrijkste scheidslijn was die tussen de publicaties die onder controle stonden van de bezettingsautoriteiten, en dus informatie verspreidden die het regime ondersteunde, en publicaties die opriepen tot verzet. Deze eerste categorie ‘genazificeerde kranten’ kan verder onderverdeeld worden. Er waren kranten die werden uitgegeven door organisaties verbonden met de ‘nazi partij’ die het regime vrijwillig  en uit overtuiging steunden. Daarnaast waren er kranten die ‘gelijkgeschakeld’ waren en onder strikt toezicht stonden van bezettingsautoriteiten, die veel druk uitoefenden op de journalisten die werkzaam waren bij deze kranten. De ‘anti-nazi kranten’ in bezet Nederland verschenen clandestien omdat uitgave ‘illegaal’ was, een term die zij als geuzennaam adopteerden. In september 1944 werden de zuidelijke provincies van Nederland ‘bevrijd gebied’ en ook daar verschenen kranten die ageerden tegen de nazi’s.
 
-Op basis van deze inzichten uit de bestaande historiografie zijn categorieën geformeerd om de metadata van het Delpher materiaal te verrijken. Met name waardevol was de publicatie [_Woord als wapen_](http://publications.niod.knaw.nl/publications/Woord_wapen.pdf) uit 1952, dat een overzicht bevat van de verzetskranten die zijn gearchiveerd door het Rijksinstituut voor Oorlogsdocumentatie (thans NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies). Met behulp van een lijst van 1273 titels is handmatig een indeling gemaakt in een excel sheet, die is gebruikt om in de Media Suite selecties (zogeheten _queries_) te maken zodat onderzoekers de verschillende segmenten van het krantenlandschap in samenhang kunnen onderzoeken en vergelijken met behulp van de compare-functie. De hyperlinks hieronder geven toegang tot de verschillende _queries _en kunnen voor eigen doeleinden worden opgeslagen door ingelogde gebruikers van de Media Suite en gebruik voor eigen onderzoek.
+Op basis van deze inzichten uit de bestaande historiografie zijn categorieën geformeerd om de metadata van het Delpher materiaal te verrijken. Met name waardevol was de publicatie [_Woord als wapen_](http://publications.niod.knaw.nl/publications/Woord_wapen.pdf) uit 1952, dat een overzicht bevat van de verzetskranten die zijn gearchiveerd door het Rijksinstituut voor Oorlogsdocumentatie (thans NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies). Met behulp van een lijst van 1273 titels is handmatig een indeling gemaakt in een excel sheet, die is gebruikt om in de Media Suite selecties (zogeheten _queries_) te maken zodat onderzoekers de verschillende segmenten van het krantenlandschap in samenhang kunnen onderzoeken en vergelijken met behulp van de compare-functie. De hyperlinks hieronder geven toegang tot de verschillende _queries_ en kunnen voor eigen doeleinden worden opgeslagen door ingelogde gebruikers van de Media Suite en gebruik voor eigen onderzoek.
 
 **[Hele corpus (alle krantentitels 10 mei 1940 t/m 5 mei 1945)](https://mediasuite.clariah.nl/tool/single-search?queryId=15710a10-1c6d-4c3c-bbb7-73b2c12784c9)**
 
@@ -69,7 +71,7 @@ Tijdens het categoriseren, en ook in het onderzoek daarna, viel het op dat sommi
 <td>25 september 1944 (bevrijd gebied)</td>
 </tr>
 </table>
-              
+
 _Afbeelding 2: twee versies van Veritas ‘gelijkgeschakeld’ (links) en ‘bevrijd gebied’ (rechts)_ Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
 Een andere factor was de dynamiek van de propagandastrijd. Sommige titels van nazi-partij kranten werden gebruikt door verzetsgroepen. Deze vorm van imitatie was waarschijnlijk bedoeld om nationaal-socialisten te desoriënteren. Een voorbeeld is _Storm: Blad der Nederlandsche SS_ dat, op niet echt overtuigende wijze, werd nagemaakt in Amsterdam in de laatste dagen van de bezetting.
@@ -112,7 +114,7 @@ Deze contrasten, voortgekomen uit de machtsongelijkheid van de bezettingsperiode
 
 <iframe src='https://flo.uri.sh/visualisation/11870031/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11870031/?utm_source=embed&utm_campaign=visualisation/11870031' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-_Figuur 2_: totaal aantal artikelen per categorie_
+_Figuur 2: totaal aantal artikelen per categorie_
 
 ### 4. Ontwikkeling over tijd: afname van genazificeerde kranten, groei anti-nazi kranten
 
@@ -205,7 +207,7 @@ Met de inval van de Sovjet-Unie op 22 juni 1941 kreeg het idee van Europa voor d
 
 <iframe src='https://flo.uri.sh/visualisation/12397564/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-_Afbeelding 12: voorpagina _Volk en Vaderland_, 23 juni 1941, over de Duitse aanval op de Sovjet-Unie_ Bron: [delpher](https://www.delpher.nl/nl/kranten)
+_Afbeelding 12: voorpagina Volk en Vaderland_, 23 juni 1941, over de Duitse aanval op de Sovjet-Unie. Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
 #### Nederland domineert in illegale pers
 
@@ -219,7 +221,7 @@ In de laatste twee jaar van de oorlog, toen steeds duidelijker werd dat het Hitl
 
 ![Ons Vrije Nederland](images/ddd_010435281_mpeg21_p001_image.jpg)
 
-_Afbeelding 13: Ons Vrije Nederland_, 29 April 1945, naar aanleiding van de aanstaande bevrijding van Nederland Bron: [delpher](https://www.delpher.nl/nl/kranten)
+_Afbeelding 13: Ons Vrije Nederland_, 29 April 1945, naar aanleiding van de aanstaande bevrijding van Nederland. Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
 ### 6. Trefwoorden
 
