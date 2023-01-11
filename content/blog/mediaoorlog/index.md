@@ -77,7 +77,7 @@ _Afbeelding 2: twee versies van Veritas ‘gelijkgeschakeld’ (links) en ‘bev
 Een andere factor was de dynamiek van de propagandastrijd. Sommige titels van nazi-partij kranten werden gebruikt door verzetsgroepen. Deze vorm van imitatie was waarschijnlijk bedoeld om nationaal-socialisten te desoriënteren. Een voorbeeld is _Storm: Blad der Nederlandsche SS_ dat, op niet echt overtuigende wijze, werd nagemaakt in Amsterdam in de laatste dagen van de bezetting.
 <table>
 <tr>
-<td><iframe src='https://flo.uri.sh/story/1797931/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe></td>
+<td><iframe src='https://flo.uri.sh/story/1797936/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe></td>
 <td><img src="images/ddd_010448596_mpeg21_p001_image.jpg" width=150></td>
 </tr>
 <tr>
