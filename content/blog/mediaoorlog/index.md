@@ -77,7 +77,7 @@ _Afbeelding 2: twee versies van Veritas ‘gelijkgeschakeld’ (links) en ‘bev
 Een andere factor was de dynamiek van de propagandastrijd. Sommige titels van nazi-partij kranten werden gebruikt door verzetsgroepen. Deze vorm van imitatie was waarschijnlijk bedoeld om nationaal-socialisten te desoriënteren. Een voorbeeld is _Storm: Blad der Nederlandsche SS_ dat, op niet echt overtuigende wijze, werd nagemaakt in Amsterdam in de laatste dagen van de bezetting.
 <table>
 <tr>
-<td><iframe src='https://flo.uri.sh/visualisation/11869761/embed' title='Storm with disclaimer' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:50%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe></td>
+<td><iframe src='https://flo.uri.sh/story/1797936/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 <td><img src="images/ddd_010448596_mpeg21_p001_image.jpg" width=150></td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ Een andere factor was de dynamiek van de propagandastrijd. Sommige titels van na
 </tr>
 </table>
 
-_Afbeelding 3: twee versies van Storm SS: de originele nazistische versie (links) en de imitatie door het Amsterdamse verzet (rechts)_ Bron: [delpher](https://www.delpher.nl/nl/kranten)
+_Afbeelding 3: twee versies van Storm SS: de originele nazistische versie (links, trek de zwarte stip naar links om het artikel te bekijken) en de imitatie door het Amsterdamse verzet (rechts)_ Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
  
 
@@ -94,15 +94,16 @@ _Afbeelding 3: twee versies van Storm SS: de originele nazistische versie (links
 
 Om tot een goede afweging te komen van de betekenis van de verschillende publicaties tijdens de Tweede Wereldoorlog, is het van belang om te beseffen dat het medialandschap in die jaren ongelijk was. Het autocratische bezettingsregime in Nederland liet geen vrijheid van meningsuiting toe en had als doel om via de kranten de Nederlandse publieke opinie te winnen voor Hitler’s Derde Rijk. Bladen die werden uitgegeven door de NSB of andere nationaal-socialistische organisaties, deden dit vanuit ideologische overtuiging en waren open doorgeefkanalen voor de nazi-propaganda uit Berlijn. Deze kranten bevatten extremistische uitingen, zoals een virulent antisemitisme.[^1] Wat jodenhaat betreft, spande het weekblad _De Misthoorn_ de kroon.
 
-<iframe src='https://flo.uri.sh/visualisation/12397344/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/story/1797931/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 _De misthoorn_, 5 september 1942
 
-_Afbeelding 4: een voorbeeld van antisemitisme in het kranten-materiaal_ Bron: [delpher](https://www.delpher.nl/nl/kranten)
+_Afbeelding 4: een voorbeeld van antisemitisme in het kranten-materiaal_. Trek de zwarte stip naar links om het artikel te bekijken. Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
 Bestaande kranten van andere politieke signatuur mochten blijven bestaan maar werden onder strikte controle gesteld (gelijkgeschakeld), door middel van censuur en ‘vertrouwelijke mededelingen’, richtlijnen die elke dag werden uitgedeeld tijdens een persconferentie.[^2] Na de bevrijding, in 1945, verbeeldde de cartoonist Leo Jordaan dit _top-down _informatiesysteem op iconische wijze:
 
 ![Cartoon Leo Jordaan over de gelijkgeschakelde kranten](images/urn-gvn-EVDO02-NIOD05_7999-large.jpg) 
+
 _Afbeelding 5: cartoon Leo Jordaan over de gelijkgeschakelde kranten (1945)_
 
 bron: [https://geheugen.delpher.nl/nl/geheugen/view?identifier=EVDO02%3ANIOD05_7999](https://geheugen.delpher.nl/nl/geheugen/view?identifier=EVDO02%3ANIOD05_7999).
@@ -206,9 +207,9 @@ Een van de uitkomsten van de NER-analyse is dat ‘Europa’ de meest voorkomend
 
 Met de inval van de Sovjet-Unie op 22 juni 1941 kreeg het idee van Europa voor de nazi’s een nieuwe urgentie. De oorlog tegen het ‘Aziatische bolsjewisme’ werd door Hitler en Goebbels voorgesteld als een gemeenschappelijke Europese kruistocht voor een nieuw Europa en het behoud van de Europese beschaving. Ook op radio Hilversum en in de Nederlandstalige gelijkgeschakelde pers en nazi-partij kranten werd deze voorstelling van een strijd van en voor het nieuwe Europa, tegen het anti-Europese Sovjet-bolsjewisme en de Britse (en vanaf december 1941 Brits-Amerikaanse) plutocratie, voortdurend aangehaald. Een voorbeeld is het onderstaande artikel van Anton Mussert op de voorpagina van het NSB partijblad _Volk en Vaderland_, waarin de NSB-leider, een dag na het begin van de Duitse inval, de oorlog tegen de Sovjet-Unie prijst als “het eenige middel dat mogelijk is om een nieuw Europa te bouwen”. 
 
-<iframe src='https://flo.uri.sh/visualisation/12397564/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/story/1797938/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-_Afbeelding 12: voorpagina Volk en Vaderland_, 23 juni 1941, over de Duitse aanval op de Sovjet-Unie. Bron: [delpher](https://www.delpher.nl/nl/kranten)
+_Afbeelding 12: voorpagina Volk en Vaderland_, 23 juni 1941, over de Duitse aanval op de Sovjet-Unie. Trek de zwarte stip naar links om het artikel te bekijken. Bron: [delpher](https://www.delpher.nl/nl/kranten)
 
 #### Nederland domineert in illegale pers
 
