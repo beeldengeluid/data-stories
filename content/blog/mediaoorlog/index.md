@@ -63,8 +63,8 @@ Op basis van deze inzichten uit de bestaande historiografie zijn categorieën ge
 Tijdens het categoriseren, en ook in het onderzoek daarna, viel het op dat sommige titels in meerdere categorieën passen. Deze zijn gezet in een aparte restcategorie [‘onbekend’](https://mediasuite.clariah.nl/tool/single-search?queryId=ab65ffd3-a043-404c-b750-1a5afb8196d5) (22 titels, 40.904 artikelen).  Zulke categoriseringsproblemen hebben verschillende oorzaken. Een daarvan is dat de historische omstandigheden veranderden. Zo zijn sommige kranten die in het zuiden van Nederland verschenen zowel in te delen in de categorie ‘gelijkgeschakeld’ als in de categorie ‘bevrijd gebied’ (vanaf september 1944). Een voorbeeld is het in Maastricht gepubliceerde katholieke blad _Veritas_.
 <table>
 <tr>
-<td><img src="images/ddd_011028230_mpeg21_p001_image.jpg" width=100></td>
-<td><img src="images/ddd_010419283_mpeg21_p001_image.jpg" width=150></td>
+<td><img src="images/ddd_011028230_mpeg21_p001_image.jpg"></td>
+<td><img src="images/ddd_010419283_mpeg21_p001_image.jpg"></td>
 </tr>
 <tr>
 <td>5 mei 1941 (gelijkgeschakeld)</td>
@@ -77,7 +77,7 @@ _Afbeelding 2: twee versies van Veritas ‘gelijkgeschakeld’ (links) en ‘bev
 Een andere factor was de dynamiek van de propagandastrijd. Sommige titels van nazi-partij kranten werden gebruikt door verzetsgroepen. Deze vorm van imitatie was waarschijnlijk bedoeld om nationaal-socialisten te desoriënteren. Een voorbeeld is _Storm: Blad der Nederlandsche SS_ dat, op niet echt overtuigende wijze, werd nagemaakt in Amsterdam in de laatste dagen van de bezetting.
 <table>
 <tr>
-<td><iframe src='https://flo.uri.sh/story/1797936/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<td><iframe src='https://flo.uri.sh/story/1797931/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe></td>
 <td><img src="images/ddd_010448596_mpeg21_p001_image.jpg" width=150></td>
 </tr>
 <tr>
@@ -130,8 +130,8 @@ Deze trends zijn te verklaren met behulp van de bestaande literatuur. Ten eerste
 
 <table>
 <tr>
-<td><img src="images/ddd_010425436_mpeg21_p001_image.jpg" width=150></td>
-<td><img src="images/ddd_010420801_mpeg21_p001_image.jpg" width=150></td>
+<td><img src="images/ddd_010425436_mpeg21_p001_image.jpg"></td>
+<td><img src="images/ddd_010420801_mpeg21_p001_image.jpg"></td>
 </tr>
 <tr>
 <td><i>Hier is Londen!</i>, 28 oktober 1944</td>
