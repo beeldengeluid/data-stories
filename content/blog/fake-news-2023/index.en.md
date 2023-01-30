@@ -322,7 +322,7 @@ Het onderzoek voor deze Data Story geeft een beeld van het nepnieuwsdiscours in 
 De selectie van programma’s kan ook zelf een bron zijn voor vervolgonderzoek. Onderzoek kan worden hoe een ander discours zich ontwikkelt. De onderzoeksmethode en vragen kunnen zo als blauwdruk of als inspiratie dienen voor het onderzoeken van andere publieke debatten.
 
 
-## [Methodologische verantwoording](#methodologische-verantwoording)
+## Methodologische verantwoording {#methodologische-verantwoording}
 
 Om fragmenten uit het nepnieuwsdiscours in ons archief te vinden is een lijst van signaalwoorden opgesteld. Eerst is met de CLARIAH [Media Suite](https://mediasuite.clariah.nl/) gezocht in de ondertiteling voor doven en slechthorenden naar fragmenten waarin het woord ‘fake news’ valt. Zo is een lijst fragmenten samengesteld. Om de lijst van signaalwoorden te maken zijn zes uitzendingen van actualiteitenprogramma's bekeken. Tijdens het kijken is onderzocht welke woorden er nog meer gebruikt worden als de term ‘fake news’ valt. Uit deze analyse blijkt dat er synoniemen voor ‘fake news’, zoals de Nederlandse vertaling ‘nepnieuws’ in de programma’s worden gebruikt. Ook vallen er woorden die er sterk samenhangen met ‘fake news’, zoals het woord desinformatie.
 
