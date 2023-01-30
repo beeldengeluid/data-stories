@@ -3,9 +3,6 @@ title: Onvrede over nepnieuwsdiscours, maar debat blijft
 date: "2023-01-31T16:12:03.284Z"
 description: "Korte beschrijving hier"
 ---
-
-# Onvrede over nepnieuwsdiscours, maar debat blijft.
-
 Luuk Ex (Beeld & Geluid)
 
 Willemien Sanders (Universiteit Utrecht, Beeld & Geluid)
@@ -32,8 +29,6 @@ Centraal in deze Data Story staat de vragen: hoe ontstond het nepnieuwsdiscours 
 
 ## Methode
 
-[link naar uitgebreide methodologische verantwoording, zie tekst helemaal onderaan dit document.]
-
 De Australische onderzoekers bekeken verschillende kanalen waarop het fake news discours voor kan komen. Deze Data Story is gericht op televisieuitzendingen van de publieke omroep. Er is een selectie gemaakt van [54 actualiteitenprogramma’s](https://docs.google.com/spreadsheets/d/1xbkpnG-Uvd6XTcxXyZgXgbIIZCmmvcPh-vALMG84omE/edit?usp=sharing) om het gesprek op te zoeken: in totaal ruim twaalfduizend uur aan televisie. In de ondertiteling van dit materiaal hebben we gezocht naar zeven ‘signaalwoorden’: _fake news,_ _nepnieuws, fake berichten, nepberichten, misinformatie, desinformatie _en_ nepinformatie_. Als een van de woorden valt, is het gesprek onderdeel van het _nepnieuwsdiscours_.
 
 De Australische onderzoekers bekeken of politici of journalisten het fake news discourse gebruikten. Wij hebben uitspraken van alle deelnemers in de actualiteitenprogramma’s onderzocht. Journalisten, politici, experts en burgers geven hun eigen invulling aan de woorden uit het discours. Zo ontstaat het nepnieuwsdiscours op de Nederlandse televisie.
@@ -41,6 +36,8 @@ De Australische onderzoekers bekeken of politici of journalisten het fake news d
 Dit onderzoek start in 2014. In dat jaar gebruikt de Canadese journalist Craig Silverman de term ‘fake news’ in een Tweet.[^11] Silverman schrijft erin over een website waarop verzonnen verhalen staan over een Ebola-uitbraak. Het verzonnen verhaal is op dat moment op Facebook vaker gedeeld dan de melding dat het onzin is, schrijf Silverman. Het is de start van een reeks verhalen die Silverman schrijft over dit soort websites. Silverman helpt hiermee de term ‘fake news’ bekend te maken.[^12] Ons onderzoek eindigt 30 juni 2022, een half jaar van het jaar waarin deze Data Story wordt geschreven.
 
 Deze Data Story is opgedeeld in twee hoofdstukken. Deel 1: _2014-2022: Het nepnieuwsdiscours wordt vast onderdeel van het publieke debat,_ is een analyse van de momenten wanneer het discours voorkomt in de 54 actualiteitenprogramma’s, bij zes omroepen en in EenVandaag en Nieuwsuur. In deel 2: _Lappendeken van betekenissen: nepnieuwsdiscours blijft actueel_, wordt het nepnieuwsdiscours bekeken op fragmentniveau. In vier delen worden de verschillende betekenissen die er aan het discours zijn gegeven besproken: 1. _2014 - 2015: van terrorisme en politiek naar satire en activisme_ 2. _2016 - 2017: campagnemiddel, volksgezondheid, paniek en verdienmodel_. 3. _2018 - 2019 van lugubere grap naar burgerlijke onrust_ 4. _2020 - 2022: 2020 - 2022: van probleem tussen burgers naar kwantificering en wapen in een oorlog_. De Data Story wordt afgesloten met een conclusie en suggesties voor verder onderzoek.
+
+Zie ook [de uitgebreide methodologische verantwoording](#methodologische-verantwoording)
 
 
 ## Deel 1. 2014-2022: Het nepnieuwsdiscours wordt vast onderdeel van het publieke debat
@@ -325,7 +322,7 @@ Het onderzoek voor deze Data Story geeft een beeld van het nepnieuwsdiscours in 
 De selectie van programma’s kan ook zelf een bron zijn voor vervolgonderzoek. Onderzoek kan worden hoe een ander discours zich ontwikkelt. De onderzoeksmethode en vragen kunnen zo als blauwdruk of als inspiratie dienen voor het onderzoeken van andere publieke debatten.
 
 
-## Methodologische verantwoording
+## [Methodologische verantwoording](#methodologische-verantwoording)
 
 Om fragmenten uit het nepnieuwsdiscours in ons archief te vinden is een lijst van signaalwoorden opgesteld. Eerst is met de CLARIAH [Media Suite](https://mediasuite.clariah.nl/) gezocht in de ondertiteling voor doven en slechthorenden naar fragmenten waarin het woord ‘fake news’ valt. Zo is een lijst fragmenten samengesteld. Om de lijst van signaalwoorden te maken zijn zes uitzendingen van actualiteitenprogramma's bekeken. Tijdens het kijken is onderzocht welke woorden er nog meer gebruikt worden als de term ‘fake news’ valt. Uit deze analyse blijkt dat er synoniemen voor ‘fake news’, zoals de Nederlandse vertaling ‘nepnieuws’ in de programma’s worden gebruikt. Ook vallen er woorden die er sterk samenhangen met ‘fake news’, zoals het woord desinformatie.
 
