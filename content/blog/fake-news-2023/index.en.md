@@ -244,6 +244,7 @@ In Nederlands onderzoek wordt het beeld van Habgood-Coote onderschreven. Het woo
 Ook in de journalistiek wordt onvrede geuit jegens enkele woorden uit het discours. In een video van NOS wordt de term ‘nepnieuws’ “een containerbegrip” genoemd. Een woord waar “iedereen zijn eigen betekenis aan geeft”. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rZHhgUl_fFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [Nepnieuws, wat betekent dat nou precies?](https://www.youtube.com/watch?v=rZHhgUl_fFc)
 
 “Sinds President Trump is de term ‘fake news’ gebruikt als frame tegen de gevestigde journalistiek, voor als er een fout wordt gemaakt. Het slechte journalistiek betreft maar ook als het nieuws je simpelweg niet bevalt”, legt presentator Emil van Oers in de video uit. Daardoor zijn de woorden ‘nepnieuws’ en 'fake news' onbruikbaar geworden. Van Oers sluit de video af door te stellen dat je daarom steeds vaker de woorden ‘misinformatie’ en ‘desinformatie’ zal horen. 
