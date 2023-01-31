@@ -42,7 +42,7 @@ Zie ook [de uitgebreide methodologische verantwoording](#methodologische-verantw
 
 ## Deel 1. 2014-2022: Het nepnieuwsdiscours wordt vast onderdeel van het publieke debat
 
-s
+
 ### Opkomst van het nepnieuwsdiscours
 
 <iframe src='https://flo.uri.sh/visualisation/11784527/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11784527/?utm_source=embed&utm_campaign=visualisation/11784527' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
@@ -63,7 +63,7 @@ Figuur 2. [Het nepnieuwsdiscours in relatieve cijfers](https://public.flourish.s
 
 Figuur 2 laat eveneens zien dat 2017 en 2018 de eerste jaren zijn waarin het discours veel vaker voorkomt dan daarvoor. Daarna blijft de aandacht. In 2022 is het discours in de eerste zes maanden relatief veel vaker aangetroffen dan in eerdere jaren. Het nepnieuwsdiscours heeft zich in Nederland gevormd. 
 
-“De aandacht voor nepnieuws is groter dan het probleem”
+<em></strong>“De aandacht voor nepnieuws is groter dan het probleem”</strong></em>
 
 Tegelijk met de toename van het discours in 2017-2018 verschijnen er twee Nederlandse onderzoeken waarin het onderwerp ‘nepnieuws’ een mediahype wordt genoemd.
 
@@ -179,7 +179,7 @@ Kamerlid Roelof Bisschop, kamerlid Renske Leijten en schrijver Arnon Grunberg ge
 
 De betekenis die in deze eerste jaren aan het woord 'desinformatie' wordt gegeven, is soms bewuste misleiding (Russische tactiek) en soms misvattingen die leven en door politici worden gebruikt (Grunberg en Leijten). In deze fase wordt het 'desinformatie' in verband gebracht met terrorisme en nationale, en met name internationale, politiek. 
 
-"de satirische website De Speld waar altijd nepnieuws op staat"
+<p align=center> "de satirische website De Speld waar altijd nepnieuws op staat" </p>
 
 Het woord ‘nepnieuws’ komt bijna niet voor in de eerste twee jaar. Als het wordt gebruikt krijgt in de betekenis van onschuldige satire. Bijvoorbeeld wanneer er wordt verwezen naar “de satirische website De Speld waar altijd nepnieuws op staat”.[^30] Presentator Matthijs van Nieuwkerk laat in DWDD een fragment zien uit het RTL-programma Business Class. Presentator Harry Mens heeft tijdens een uitzending niet door dat hij een artikel citeert uit het satirische blokje van De Speld in de Volkskrant. “Een website vol nepnieuws”, aldus van Nieuwkerk.[^31] Dat het artikel niet wordt herkend als satire, wordt in dit gesprek niet gezien als problematisch.[^32] Het is een aanleiding om te lachen. Dat verandert in 2016 als de toon van het discours omslaat in paniek.
 
@@ -229,7 +229,7 @@ In 2017 en 2018 wordt het nepnieuwsdiscours definitief gemeengoed. Na de piek va
 
 Niet alleen op de Nederlandse televisie is in 2017 een piek te zien in discours, wereldwijd wordt aandacht besteed aan de term 'fake news'. Collins Dictionary roept op 2 november 2017 het woord 'fake news' uit tot woord van het jaar.[^42] Ook in Australië en Noorwegen worden lokale vertaling van 'fake news' woord van het jaar. [^43],[^44] In Nederland wordt ‘nepnieuws’ tweede in de woord van het jaar verkiezing van Onzetaal.nl, meldt Nieuwsuur.[^45]
 
-"laten we het gewoon weer leugens noemen”
+>> "laten we het gewoon weer leugens noemen”
 
 In dezelfde periode ontstaat er onvrede over het gebruik van het nepnieuwsdiscours. Een fragment van 27 augustus 2017 illustreert dit gevoel van onvrede. In Zomergasten praten cabaretier Claudia de Breij en presentator Janine Abbring over Amerikaanse lobbyisten die Trump bijstonden in campagneperiode van 2016.[^46] 
 
@@ -266,7 +266,7 @@ Tijdens uitzendingen worden voorbeelden gegeven van incidenten uit het buitenlan
 
 Het discours verschijnt ook steeds vaker los van politieke context. Er wordt melding gemaakt van het verschijnen van ‘nepnieuws’ rondom grote nieuwsgebeurtenissen: “wat echt een beetje een traditie begint te worden, is ‘nepnieuws’ wat wordt verspreid over slachtoffers”, zegt EenVandaag presentator Rob Hadders na een nieuwsitem over een brand in een Londense flat.[^57] Is hier sprake van een lugubere grap? met wellicht een economisch verdienmodel?
 
-“Nepnieuws in Nigeria kost mensenlevens”
+> “Nepnieuws in Nigeria kost mensenlevens”
 
 In de programma’s gaat het over incidenten tussen burgers onderling. NOS-correspondent Bram Vermeulen meldt dat “Nepnieuws in Nigeria mensenlevens kost”.[^58] Bij botsingen tussen islamitische herders en christelijke boeren, zouden honderden doden zijn gevallen, waarbij ‘nepnieuws’ de oorzaak was. Het grote probleem is social media, waarop verzonnen verhalen escaleren, wordt gesteld in het item. De discussie is hiermee losgekomen van beïnvloeding van buitenlandse partijen, met name speelt het nu tussen burgers onderling. Zo wordt het discours verbonden aan burgerlijke onrust. 
 
