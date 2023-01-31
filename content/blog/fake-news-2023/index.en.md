@@ -63,7 +63,7 @@ Figuur 2. [Het nepnieuwsdiscours in relatieve cijfers](https://public.flourish.s
 
 Figuur 2 laat eveneens zien dat 2017 en 2018 de eerste jaren zijn waarin het discours veel vaker voorkomt dan daarvoor. Daarna blijft de aandacht. In 2022 is het discours in de eerste zes maanden relatief veel vaker aangetroffen dan in eerdere jaren. Het nepnieuwsdiscours heeft zich in Nederland gevormd. 
 
-<em></strong>“De aandacht voor nepnieuws is groter dan het probleem”</strong></em>
+<em><strong>“De aandacht voor nepnieuws is groter dan het probleem”</strong></em>
 
 Tegelijk met de toename van het discours in 2017-2018 verschijnen er twee Nederlandse onderzoeken waarin het onderwerp ‘nepnieuws’ een mediahype wordt genoemd.
 
