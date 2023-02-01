@@ -63,7 +63,7 @@ Figuur 2. [Het nepnieuwsdiscours in relatieve cijfers](https://public.flourish.s
 
 Figuur 2 laat eveneens zien dat 2017 en 2018 de eerste jaren zijn waarin het discours veel vaker voorkomt dan daarvoor. Daarna blijft de aandacht. In 2022 is het discours in de eerste zes maanden relatief veel vaker aangetroffen dan in eerdere jaren. Het nepnieuwsdiscours heeft zich in Nederland gevormd. 
 
-<em><strong>“De aandacht voor nepnieuws is groter dan het probleem”</strong></em>
+<p align=center>“De aandacht voor nepnieuws is groter dan het probleem”/p<>
 
 Tegelijk met de toename van het discours in 2017-2018 verschijnen er twee Nederlandse onderzoeken waarin het onderwerp ‘nepnieuws’ een mediahype wordt genoemd.
 
@@ -202,7 +202,7 @@ Matthijs van Nieuwkerk leidt het onderwerp over de verkiezingsoverwinning van Do
 
 Het gesprek wordt aangevuld met een videofragment uit 1Vandaag (oorspronkelijk uitgezonden op 7 november 2015).[^34] Een vrouw beweert dat vluchtelingen een baan krijgen aangeboden, dat heeft ze op Facebook gelezen. Het fragment illustreert dat er mensen zijn die onwaarheden die op Facebook staan, zomaar voor waar aannemen.[^35]
 
-“kijk maar even naar dit fragment van vorig jaar uit 1Vandaag”
+<p align=center>“kijk maar even naar dit fragment van vorig jaar uit 1Vandaag”</p>
 
 ‘Nepnieuws’ betekent hier “aperte onwaarheden” en “flauwekul verpakt als nieuws”. Het wordt ingezet als politiek campagnemiddel. Dit zou ook in Nederland kunnen gebeuren, volgens de sprekers, want er zijn mensen die vanalles geloven.
 
@@ -229,7 +229,7 @@ In 2017 en 2018 wordt het nepnieuwsdiscours definitief gemeengoed. Na de piek va
 
 Niet alleen op de Nederlandse televisie is in 2017 een piek te zien in discours, wereldwijd wordt aandacht besteed aan de term 'fake news'. Collins Dictionary roept op 2 november 2017 het woord 'fake news' uit tot woord van het jaar.[^42] Ook in Australië en Noorwegen worden lokale vertaling van 'fake news' woord van het jaar. [^43],[^44] In Nederland wordt ‘nepnieuws’ tweede in de woord van het jaar verkiezing van Onzetaal.nl, meldt Nieuwsuur.[^45]
 
->> "laten we het gewoon weer leugens noemen”
+<p align=center>"laten we het gewoon weer leugens noemen”</p>
 
 In dezelfde periode ontstaat er onvrede over het gebruik van het nepnieuwsdiscours. Een fragment van 27 augustus 2017 illustreert dit gevoel van onvrede. In Zomergasten praten cabaretier Claudia de Breij en presentator Janine Abbring over Amerikaanse lobbyisten die Trump bijstonden in campagneperiode van 2016.[^46] 
 
@@ -266,7 +266,7 @@ Tijdens uitzendingen worden voorbeelden gegeven van incidenten uit het buitenlan
 
 Het discours verschijnt ook steeds vaker los van politieke context. Er wordt melding gemaakt van het verschijnen van ‘nepnieuws’ rondom grote nieuwsgebeurtenissen: “wat echt een beetje een traditie begint te worden, is ‘nepnieuws’ wat wordt verspreid over slachtoffers”, zegt EenVandaag presentator Rob Hadders na een nieuwsitem over een brand in een Londense flat.[^57] Is hier sprake van een lugubere grap? met wellicht een economisch verdienmodel?
 
-> “Nepnieuws in Nigeria kost mensenlevens”
+<p align=center>“Nepnieuws in Nigeria kost mensenlevens”</p>
 
 In de programma’s gaat het over incidenten tussen burgers onderling. NOS-correspondent Bram Vermeulen meldt dat “Nepnieuws in Nigeria mensenlevens kost”.[^58] Bij botsingen tussen islamitische herders en christelijke boeren, zouden honderden doden zijn gevallen, waarbij ‘nepnieuws’ de oorzaak was. Het grote probleem is social media, waarop verzonnen verhalen escaleren, wordt gesteld in het item. De discussie is hiermee losgekomen van beïnvloeding van buitenlandse partijen, met name speelt het nu tussen burgers onderling. Zo wordt het discours verbonden aan burgerlijke onrust. 
 
@@ -285,7 +285,7 @@ Figuur 11. [Ontwikkeling per signaalwoord 2020 - juni 2022](https://public.flour
 
 Het is 4 februari 2020 als EenVandaag meldt dat de WHO waarschuwt voor ‘nepnieuws’ over corona”.[^59] In maart wordt wereldwijd de coronapandemie erkend. In figuur 11 is de ontwikkeling per woord tussen januari 2019 en juni 2022 te zien. Rond maart 2020 is er een opleving van het nepnieuwsdiscours, met name veroorzaakt door het gebruik van de woorden ‘desinformatie’ en ‘nepnieuws’.
 
-“Dus u heeft desinformatie verspreid?”
+<p align=center>“Dus u heeft desinformatie verspreid?”</p>
 
 Het perspectief op het nepnieuwsdiscours is in deze periode de verspreiding van informatie onder burgers. In Nieuwsuur interviewt verslaggever Rudy Bouma een moeder en dochter die een hele andere blik hebben op wat er wel en niet klopt over corona. De moeder is geblokkeerd op Facebook voor het verspreiden van 'desinformatie'. “Dus u heeft desinformatie verspreid?”, vraag Bouma aan de moeder.[^60] Het nepnieuwsdiscours wordt ingezet als aanklacht tegen burgers. 
 
