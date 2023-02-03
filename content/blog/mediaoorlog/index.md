@@ -86,8 +86,8 @@ _Figuur 3: Twee versies van Veritas: ‘gelijkgeschakeld’ (links) en ‘bevrij
 Een andere factor was de dynamiek van de propagandastrijd. Sommige titels van nazi-partij-kranten werden gebruikt door verzetsgroepen. Deze vorm van imitatie was waarschijnlijk bedoeld om nationaal-socialisten te desoriënteren. Een voorbeeld is _Storm: Blad der Nederlandsche SS_ dat, op niet echt overtuigende wijze, werd nagemaakt in Amsterdam in de laatste dagen van de bezetting.
 <table style='table-layout:fixed;width:100%'>
 <tr>
-<td style='width:50%'><iframe src='https://flo.uri.sh/story/1797936/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe></td>
-<td style='width:50%'><img src="images/ddd_010448596_mpeg21_p001_image.jpg"></td>
+<td style='width:50%;padding-top:17px'><iframe src='https://flo.uri.sh/story/1797936/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='height:600px;width:100%' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe></td>
+<td style='width:50%;padding-top:0px'><img src="images/ddd_010448596_mpeg21_p001_image.jpg"></td>
 </tr>
 <tr>
 <td style='width:50%'>25 april 1941</td>
