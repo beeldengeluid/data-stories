@@ -32,14 +32,14 @@ krantenmateriaal hebben gecategoriseerd, geven we verschillende voorbeelden van 
 strategieën die de onderzoekers hebben gebruikt, zoals _Named Entity Recognition_ en _keyword
 searches_, en de eerste resultaten daarvan.
 
-<table>
+<table style='table-layout:fixed;width:100%'>
 <tr>
-<td><img src="images/KBNRC01_000087944_mpeg21_p001_image.jpg" width=50></td>
-<td><img src="images/MMNIOD05_000146218_mpeg21_p001_image.jpg" width=150></td>
+<td style='width:50%'><img src="images/KBNRC01_000087944_mpeg21_p001_image.jpg"></td>
+<td style='width:50%'><img src="images/MMNIOD05_000146218_mpeg21_p001_image.jpg"></td>
 </tr>
 <tr>
-<td><i>Algemeen Handelsblad</i>, 10 mei 1940</td>
-<td><i>Het Parool</i>, 5 mei 1945</td>
+<td style='width:50%'><i>Algemeen Handelsblad</i>, 10 mei 1940</td>
+<td style='width:50%'><i>Het Parool</i>, 5 mei 1945</td>
 </tr>
 </table>
 
@@ -70,14 +70,14 @@ Op basis van deze inzichten uit de bestaande historiografie zijn categorieën ge
 * [Bevrijd gebied](https://mediasuite.clariah.nl/tool/single-search?queryId=ed256a74-d65c-4cf8-a56d-e02e9fa9ff1c) (157 titels, 60.592 artikelen)
 
 Tijdens het categoriseren en ook in het onderzoek daarna viel op dat sommige titels in meerdere categorieën passen. Deze zijn gezet in een aparte restcategorie [‘onbekend’](https://mediasuite.clariah.nl/tool/single-search?queryId=ab65ffd3-a043-404c-b750-1a5afb8196d5) (22 titels, 40.904 artikelen).  Zulke categoriseringsproblemen hebben verschillende oorzaken. Een daarvan is dat de historische omstandigheden veranderden. Zo zijn sommige kranten die in het zuiden van Nederland verschenen zowel in te delen in de categorie ‘gelijkgeschakeld’ als in de categorie ‘bevrijd gebied’ (vanaf september 1944). Een voorbeeld is het in Maastricht gepubliceerde katholieke blad _Veritas_.
-<table>
+<table style='table-layout:fixed;width:100%'>
 <tr>
-<td><img src="images/ddd_011028230_mpeg21_p001_image.jpg" width=100></td>
-<td><img src="images/ddd_010419283_mpeg21_p001_image.jpg"></td>
+<td style='width:50%'><img src="images/ddd_011028230_mpeg21_p001_image.jpg"></td>
+<td style='width:50%'><img src="images/ddd_010419283_mpeg21_p001_image.jpg"></td>
 </tr>
 <tr>
-<td>5 mei 1941 (gelijkgeschakeld)</td>
-<td>25 september 1944 (bevrijd gebied)</td>
+<td style='width:50%'>5 mei 1941 (gelijkgeschakeld)</td>
+<td style='width:50%'>25 september 1944 (bevrijd gebied)</td>
 </tr>
 </table>
 
@@ -87,11 +87,11 @@ Een andere factor was de dynamiek van de propagandastrijd. Sommige titels van na
 <table style='table-layout:fixed;width:100%'>
 <tr>
 <td style='width:50%'><iframe src='https://flo.uri.sh/story/1797936/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe></td>
-<td style='width:50%'><img src="images/ddd_010448596_mpeg21_p001_image.jpg" width=300></td>
+<td style='width:50%'><img src="images/ddd_010448596_mpeg21_p001_image.jpg"></td>
 </tr>
 <tr>
-<td>25 april 1941</td>
-<td>29 april 1945</td>
+<td style='width:50%'>25 april 1941</td>
+<td style='width:50%'>29 april 1945</td>
 </tr>
 </table>
 
@@ -137,14 +137,14 @@ _Figuur 8: Aantal artikelen per categorie kranten, over tijd_
 
 Deze trends zijn te verklaren met behulp van de bestaande literatuur. Ten eerste is aangetoond dat de bezettingsautoriteiten steeds strenger werden en in de loop van de oorlog meer kranten verboden (soms tijdelijk, soms permanent), waardoor er in de loop van de tijd minder gelijkgeschakelde titels verschenen.[^4] Aan de andere kant werden de illegale bladen steeds beter georganiseerd. Waar in de eerste maanden individuen veelal alleen werkten, ontstonden er later tijdens de bezetting steeds uitgebreidere netwerken die de productie van bladen faciliteerden. Een belangrijke impuls voor de groei van de illegale pers was het verbod op radio-ontvangst-toestellen in mei 1943. Dat verbod werd door de bezettingsautoriteiten ingevoerd om te voorkomen dat mensen luisterden naar zenders die vanuit Londen uitzonden. Verzetsgroepen in verschillende steden namen daarom het initiatief om illegale bladen te maken op basis van die radio-uitzendingen, zodat mensen er toch kennis van konden nemen, zonder dat zij het risico hoefden te nemen om een radio in huis te hebben.[^5] De radiozenders uit Londen waren zich bewust van deze praktijken en maakten in de laatste fase van de oorlog speciale uitzendingen op dicteer-snelheid zodat de Nederlandse verzetsmensen de berichten goed konden overtypen, zoals te horen is in dit [audiofragment](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608150134284931&cid=daan-catalogue-aggr&bodyClass=noHeader&singleResource=1). Veel titels van illegale bladen verwezen naar de Britse zenders, zoals de _Hier is Londen!_ en _B.B.C. Nieuws_.
 
-<table>
+<table style='table-layout:fixed;width:100%'>
 <tr>
-<td><img src="images/ddd_010425436_mpeg21_p001_image.jpg"></td>
-<td><img src="images/ddd_010420801_mpeg21_p001_image.jpg"></td>
+<td style='width:50%'><img src="images/ddd_010425436_mpeg21_p001_image.jpg"></td>
+<td style='width:50%'><img src="images/ddd_010420801_mpeg21_p001_image.jpg"></td>
 </tr>
 <tr>
-<td><i>Hier is Londen!</i>, 28 oktober 1944</td>
-<td><i>B.B.C. Nieuws</i>, 27 december 1944</td>
+<td style='width:50%'><i>Hier is Londen!</i>, 28 oktober 1944</td>
+<td style='width:50%'><i>B.B.C. Nieuws</i>, 27 december 1944</td>
 </tr>
 </table>
 
@@ -152,14 +152,14 @@ _Figuur 9: Krantentitels die verwijzen naar de radio-uitzendingen uit Londen._ B
 
 Er is ook een materiële verklaring voor de dalende trend in de genazificeerde pers en de opgaande trend in de anti-nazi pers. Verzetsgroepen werden steeds succesvoller in het stelen van papier en inkt, zodat zij steeds meer middelen kregen om hun kranten te maken, terwijl de toegestane kranten met steeds grotere schaarste werden geconfronteerd. Daarnaast kregen de redacties van verzetsbladen ook steeds meer toegang tot professioneel materieel om hun drukwerk te maken.[^6] Zo werd de Amsterdamse editie van het illegale blad _Het Parool_ na sluitingstijd gedrukt op de burelen van de gelijkgeschakelde krant _De Telegraaf_. _Het Parool_, dat zijn oorsprong had in _De Nieuwsbrief van Pieter ‘t Hoen,_ zag er daardoor ook steeds professioneler uit. Deze ontwikkelingen in layout bevestigen de grafieken met de kwantitatieve data trends.
 
-<table>
+<table style='table-layout:fixed;width:100%'>
 <tr>
-<td><img src="images/ddd_010432846_mpeg21_p001_image.jpg" width=150></td>
-<td><img src="images/ddd_010900793_mpeg21_p001_image.jpg" width=150></td>
+<td style='width:50%'><img src="images/ddd_010432846_mpeg21_p001_image.jpg"></td>
+<td style='width:50%'><img src="images/ddd_010900793_mpeg21_p001_image.jpg"></td>
 </tr>
 <tr>
-<td><img src="images/ddd_010900818_mpeg21_p001_image.jpg" width=150></td>
-<td><img src="images/ddd_010436622_mpeg21_p001_image.jpg" width=150></td>
+<td style='width:50%'><img src="images/ddd_010900818_mpeg21_p001_image.jpg"></td>
+<td style='width:50%'><img src="images/ddd_010436622_mpeg21_p001_image.jpg"></td>
 </tr>
 </table>
 
