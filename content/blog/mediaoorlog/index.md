@@ -1,12 +1,15 @@
 ---
 title: Onderzoek naar gedigitaliseerde kranten uit de Tweede Wereldoorlog 
-date: "2023-01-09T14:12:03.284Z"
+date: "2023-02-03T14:12:03.284Z"
 description: "een onderzoek"
 ---
 
 Onderzoekers: Marjet Brolsma (UvA en B&amp;G) en Vincent Kuitenbrouwer (UvA en B&amp;G)
+
 Ontwikkelaars en visualisaties: Mari Wigham (B&amp;G) en Rana Klein (B&amp;G)
+
 Adviseur: Willemien Sanders (UU en B&amp;G)
+
 Reviewers: Carolyn Birdsall (UvA) en Luuk Ex (B&amp;G)
 
 ### 1. Inleiding en werkwijze
@@ -20,18 +23,18 @@ Een belangrijke collectie voor dit onderzoek is de [online databank Delpher](htt
 <iframe src='https://flo.uri.sh/visualisation/11870011/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11870011/?utm_source=embed&utm_campaign=visualisation/11870011' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 
-_Figuur 1: Het aantal krantenartikelen over de periode 10 mei 1940 - 5 mei 1945
+_Figuur 1: Het aantal krantenartikelen over de periode 10 mei 1940 - 5 mei 1945_
 
 Deze Data Story belicht de manier waarop het team van MediaOorlog deze enorme datacollectie van Delpher heeft ontsloten in de [CLARIAH Media Suite](https://mediasuite.clariah.nl/) om hun onderzoek te kunnen verrichten .  Zoals zal blijken was dit een complex proces waarbij bepaalde keuzes zijn gemaakt. Deze Data Story heeft als doel om inzicht te geven in dit proces. 
 
-Wij denken dat dit verhaal relevant is op twee manieren. Ten eerste reflecteert deze Data Story op het ontsluiten van een groot corpus aan gedigitaliseerde historische data en in die hoedanigheid kan het dienen als een voorbeeld voor andere projecten. Ten tweede geven we rekenschap van de omgang met een bronnencorpus uit een van de meest beladen periodes uit de Nederlandse geschiedenis: de nazi-bezetting tijdens de Tweede Wereldoorlog. Uit het onderzoek, dat inmiddels verricht is blijkt dat collectie oorlogskranten een zeer rijke bron is. We hopen met deze Data Story anderen te inspireren om eigen onderzoek te verrichten en nodigen iedereen uit om gebruik te maken van deze dataset. Na een verslag van de manier waarop we het
+Wij denken dat dit verhaal relevant is op twee manieren. Ten eerste reflecteert deze Data Story op het ontsluiten van een groot corpus aan gedigitaliseerde historische data en in die hoedanigheid kan het dienen als een voorbeeld voor andere projecten. Ten tweede geven we rekenschap van de omgang met een bronnencorpus uit een van de meest beladen periodes uit de Nederlandse geschiedenis: de nazi-bezetting tijdens de Tweede Wereldoorlog. Uit het onderzoek, dat inmiddels verricht, is blijkt dat collectie oorlogskranten een zeer rijke bron is. We hopen met deze Data Story anderen te inspireren om eigen onderzoek te verrichten en nodigen iedereen uit om gebruik te maken van deze dataset. Na een verslag van de manier waarop we het
 krantenmateriaal hebben gecategoriseerd, geven we verschillende voorbeelden van zoek-
-strategieën die de onderzoekers hebben gebruikt, zoals Named Enity Recognition en keyword
-searches en de eerste resultaten daarvan.
+strategieën die de onderzoekers hebben gebruikt, zoals _Named Entity Recognition_ en _keyword
+searches_, en de eerste resultaten daarvan.
 
 <table>
 <tr>
-<td><img src="images/KBNRC01_000087944_mpeg21_p001_image.jpg" width=100></td>
+<td><img src="images/KBNRC01_000087944_mpeg21_p001_image.jpg" width=50></td>
 <td><img src="images/MMNIOD05_000146218_mpeg21_p001_image.jpg" width=150></td>
 </tr>
 <tr>
@@ -69,7 +72,7 @@ Op basis van deze inzichten uit de bestaande historiografie zijn categorieën ge
 Tijdens het categoriseren en ook in het onderzoek daarna viel op dat sommige titels in meerdere categorieën passen. Deze zijn gezet in een aparte restcategorie [‘onbekend’](https://mediasuite.clariah.nl/tool/single-search?queryId=ab65ffd3-a043-404c-b750-1a5afb8196d5) (22 titels, 40.904 artikelen).  Zulke categoriseringsproblemen hebben verschillende oorzaken. Een daarvan is dat de historische omstandigheden veranderden. Zo zijn sommige kranten die in het zuiden van Nederland verschenen zowel in te delen in de categorie ‘gelijkgeschakeld’ als in de categorie ‘bevrijd gebied’ (vanaf september 1944). Een voorbeeld is het in Maastricht gepubliceerde katholieke blad _Veritas_.
 <table>
 <tr>
-<td><img src="images/ddd_011028230_mpeg21_p001_image.jpg"></td>
+<td><img src="images/ddd_011028230_mpeg21_p001_image.jpg" width=100></td>
 <td><img src="images/ddd_010419283_mpeg21_p001_image.jpg"></td>
 </tr>
 <tr>
@@ -80,11 +83,11 @@ Tijdens het categoriseren en ook in het onderzoek daarna viel op dat sommige tit
 
 _Figuur 3: Twee versies van Veritas: ‘gelijkgeschakeld’ (links) en ‘bevrijd gebied’ (rechts)_ Bron: [Delpher.](https://www.delpher.nl/nl/kranten)
 
-Een andere factor was de dynamiek van de propagandastrijd. Sommige titels van nazi-partij kranten werden gebruikt door verzetsgroepen. Deze vorm van imitatie was waarschijnlijk bedoeld om nationaal-socialisten te desoriënteren. Een voorbeeld is _Storm: Blad der Nederlandsche SS_ dat, op niet echt overtuigende wijze, werd nagemaakt in Amsterdam in de laatste dagen van de bezetting.
+Een andere factor was de dynamiek van de propagandastrijd. Sommige titels van nazi-partij-kranten werden gebruikt door verzetsgroepen. Deze vorm van imitatie was waarschijnlijk bedoeld om nationaal-socialisten te desoriënteren. Een voorbeeld is _Storm: Blad der Nederlandsche SS_ dat, op niet echt overtuigende wijze, werd nagemaakt in Amsterdam in de laatste dagen van de bezetting.
 <table>
 <tr>
 <td><iframe src='https://flo.uri.sh/story/1797936/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe></td>
-<td><img src="images/ddd_010448596_mpeg21_p001_image.jpg" width=150></td>
+<td><img src="images/ddd_010448596_mpeg21_p001_image.jpg" width=300></td>
 </tr>
 <tr>
 <td>25 april 1941</td>
@@ -132,7 +135,7 @@ De ongelijkheden in het medialandschap waren niet constant tijdens de gehele bez
 
 _Figuur 8: Aantal artikelen per categorie kranten, over tijd_ 
 
-Deze trends zijn te verklaren met behulp van de bestaande literatuur. Ten eerste is aangetoond dat de bezettingsautoriteiten steeds strenger werden en in de loop van de oorlog meer kranten verboden (soms tijdelijk, soms permanent), waardoor er in de loop van de tijd minder gelijkgeschakelde titels verschenen.[^4] Aan de andere kant werden de illegale bladen steeds beter georganiseerd. Waar in de eerste maanden individuen veelal alleen werkten, ontstonden er later tijdens de bezetting steeds uitgebreidere netwerken die de productie van bladen faciliteerden. Een belangrijke impuls voor de groei van de illegale pers was het verbod op radio-ontvangst toestellen in mei 1943. Dat verbod werd door de bezettingsautoriteiten ingevoerd om te voorkomen dat mensen luisterden naar zenders die vanuit Londen uitzonden. Verzetsgroepen in verschillende steden namen daarom het initiatief om illegale bladen te maken op basis van die radio-uitzendingen, zodat mensen er toch kennis van konden nemen, zonder dat zij het risico hoefden te nemen om een radio in huis te hebben.[^5] De radiozenders uit Londen waren zich bewust van deze praktijken en maakten in de laatste fase van de oorlog speciale uitzendingen op dicteer-snelheid zodat de Nederlandse verzetsmensen de berichten goed konden overtypen, zoals te horen is in dit [audiofragment](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608150134284931&cid=daan-catalogue-aggr&bodyClass=noHeader&singleResource=1). Veel titels van illegale bladen verwezen naar de Britse zenders, zoals de _Hier is Londen!_, en _B.B.C. Nieuws_.
+Deze trends zijn te verklaren met behulp van de bestaande literatuur. Ten eerste is aangetoond dat de bezettingsautoriteiten steeds strenger werden en in de loop van de oorlog meer kranten verboden (soms tijdelijk, soms permanent), waardoor er in de loop van de tijd minder gelijkgeschakelde titels verschenen.[^4] Aan de andere kant werden de illegale bladen steeds beter georganiseerd. Waar in de eerste maanden individuen veelal alleen werkten, ontstonden er later tijdens de bezetting steeds uitgebreidere netwerken die de productie van bladen faciliteerden. Een belangrijke impuls voor de groei van de illegale pers was het verbod op radio-ontvangst-toestellen in mei 1943. Dat verbod werd door de bezettingsautoriteiten ingevoerd om te voorkomen dat mensen luisterden naar zenders die vanuit Londen uitzonden. Verzetsgroepen in verschillende steden namen daarom het initiatief om illegale bladen te maken op basis van die radio-uitzendingen, zodat mensen er toch kennis van konden nemen, zonder dat zij het risico hoefden te nemen om een radio in huis te hebben.[^5] De radiozenders uit Londen waren zich bewust van deze praktijken en maakten in de laatste fase van de oorlog speciale uitzendingen op dicteer-snelheid zodat de Nederlandse verzetsmensen de berichten goed konden overtypen, zoals te horen is in dit [audiofragment](https://mediasuite.clariah.nl/tool/resource-viewer?id=2101608150134284931&cid=daan-catalogue-aggr&bodyClass=noHeader&singleResource=1). Veel titels van illegale bladen verwezen naar de Britse zenders, zoals de _Hier is Londen!_ en _B.B.C. Nieuws_.
 
 <table>
 <tr>
@@ -165,7 +168,7 @@ _Figuur 10: Nieuwsbrief van Pieter ’t Hoen_, 25 juli 1940 (linksboven) en _Het
 Na deze reflectie op de manier waarop de historische kennis over het Nederlandse medialandschap
 tijdens de Tweede Wereldoorlog zich verhoudt tot de data in de CLARIAH Media Suite, richten
 we ons nu op manieren waarop dit materiaal gebruikt kan worden voor mediahistorisch
-onderzoek. We richten ons daarbij op twee verschillende strategieën: Named Entity Recognition, die
+onderzoek. We richten ons daarbij op twee verschillende strategieën: _Named Entity Recognition_, die
 draait om automatische data-extractie, en _keyword searches_, waarbij de onderzoekers zelf
 trefwoorden formuleren.
 
@@ -173,7 +176,7 @@ trefwoorden formuleren.
 
 De bestaande literatuur over de oorlogsmedia richt zich sterk op de Nederlandse nationale context. Het project Mediaoorlog probeert aandacht te vragen voor de transnationale context van de propagandastrijd in de Nederlandstalige media. Onze hypothese is dat het Nederlandse medialandschap gezien kan worden als een slagveld van de twee machtsblokken die tegenover elkaar stonden in Europa: de asmogendheden en de geallieerden. Om dat te onderzoeken, hebben we gekeken naar alle voorpagina’s in de krantendataset. Het uitgangspunt hierbij is, dat dit deel van een krant het meest belangrijke nieuws bevat. Ook was het, in de tijd die we onderzoeken, niet gebruikelijk om advertenties op de voorpagina te plaatsen, zodat deze data vooral bestaat uit prominent en ‘hard’ nieuws.
 
-Deze krantendataset bestaat uit ingescande voorpagina’s waaruit met behulp van optische tekenherkenning (OCR, optical character recognition) de tekst is geëxtraheerd. Vervolgens is eigennamen-extractie (NER, named entity recognition) gebruikt om de geopolitieke context in kaart te brengen. Op deze manier kunnen zowel de verschillende spellingsvarianten, zoals Duitsland/Duitschland, als varianten zoals Duitachland en Duitsohland, die ontstaan zijn door OCR-fouten, worden geïdentificeerd (zie figuren 11 t/m 14). Omdat het gebruikte algoritme niet alle geografische termen herkent (precision 0.78, recall 0.76, F-score 0.77) hebben we de meest voorkomende geografische termen (inclusief spelling variaties) vervolgens gezocht en geteld.
+Deze krantendataset bestaat uit ingescande voorpagina’s waaruit met behulp van optische tekenherkenning (OCR, optical character recognition) de tekst is geëxtraheerd. Vervolgens is eigennamen-extractie (NER, named entity recognition) gebruikt om de geopolitieke context in kaart te brengen. Op deze manier kunnen zowel de verschillende spellingsvarianten, zoals Duitsland/Duitschland, als varianten zoals Duitachland en Duitsohland, die ontstaan zijn door OCR-fouten, worden geïdentificeerd (zie figuren 11 t/m 14). Omdat het gebruikte algoritme niet alle geografische termen herkent (precision 0.78, recall 0.76, F-score 0.77) hebben we de meest voorkomende geografische termen (inclusief spelling-variaties) vervolgens gezocht en geteld.
 
 ![Duitsland](images/werkgelegenheid.jpg)
 
@@ -191,7 +194,7 @@ _Figuur 13: ‘Duitachland’_, bron: _Residentiebode_, 04-10-1941. [https://www
 
 _Figuur 14: ‘Duitsohland’_, bron: _Het nieuws_, 21-03-1945. [https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010431700:mpeg21:a0002](https://www.delpher.nl/nl/kranten/view?coll=ddd&identifier=ddd:010431700:mpeg21:a0002)
 
-Om de spellingsvarianten mee te nemen hebben we deze geclusterd voor een aantal belangrijke geografische termen , bepaald aan de hand van een eerste inventarisatie van de frequenties van alle spellingsvarianten. 
+Om de spellingsvarianten mee te nemen, hebben we deze geclusterd voor een aantal belangrijke geografische termen, bepaald aan de hand van een eerste inventarisatie van de frequenties van alle spellingsvarianten. 
 
 <iframe src='https://flo.uri.sh/visualisation/9972759/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/9972759/?utm_source=embed&utm_campaign=visualisation/9972759' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
