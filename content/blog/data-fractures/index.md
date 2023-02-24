@@ -76,22 +76,23 @@ de prioriteit het hoogst leek. TV, die en kleinere hoeveelheid programma's had d
 
 <table style='table-layout:fixed;width:100%'>
 <tr>
-<td style='width:50%'><img src="images/goed geannoteerd 1.png"></td>
-<td style='width:50%'><img src="images/goed geannoteerd 2.png"></td>
+<td style='width:50%'><img src="images/goed geannoteerd 1.PNG"></td>
+<td style='width:50%'><img src="images/goed geannoteerd 2.PNG"></td>
 </tr>
 <tr>
 <td style='width:50%'>Een goed geannoteerd programma</td>
 <td style='width:50%'>Het programma is ook in segmenten onderverdeeld, die in detail zijn geannoteerd</td>
 </tr>
 <tr>
-<td style='width:50%'><img src="images/slecht geannoteerd 1.png"></td>
-<td style='width:50%'><img src="images/slecht geannoteerd 2.png"></td>
+<td style='width:50%'><img src="images/slecht geannoteerd 1.PNG"></td>
+<td style='width:50%'><img src="images/slecht geannoteerd 2.PNG"></td>
 </tr>
 <tr>
 <td style='width:50%'>Een radio-opname van tijdens de oorlog</td>
 <td style='width:50%'>Een televisie-programma met minimale metadata</td>
 </tr>
 </table>
+
 _Example of varying annotation levels_
 
 Het start van de Media Management programma in 2012 luidde in een tijdperk van grote veranderingen 
@@ -137,14 +138,15 @@ periode heen beschikbaar. Binnen de periode waarvoor ze wel beschikbaar waren, w
 
 <table style='table-layout:fixed;width:100%'>
 <tr>
-<td style='width:50%'><img src="images/1967.png"></td>
-<td style='width:50%'><img src="images/1993.png"></td>
+<td style='width:50%'><img src="images/1967.PNG"></td>
+<td style='width:50%'><img src="images/1993.PNG"></td>
 </tr>
 <tr>
 <td style='width:50%'>1967</td>
 <td style='width:50%'>1993</td>
 </tr>
 </table>
+
 _Voorbeelden van verschillende formaten van kijk- en luistercijfers_
 
 
