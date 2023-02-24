@@ -21,19 +21,22 @@ In principe, zou het archief in staat moeten zijn om zulke vragen te beantwoorde
 
 ### Wat zijn metadatabreuken?
 
-Metadata zijn data die een archief item beschrijven. Metadata hebben veel verschillende bronnen. Metadata kunnen vastgelegd worden door de makers van een programma, bijvoorbeeld de programmatitel en een 
+Metadata zijn data die een archief item beschrijven. Zonder die beschrijvingen is het nagenoeg onmogelijk om iets te zoeken in het archief. Metadata zijn de lens door wie we het archief kunnen zien.
+Metadata hebben veel verschillende bronnen. Metadata kunnen vastgelegd worden door de makers van een programma, bijvoorbeeld de programmatitel en een 
 samenvatting. Metadata kunnen later handmatig toegevoegd worden, bijvoorbeeld als een archivist een programma bekijkt en het beschrijft. Metadata kunnen automatisch ontstaan, bijvoorbeeld de datum en tijd 
 waarop een bestand is geupload. En metadata kunnen geextraheerd worden uit audiovisueel materiaal en bestaande metadata, bijvoorbeeld door personen te herkennen uit beeld of in de beschrijving. Elke metadatabron
 heeft zijn eigen karakteristieken. Een programmamaker legt dingen anders vast dan een archivist, en al helemaal anders dan een AI algoritme. Verschillen in hoe metadata is vastgelegd noemen we metadatabreuken.
+Deze breuken zijn als krassen over onze metadata lens. Die introduceren blinde vlekken en distorties in onze blik op het archief.
 
 ### Wat veroorzaakt metadatabreuken?
 #### Selectie van materiaal
-Het meest fundamenteel verschil in metadata is - bestaat het wel, of bestaat het niet? Een archief bewaart niet alles. Er wordt een keuze gemaakt over welk materiaal wel of niet wordt bewaard. Deze keuze heet 
-'selectie'. Bijvoorbeeld, Beeld en Geluid bewaart alleen televisieprogramma's die zijn gemaakt in Nederland. Buitenlandse programmering belandt niet in het archief. 
+Het meest fundamenteel verschil in metadata is - is een item in het archief wel of niet? Een archief bewaart niet alles. Er wordt een keuze gemaakt over welk materiaal wel of niet wordt bewaard. Deze keuze heet 
+'selectie'. Bijvoorbeeld, Beeld en Geluid bewaart alleen televisieprogramma's die zijn gemaakt in Nederland. Buitenlandse programmering belandt niet in het archief. Een item dat niet in het archief is,
+heeft vervolgens ook geen metadata. Dit lijkt een open deur. Echter, voor een gebruiker die niet weet hoe selectie is gedaan, kan het enorm verwarrend en frustrerend zijn wanneer ze niet vinden wat ze zoeken.
 
 #### Verschillende manieren van metadatering
 
-Zoals al besproken, kan metadata op verschillende wijzen worden vastgelegd. Dat maakt uit voor de inhoud van de metadata, en ook de kwaliteit. Automatische technologie zoals AI heeft de potentie om veel
+Zoals al besproken, kunnen metadata op verschillende wijzen worden vastgelegd. Dat maakt uit voor de inhoud van de metadata, en ook de kwaliteit. Automatische technologie zoals AI heeft de potentie om veel
 meer materiaal te beschrijven dan een archivist ooit handmatig zou kunnen doen, maar kan niet hetzelfde niveau halen qua kwaliteit. Zelfs binnen een bepaalde manier van metadateren, zijn er veel keuzes
 die gemaakt kunnen worden. Bijvoorbeeld, hoe het wordt toegepast op verschillende soorten materiaal. Het heeft overduidelijk geen zin om automatische spraakherkenning toe te passen op een decorondewerp. 
 Maar toepassing op programma's met veel muziek of buitenlandse talen kan ook minder zinvol zijn. Waar middelen beperkt zijn, kan bepaalde types materiaal voorrang krijgen,. Bijvoorbeeld, 
@@ -60,17 +63,45 @@ Beeld en Geluid heeft een rijke geschiedenis, en daardoor ook een grote hoeveelh
 Om inzicht te geven in de belangrijkste databreuken, hebben we deze op een tijdslijn beschreven. De tijdslijn bevat
 drie elementen
 #### Selectie
-De Selectie elementen beschrijven belangrijke veranderingen in het selectiebeleid van Beeld en Geluid. Bijvoorbeeld, toen er over is gegaan van een selectie van radiozenders naar alle radiozenders van publieke omroepen.
-Veranderingen in Selectie worden aangegeven op de tijdslijn met blauwe bolletjes.
+De Selectie elementen beschrijven belangrijke veranderingen in het selectiebeleid van Beeld en Geluid. Deze worden aangegeven op de tijdslijn met blauwe bolletjes. Regelmatige archiveren van
+radio is begonnen in 1977, significant uitgebreid vanaf 1997, en sinds 2006 worden alle publieke radio zenders volledig gearchiveerd. Regelmatige archiveren van TV begon in 1990, en sinds 2006 worden
+alle Nederlandse producties op TV gearchiveerd. Muziek is tussen 1997 en 2014 gearchiveerd.
 
 #### Metadata
-De Metadata elementen beschrijven belangrijke veranderingen in hoe metadata wordt gemaakt bij Beeld en Geluid. Bijvoorbeeld het invoeren van het GTAA thesaurus, waardoor metadata consistenter werd. Of de 
-overstap van handmatige annotatie door archivisten naar het Media Management programma, dat combineert metadata van programmmamakers met automatische verrijking door bijvoorbeeld gezichtsherkenning. 
-Veranderingen in Metadata worden aangegeven op de tijdslijn met gele bolletjes.
+De Metadata elementen beschrijven belangrijke veranderingen in hoe metadata wordt gemaakt bij Beeld en Geluid. Deze worden aangegeven op de tijdslijn met gele bolletjes. In 1997 begonnen
+alle documentalisten bij Beeld en Geluid met 1 catalogussysteem te werken over film, TV en radio. Consistentie werd verder bevorderd door het invoeren van de GTAA thesaurus in 2001, zodat
+documentalisten termen uit de thesaurus gebruikten in plaats van zelf een term in te typen, eerst voor genres en onderwerpen, en vanaf 2004 voor personen, organisaties en locaties. Als de hoeveelheid materiaal door veranderingen in selectie groeide, verschuifde het beleid van weinig
+materiaal selecteren voor bewaren en dat veel te beschrijven, naar meer materiaal selecteren voor bewaren en op verschillende niveaus van diepte beschrijven, om de beperkte annotatiekracht gericht in te zetten voor materiaal waar 
+de prioriteit het hoogst leek. TV, die en kleinere hoeveelheid programma's had dan radio, was typisch in meer detail beschreven dan radio. 
 
-#### Upheavals
-Op sommige punten in het geschiedenis van Beeld en Geluid is er sprake van een 'upheaval', een veranderingen die grote gevolgen heeft voor selectie en metadata. Het invoeren van een nieuwe metadatabeheersysteem
-is een voorbeeld van een 'upheaval', maar ook een grootschalig digitaliseringsproject zoals Beelden van de Toekomst zorgt voor een aardverschuiving in de metadata. Deze worden aangegeven met paarse bollen
+<table style='table-layout:fixed;width:100%'>
+<tr>
+<td style='width:50%'><img src="images/goed geannoteerd 1.png"></td>
+<td style='width:50%'><img src="images/goed geannoteerd 2.png"></td>
+</tr>
+<tr>
+<td style='width:50%'>Een goed geannoteerd programma</td>
+<td style='width:50%'>Het programma is ook in segmenten onderverdeeld, die in detail zijn geannoteerd</td>
+</tr>
+<tr>
+<td style='width:50%'><img src="images/slecht geannoteerd 1.png"></td>
+<td style='width:50%'><img src="images/slecht geannoteerd 2.png"></td>
+</tr>
+<tr>
+<td style='width:50%'>Een radio-opname van tijdens de oorlog</td>
+<td style='width:50%'>Een televisie-programma met minimale metadata</td>
+</tr>
+</table>
+_Example of varying annotation levels_
+
+Het start van de Media Management programma in 2012 luidde in een tijdperk van grote veranderingen 
+in metadata, en vanaf 2015 werd handmatige annotatie sterk afgebouwd, en de voorkeur gegeven aan ophalen van metadata bij de programmamakers en door sprekerherkenning (vanaf 2015) en
+gezichtsherkenning (vanaf 2019). 
+
+#### Opschuddingen
+Op sommige punten in het geschiedenis van Beeld en Geluid is er sprake van een 'opschudding', een veranderingen die grote gevolgen heeft voor selectie en metadata. Het invoeren van een nieuwe metadatabeheersysteem
+in 1997, 2006 en 2018 zorgt telkens voor een opschudding. Het grootschalige digitaliseringsproject 'Beelden van de Toekomst' zorgde ook voor een aardverschuiving in de metadata door een grote
+instroom van gedigitaliseerd materiaal. Opschuddingen worden aangegeven met paarse bollen
 en verticale stippenlijnen waardoor de gevolgen voor Selectie en Metadata duidelijk zijn.
 
 De tijdslijn brengt alle elementen samen. Hover met je muis over een bolletje om er meer over te lezen
@@ -103,7 +134,18 @@ metadatabreuken, waardoor de onderzoeker foute conclusies kan trekken.
 
 Naar aanleiding van 70 jaar televisie wilden we kijk- en luistercijfers analyseren om de meest populaire programma's te identificeren. Dit was echter onmogelijk. Kijk- en luistercijfers waren niet over de hele
 periode heen beschikbaar. Binnen de periode waarvoor ze wel beschikbaar waren, waren er grote verschillen in de formaten van de data, en was het manier waarop kijken en luisteren werd geregistreerd veel veranderd.
-***plaatjes van cijfers uit Media Suite***
+
+<table style='table-layout:fixed;width:100%'>
+<tr>
+<td style='width:50%'><img src="images/1967.png"></td>
+<td style='width:50%'><img src="images/1993.png"></td>
+</tr>
+<tr>
+<td style='width:50%'>1967</td>
+<td style='width:50%'>1993</td>
+</tr>
+</table>
+_Voorbeelden van verschillende formaten van kijk- en luistercijfers_
 
 
 ### Hoe gaat Beeld en Geluid om met databreuken?
