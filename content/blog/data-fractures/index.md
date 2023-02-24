@@ -85,7 +85,7 @@ de prioriteit het hoogst leek. TV, die en kleinere hoeveelheid programma's had d
 </tr>
 <tr>
 <td style='width:50%'><img src="images/slecht geannoteerd 1.PNG"></td>
-<td style='width:50%'><img src="images/slecht geannoteerd 2.PNG"></td>
+<td style='width:50%'><img src="images/slecht geannoteerd 2.png"></td>
 </tr>
 <tr>
 <td style='width:50%'>Een radio-opname van tijdens de oorlog</td>
