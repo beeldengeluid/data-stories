@@ -1,6 +1,6 @@
 ---
 title: Onderzoek naar gedigitaliseerde kranten uit de Tweede Wereldoorlog 
-date: "2023-02-03T14:12:03.284Z"
+date: "2023-03-10T11:57:03.284Z"
 description: "Tijdens een oorlog worden media door verschillende partijen gebruikt om propaganda te maken. Dat gebeurt vandaag de dag en dat gebeurde ook in het verleden. Deze Data Story geeft inzicht in de manier waarop onderzoekers uit verschillende disciplines hebben samengewerkt om een groot corpus digitale oorlogskranten uit de nazi-bezetting van Nederland (mei 1940- mei 1945) te ontsluiten en te analyseren. Ook laat deze Data Story zien hoe onderzoekers specifiek materiaal in het rijke krantencorpus kunnen vinden door middel van verschillende zoekstrategieën. Dit gebeurt onder andere aan de hand van de berichtgeving over een keerpunt in de Tweede Wereldoorlog: de Slag bij Stalingrad."
 ---
 
@@ -29,8 +29,7 @@ Deze Data Story belicht de manier waarop het team van MediaOorlog deze enorme da
 
 Wij denken dat dit verhaal relevant is op twee manieren. Ten eerste reflecteert deze Data Story op het ontsluiten van een groot corpus aan gedigitaliseerde historische data en in die hoedanigheid kan het dienen als een voorbeeld voor andere projecten. Ten tweede geven we rekenschap van de omgang met een bronnencorpus uit een van de meest beladen periodes uit de Nederlandse geschiedenis: de nazi-bezetting tijdens de Tweede Wereldoorlog. Uit het onderzoek, dat inmiddels verricht is, blijkt dat de collectie oorlogskranten een zeer rijke bron is. We hopen met deze Data Story anderen te inspireren om eigen onderzoek te verrichten en nodigen iedereen uit om gebruik te maken van deze dataset. Na een verslag van de manier waarop we het
 krantenmateriaal hebben gecategoriseerd, geven we verschillende voorbeelden van zoek-
-strategieën die de onderzoekers hebben gebruikt, zoals _Named Entity Recognition_ en _keyword
-searches_, en de eerste resultaten daarvan.
+strategieën die de onderzoekers hebben gebruikt, zoals _Named Entity Recognition_ en _keyword searches_, en de eerste resultaten daarvan.
 
 <table style='table-layout:fixed;width:100%'>
 <tr>
@@ -306,7 +305,7 @@ deze onderzoeken verschijnen in een themanummer van het _Tijdschrift voor Geschi
 veel relevant materiaal hebben gevonden in het krantencorpus uit de Tweede Wereldoorlog, hebben deze projecten slechts het topje van de ijsberg aan beschikbaar materiaal blootgelegd. Wat dat betreft hopen we dat de inzichten die zijn gepresenteerd in deze Data Story aanleiding zijn voor andere mensen om zelf onderzoek te gaan doen met deze dataset. De verrijkte _queries_ die aan de begin van deze Data Story  staan, zijn daarom ter beschikking gesteld aan alle gebruikers van de Media Suite.
 
 
-<!-- Footnotes themselves at the bottom. -->
+<!-- Footnotes themselves are at the bottom. -->
 ## Bronnen
 
 [^1]:
