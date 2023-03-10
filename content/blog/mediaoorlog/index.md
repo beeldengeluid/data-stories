@@ -1,7 +1,7 @@
 ---
 title: Onderzoek naar gedigitaliseerde kranten uit de Tweede Wereldoorlog 
 date: "2023-02-03T14:12:03.284Z"
-description: "een onderzoek"
+description: "Tijdens een oorlog worden media door verschillende partijen gebruikt om propaganda te maken. Dat gebeurt vandaag de dag en dat gebeurde ook in het verleden. Deze Data Story geeft inzicht in de manier waarop onderzoekers uit verschillende disciplines hebben samengewerkt om een groot corpus digitale oorlogskranten uit de nazi-bezetting van Nederland (mei 1940- mei 1945) te ontsluiten en te analyseren. Ook laat deze Data Story zien hoe onderzoekers specifiek materiaal in het rijke krantencorpus kunnen vinden door middel van verschillende zoekstrategieën. Dit gebeurt onder andere aan de hand van de berichtgeving over een keerpunt in de Tweede Wereldoorlog: de Slag bij Stalingrad."
 ---
 
 Onderzoekers: Marjet Brolsma (UvA en B&amp;G) en Vincent Kuitenbrouwer (UvA en B&amp;G)
