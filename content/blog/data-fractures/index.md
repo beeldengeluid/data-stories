@@ -46,7 +46,7 @@ in schrijfwijze van namen niet in de weg komen bij zoeken. Het beleid van een ar
  de fusie van omroep- film en wetenschappelijke archieven. Elk instituut bracht zijn eigen metadata mee, gemaakt met een eigen beleid. Elke bron van metadata bevatte zijn eigen databreuken,
 en tussen de metadata van verschillende instituten bestaan ook metadatabreuken. 
 
-***grafiek van onderwerpen per categorie****
+<iframe src='https://flo.uri.sh/visualisation/11117375/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11117375/?utm_source=embed&utm_campaign=visualisation/11117375' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
  
  
 #### Veranderingen over tijd heen
@@ -57,9 +57,8 @@ In deze grafiek is het duidelijk dat nieuwer Beeld en Geluid materiaal veel mind
 van productiemetadata en automatische metadata.
 <iframe src='https://flo.uri.sh/visualisation/11177596/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11177596/?utm_source=embed&utm_campaign=visualisation/11177596' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-
 ### Beeld en Geluid databreuken
-Beeld en Geluid heeft een rijke geschiedenis, en daardoor ook een grote hoeveelheid databreuken. ***Tim: denk je dat we hier een kort geschiedenis met de belangrijke breuken moeten geven?***
+Beeld en Geluid heeft een rijke geschiedenis, en daardoor ook een grote hoeveelheid databreuken. 
 Om inzicht te geven in de belangrijkste databreuken, hebben we deze op een tijdslijn beschreven. De tijdslijn bevat
 drie elementen
 #### Selectie
@@ -70,7 +69,7 @@ alle Nederlandse producties op TV gearchiveerd. Muziek is tussen 1997 en 2014 ge
 #### Metadata
 De Metadata elementen beschrijven belangrijke veranderingen in hoe metadata wordt gemaakt bij Beeld en Geluid. Deze worden aangegeven op de tijdslijn met gele bolletjes. In 1997 begonnen
 alle documentalisten bij Beeld en Geluid met 1 catalogussysteem te werken over film, TV en radio. Consistentie werd verder bevorderd door het invoeren van de GTAA thesaurus in 2001, zodat
-documentalisten termen uit de thesaurus gebruikten in plaats van zelf een term in te typen, eerst voor genres en onderwerpen, en vanaf 2004 voor personen, organisaties en locaties. Als de hoeveelheid materiaal door veranderingen in selectie groeide, verschuifde het beleid van weinig
+documentalisten termen uit de thesaurus gebruikten in plaats van zelf een term in te typen, eerst voor genres en onderwerpen, en vanaf 2004 voor personen, organisaties en locaties. Als vanaf 2006 de hoeveelheid materiaal door veranderingen in selectie groeide, verschuifde het beleid van weinig
 materiaal selecteren voor bewaren en dat veel te beschrijven, naar meer materiaal selecteren voor bewaren en op verschillende niveaus van diepte beschrijven, om de beperkte annotatiekracht gericht in te zetten voor materiaal waar 
 de prioriteit het hoogst leek. TV, die en kleinere hoeveelheid programma's had dan radio, was typisch in meer detail beschreven dan radio. 
 
@@ -80,7 +79,7 @@ de prioriteit het hoogst leek. TV, die en kleinere hoeveelheid programma's had d
 <td style='width:50%'><img src="images/goed geannoteerd 2.PNG"></td>
 </tr>
 <tr>
-<td style='width:50%'>Een goed geannoteerd programma</td>
+<td style='width:50%'>Een uitgebreid geannoteerd programma</td>
 <td style='width:50%'>Het programma is ook in segmenten onderverdeeld, die in detail zijn geannoteerd</td>
 </tr>
 <tr>
@@ -89,7 +88,7 @@ de prioriteit het hoogst leek. TV, die en kleinere hoeveelheid programma's had d
 </tr>
 <tr>
 <td style='width:50%'>Een radio-opname van tijdens de oorlog</td>
-<td style='width:50%'>Een televisie-programma met minimale metadata</td>
+<td style='width:50%'>Een televisie-programma met minimale, externe metadata</td>
 </tr>
 </table>
 
@@ -109,16 +108,16 @@ De tijdslijn brengt alle elementen samen. Hover met je muis over een bolletje om
 <iframe src='https://flo.uri.sh/visualisation/11074865/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11074865/?utm_source=embed&utm_campaign=visualisation/11074865' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 De tijdslijn vertelt niet het hele verhaal, omdat op ieder moment in tijd er ook verschillen zijn in hoe verschillende types materiaal worden behandeld. Bijvoorbeeld, in de tijdperk van handmatige annotatie
-bestond er een prioritering waarbij archivisten sommige items diepgaand beschreven, en anders op een meer summier manier. ***Tim, wat zouden we hieraan kunnen doen?***
+bestond er een prioritering waarbij archivisten sommige items diepgaand beschreven, en anders op een meer summier manier. 
 
 ### Impact van databreuken
-Metadata bepalen wat we zien van het archief. ***Tim: willen we de lens analogie weer gebruiken of liever niet?*** De databreuken staan ons dus in de weg bij gebruik van het archief.
+Metadata zijn de lens waar we het archief doorheen zien. De databreuken zijn zoals krassen op deze lens. Ze storen ons zicht daarop en staan ons dus in de weg bij gebruik van het archief.
 
 #### Impact op zoeken
 Selectie heeft het grootste impact op zoeken. Uiteraard kan een gebruiker niet vinden wat er niet is geselecteerd te bewaren in het archief. Echter weet de gebruiker dat niet, als ze niet bekend zijn met
 het selectiebeleid. Ze zoeken iets en snappen niet waarom ze het niet vinden.
 Metadata verschillen beinvloeden ook de vindbaarheid van items. Een item met een volledige beschrijving, een spraaktranscript en een lijst van personen, organisaties en locaties is veel makkelijker te vinden
-dan een item met summiere informatie. ***Tim: zullen we hier een voorbeeld geven van een item met veel metadata en een item met weinig? Misschien iets van uit de week van de NL televisie als 'slecht' voorbeeld?***
+dan een item met summiere informatie.
 
 Soms is de informatie er wel, maar veranderingen in metadatering maken het zoeken moeilijker. Kijk naar deze voorbeeld van zoeken op Dolf Jansen in ons archief. De effecten van archiefbeleid zijn duidelijk te merken
 in hoe items worden gevonden. Eerst in vrije tekst beschrijving, daarna als thesaurus persoon, en recenter in stem- en gezichtsherkenning. Een gebruiker moet in al deze metadatavelden zoeken om zo veel mogelijk
@@ -161,7 +160,24 @@ Wil je beter kunnen zoeken in het archief? Goed snappen wat je wel en niet vindt
 - kijk of je de databreuken kan omzeilen - een andere metadataveld kiezen, een meer homogene subcollectie kiezen, je vraag aanpassen of compensatie toe te passen in je analyse?
 - Media Suite tools gebruiken
 
-De Media Suite heeft een Inspect tool waarmee je databreuken goed kunt opsporen. Ook is er een Compare tool waarmee je kunt compenseren voor breuken **voorbeeld Mediaoorlog**
+De Media Suite heeft een Inspect tool waarmee je databreuken goed kunt opsporen, door te kijken naar de compleetheid van metadatavelden, ook over de tijd heen.
+
+<img src="images/inspect_tool.PNG">
+_Screenshot van de Media Suite Inspect Tool - deze laat duidelijk zien hoe de hoeveelheid items met een onderwerp is veranderd over de tijd heen_
+
+Ook is er een Compare tool waarmee je kunt compenseren voor breuken. Bijvoorbeeld, het [MediaOorlog](https://beeldengeluid.nl/kennis/projecten/mediaoorlog) project
+analyseerde oorlogskranten in de Media Suite, die worden toegekend aan de categorieen 'Genazificeerd' en 'Anti-nazi'.  Er waren veel meer kranten in de 'Genazificeerd' categorie dan in de categorie
+'Anti-nazi'. Dus als we zoeken op bijv. 'Stalingrad' dan zijn de aantallen krantenartikels met dat woord uiteraard meer in de 'Genazificeerd' categorie dan in 'Anti-nazi'. Als we daarvoor
+compenseren door percentages te nemen ipv absolute aantallen, dan zien we een heel ander patroon.
+
+<img src="images/stalingrad_absolute.PNG">
+_Screenshot van de Media Suite Compare Tool - de absolute aantallen krantenartikels met de term 'Stalingrad' in genazificeerde en anti-nazi kranten_
+
+<img src="images/stalingrad_relatief.PNG">
+_Screenshot van de Media Suite Compare Tool - de relatieve aantallen krantenartikels met de term 'Stalingrad' in genazificeerde en anti-nazi kranten_
+
+
+
 
 ### Conclusie
 Databreuken zijn inherent aan een rijke archiefcollectie die over tijd steeds groeit en ontwikkelt. Als je er van bewust bent, kan je alsnog de beste halen uit de schat van het archief.
