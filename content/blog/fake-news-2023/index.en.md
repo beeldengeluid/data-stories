@@ -29,9 +29,7 @@ Centraal in deze Data Story staan de vragen: hoe ontstond het nepnieuwsdiscours 
 
 ## Methode
 
-Zie ook [de uitgebreide methodologische verantwoording](#methodologische-verantwoording)
-
-Deze Data Story is gericht op televisieuitzendingen van de publieke omroep. Er is een selectie gemaakt van [54 actualiteitenprogramma’s](https://docs.google.com/spreadsheets/d/1xbkpnG-Uvd6XTcxXyZgXgbIIZCmmvcPh-vALMG84omE/edit?usp=sharing): in totaal ruim twaalfduizend uur aan televisie. In de metadata van dit materiaal hebben we gezocht naar zeven ‘signaalwoorden’: _fake news,_ _nepnieuws, fake berichten, nepberichten, misinformatie, desinformatie _en_ nepinformatie_. Als een van de woorden voorkomt, is het gesprek in de uitzending onderdeel van het _nepnieuwsdiscours_. Journalisten, politici, experts en burgers geven hun eigen invulling aan de woorden uit het discours. Zo ontstaat het nepnieuwsdiscours op de Nederlandse televisie.
+Deze Data Story is gericht op televisieuitzendingen van de publieke omroep. Er is een selectie gemaakt van [54 actualiteitenprogramma’s](https://docs.google.com/spreadsheets/d/1xbkpnG-Uvd6XTcxXyZgXgbIIZCmmvcPh-vALMG84omE/edit?usp=sharing): in totaal ruim twaalfduizend uur aan televisie. In de metadata van dit materiaal hebben we gezocht naar zeven ‘signaalwoorden’: _fake news, nepnieuws, fake berichten, nepberichten, misinformatie, desinformatie en nepinformatie_. Als een van de woorden voorkomt, is het gesprek in de uitzending onderdeel van het _nepnieuwsdiscours_. Journalisten, politici, experts en burgers geven hun eigen invulling aan de woorden uit het discours. Zo ontstaat het nepnieuwsdiscours op de Nederlandse televisie.
 
 Dit onderzoek start in 2014. In dat jaar gebruikt de Canadese journalist Craig Silverman de term ‘fake news’ in een Tweet.[^10] Silverman schrijft in de Tweet over een website waarop verzonnen verhalen staan over een Ebola-uitbraak. Het verzonnen ‘fake news’-verhaal is op dat moment op Facebook vaker gedeeld dan een melding dat het onzin is, schrijft Silverman. Het is de start van een reeks verhalen die Silverman schrijft over dit soort websites. Silverman helpt hiermee de term ‘fake news’ bekend te maken.[^11] Ons onderzoek eindigt 30 juni 2022, een half jaar van het jaar waarin deze Data Story wordt geschreven.
 
@@ -75,7 +73,7 @@ Om van een mediahype te spreken moet de aandacht ook weer afzwakken, schrijft Va
 
 Op basis van hoe vaak de woorden uit het nepnieuwsdiscours voorkomen in de door ons onderzochte programma’s, blijkt dat de aandacht sinds 2016 niet kortstondig is. De aandacht zakt niet meer terug naar het niveau van 2014 en 2015 en lijkt in 2017 nog niet het hoogtepunt te hebben bereikt, dat komt pas in 2022.
 
-Van der Steenhoven maakt in zijn onderzoek onderscheid tussen krantenartikelen waarin melding wordt gemaakt van ‘nepberichten’ (nieuws) en krantenartikelen waarin hierop gereflecteerd wordt (metanieuws).[^17] Hij vindt veel minder ‘nepberichten’ dan berichten _over _‘nepberichten’. 
+Van der Steenhoven maakt in zijn onderzoek onderscheid tussen krantenartikelen waarin melding wordt gemaakt van ‘nepberichten’ (nieuws) en krantenartikelen waarin hierop gereflecteerd wordt (metanieuws).[^17] Hij vindt veel minder ‘nepberichten’ dan berichten _over_‘nepberichten’. 
 
 Er is vooralsnog geen nieuwsmoeheid wat betreft ‘nepnieuws’. De woorden uit het discours blijven na 2016 in gebruik en zijn sinds 2017 een vast onderdeel van het publieke debat over actualiteiten.
 
@@ -206,7 +204,7 @@ Het gesprek wordt aangevuld met een videofragment uit Eenvandaag (oorspronkelijk
 
 ‘Nepnieuws’ betekent hier “aperte onwaarheden” en “flauwekul verpakt als nieuws”. Het wordt ingezet als politiek campagnemiddel. Dit zou ook in Nederland kunnen gebeuren, volgens de sprekers, want er zijn mensen die van alles geloven.
 
-Ook in andere actualiteitenprogramma's wordt het verloop van de verkiezingen in de Verenigde Staten besproken. Op 18 november 2016 meldt EenVandaag-journalist Lammert de Bruin dat Facebook en Twitter vol staan met_ “_fake news-berichten”.[^35] Op de vraag of mensen ook echt geloven in “fake newsberichten” op Facebook antwoordt De Bruin: “Ja, kijk maar even naar dit fragment van vorig jaar uit Eenvandaag”. Hetzelfde fragment van de vrouw die Facebookberichten gelooft, wordt gebruikt ter illustratie. 
+Ook in andere actualiteitenprogramma's wordt het verloop van de verkiezingen in de Verenigde Staten besproken. Op 18 november 2016 meldt EenVandaag-journalist Lammert de Bruin dat Facebook en Twitter vol staan met “fake news-berichten”.[^35] Op de vraag of mensen ook echt geloven in “fake newsberichten” op Facebook antwoordt De Bruin: “Ja, kijk maar even naar dit fragment van vorig jaar uit Eenvandaag”. Hetzelfde fragment van de vrouw die Facebookberichten gelooft, wordt gebruikt ter illustratie. 
 
 ‘Nepnieuws’ als fenomeen is sinds deze periode, vlak na de verkiezingen in de Verenigde Staten niet meer slechts satire of een middel voor activisme. Er ontstaan zorgen over de invloed van ’fake news’ en ‘nepnieuws’ op de uitkomst van verkiezingen en referenda. Waar in DWDD nog een slag om de arm wordt gehouden en over “mogelijke beïnvloeding” wordt gesproken, is in EenVandaag het beeld helder: ‘nepnieuws’ zorgde ervoor dat Trump aan de macht kwam en in Nederland kunnen verkiezingen ook worden beïnvloed. Er is paniek.
 
@@ -351,115 +349,115 @@ Voor programma’s die door meerdere omroepen worden gemaakt, zoals Nieuwsuur, w
 Bronnenlijst
 
 
-        Adhanom Ghebreyesus, Tedros. “Munich Security Conference.” _Who.int_, World Health Organization, 15 Feb. 2020, https://www.who.int/director-general/speeches/detail/munich-security-conference. 
+Adhanom Ghebreyesus, Tedros. “Munich Security Conference.” _Who.int_, World Health Organization, 15 Feb. 2020, https://www.who.int/director-general/speeches/detail/munich-security-conference. 
 
 
-        Berg, Dennis van den. “Nepnieuws - Netwerk Mediawijsheid.” _Netwerkmediawijsheid.net_, Netwerkmediawijsheid, Jan. 2021, https://netwerkmediawijsheid.nl/wp-content/uploads/sites/6/2021/03/Nepnieuws-onderzoeksrapport-2021-Netwerk-Mediawijsheid.pdf. 
+Berg, Dennis van den. “Nepnieuws - Netwerk Mediawijsheid.” _Netwerkmediawijsheid.net_, Netwerkmediawijsheid, Jan. 2021, https://netwerkmediawijsheid.nl/wp-content/uploads/sites/6/2021/03/Nepnieuws-onderzoeksrapport-2021-Netwerk-Mediawijsheid.pdf. 
 
 
-        Burger, Peter, et al. “The Reach of Commercially Motivated Junk News on Facebook.” _PLOS ONE_, vol. 14, no. 8, 2019, https://doi.org/10.1371/journal.pone.0220446. 
+Burger, Peter, et al. “The Reach of Commercially Motivated Junk News on Facebook.” _PLOS ONE_, vol. 14, no. 8, 2019, https://doi.org/10.1371/journal.pone.0220446. 
 
 
-        CNN. “New Name for Fake News: 'Viral Deception' - CNN Video.” _CNN_, Cable News Network, 5 Mar. 2017, https://edition.cnn.com/videos/tv/2017/03/05/new-name-for-fake-news-viral-deception.cnn. 
+CNN. “New Name for Fake News: 'Viral Deception' - CNN Video.” _CNN_, Cable News Network, 5 Mar. 2017, https://edition.cnn.com/videos/tv/2017/03/05/new-name-for-fake-news-viral-deception.cnn. 
 
 
-        Collier, Jessica. “Why We Really Need to Stop Saying Fake News.” _Mediaengagement.org_, The University of Texas at Austin, 13 Oct. 2020, https://mediaengagement.org/blogs/why-we-really-need-to-stop-saying-fake-news/. 
+Collier, Jessica. “Why We Really Need to Stop Saying Fake News.” _Mediaengagement.org_, The University of Texas at Austin, 13 Oct. 2020, https://mediaengagement.org/blogs/why-we-really-need-to-stop-saying-fake-news/. 
 
 
-        Costera Meijer, Irene. “Digital News Report Nederland 2021.” _Mediamonitor.nl_, Commissariaat Voor De Media, 2021, https://www.mediamonitor.nl/digitalnewsreport/digitalnewsreport2021/. 
+Costera Meijer, Irene. “Digital News Report Nederland 2021.” _Mediamonitor.nl_, Commissariaat Voor De Media, 2021, https://www.mediamonitor.nl/digitalnewsreport/digitalnewsreport2021/. 
 
 
-        Cukier, Eva. “Moskou Voert Druk in De Donbas Op Met Nepnieuws En Geweld.” _NRC.nl_, NRC, 20 Feb. 2022, https://www.nrc.nl/nieuws/2022/02/20/moskou-voert-druk-in-de-donbas-op-met-nepnieuws-en-geweld-a4092081. 
+Cukier, Eva. “Moskou Voert Druk in De Donbas Op Met Nepnieuws En Geweld.” _NRC.nl_, NRC, 20 Feb. 2022, https://www.nrc.nl/nieuws/2022/02/20/moskou-voert-druk-in-de-donbas-op-met-nepnieuws-en-geweld-a4092081. 
 
 
-        EenVandaag. “Protest Tegen Komst AZC in Purmerend.” _EenVandaag_, AvroTros - NPO, 7 Oct. 2015, https://eenvandaag.avrotros.nl/item/protest-tegen-komst-azc-in-purmerend/.
+EenVandaag. “Protest Tegen Komst AZC in Purmerend.” _EenVandaag_, AvroTros - NPO, 7 Oct. 2015, https://eenvandaag.avrotros.nl/item/protest-tegen-komst-azc-in-purmerend/.
 
 
-        EenVandaag. (2022, October 17). _Over EenVandaag_. EenVandaag. Retrieved November 16, 2022, from https://eenvandaag.avrotros.nl/info/over-eenvandaag/. 
+EenVandaag. (2022, October 17). _Over EenVandaag_. EenVandaag. Retrieved November 16, 2022, from https://eenvandaag.avrotros.nl/info/over-eenvandaag/. 
 
 
-         Flood, Alison. “Fake News Is 'Very Real' Word of the Year for 2017.” _The Guardian_, Guardian News and Media, 2 Nov. 2017, https://www.theguardian.com/books/2017/nov/02/fake-news-is-very-real-word-of-the-year-for-2017.
+ Flood, Alison. “Fake News Is 'Very Real' Word of the Year for 2017.” _The Guardian_, Guardian News and Media, 2 Nov. 2017, https://www.theguardian.com/books/2017/nov/02/fake-news-is-very-real-word-of-the-year-for-2017.
 
 
-        Farhall, K., Carson, A., Wright, S., Gibbons, A., & Lukamto, W. (2019). _Political Elites' use of fake news discourse across communications platforms_. International Journal of Communication. Retrieved November 9, 2022, from https://ijoc.org/index.php/ijoc/article/view/10677 
+Farhall, K., Carson, A., Wright, S., Gibbons, A., & Lukamto, W. (2019). _Political Elites' use of fake news discourse across communications platforms_. International Journal of Communication. Retrieved November 9, 2022, from https://ijoc.org/index.php/ijoc/article/view/10677 
 
 
-        Funke, Daniel, and Daniela Flamini. “A Guide to Anti-Misinformation Actions around the World.” _Poynter.org_, Poynter, 14 Aug. 2019, https://www.poynter.org/ifcn/anti-misinformation-actions/. 
+Funke, Daniel, and Daniela Flamini. “A Guide to Anti-Misinformation Actions around the World.” _Poynter.org_, Poynter, 14 Aug. 2019, https://www.poynter.org/ifcn/anti-misinformation-actions/. 
 
 
-        Giuliani-Hoffman, Francesca. “'f*** News' Should Be Replaced by These Words, Claire Wardle Says.” _CNNMoney_, Cable News Network, 3 Nov. 2017, https://money.cnn.com/2017/11/03/media/claire-wardle-fake-news-reliable-sources-podcast/index.html. 
+Giuliani-Hoffman, Francesca. “'f*** News' Should Be Replaced by These Words, Claire Wardle Says.” _CNNMoney_, Cable News Network, 3 Nov. 2017, https://money.cnn.com/2017/11/03/media/claire-wardle-fake-news-reliable-sources-podcast/index.html. 
 
 
-        Griffith, Brent. “Obama: We Must Guard against Fake News.” _POLITICO_, 17 Nov. 2016, https://www.politico.com/story/2016/11/obama-fake-news-231565. 
+Griffith, Brent. “Obama: We Must Guard against Fake News.” _POLITICO_, 17 Nov. 2016, https://www.politico.com/story/2016/11/obama-fake-news-231565. 
 
 
-        Habgood-Coote, Joshua. “Stop Talking about Fake News!” _Inquiry_, vol. 62, no. 9-10, 2018, pp. 1033–1065., https://doi.org/10.1080/0020174x.2018.1508363. 
+Habgood-Coote, Joshua. “Stop Talking about Fake News!” _Inquiry_, vol. 62, no. 9-10, 2018, pp. 1033–1065., https://doi.org/10.1080/0020174x.2018.1508363. 
 
 
-        Ingram, Mathew. “Europe Tries to Fight Hate, Harassment, and Fake News without Killing Free Speech.” _Cjr.org_, Columbia Journalism Review, 17 Jan. 2018, https://www.cjr.org/innovations/europe-youtube-facebook-free-speech.php.
+Ingram, Mathew. “Europe Tries to Fight Hate, Harassment, and Fake News without Killing Free Speech.” _Cjr.org_, Columbia Journalism Review, 17 Jan. 2018, https://www.cjr.org/innovations/europe-youtube-facebook-free-speech.php.
 
 
-        Kanne, P., & Driessen, M. (2019, December 19). _Desinformatie Leidt Tot verwarring bij nieuwsconsument - 065.wpcdnnode.com_. ioresearch.nl. Retrieved March 1, 2023, from https://065.wpcdnnode.com/ioresearch.nl/wp-content/uploads/2019/10/Rapport-Nepnieuws-Volkskrant-Versie-19122017.pdf.
+Kanne, P., & Driessen, M. (2019, December 19). _Desinformatie Leidt Tot verwarring bij nieuwsconsument - 065.wpcdnnode.com_. ioresearch.nl. Retrieved March 1, 2023, from https://065.wpcdnnode.com/ioresearch.nl/wp-content/uploads/2019/10/Rapport-Nepnieuws-Volkskrant-Versie-19122017.pdf.
 
 
-        Kranenberg, Annieke. “Nederlanders Bezorgd over 'Nepnieuws' - Een Op Drie Weet Vaak Niet Meer Wat Waar Is En Wat Onwaar.” _De Volkskrant_, 23 Dec. 2017, https://www.volkskrant.nl/nieuws-achtergrond/nederlanders-bezorgd-over-nepnieuws-een-op-drie-weet-vaak-niet-meer-wat-waar-is-en-wat-onwaar~b6914596/. 
+Kranenberg, Annieke. “Nederlanders Bezorgd over 'Nepnieuws' - Een Op Drie Weet Vaak Niet Meer Wat Waar Is En Wat Onwaar.” _De Volkskrant_, 23 Dec. 2017, https://www.volkskrant.nl/nieuws-achtergrond/nederlanders-bezorgd-over-nepnieuws-een-op-drie-weet-vaak-niet-meer-wat-waar-is-en-wat-onwaar~b6914596/. 
 
 
-        Merica, Dan. “Hillary Clinton Calls Fake News 'an Epidemic'.” _CNN_, Cable News Network, 9 Dec. 2016, https://edition.cnn.com/2016/12/08/politics/hillary-clinton-fake-news-epidemic/index.html. 
+Merica, Dan. “Hillary Clinton Calls Fake News 'an Epidemic'.” _CNN_, Cable News Network, 9 Dec. 2016, https://edition.cnn.com/2016/12/08/politics/hillary-clinton-fake-news-epidemic/index.html. 
 
 
-        Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. “Checklist 'Is Die Informatie Echt?'.” _Desinformatie En Nepnieuws | Rijksoverheid.nl_, Ministerie Van Algemene Zaken, 19 Apr. 2022, https://www.rijksoverheid.nl/onderwerpen/desinformatie-nepnieuws/checklist-tips-tegen-nepnieuws-desinformatie. 
+Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. “Checklist 'Is Die Informatie Echt?'.” _Desinformatie En Nepnieuws | Rijksoverheid.nl_, Ministerie Van Algemene Zaken, 19 Apr. 2022, https://www.rijksoverheid.nl/onderwerpen/desinformatie-nepnieuws/checklist-tips-tegen-nepnieuws-desinformatie. 
 
 
-        Nationale, Assemblée. “Proposition De Loi Nº 799 Relative à La Lutte Contre Les Fausses Informations.” _Assemblee-Nationale.fr_, Assemblée Nationale, 21 Mar. 2018, https://www.assemblee-nationale.fr/dyn/15/textes/l15b0799_proposition-loi. 
+Nationale, Assemblée. “Proposition De Loi Nº 799 Relative à La Lutte Contre Les Fausses Informations.” _Assemblee-Nationale.fr_, Assemblée Nationale, 21 Mar. 2018, https://www.assemblee-nationale.fr/dyn/15/textes/l15b0799_proposition-loi. 
 
 
-        NOS Nieuws. “Duitse Politici: Nepnieuws Moet Strafbaar Worden.” _NOS.nl_, NOS Nieuws, 13 Dec. 2016, https://nos.nl/artikel/2148153-duitse-politici-nepnieuws-moet-strafbaar-worden. 
+NOS Nieuws. “Duitse Politici: Nepnieuws Moet Strafbaar Worden.” _NOS.nl_, NOS Nieuws, 13 Dec. 2016, https://nos.nl/artikel/2148153-duitse-politici-nepnieuws-moet-strafbaar-worden. 
 
 
-        NOSop3. _Nepnieuws, Wat Betekent Dat Nou Precies?_ _YouTube.com_, NOS, 5 Mar. 2018, https://www.youtube.com/watch?v=rZHhgUl_fFc. Accessed 30 Aug. 2022.
+NOSop3. _Nepnieuws, Wat Betekent Dat Nou Precies?_ _YouTube.com_, NOS, 5 Mar. 2018, https://www.youtube.com/watch?v=rZHhgUl_fFc. Accessed 30 Aug. 2022.
 
 
-        Robb, A. (2017, November 16). _Pizzagate: Anatomy of a fake news scandal_. Rolling Stone. Retrieved November 15, 2022, from https://www.rollingstone.com/feature/anatomy-of-a-fake-news-scandal-125877/
+Robb, A. (2017, November 16). _Pizzagate: Anatomy of a fake news scandal_. Rolling Stone. Retrieved November 15, 2022, from https://www.rollingstone.com/feature/anatomy-of-a-fake-news-scandal-125877/
 
 
-        Selma. (2021, June 15). _Jop van de speld legt Uit Dat satire Geen nepnieuws is_. IsDatEchtZo? Retrieved November 16, 2022, from https://www.isdatechtzo.nl/nepnieuws/zie-jij-het-verschil-tussen-satire-en-nepnieuws/.
+Selma. (2021, June 15). _Jop van de speld legt Uit Dat satire Geen nepnieuws is_. IsDatEchtZo? Retrieved November 16, 2022, from https://www.isdatechtzo.nl/nepnieuws/zie-jij-het-verschil-tussen-satire-en-nepnieuws/.
 
 
-        Sprakradet. (n.d.). _Faktaark årets Ord 2017 - Språkrådet_. sprakradet.no. Retrieved November 16, 2022, from https://www.sprakradet.no/globalassets/aktuelt/faktaark_aretsord_2017_bm.pdf. 
+Sprakradet. (n.d.). _Faktaark årets Ord 2017 - Språkrådet_. sprakradet.no. Retrieved November 16, 2022, from https://www.sprakradet.no/globalassets/aktuelt/faktaark_aretsord_2017_bm.pdf. 
 
 
-        Silverman, Craig. “Fake News Site National Report Set off a Measure of Panic by Publishing Fake Story about Ebola Outbreak: Https://T.co/Chrjtpuhyc Scumbags.” _Twitter_, Twitter, 15 Oct. 2014, https://twitter.com/CraigSilverman/status/522179364767924224?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E522179364767924224%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.buzzfeednews.com%2Farticle%2Fcraigsilverman%2Fi-helped-popularize-the-term-fake-news-and-now-i-cringe. 
+Silverman, Craig. “Fake News Site National Report Set off a Measure of Panic by Publishing Fake Story about Ebola Outbreak: Https://T.co/Chrjtpuhyc Scumbags.” _Twitter_, Twitter, 15 Oct. 2014, https://twitter.com/CraigSilverman/status/522179364767924224?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E522179364767924224%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.buzzfeednews.com%2Farticle%2Fcraigsilverman%2Fi-helped-popularize-the-term-fake-news-and-now-i-cringe. 
 
 
-        Silverman, Craig. “I Helped Popularize the Term ‘Fake News’ and Now I Cringe Whenever I Hear It.” _BuzzFeed News_, BuzzFeed News, 31 Dec. 2017, https://www.buzzfeednews.com/article/craigsilverman/i-helped-popularize-the-term-fake-news-and-now-i-cringe.
+Silverman, Craig. “I Helped Popularize the Term ‘Fake News’ and Now I Cringe Whenever I Hear It.” _BuzzFeed News_, BuzzFeed News, 31 Dec. 2017, https://www.buzzfeednews.com/article/craigsilverman/i-helped-popularize-the-term-fake-news-and-now-i-cringe.
 
 
-        Steenhoven, Bertijn van der. “Nepnieuws in Het Nieuws, Een Mediahype? Een Analyse Van De Aandacht Voor Nepnieuws in Nederlandse Media.” _Tijdschrift Voor Communicatiewetenschap_, vol. 46, no. 2, 7 June 2018, pp. 96–118., https://doi.org/https://doi.org/10.5117/2018.046.002.002. 
+Steenhoven, Bertijn van der. “Nepnieuws in Het Nieuws, Een Mediahype? Een Analyse Van De Aandacht Voor Nepnieuws in Nederlandse Media.” _Tijdschrift Voor Communicatiewetenschap_, vol. 46, no. 2, 7 June 2018, pp. 96–118., https://doi.org/https://doi.org/10.5117/2018.046.002.002. 
 
 
-        Van Duyn, Emily, and Jessica Collier. “Priming and Fake News: The Effects of Elite Discourse on Evaluations of News Media.” _Mass Communication and Society_, vol. 22, no. 1, 2018, pp. 29–48., https://doi.org/10.1080/15205436.2018.1511807. 
+Van Duyn, Emily, and Jessica Collier. “Priming and Fake News: The Effects of Elite Discourse on Evaluations of News Media.” _Mass Communication and Society_, vol. 22, no. 1, 2018, pp. 29–48., https://doi.org/10.1080/15205436.2018.1511807. 
 
 
-        Vandystadt, Nathalie. “Next Steps against Fake News: Commission Sets up High-Level Expert Group and Launches Public Consultation.” _European Commission_, Europese Commissie, 13 Nov. 2017, https://ec.europa.eu/commission/presscorner/detail/en/IP_17_4481.
+Vandystadt, Nathalie. “Next Steps against Fake News: Commission Sets up High-Level Expert Group and Launches Public Consultation.” _European Commission_, Europese Commissie, 13 Nov. 2017, https://ec.europa.eu/commission/presscorner/detail/en/IP_17_4481.
 
 
-        VPRO. (n.d.). _Over buitenhof_. VPRO. Retrieved November 16, 2022, from https://www.vpro.nl/buitenhof/service/over.html. 
+VPRO. (n.d.). _Over buitenhof_. VPRO. Retrieved November 16, 2022, from https://www.vpro.nl/buitenhof/service/over.html. 
 
 
-        Wardle, C., & Derakhshan, H. (2017, September 27). _RM - information disorder: Report November 2017 - Coe_. Retrieved September 30, 2022, from https://rm.coe.int/information-disorder-report-november-2017/1680764666. 
+Wardle, C., & Derakhshan, H. (2017, September 27). _RM - information disorder: Report November 2017 - Coe_. Retrieved September 30, 2022, from https://rm.coe.int/information-disorder-report-november-2017/1680764666. 
 
 
-        Webredactie, BNR. “Ollongren Pakt Fake News Rond Verkiezingen Aan.” _Bnr.nl_, BNR Nieuwsradio, 17 Nov. 2020, https://www.bnr.nl/nieuws/politiek/10426526/ollongren-pakt-fake-news-rond-verkiezingen-aan. 
+Webredactie, BNR. “Ollongren Pakt Fake News Rond Verkiezingen Aan.” _Bnr.nl_, BNR Nieuwsradio, 17 Nov. 2020, https://www.bnr.nl/nieuws/politiek/10426526/ollongren-pakt-fake-news-rond-verkiezingen-aan. 
 
 
-        Wires, N. (2016, December 9). _Fake news an 'epidemic' with 'real world consequences', warns Clinton_. France 24. Retrieved November 15, 2022, from https://www.france24.com/en/20161209-hillary-clinton-fake-news-epidemic-with-real-world-consequences-trump-usa-election 
+Wires, N. (2016, December 9). _Fake news an 'epidemic' with 'real world consequences', warns Clinton_. France 24. Retrieved November 15, 2022, from https://www.france24.com/en/20161209-hillary-clinton-fake-news-epidemic-with-real-world-consequences-trump-usa-election 
 
 
-        Wright, S. (2015, November 5). _Collins word of the year 2015 Q & A_. Collins Dictionary Language Blog. Retrieved October 19, 2022, from https://blog.collinsdictionary.com/language-lovers/collins-word-of-the-year-2015-q-a/. 
+Wright, S. (2015, November 5). _Collins word of the year 2015 Q & A_. Collins Dictionary Language Blog. Retrieved October 19, 2022, from https://blog.collinsdictionary.com/language-lovers/collins-word-of-the-year-2015-q-a/. 
 
 
-        Wright, S. (2020, November 12). Collins 2017 word of the year shortlist. Collins Dictionary Language Blog. Retrieved October 24, 2022, from https://blog.collinsdictionary.com/language-lovers/collins-2017-word-of-the-year-shortlist/ 
+Wright, S. (2020, November 12). Collins 2017 word of the year shortlist. Collins Dictionary Language Blog. Retrieved October 24, 2022, from https://blog.collinsdictionary.com/language-lovers/collins-2017-word-of-the-year-shortlist/ 
 
 
 <!-- Footnotes themselves at the bottom. -->
