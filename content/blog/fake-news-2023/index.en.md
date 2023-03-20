@@ -73,7 +73,7 @@ Om van een mediahype te spreken moet de aandacht ook weer afzwakken, schrijft Va
 
 Op basis van hoe vaak de woorden uit het nepnieuwsdiscours voorkomen in de door ons onderzochte programma’s, blijkt dat de aandacht sinds 2016 niet kortstondig is. De aandacht zakt niet meer terug naar het niveau van 2014 en 2015 en lijkt in 2017 nog niet het hoogtepunt te hebben bereikt, dat komt pas in 2022.
 
-Van der Steenhoven maakt in zijn onderzoek onderscheid tussen krantenartikelen waarin melding wordt gemaakt van ‘nepberichten’ (nieuws) en krantenartikelen waarin hierop gereflecteerd wordt (metanieuws).[^17] Hij vindt veel minder ‘nepberichten’ dan berichten _over_‘nepberichten’. 
+Van der Steenhoven maakt in zijn onderzoek onderscheid tussen krantenartikelen waarin melding wordt gemaakt van ‘nepberichten’ (nieuws) en krantenartikelen waarin hierop gereflecteerd wordt (metanieuws).[^17] Hij vindt veel minder ‘nepberichten’ dan berichten _over_ 'nepberichten’. 
 
 Er is vooralsnog geen nieuwsmoeheid wat betreft ‘nepnieuws’. De woorden uit het discours blijven na 2016 in gebruik en zijn sinds 2017 een vast onderdeel van het publieke debat over actualiteiten.
 
@@ -346,7 +346,7 @@ Om een beeld te krijgen over hoe de signaalwoorden uit het discours betekenis kr
 
 Voor programma’s die door meerdere omroepen worden gemaakt, zoals Nieuwsuur, wordt de indeling die is meegegeven in de metadata aangehouden. Voor de telling bij per omroep is hetzelfde gedaan.
 
-Bronnenlijst
+## Bronnenlijst
 
 
 Adhanom Ghebreyesus, Tedros. “Munich Security Conference.” _Who.int_, World Health Organization, 15 Feb. 2020, https://www.who.int/director-general/speeches/detail/munich-security-conference. 
