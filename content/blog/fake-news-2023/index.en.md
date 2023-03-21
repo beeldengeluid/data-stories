@@ -1,7 +1,7 @@
 ---
 title: Onvrede over nepnieuwsdiscours, maar debat blijft
 date: "2023-03-20T16:12:03.284Z"
-description: "Korte beschrijving hier"
+description: "Deze Data Story is een eerste schets van het publieke gesprek in Nederlandse actualiteitenprogramma’s waarin het woord ‘nepnieuws’ en aanverwante woorden voorkomen. Op basis van de signaalwoorden ‘nepnieuws’, ‘fake news’, ‘fake berichten’, ‘nepberichten’, ‘nepinformatie’, ‘misinformatie’ en ‘desinformatie’ wordt met de CLARIAH Media Suite een reconstructie gemaakt van het nepnieuwsdiscours. In welke Nederlandse actualiteitenprogramma’s komt het nepnieuwsdiscours voor en welke betekenissen worden eraan gegeven? Sinds 2014 blijkt het nepnieuwsdiscours elk jaar voor te komen. Verkiezingen, invloedrijke techbedrijven, wetten, moordpartijen in het buitenland, complotdenken, coronamaatregelen, bedreigingen van politici, artsen en wetenschappers: nieuwe gebeurtenissen die aandacht krijgen in actualiteitenprogramma’s worden elke keer verbonden aan een uitdijend nepnieuwsdiscours. Ondanks een periode van kritiek in 2017 en 2018 op het gebruik van de woorden ‘nepnieuws’ en ‘fake news’, is het discours in de eerste helft van 2022 relatief vaker gevonden dan in de jaren ervoor. Het lijkt erop dat de aandacht voor het nepnieuwdiscours groter is dan ooit."
 ---
 Luuk Ex (Beeld & Geluid)
 
@@ -9,7 +9,15 @@ Willemien Sanders (Universiteit Utrecht, Beeld & Geluid)
 
 Mari Wigham (Beeld & Geluid)
 
+Reviewers: 
 
+Stan Hulsen (RTL Nieuws)
+
+Rudy Bouma (Nieuwsuur)
+
+Bertijn van der Steenhoven (TU Delft)
+
+Danielle Arets (Fontys)
 
 ## Introductie 
 
@@ -306,7 +314,7 @@ Uit deze Data Story blijkt dat het nepnieuwsdiscours bij alle geanalyseerde omro
 
 In twee Nederlandse onderzoeken wordt gesteld dat de aandacht voor het onderwerp de hoeveelheid ‘nepnieuws’ die wordt aangetroffen, overschaduwt. De langer aanhoudende aandacht voor het onderwerp ‘nepnieuws’ tussen eind 2016 en begin 2017 is te verklaren doordat het onderwerp nieuw is. Er moet nog een mening worden gevormd door politici, journalisten en opiniemakers, dus blijft het gesprek actueel.[^65]<sup>,</sup>[^66]<sup> </sup> Op basis van de analyse voor deze Data Story lijken actualiteitenprogramma’s er ook in 2022 nog niet over uitgepraat. 
 
-Een verklaring kan zijn dat het gesprek binnen elk actueel thema (opnieuw) gevoerd wordt. Nieuwe betekenissen van het nepnieuwsdiscours worden elke keer verbonden aan nieuwe actualiteiten. Verkiezingen, techbedrijven, wetten, moordpartijen in het buitenland, complotdenken, coronamaatregelen, bedreigingen van politici, artsen en wetenschappers, de oorzaak voor een lijst incidenten wordt gezocht met de signaalwoorden uit het nepnieuwsdiscours. Ook lijken betekenissen en onderwerpen die aan het discours zijn verbonden niet zomaar te verdwijnen. De vraag naar invloed ervan op verkiezingen, blijft een terugkerend gesprek.
+Een verklaring kan zijn dat het gesprek binnen elk actueel thema (opnieuw) gevoerd wordt. Nieuwe betekenissen van het nepnieuwsdiscours worden elke keer verbonden aan nieuwe actualiteiten. Verkiezingen, invloedrijke techbedrijven, wetten, moordpartijen in het buitenland, complotdenken, coronamaatregelen, bedreigingen van politici, artsen en wetenschappers, de oorzaak voor een lijst incidenten wordt gezocht met de signaalwoorden uit het nepnieuwsdiscours. Ook lijken betekenissen en onderwerpen die aan het discours zijn verbonden niet zomaar te verdwijnen. De vraag naar invloed ervan op verkiezingen, blijft een terugkerend gesprek.
 
 Uit de analyse op fragmentniveau blijkt dat de signaalwoorden een steeds gelaagder betekenis krijgen. Met name de betekenis van het woord ‘nepnieuws’ verandert door de jaren heen, waarmee de oude betekenis niet hoeft te verdwijnen. Alleen de onschuldige betekenis satire uit de beginperiode verdwijnt, terwijl in de latere jaren ‘nepnieuws’ als (politiek) wapen terugkeert en paniek veroorzaakt. Het wordt ook gezien als technologisch probleem op socialemediaplatformen. Waar de platformen en overheden oplossingen voor moeten vinden. In 2019-2020 verplaatst de focus naar burgers onderling. Eind februari 2022 valt het woord ‘nepnieuws’ samen met 'desinformatie', wanneer de dreiging van een Russische aanval in Oekraïne wordt besproken.
 
@@ -317,9 +325,9 @@ Het discours wordt door de jaren heen bekritiseerd. In Amerikaans onderzoek word
 
 De voor dit onderzoek onderzochte uitzendingen en besproken fragmenten kunnen nader worden geanalyseerd. Dit kan bijvoorbeeld tonen wie de woorden uit het discours gebruiken. Wie brengt het onderwerp elke keer ter sprake: een politicus, een journalist, een expert, of mogelijk een ander type spreker? Met een systematische analyse van de fragmenten worden verhoudingen tussen journalistiek, politiek, experts en publiek zichtbaar. 
 
-Het onderzoek voor deze Data Story geeft een beeld van het nepnieuwsdiscours in actualiteitenrubrieken van de publieke omroep maar wat zegt het over het algemeen? Via andere kanalen, zoals in reacties op de video _Nepnieuws, Wat Betekent Dat Nou Precies? _van de NOSop3, krijgen de woorden ook betekenis. Zo wordt de NOS in een reactie zelf ‘nepnieuws’ genoemd.[^68] De stickers waar op staat “NOS=nepnieuws”, zijn ook niet onbekend. Het onderzoek zou uitgebreid kunnen worden met een analyse van andere kanalen waar het nepnieuwsdiscours betekenis krijgt, zoals commentaarsecties onder socialmediaberichten, nieuwssites en opiniestukken.
+Het onderzoek voor deze Data Story geeft een beeld van het nepnieuwsdiscours in actualiteitenrubrieken van de publieke omroep maar wat zegt het over het algemeen? Via andere kanalen, zoals in reacties op de video _Nepnieuws, Wat Betekent Dat Nou Precies?_ van de NOSop3, krijgen de woorden ook betekenis. Zo wordt de NOS in een reactie zelf ‘nepnieuws’ genoemd.[^68] De stickers waar op staat “NOS=nepnieuws”, zijn ook niet onbekend. Het onderzoek zou uitgebreid kunnen worden met een analyse van andere kanalen waar het nepnieuwsdiscours betekenis krijgt, zoals commentaarsecties onder socialmediaberichten, nieuwssites en opiniestukken.
 
-De selectie van programma’s kan ook zelf een bron zijn voor vervolgonderzoek. Onderzoek kan worden hoe een ander discours zich ontwikkelt. De onderzoeksmethode en vragen kunnen zo als blauwdruk of als inspiratie dienen voor het onderzoeken van andere publieke debatten.
+De selectie van programma’s kan ook zelf een bron zijn voor vervolgonderzoek. Onderzocht kan worden hoe een ander discours zich ontwikkelt. De onderzoeksmethode en vragen kunnen zo als blauwdruk of als inspiratie dienen voor het onderzoeken van andere publieke debatten.
 
 
 ## Methodologische verantwoording
