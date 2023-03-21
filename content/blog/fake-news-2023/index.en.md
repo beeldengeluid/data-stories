@@ -3,21 +3,11 @@ title: Onvrede over nepnieuwsdiscours, maar debat blijft
 date: "2023-03-20T16:12:03.284Z"
 description: "Deze Data Story is een eerste schets van het publieke gesprek in Nederlandse actualiteitenprogramma’s waarin het woord ‘nepnieuws’ en aanverwante woorden voorkomen. Op basis van de signaalwoorden ‘nepnieuws’, ‘fake news’, ‘fake berichten’, ‘nepberichten’, ‘nepinformatie’, ‘misinformatie’ en ‘desinformatie’ wordt met de CLARIAH Media Suite een reconstructie gemaakt van het nepnieuwsdiscours. In welke Nederlandse actualiteitenprogramma’s komt het nepnieuwsdiscours voor en welke betekenissen worden eraan gegeven? Sinds 2014 blijkt het nepnieuwsdiscours elk jaar voor te komen. Verkiezingen, invloedrijke techbedrijven, wetten, moordpartijen in het buitenland, complotdenken, coronamaatregelen, bedreigingen van politici, artsen en wetenschappers: nieuwe gebeurtenissen die aandacht krijgen in actualiteitenprogramma’s worden elke keer verbonden aan een uitdijend nepnieuwsdiscours. Ondanks een periode van kritiek in 2017 en 2018 op het gebruik van de woorden ‘nepnieuws’ en ‘fake news’, is het discours in de eerste helft van 2022 relatief vaker gevonden dan in de jaren ervoor. Het lijkt erop dat de aandacht voor het nepnieuwdiscours groter is dan ooit."
 ---
-Luuk Ex (Beeld & Geluid)
+Auteurs: Luuk Ex (Beeld & Geluid) en Willemien Sanders (Universiteit Utrecht, Beeld & Geluid)
 
-Willemien Sanders (Universiteit Utrecht, Beeld & Geluid)
+Ontwikkelaars: Mari Wigham (Beeld & Geluid) en Rana Klein (Beeld & Geluid)
 
-Mari Wigham (Beeld & Geluid)
-
-Reviewers: 
-
-Stan Hulsen (RTL Nieuws)
-
-Rudy Bouma (Nieuwsuur)
-
-Bertijn van der Steenhoven (TU Delft)
-
-Danielle Arets (Fontys)
+Reviewers: Stan Hulsen (RTL Nieuws), Rudy Bouma (Nieuwsuur), Bertijn van der Steenhoven (TU Delft) en Danielle Arets (Fontys)
 
 ## Introductie 
 
@@ -297,7 +287,7 @@ Het is 4 februari 2020 als EenVandaag meldt dat de WHO waarschuwt voor ‘nepnie
 
 Het perspectief op het nepnieuwsdiscours is in deze periode de verspreiding van informatie onder burgers. In Nieuwsuur interviewt verslaggever Rudy Bouma een moeder en dochter die een hele andere blik hebben op wat er wel en niet klopt over corona. De moeder is geblokkeerd op Facebook voor het verspreiden van 'desinformatie'. “Dus u heeft desinformatie verspreid?”, vraag Bouma aan de moeder.[^59] Het nepnieuwsdiscours wordt ingezet als aanklacht tegen burgers. 
 
-In deze periode wordt het discours ook gevoed met statistieken. Nu er meldingen komen dat ‘fake news’, ‘nepnieuws’ en ‘desinformatie’ onder burgers gedeeld worden, wordt in verschillende berichten de omvang van het probleem aangekaart. Aan de talkshowtafel van M meldt presentator Margriet van der Linden: “Tijdens de coronacrisis zijn er twee keer zoveel nepaccounts actief op socialemedia, meldt Carnegie Mellon University” en "studie MIT: valse berichten hebben zeventig procent meer kans op Retweet, dan echte nieuwsverhalen en verspreiden zes keer zo snel".[^60] In het acht uur journaal wordt gemeld dat “zeker 50 accounts nepnieuws over corona in Nederland verspreiden”, dat zou blijken uit een analyse van datajournalistiek platform Pointer.[^61] ‘Nepnieuws’ wordt zo onderworpen aan onderzoek waarmee een poging wordt gedaan om de omvang van het probleem te kwantificeren.
+In deze periode wordt het discours ook gevoed met statistieken. Nu er meldingen komen dat ‘fake news’, ‘nepnieuws’ en ‘desinformatie’ onder burgers gedeeld worden, wordt in verschillende berichten de omvang van het probleem aangekaart. Aan de talkshowtafel van M meldt presentator Margriet van der Linden: “Tijdens de coronacrisis zijn er twee keer zoveel nepaccounts actief op socialemedia, meldt Carnegie Mellon University” en "studie MIT: valse berichten hebben zeventig procent meer kans op Retweet, dan echte nieuwsverhalen en verspreiden zes keer zo snel".[^60] In het 20 uur journaal wordt gemeld dat “zeker 50 accounts nepnieuws over corona in Nederland verspreiden”, dat zou blijken uit een analyse van datajournalistiek platform Pointer.[^61] ‘Nepnieuws’ wordt zo onderworpen aan onderzoek waarmee een poging wordt gedaan om de omvang van het probleem te kwantificeren.
 
 In de eerste zes maanden van 2022 is het nepnieuwsdiscours meer gevonden dan in de jaren ervoor. De verschillende betekenissen die laag voor laag vanaf 2014 aan de woorden uit het discours zijn toegevoegd, komen in de eerste drie maanden zo goed als allemaal langs. ‘Fake news’ en ‘desinformatie’ wordt verspreid op platformen van grote techbedrijven, wat politici via juridisch sancties willen bestrijden.[^62] Het woord 'desinformatie' valt als wordt gewezen op het gevaar voor de volksgezondheid in de strijd over wat de huidige kennis is over corona.[^63] Het zijn slechts vijf voorbeelden uit 136 fragmenten in het eerste half jaar van 2022.
 
