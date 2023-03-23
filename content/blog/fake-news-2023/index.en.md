@@ -7,7 +7,7 @@ Auteurs: Luuk Ex (Beeld & Geluid) en Willemien Sanders (Universiteit Utrecht, Be
 
 Ontwikkelaars: Mari Wigham (Beeld & Geluid) en Rana Klein (Beeld & Geluid)
 
-Reviewers: Stan Hulsen (RTL Nieuws), Rudy Bouma (Nieuwsuur), Bertijn van der Steenhoven (TU Delft) en Danielle Arets (Fontys)
+Reviewers: Stan Hulsen (RTL Nieuws), Rudy Bouma (Nieuwsuur), Bertijn van der Steenhoven (Universiteit van Amsterdam) en Danielle Arets (Fontys)
 
 ## Introductie 
 
