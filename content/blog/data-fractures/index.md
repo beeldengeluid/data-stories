@@ -164,10 +164,9 @@ Wil je beter kunnen zoeken in het archief? Wil je goed begrijpen wat je wel en n
 * Gebruik de tools die de [Media Suite](https://mediasuite.clariah.nl/) (een onderzoeksomgeving voor o.a. het Beeld & Geluid archief) aanbiedt.
 
 #### Media Suite tools
-De [Media Suite](https://mediasuite.clariah.nl/) laat iedereen de metadata van Beeld & Geluid doorzoeken, en biedt daarnaast een aantal tools voor academische onderzoekers en Beeld & Geluid medewerkers. 
+De [Media Suite](https://mediasuite.clariah.nl/) laat iedereen de metadata van Beeld & Geluid doorzoeken, en biedt daarnaast een aantal tools om met de metadata te werken. 
 
-De Inspect tool toont statistieken waarmee je metadatabreuken goed kunt opsporen, door te kijken naar de volledigheid van metadatavelden, ook over de tijd heen.
-
+De Inspect tool is voor iedereen beschikbaar. Deze toont statistieken waarmee je metadatabreuken goed kunt opsporen, door te kijken naar de volledigheid van metadatavelden, ook over de tijd heen.
 
 <img src="images/inspect_tool.PNG">
 
@@ -175,7 +174,7 @@ _Figuur 8: Screenshot van de Media Suite Inspect Tool - deze laat duidelijk zien
 
 Figuur 8 hierboven is een screenshot van de Media Suite Inspect Tool en laat duidelijk zien hoe de hoeveelheid items waarbij het metadataveld “onderwerp” is ingevuld steeds verder afneemt. 
 
-De Compare tool geeft je de mogelijkheid te compenseren voor metadatabreuken. Zo analyseerden onderzoekers in het [MediaOorlog](https://beeldengeluid.nl/kennis/projecten/mediaoorlog)-project oorlogskranten in de Media Suite. De kranten werden toegekend aan de categorieën ‘Genazificeerd’ en ‘Anti-nazi’. Er waren veel meer kranten in de ‘Genazificeerd’-categorie dan in de categorie ‘Anti-nazi’. Als we zoeken op bijvoorbeeld ‘Stalingrad’, dan zijn de aantallen krantenartikels met dat woord uiteraard hoger in de ‘Genazificeerd’-categorie dan in ‘Anti-nazi’. Door naar percentages te kijken in plaats van naar absolute aantallen, kunnen we compenseren  en zien we een heel ander patroon (zie figuren 9 en 10 hieronder).
+De Compare tool is beschikbaar voor academische onderzoekers en Beeld & Geluid medewerkers. Deze maakt het mogelijk om de resultaten van verschillende zoekvragen te vergelijken. Daarbij geeft deze tool je de mogelijkheid te compenseren voor metadatabreuken. Zo analyseerden onderzoekers in het [MediaOorlog](https://beeldengeluid.nl/kennis/projecten/mediaoorlog)-project oorlogskranten in de Media Suite. De kranten werden toegekend aan de categorieën ‘Genazificeerd’ en ‘Anti-nazi’. Er waren veel meer kranten in de ‘Genazificeerd’-categorie dan in de categorie ‘Anti-nazi’. Als we zoeken op bijvoorbeeld ‘Stalingrad’, dan zijn de aantallen krantenartikels met dat woord uiteraard hoger in de ‘Genazificeerd’-categorie dan in ‘Anti-nazi’. Door naar percentages te kijken in plaats van naar absolute aantallen, kunnen we compenseren  en zien we een heel ander patroon (zie figuren 9 en 10 hieronder).
 
 <img src="images/stalingrad_absolute.PNG">
 
@@ -189,10 +188,12 @@ _Figuur 10: Screenshot van de Media Suite Compare Tool - de relatieve aantallen 
 ### Conclusie
 Metadatabreuken zijn inherent aan een rijke en historische archiefcollectie die over tijd steeds groeit en zich ontwikkelt. Ideeën over archiveren veranderen, er komen nieuwe technologische mogelijkheden en ook de wensen van de samenleving veranderen. Dat leidt tot veranderingen in de selectie en in manieren van metadatering waardoor metadatabreuken ontstaan. Sommige keuzes hebben verregaande effecten (opschuddingen).
 
-Om hiermee als archiefgebruiker goed om te gaan, is bewustzijn een eerste stap. Bij Beeld & Geluid hebben we in de Media Suite specifieke informatie en tools die kunnen helpen metadatabreuken op te sporen, te begrijpen en te compenseren. Zo kun je alsnog het beste halen uit de schat aan informatie in het archief.
+Om hiermee als archiefgebruiker goed om te gaan, is bewustzijn een eerste stap. Bij Beeld & Geluid hebben we in de [Media Suite](https://mediasuite.clariah.nl/) specifieke informatie en tools die kunnen helpen metadatabreuken op te sporen, te begrijpen en te compenseren. Zo kun je alsnog het beste halen uit de schat aan informatie in het archief.
 
 ### Dankwoord
-Met dank aan Vincent Huis in 't Veld, Cor van Veen, Willemien Sanders en Yvonne Peters voor hun waardevolle kennis en feedback
+Met dank aan Vincent Huis in 't Veld, Cor van Veen, Willemien Sanders en Yvonne Peters voor hun waardevolle kennis en feedback.
+
+De [Media Suite](https://mediasuite.clariah.nl/) is ontwikkeld in het [CLARIAH](https://www.clariah.nl/)-project
 
 
 [^1]: We hebben in dit verhaal de focus gelegd op de metadatabeheersystemen van TV en Radio. We zullen in de toekomst meer informatie toevoegen over andere systemen.
