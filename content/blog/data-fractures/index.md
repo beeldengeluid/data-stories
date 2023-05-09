@@ -11,13 +11,12 @@ Tim Manders (Beeld en Geluid), Mari Wigham (Beeld en Geluid)
 
 Het Beeld & Geluid archief bevat meer dan 2 miljoen items (programma’s, documenten en fysieke objecten) verspreid over meer dan 150 jaar. Dat representeert een enorme schat van kennis. 
 
-<iframe src='https://flo.uri.sh/visualisation/12731392/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:0px!important;text-align:right!important;'></div>
-
 <iframe src='https://flo.uri.sh/visualisation/12731359/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12731359/?utm_source=embed&utm_campaign=visualisation/12731359' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+_Figuur 1: Aantal archiefitems per jaar in het Beeld & Geluid collectie_
 
 Gebruikers die het archief raadplegen, stellen meestal een zoekvraag: ze willen materiaal kunnen vinden in het archief, zoals al het materiaal van André van Duin. Soms gaat het om een onderzoeksvraag, zoals “hoeveel materiaal is al gedigitaliseerd?” , “hoe vaak valt het woord ‘klimaat’ tijdens actualiteitenprogramma’s?” of “welke politici komen het vaakst aan het woord?”. In principe zou het archief in staat moeten zijn om zulke vragen te beantwoorden. Maar toch is het vaak lastiger dan verwacht, of zelfs onmogelijk - door metadatabreuken.
 
-_Figuur 1: Aantal archiefitems per jaar in het Beeld & Geluid collectie_
 
 ### Wat zijn metadata?
 
@@ -164,7 +163,7 @@ Wil je beter kunnen zoeken in het archief? Wil je goed begrijpen wat je wel en n
 * Gebruik de tools die de [Media Suite](https://mediasuite.clariah.nl/) (een onderzoeksomgeving voor o.a. het Beeld & Geluid archief) aanbiedt.
 
 #### Media Suite tools
-De [Media Suite](https://mediasuite.clariah.nl/) laat iedereen de metadata van Beeld & Geluid doorzoeken, en biedt daarnaast een aantal tools om met de metadata te werken. 
+De [Media Suite](https://mediasuite.clariah.nl/) geeft toegang tot de metadata van een aantal belangrijke media collecties, waaronder diverse collecties van Beeld & Geluid. Daarnaast biedt de Media Suite ook tools om met deze metadata te werken. 
 
 De Inspect tool is voor iedereen beschikbaar. Deze toont statistieken waarmee je metadatabreuken goed kunt opsporen, door te kijken naar de volledigheid van metadatavelden, ook over de tijd heen.
 
