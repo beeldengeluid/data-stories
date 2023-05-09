@@ -168,5 +168,7 @@ _Figuur 10: Screenshot van de Media Suite Compare Tool - de relatieve aantallen 
 Metadatabreuken zijn inherent aan een rijke en historische archiefcollectie die over tijd steeds groeit en zich ontwikkelt. Ideeën over archiveren veranderen, er komen nieuwe technologische mogelijkheden en ook de wensen van de samenleving veranderen. Dat leidt tot veranderingen in de selectie en in manieren van metadatering waardoor metadatabreuken ontstaan. Sommige keuzes hebben verregaande effecten (opschuddingen).
 Om hiermee als archiefgebruiker goed om te gaan, is bewustzijn een eerste stap. Bij Beeld & Geluid hebben we in de Media Suite specifieke informatie en tools die kunnen helpen metadatabreuken op te sporen, te begrijpen en te compenseren. Zo kun je alsnog het beste halen uit de schat aan informatie in het archief.
 
+Met dank aan Vincent Huis in 't Veld, Cor van Veen, Willemien Sanders en Yvonne Peters voor hun waardevolle input en feedback
+
 
 [^1]: We hebben in dit verhaal de focus gelegd op de metadatabeheersystemen van TV en Radio. We zullen in de toekomst meer informatie toevoegen over andere systemen.
