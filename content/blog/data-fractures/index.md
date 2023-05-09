@@ -9,20 +9,19 @@ op het vinden en analyseren van archiefmateriaal. Wil je effectief werken met he
 
 Tim Manders (Beeld en Geluid), Mari Wigham (Beeld en Geluid)
 
-### Het antwoord op je vraag vinden in het archief
+Het Beeld & Geluid archief bevat meer dan 2 miljoen items (programma’s, documenten en fysieke objecten) verspreid over meer dan 150 jaar. Dat representeert een enorme schat van kennis. Gebruikers die het archief raadplegen, stellen meestal een zoekvraag: ze willen materiaal kunnen vinden in het archief, zoals al het materiaal van André van Duin. Soms gaat het om een onderzoeksvraag, zoals “hoeveel materiaal is al gedigitaliseerd?” , “hoe vaak valt het woord ‘klimaat’ tijdens actualiteitenprogramma’s?” of “welke politici komen het vaakst aan het woord?”. In principe zou het archief in staat moeten zijn om zulke vragen te beantwoorden. Maar toch is het vaak lastiger dan verwacht, of zelfs onmogelijk - door metadatabreuken.
+
 <iframe src='https://flo.uri.sh/visualisation/12731392/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12731392/?utm_source=embed&utm_campaign=visualisation/12731392' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 <iframe src='https://flo.uri.sh/visualisation/12731359/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/12731359/?utm_source=embed&utm_campaign=visualisation/12731359' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 1: Aantal archiefitems per jaar in het Beeld & Geluid collectie_
 
-Het Beeld & Geluid archief bevat meer dan 2 miljoen items (programma’s, documenten en fysieke objecten) verspreid over meer dan 150 jaar. Dat representeert een enorme schat van kennis. Gebruikers die het archief raadplegen, stellen meestal een zoekvraag: ze willen materiaal kunnen vinden in het archief, zoals al het materiaal van André van Duin. Soms gaat het om een onderzoeksvraag, zoals “hoeveel materiaal is al gedigitaliseerd?” , “hoe vaak valt het woord ‘klimaat’ tijdens actualiteitenprogramma’s?” of “welke politici komen het vaakst aan het woord?”. In principe zou het archief in staat moeten zijn om zulke vragen te beantwoorden. Maar toch is het vaak lastiger dan verwacht, of zelfs onmogelijk - door metadatabreuken.
-
 ### Wat zijn metadata?
 
 Metadata zijn data die een archiefitem beschrijven, zoals de titel, of een samenvatting. Zonder die beschrijvingen is het nagenoeg onmogelijk om iets te vinden in het archief. Metadata zijn de lens waardoor we het archief kunnen bekijken. 
 
-Metadata hebben veel verschillende bronnen. Ze kunnen vastgelegd worden door de makers van een programma, bijvoorbeeld in de vorm van de programmatitel en een samenvatting. Metadata kunnen later handmatig toegevoegd worden, bijvoorbeeld als een archivaris een programma bekijkt en beschrijft. Ze kunnen ook automatisch gegenereerd worden, zoals gebeurt bij de datum en tijd waarop een bestand is geüpload. Tenslotte kunnen metadata geëxtraheerd worden uit audiovisueel materiaal en bestaande metadata, bijvoorbeeld door personen te herkennen op beeld of in de beschrijving. Vaak worden AI (Artificial Intelligence = Kunstmatige Intelligentie) technieken hiervoor gebruikt, waarbij software wordt getraind op data om automatisch metadata te kunnen genereren.
+Metadata hebben veel verschillende bronnen. Ze kunnen vastgelegd worden door de makers van een programma, bijvoorbeeld in de vorm van de programmatitel en een samenvatting. Metadata kunnen later handmatig toegevoegd worden, bijvoorbeeld als een archivaris een programma bekijkt en beschrijft. Ze kunnen ook automatisch gegenereerd worden, zoals gebeurt bij de datum en tijd waarop een bestand is geüpload. Tenslotte kunnen metadata geëxtraheerd worden uit audiovisueel materiaal en bestaande metadata, bijvoorbeeld door personen te herkennen op beeld of in de beschrijving. Vaak worden AI (Artificial Intelligence = Kunstmatige Intelligentie) technieken hiervoor gebruikt, waarbij software wordt getraind op data om metadata automatisch te kunnen genereren.
 
 
 ### Wat zijn metadatabreuken?
@@ -42,11 +41,13 @@ Zoals al besproken, kunnen metadata op verschillende wijzen worden vastgelegd. A
 
 Welke metadata worden vastgelegd en hoe dat gebeurt, hangt samen met het type materiaal en de beschikbare middelen. Echter, zelfs binnen een bepaalde manier van metadatering kunnen er veel keuzes gemaakt worden. Het heeft overduidelijk geen zin om automatische spraakherkenning toe te passen op een decorontwerp. Toepassing van Nederlandse spraakherkenning op programma’s met veel muziek of buitenlandse talen is ook minder zinvol. Waar middelen beperkt zijn, kunnen bepaalde typen materiaal voorrang krijgen. Bij Beeld & Geluid is het bijvoorbeeld mogelijk om gezichten te herkennen in beeldmateriaal. Echter, deze technologie is best duur. Daarom wordt deze technologie alleen toegepast op bepaalde genres, zoals nieuws, en alleen voor de mensen die vaak voorkomen in hedendaagse media. Het gebruik van hulpmiddelen, zoals een thesaurus, heeft ook gevolgen voor de kwaliteit van metadata: als personen worden vastgelegd met een thesaurusterm, hinderen verschillen in schrijfwijze van namen het zoeken niet langer, echter door beperkte middelen wordt niet iedereen in de thesaurus vastgelegd. 
 
-Het beleid van een archief - welke manieren van metadatering zijn gekozen en ingezet - maakt dus veel uit voor de metadata die worden gecreëerd. Beeld & Geluid is ontstaan uit de fusie van omroep-, film- en wetenschappelijke archieven. Elk instituut bracht zijn eigen metadata mee, vastgelegd vanuit een eigen beleid. Elke bron van metadata bevatte haar eigen metadatabreuken en de verschillen tussen de metadata van verschillende instituten vormen ook metadatabreuken.
+Figuur 2 laat zien hoe de beschikbaarheid van onderwep-informatie voor een archief-item sterk afhangt van de categorie van de item.
 
 <iframe src='https://flo.uri.sh/visualisation/11117375/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11117375/?utm_source=embed&utm_campaign=visualisation/11117375' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 2: Percentage archiefitems met onderwerp-informatie voor een aantal geselecteerde categorieën_
+
+Het beleid van een archief - welke manieren van metadatering zijn gekozen en ingezet - maakt dus veel uit voor de metadata die worden gecreëerd. Beeld & Geluid is ontstaan uit de fusie van omroep-, film- en wetenschappelijke archieven. Elk instituut bracht zijn eigen metadata mee, vastgelegd vanuit een eigen beleid. Elke bron van metadata bevatte haar eigen metadatabreuken en de verschillen tussen de metadata van verschillende instituten vormen ook metadatabreuken.
 
 #### Veranderingen over tijd heen
 Beleid rondom metadatering verandert ook over de tijd heen, zoals wanneer er nieuwe vormen van archiefitems ontstaan (denk aan digitale en sociale media), selectiebeleid wordt aangepast, nieuwe manieren van metadatering worden ingevoerd of richtlijnen worden geüpdatet. Bij elke verandering - ook als de verandering tot betere metadata leidt - ontstaat er een nieuwe metadatabreuk.
@@ -58,7 +59,17 @@ In onderstaande grafiek is het duidelijk dat nieuwer Beeld & Geluid-materiaal ve
 _Figuur 3: Percentage archiefitems met onderwerp-informatie voor en na 2014_
 
 ### Beeld & Geluid metadatabreuken
-Het archief van Beeld & Geluid heeft een rijke geschiedenis en daardoor ook een grote hoeveelheid metadatabreuken. Om inzicht te geven in de belangrijkste metadatabreuken, hebben we deze in figuur 5 op een tijdslijn beschreven. We bespreken twee oorzaken van metadatabreuken: selectie en metadatering. We noemen ook ‘opschuddingen’ - momenten waarop er een grote verandering is die verregaande gevolgen heeft voor selectie/en of metadatering.
+Het archief van Beeld & Geluid heeft een rijke geschiedenis en daardoor ook een grote hoeveelheid metadatabreuken. Om inzicht te geven in de belangrijkste metadatabreuken, hebben we deze in figuur 4 op een tijdslijn beschreven. We bespreken twee oorzaken van metadatabreuken: selectie en metadatering. We noemen ook ‘opschuddingen’ - momenten waarop er een grote verandering is die verregaande gevolgen heeft voor selectie/en of metadatering.
+
+De tijdslijn brengt alle oorzaken samen. Beweeg met je muis over een bolletje om er meer over te lezen
+
+<iframe src='https://flo.uri.sh/visualisation/11074865/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11074865/?utm_source=embed&utm_campaign=visualisation/11074865' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+_Figuur 4: Een tijdslijn van metadatabreuken bij Beeld & Geluid_
+
+NB: De tijdslijn vertelt niet het hele verhaal, omdat op ieder moment in de tijd er ook verschillen zijn in hoe verschillende types materiaal worden behandeld. In het tijdperk van handmatige annotatie bijvoorbeeld gaven archivarissen prioriteit aan bepaalde genres, waardoor sommige items een gedetailleerde beschrijving kregen en andere een meer summiere.
+
+In de volgende secties bespreken we selectie, metadatering en opschuddingen in meer detail.
 
 #### Selectie
 De selectiemomenten (blauwe bolletjes) representeren momenten van belangrijke veranderingen in het selectiebeleid van Beeld & Geluid, met metadatabreuken als gevolg. In het begin archiveert Beeld & Geluid alleen materiaal dat aan het instituut wordt aangeboden door de producenten. Als de omroepen in 1970 magneetbanden in gebruik nemen om materiaal te archiveren neemt de hoeveelheid materiaal toe. Het regelmatig archiveren van radio begint in 1977, wordt uitgebreid vanaf 1997 en sinds 2006 worden alle publieke radiozenders volledig gearchiveerd. Het regelmatig archiveren van TV begint in 1990 en sinds 2006 worden alle Nederlandse producties op TV gearchiveerd. Zowel Nederlandse als niet-Nederlandse muziek wordt gearchiveerd voor hergebruik. Bijzondere moeite wordt gedaan om Nederlandse producties te bewaren. Vanaf 2014 neemt Muziekweb het archiveren van muziek over. In 2023 fuseert het Nederlands Persmuseum met Beeld & Geluid. 
@@ -70,7 +81,7 @@ Als vanaf 2006 door veranderingen in selectiebeleid de hoeveelheid materiaal toe
 
 In 2012 start Beeld & Geluid het Media Management programma. Dit is een serie projecten gericht op het verkrijgen van betere metadata vanuit de bron en automatisering van annotatie. Het luidt een tijdperk in van grote veranderingen in metadata, en vanaf 2015 wordt handmatige annotatie door archivarissen sterk afgebouwd, en de voorkeur gegeven aan het ophalen van metadata bij de programmamakers zelf en door sprekerherkenning (vanaf 2015) en gezichtsherkenning (vanaf 2019).
 
-Figuur 4 toont twee voorbeelden van verschillende annotatie niveaus. Het eerste voorbeeld is van een handmatig geannoteerd programma, een aflevering van het politiekprogramma Buitenhof vanuit 2009. Dit programma werd uitgebreid geannoteerd met o.a. een samenvatting van het programma en informatie over personen, locaties en onderwerpen. Er is ook technische informatie, zoals het aspect ratio en de programmalengte. Het programma is zelfs uitgesplitst in segmenten die individueel worden beschreven. Het tweede voorbeeld komt vanuit hetzelfde jaar, maar is een programma, Boeken, dat vanwege zijn genre op een lager niveau werd geannoteerd. Het bevat wel technische informatie, maar de inhoudelijke informatie is beperkt tot 1 persoonsnaam en een beschrijving van een externe bron.
+Figuur 5 toont twee voorbeelden van verschillende annotatie niveaus. Het eerste voorbeeld is van een handmatig geannoteerd programma, een aflevering van het politiekprogramma Buitenhof vanuit 2009. Dit programma werd uitgebreid geannoteerd met o.a. een samenvatting van het programma en informatie over personen, locaties en onderwerpen. Er is ook technische informatie, zoals het aspect ratio en de programmalengte. Het programma is zelfs uitgesplitst in segmenten die individueel worden beschreven. Het tweede voorbeeld komt vanuit hetzelfde jaar, maar is een programma, Boeken, dat vanwege zijn genre op een lager niveau werd geannoteerd. Het bevat wel technische informatie, maar de inhoudelijke informatie is beperkt tot één persoonsnaam en een beschrijving van een externe bron.
 
 
 <table style='table-layout:fixed;width:100%'>
@@ -90,23 +101,15 @@ Figuur 4 toont twee voorbeelden van verschillende annotatie niveaus. Het eerste 
 <td style='width:100%'><img src="images/slecht geannoteerd 1.PNG"></td>
 </tr>
 <tr>
-<td style='width:100%'>Een summier beschreven programma,<a href=https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608120104171831>Boeken</a></td>
+<td style='width:100%'>Een summier beschreven programma, <a href=https://zoeken.beeldengeluid.nl/program/urn:vme:default:program:2101608120104171831>Boeken</a></td>
 </tr>
 </table>
 
-_Figuur 4: Example of varying annotation levels_
+_Figuur 5: Example of varying annotation levels_
 
 
 #### Opschuddingen
 Op sommige punten in de geschiedenis van Beeld & Geluid is er sprake van een ‘opschudding’, een verandering die verregaande gevolgen heeft voor de selectie en metadata (paarse bolletjes; de verticale stippenlijnen illustreren de gevolgen voor ‘selectie’ en ‘metadatering’). De invoering van een nieuw metadatabeheersysteem[^1] (een softwaresysteem waarmee metadata worden ingevoerd, bewaard en doorzocht) in 1997, 2006 en 2018 zorgt telkens voor een opschudding. Het grootschalige digitaliseringsproject ‘Beelden voor de Toekomst’ zorgde ook voor een aardverschuiving in de metadata door een grote instroom van gedigitaliseerd materiaal. 
-
-De tijdslijn brengt alle oorzaken samen. Beweeg met je muis over een bolletje om er meer over te lezen
-
-<iframe src='https://flo.uri.sh/visualisation/11074865/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11074865/?utm_source=embed&utm_campaign=visualisation/11074865' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
-
-_Figuur 5: Een tijdslijn van metadatabreuken bij Beeld & Geluid_
-
-De tijdslijn vertelt niet het hele verhaal, omdat op ieder moment in de tijd er ook verschillen zijn in hoe verschillende types materiaal worden behandeld. In het tijdperk van handmatige annotatie bijvoorbeeld gaven archivarissen prioriteit aan bepaalde genres, waardoor sommige items een gedetailleerde beschrijving kregen en andere een meer summiere.
 
 ### Impact van metadatabreuken
 Metadata zijn de lens waardoor we naar het archief kijken. Metadatabreuken zijn zoals krassen op deze lens. Ze verstoren ons zicht op het archief. Dat heeft gevolgen voor zoeken en onderzoeken.
