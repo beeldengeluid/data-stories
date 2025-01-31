@@ -85,7 +85,7 @@ _Figuur 3: Twee versies van Veritas: ‘gelijkgeschakeld’ (links) en ‘bevrij
 Een andere factor was de dynamiek van de propagandastrijd. Sommige titels van nazi-partij-kranten werden gebruikt door verzetsgroepen. Deze vorm van imitatie was waarschijnlijk bedoeld om nationaal-socialisten te desoriënteren. Een voorbeeld is _Storm: Blad der Nederlandsche SS_ dat, op niet echt overtuigende wijze, werd nagemaakt in Amsterdam in de laatste dagen van de bezetting.
 <table style='table-layout:fixed;width:100%'>
 <tr>
-<td style='width:50%;padding-top:17px'><iframe src='https://flo.uri.sh/story/1797936/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='height:600px;width:100%' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe></td>
+<td style='width:50%;padding-top:17px'><iframe src='https://flo.uri.sh/story/2851723/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='height:600px;width:100%' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe></td>
 <td style='width:50%;padding-top:0px'><img src="images/ddd_010448596_mpeg21_p001_image.jpg"></td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ _Figuur 4: Twee versies van Storm SS: de originele nazistische versie (links, tr
 
 Om tot een goede afweging te komen van de betekenis van de verschillende publicaties tijdens de Tweede Wereldoorlog, is het van belang om te beseffen dat het medialandschap in die jaren ongelijk was. Het autocratische bezettingsregime in Nederland liet geen vrijheid van meningsuiting toe en had als doel om via de kranten de Nederlandse publieke opinie te winnen voor Hitler’s Derde Rijk. Bladen die werden uitgegeven door de NSB of andere nationaal-socialistische organisaties, deden dit vanuit ideologische overtuiging en waren open doorgeefkanalen voor de nazi-propaganda uit Berlijn. Deze kranten bevatten extremistische uitingen, zoals een virulent antisemitisme.[^1] Wat jodenhaat betreft, spande het weekblad _De Misthoorn_ de kroon.
 
-<iframe src='https://flo.uri.sh/story/1797931/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/story/2851727/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 _De misthoorn_, 5 september 1942
 
@@ -220,7 +220,7 @@ Een van de uitkomsten van de NER-analyse is dat ‘Europa’ de meest voorkomend
 
 Met de inval van de Sovjet-Unie op 22 juni 1941 kreeg het idee van Europa voor de nazi’s een nieuwe urgentie. De oorlog tegen het ‘Aziatische bolsjewisme’ werd door Hitler en Goebbels voorgesteld als een gemeenschappelijke Europese kruistocht voor een nieuw Europa en het behoud van de Europese beschaving. Ook op radio Hilversum en in de Nederlandstalige gelijkgeschakelde pers en nazi-partij kranten werd deze voorstelling van een strijd van en voor het nieuwe Europa, tegen het anti-Europese Sovjet-bolsjewisme en de Britse (en vanaf december 1941 Brits-Amerikaanse) plutocratie, voortdurend aangehaald. Een voorbeeld is het onderstaande artikel van Anton Mussert op de voorpagina van het NSB partijblad _Volk en Vaderland_, waarin de NSB-leider, een dag na het begin van de Duitse inval, de oorlog tegen de Sovjet-Unie prijst als “het eenige middel dat mogelijk is om een nieuw Europa te bouwen”. 
 
-<iframe src='https://flo.uri.sh/story/1797938/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://flo.uri.sh/story/2851730/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
 _Figuur 17: Voorpagina Volk en Vaderland_, 23 juni 1941, over de Duitse aanval op de Sovjet-Unie. Trek de zwarte stip naar links om het artikel te bekijken. Bron: [Delpher.](https://www.delpher.nl/nl/kranten)
 
