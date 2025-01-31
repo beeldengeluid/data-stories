@@ -23,13 +23,13 @@ The Sound and Vision archive goes back many years, and during that time the arch
 
 Examples of visualisations based on metadata that was manually entered by archivists can be seen in Figures 1 and 2. The most frequently (twice or more) discussed locations from manually annotated DWDD programmes are plotted on both a world map and a map of the Netherlands. It is not terribly surprising that the discussion was, apparently, quite frequently about the United States (on a global scale) and Amsterdam (within the Netherlands). What is more remarkable, is that Uruzgan features relatively often.
 
-<iframe src='https://public.flourish.studio/visualisation/1925837/embed' frameborder='0' scrolling='no' style='width:100%;height:420px;'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/21400551/embed' frameborder='0' scrolling='no' style='width:100%;height:420px;'></iframe>
 
 _Figure 1: The most frequently discussed locations in 15 years DWDD, on a global scale (annotated by archivists)._
 <br>
 <img class="link-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e">See all locations</a> in the Media Suite (scroll down to see 'Location discussed', per programme or segment in the programme, on the lefthand side. Click on the three vertical dots for sorting options).</i>
 
-<iframe src='https://public.flourish.studio/visualisation/1926238/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/21400557/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
 _Figure 2: The most frequently discussed locations in 15 years DWDD, in the Netherlands (annotated by archivists)._
 <br>
@@ -52,7 +52,7 @@ _Figure 3: Word cloud of the top 100 most frequently occurring subjects (annotat
 
 Representations such as word clouds can give an overview of the spread of subjects over all DWDD programmes, in a sort of birds-eye view. This is also called _distant reading_. With the Media Suite you can zoom in further, for example to see the exact number of programmes for each subject, as seen below in Figure 4. Ultimately, the individual programmes and their subjects can be viewed and analysed, as is shown in Figure 5. This is called _close reading_.
 
-<iframe src='https://public.flourish.studio/visualisation/1823202/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/21400563/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
 _Figure 4: Top 10 most frequent subjects in terms of number of DWDD programmes, measured in the period 2005-2015._
 <br>
@@ -75,11 +75,11 @@ _Figure 6: Overview of the availability of subject labels in DWDD over the years
 
 DWDD was probably most influential in bringing complicated subject matter to a wider audience. Robbert Dijkgraaf explained the Big Bang in simple terms, and the day after an item by Alexander Klöpping we could all converse about the latest technological developments. In Figure 7 we can see that science was well represented in DWDD. Our assumption would be that if we compared the number of scientific subjects discussed in DWDD with another TV programme, that DWDD would win hands down. Indeed, we see in Figure 8 that DWDD scores very well compared to current affairs and chat shows.
 
-<iframe src='https://public.flourish.studio/visualisation/1823409/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/21400573/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
 _Figure 7: Top 10 most frequently discussed scientific subjects (annotated by archivists) in terms of number of DWDD programmes, measured in the period 2005-2015._
 
-<iframe src='https://public.flourish.studio/visualisation/1824353/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/21400581/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
 _Figure 8: Number of programmes in which certain scientific subjects were discussed (annotated by archivists), measured in the period 2005-2015._
 <br>
@@ -99,7 +99,7 @@ While Matthijs and Eva both talk equally fast during the show, the speed of thei
 
 With the help of speaker recognition, we can also calculate for how much of the programme time the presenter is speaking. In Figure 9 we compare Eva Jinek, Matthijs van Nieuwkerk and another popular Dutch talk show host, Jeroen Pauw, during the 2018 and 2019 seasons. We see that Eva Jinek appears to give her guests more room, and speaks less herself, than Matthijs and Jeroen do. Perhaps an interesting topic for follow-up research by an intern: do female talk show hosts let their guests speak more than their male colleagues do?
 
-<iframe src='https://public.flourish.studio/visualisation/1732423/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/21400590/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
 _Figure 9: Percentages of the programme for which the presenter is speaking._
 

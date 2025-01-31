@@ -26,13 +26,13 @@ Het archief van Beeld en Geluid gaat vele jaren terug en door de tijd heen is er
 
 Voorbeelden van visualisaties gebaseerd op handmatig door archivarissen toegekende metadata zie je in Figuur 1 en 2. Op een wereldkaart en kaart van Nederland worden de meest besproken locaties (2 keer of meer) in 15 jaar DWDD weergegeven. Niet geheel onverwacht ging het blijkbaar relatief vaak over de Verenigde Staten (op wereldschaal) en Amsterdam (binnen Nederland). Opvallend is dan weer dat het relatief vaak over Uruzgan is gegaan.
 
-<iframe src='https://public.flourish.studio/visualisation/1925837/embed' frameborder='0' scrolling='no' style='width:100%;height:420px;'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/21400551/embed' frameborder='0' scrolling='no' style='width:100%;height:420px;'></iframe>
 
 _Figuur 1: De meest besproken locaties in 15 jaar DWDD op wereldschaal (toegekend door archivarissen)._
 <br>
 <img class="link-icon" src="/favicon-32x32.png" alt="MS"><i><a target="_blank" href="https://mediasuite.clariah.nl/tool/single-search?queryId=cc4188df-ce42-4907-9978-62f51f62d36e">Zie alle locaties</a> in de Media Suite (scroll omlaag en zie 'Location discussed', per programma en per programma-segment, aan de linkerkant. Klik op de drie verticale stippen voor sorteeropties).</i>
 
-<iframe src='https://public.flourish.studio/visualisation/1926238/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/21400557/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
 _Figuur 2: De meest besproken locaties in 15 jaar DWDD in Nederland (toegekend door archivarissen)._
 <br>
@@ -55,7 +55,7 @@ _Figuur 3: Woordenwolk van de Top 100 meest voorkomende onderwerpen (toegekend d
 
 Weergaves zoals woordenwolken geven een overzicht van de spreiding van onderwerpen over alle DWDD uitzendingen, als het ware vanuit een helicopterview. Dit wordt ook wel _distant reading_ genoemd. Met de Media Suite kun je steeds verder inzoomen, om bijvoorbeeld de exacte aantallen per onderwerp te zien, zoals hieronder in Figuur 4. Om uiteindelijk individuele programma’s zelf en de specifieke onderwerpen te gaan bekijken en analyseren, zoals te zien is in Figuur 5. Dat wordt _close reading_ genoemd.
 
-<iframe src='https://public.flourish.studio/visualisation/1823202/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/21400563/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
 _Figuur 4: Top 10 meest frequente onderwerpen in termen van aantal afleveringen van DWDD, gemeten in de periode 2005-2015._ 
 <br>
@@ -83,11 +83,11 @@ _Figuur 6: Overzicht van de beschikbaarheid van onderwerplabels in DWDD door de 
 
 Het meest invloedrijk is DWDD waarschijnlijk geweest met ingewikkelde materie toegankelijk maken voor een breed publiek. Zo legde Robbert Dijkgraaf in Jip en Janneke-taal uit wat de oerknal inhoudt en kunnen we de volgende dag meepraten over technologische ontwikkelingen na een item met Alexander Klöpping. In Figuur 7 zien we dat wetenschap goed is vertegenwoordigd bij DWDD. Ons vermoeden zou zijn dat als we het aantal wetenschappelijke onderwerpen besproken in DWDD zouden vergelijken met andere tv-programma's, DWDD er met kop en schouders bovenuit zou steken. Inderdaad zien we in Figuur 8 dat DWDD het heel goed doet in vergelijking tot actualiteiten- en praatprogramma's (_current affairs_ en _chat shows_).
 
-<iframe src='https://public.flourish.studio/visualisation/1823409/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/21400573/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
 _Figuur 7: Top 10 meest besproken (door archivarissen toegekende) wetenschappelijke onderwerpen in termen van aantal afleveringen van DWDD, gemeten in de periode 2005-2015._
 
-<iframe src='https://public.flourish.studio/visualisation/1824353/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/21400581/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
 _Figuur 8: Aantal afleveringen waarin bepaalde wetenschappelijke onderwerpen besproken worden (toegekend door archivarissen), gemeten in de periode 2005-2015._
 <br>
@@ -107,7 +107,7 @@ Hoewel Matthijs en Eva even snel praten tijdens de show, verschilt de snelheid i
 
 Met behulp van sprekerherkenning kunnen we ook berekenen hoeveel tijd van het programma een presentator aan het woord is. In Figuur 9 vergelijken we Eva Jinek, Matthijs van Nieuwkerk en Jeroen Pauw in de seizoenen 2018 en 2019 en zien we dat Eva Jinek haar gasten iets meer ruimte lijkt te geven en wat minder aan het woord is dan de mannen. Wellicht een interessant onderwerp voor een vervolgonderzoek van een stagiair: is het zo dat vrouwelijke talkshowhosts hun gasten meer aan het woord laten dan hun mannelijke collega’s?
 
-<iframe src='https://public.flourish.studio/visualisation/1732423/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/21400590/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe>
 
 _Figuur 9: Percentages van het programma waar de presentator aan het woord is._
 
