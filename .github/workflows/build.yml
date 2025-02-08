@@ -1,0 +1,53 @@
+name: Build & Push
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    permissions: {}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Build using Docker
+        run: |
+          docker build -t data-stories .
+          docker create --name data-stories data-stories
+      - name: Extract build
+        run: |
+          docker cp data-stories:/src/public/ ./public
+      - name: Prepare HTML for Pages
+        run: |
+          # fix permissions, see
+          # https://github.com/actions/upload-pages-artifact#example-permissions-fix-for-linux
+          chmod -v -R +rX "public" | while read line; do
+            echo "::warning title=Invalid file permissions automatically fixed::$line"
+          done
+
+          # now pack it for export, in required format
+          # https://github.com/actions/upload-pages-artifact#artifact-validation
+          mv public _site
+          tar czf github-pages _site
+      - name: Upload to Pages
+        uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3.0.1
+
+  deploy:
+    name: Deploy
+    needs: build
+
+    permissions:
+      actions: read
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.output.pages_url }}
+
+    runs-on: ubuntu-24.04
+    steps:
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4.0.5
