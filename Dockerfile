@@ -1,4 +1,4 @@
-FROM docker.io/node:16.20@sha256:f77a1aef2da8d83e45ec990f45df50f1a286c5fe8bbfb8c6e4246c6389705c0b
+FROM docker.io/node:23.11@sha256:c5bfe90b30e795ec57bcc0040065ca6f284af84a1dafd22a207bd6b48c39ce01
 
 COPY ./ /src
 
