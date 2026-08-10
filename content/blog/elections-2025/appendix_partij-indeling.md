@@ -1,4 +1,4 @@
-De indeling van partijen langs het politieke spectrum is gebaseerd op het <a target="_blank" href="[https://tweedekamer2025.kieskompas.nl/nl/]">politieke landschap</a> gehanteerd door het Kieskompas.
+De indeling van partijen langs het politieke spectrum is gebaseerd op het <a target="_blank" href="https://tweedekamer2025.kieskompas.nl/nl/">politieke landschap</a> gehanteerd door het Kieskompas.
 
 ##### <a name="Categorisering van politieke partijen op ideologie"></a>Categorisering van politieke partijen op ideologie
 
