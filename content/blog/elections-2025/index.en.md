@@ -36,7 +36,7 @@ We bespreken hier eerst de aanwezigheid van individuele politici over de gehele 
 Net als in 2021 beginnen we met een visualisatie van de combinatie van de aanwezigheid van politici in de vorm van het aantal keren dat ze herkend zijn, het aantal minuten dat ze in beeld waren en het aantal minuten dat ze aan het woord waren.
 Figuur 1.1 visualiseert de bevindingen.
 
-<iframe src='https://public.flourish.studio/visualisation/27490243/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27490243/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27490243/?utm_source=embed&utm_campaign=visualisation/27490243' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 1.1. De aanwezigheid van politici tijdens de zes campagneweken._ 
 
@@ -65,7 +65,7 @@ Al met al komt de campagne bij de NPO pas vanaf week 4, dat is rond 8 oktober, o
 
 ##### 1.2 Het verschil tussen radio en televisie
 In figuur 1.2 visualiseren we het aantal minuten gezichtsherkenning voor de 20 politici met de hoogste score hierin. Vrouwelijke politici zijn, net als in 2021, in het groen weergegeven, mannelijke politici in het rood.
-<iframe src='https://public.flourish.studio/visualisation/27521938/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27521938/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27521938/?utm_source=embed&utm_campaign=visualisation/27521938' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 1.2. Totaal aantal minuten gezichtsherkenning top 20._
 
@@ -73,7 +73,7 @@ Wanneer we specifiek naar zichtbaarheid in beeld kijken, zien we dat politici va
 
 In figuur 1.3 is op eenzelfde manier de spreektijd van politici gevisualiseerd.
 
-<iframe src='https://public.flourish.studio/visualisation/27521988/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27521988/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27521988/?utm_source=embed&utm_campaign=visualisation/27521988' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 1.3. Totaal aantal minuten stemherkenning top 20._
 
@@ -83,7 +83,7 @@ Figuren 1.2 en 1.3 laten zien dat traditionele partijen meer domineren op televi
 
 Hoe vaak politici zijn herkend, hebben we eveneens gevisualiseerd. Figuur 1.4 toont de resultaten.
 
-<iframe src='https://public.flourish.studio/visualisation/27522009/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27522009/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27522009/?utm_source=embed&utm_campaign=visualisation/27522009' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 1.4. Totaal aantal keren herkend top 20._
 
@@ -91,7 +91,7 @@ Wanneer we kijken naar hoe vaak politici zijn herkend – dus het aantal keer da
 
 Figuur 1.5a laat de gemiddelde spreektijd van politici zien: de totale stemherkenning (zie figuur 1.3) gedeeld door het aantal keren dat een politicus herkend is (zie figuur 1.4).
 
-<iframe src='https://public.flourish.studio/visualisation/27522030/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27522030/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27522030/?utm_source=embed&utm_campaign=visualisation/27522030' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 1.5a. De gemiddelde spreektijd van de top 20._
 
@@ -103,7 +103,7 @@ De eerste partijleider is Dassen (Volt) op plek zestien, dan Stoffer (SGP) op ze
 
 In figuur 1.5b hebben we de resultaten van de gemiddelde spreektijd gesorteerd op de volgorde van politici zoals weergegeven in figuur 1.3, het totaal van de stemherkenning. 
 
-<iframe src='https://public.flourish.studio/visualisation/27522058/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27522058/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27522058/?utm_source=embed&utm_campaign=visualisation/27522058' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 1.5b. De gemiddelde spreektijd van de top 20 op volgorde van duur stemherkenning._
 
@@ -115,7 +115,7 @@ We analyseerden ook de zichtbaarheid van partijen tijdens de campagneweken, aan 
 #### 2.1 Coalitiepartij VVD domineert, met drie partijen in zijn kielzog
 De analyse van partijzichtbaarheid aan de hand van hun politici laat een duidelijke dominantie zien van regeringspartij VVD gedurende de zes campagneweken. Zowel wat betreft gezichtsherkenning, spreektijd als het aantal keren dat partijen worden herkend, staat de VVD bovenaan. Deze dominantie roept vragen op over de mate waarin de publieke omroep erin slaagt een gelijk speelveld te creëren, zeker gezien de doelstelling van de publieke omroep om een pluriform media-aanbod te bieden.
 
-<iframe src='https://public.flourish.studio/visualisation/27522149/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27522149/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27522149/?utm_source=embed&utm_campaign=visualisation/27522149' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 2.1. De aanwezigheid per partij tijdens de zes campagneweken._
 
@@ -123,7 +123,7 @@ Figuur 2.1 toont de aanwezigheid per partij tijdens de zes campagneweken. Het pa
 
 Deze resultaten splitsen we in figuur 2.2 verder uit. Wanneer we kijken naar de totale tijd dat partijen in beeld zijn geweest, voert de VVD de ranglijst met een ruime voorsprong aan. 
 
-<iframe src='https://public.flourish.studio/visualisation/27522194/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27522194/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27522194/?utm_source=embed&utm_campaign=visualisation/27522194' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 2.2. Totaal aantal minuten gezichtsherkenning per partij._
 
@@ -133,7 +133,7 @@ Na deze top 5 begint de lange staart. De PVV komt net onder de 3 uur zichtbaarhe
 
 Ook wat betreft spreektijd (figuur 2.3) – de tijd dat partijen daadwerkelijk aan het woord zijn – is de VVD veruit de grootste. 
 
-<iframe src='https://public.flourish.studio/visualisation/27522208/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27522208/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27522208/?utm_source=embed&utm_campaign=visualisation/27522208' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 2.3. Totaal aantal minuten stemherkenning per partij._
 
@@ -143,7 +143,7 @@ De christelijke partijen lijken het op de radio beter te doen dan op televisie: 
 
 Wanneer we kijken naar hoe vaak partijen zijn herkend (figuur 2.4) – dus het totaal aantal keren dat hun politici in beeld verschenen of we hun stem konden horen, ongeacht de duur – ontstaat een iets genuanceerder beeld. 
 
-<iframe src='https://public.flourish.studio/visualisation/27522213/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27522213/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27522213/?utm_source=embed&utm_campaign=visualisation/27522213' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 2.4. Totaal aantal keren herkend per partij._
 
@@ -154,7 +154,7 @@ Al met al gaat de meeste aandacht uit naar de overgebleven coalitiepartijen VVD 
 #### 2.2 Rechts domineert
 De analyse naar ideologie (figuur 2.5) laat zien dat coalitiepartijen (PVV, VVD, NSC, BBB) aanzienlijk hoger scoren dan oppositiepartijen (links: GL-PvdA, SP, DENK, PvdD; rechts-populistisch: FvD, JA21), zowel in beeld als in stem en vooral vanaf week 4. 
 
-<iframe src='https://public.flourish.studio/visualisation/27522216/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27522216/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27522216/?utm_source=embed&utm_campaign=visualisation/27522216' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 2.5 Resultaten voor partijen behorende tot de regering, de linkse oppositie en de rechts-populistische oppositie._
 
@@ -162,7 +162,7 @@ Dit patroon is verklaarbaar vanuit de nieuwswaarde: regeringspartijen bepalen he
 
 De ongelijkheid is groot: de oppositie komt er in de campagneperiode bekaaid af. De analyse van de partijen op basis van ideologie laat zien dat vooral rechtse partijen goed scoren. 
 
-<iframe src='https://public.flourish.studio/visualisation/27522264/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27522264/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27522264/?utm_source=embed&utm_campaign=visualisation/27522264' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 2.6. Totale herkenning van politici in minuten, verdeeld over het politieke spectrum._
 
@@ -171,7 +171,7 @@ Binnen de oppositie scoren populistische oppositiepartijen (FvD, JA21) nog lager
 ### 3. Gender: mannen domineren bij progressief, vrouwen bij niet-progressief
 Van de 114 politici die we meenamen in de analyses, zijn er 45 vrouw, 68 man en één non-binair. In percentages is dat 40% vrouw, 60% man en nog geen procent non-binair. Dit lage aandeel non-binaire personen kan geen rol spelen in de analyses van gender en daarom richten we ons verhaal noodgedwongen vooral op vrouwen en mannen. Er zijn ongeveer anderhalf keer zoveel mannelijke als vrouwelijke politici opgenomen in onze analyses. Daarom verwachten we dat bij een gelijke representatie mannen ongeveer anderhalf keer zo hoog scoren als vrouwen. 
 
-<iframe src='https://public.flourish.studio/visualisation/27522225/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27522225/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27522225/?utm_source=embed&utm_campaign=visualisation/27522225' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 3.1. De aanwezigheid van mannelijke respectievelijk vrouwelijke politici gedurende de campagneweken._
 
@@ -189,11 +189,11 @@ In week 6 zijn de vrouwen 4 uur en 40 minuten in beeld (37%) en de mannen 8 uur 
 
 Vrouwen komen aanvankelijk minder vaak en minder lang in beeld en aan het woord dan op basis van hun aandeel onder politici in dit onderzoek verwacht mocht worden. Het verschil met hun vertegenwoordiging onder de politici schommelt tussen 20% (stem, week 2) en 41% (beeld, week 4; stem, week 6). Slechts in enkele gevallen en vooral in het tweede deel van de onderzochte periode is hun herkenning min of meer gelijk aan hun vertegenwoordiging. Dat betekent dat vrouwelijke politici bij de NPO ondervertegenwoordigd zijn in bijna elk van de zes weken voorafgaand aan de verkiezingen van oktober 2025. 
 
-In <a target="_blank" href="/https://mediasuitedatastories.clariah.nl/elections-dec-2021/">2021</a> was er meer dynamiek in de verhouding tussen het aantal vrouwen en mannen. Hoewel mannen domineerden, waren vrouwen in week 1 iets meer in beeld en aan het woord en was het verschil tussen vrouwen en mannen klein in week 2 en 5 (zie figuur 3.1 in de Data Story uit 2021). In zijn geheel is de zichtbaarheid en hoorbaarheid van vrouwelijke politici tijdens campagnes voor de Tweede Kamerverkiezingen dus eerder verslechterd dan verbeterd. 
+In <a target="_blank" href="https://mediasuitedatastories.clariah.nl/elections-dec-2021/">2021</a> was er meer dynamiek in de verhouding tussen het aantal vrouwen en mannen. Hoewel mannen domineerden, waren vrouwen in week 1 iets meer in beeld en aan het woord en was het verschil tussen vrouwen en mannen klein in week 2 en 5 (zie figuur 3.1 in de Data Story uit 2021). In zijn geheel is de zichtbaarheid en hoorbaarheid van vrouwelijke politici tijdens campagnes voor de Tweede Kamerverkiezingen dus eerder verslechterd dan verbeterd. 
 
 Figuur 3.2 laat zien hoe gezichts- en stemherkenning en het aantal keren herkenning, zich voor vrouwelijke respectievelijk mannelijke politici gedurende de zes weken hebben ontwikkeld. De waarden voor gezichts- en stemherkenning zijn hierboven al besproken. We bespreken hier hoe deze zich verhouden tot het aantal keren dat vrouwen en mannen zijn herkend. 
 
-<iframe src='https://public.flourish.studio/visualisation/27522269/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27522269/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27522269/?utm_source=embed&utm_campaign=visualisation/27522269' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 3.2. Gezichts-, stemherkenning en aantal keren herkenning van mannelijke en vrouwelijke politici gedurende de zes weken (top/bottom 20)._
 
@@ -204,7 +204,7 @@ De lijnen voor het aantal keren dat vrouwen en mannen zijn herkend dalen aanvank
 
 Figuur 3.3 laat de verschillen in het totaal aantal minuten gezichts- en stemherkenning zien tussen vrouwen en mannen per partij.
 
-<iframe src='https://public.flourish.studio/visualisation/27522242/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27522242/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27522242/?utm_source=embed&utm_campaign=visualisation/27522242' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 3.3. Verhoudingen tussen vrouwen en mannen per partij in minuten gezichts- en stemherkenning._
 
@@ -216,7 +216,7 @@ Samenvattend krijgen de vrouwen minder aandacht op radio en televisie dan op bas
 ### 4. Onderwerpen: verdediging dominant
 Op basis van de stellingen in het <a target="_blank" href="https://tweedekamer2025.kieskompas.nl/nl/">Kieskompas</a> en de trefwoorden in de toelichting bij standpunten van de partijen hebben we gekeken welke onderwerpen domineerden tijdens de campagne. In deze bronnen zijn 20 onderwerpen geïdentificeerd (zie [appendix 5](#appendix5) voor de volledige lijst). Figuur 4.1 toont de vijf onderwerpen die het vaakst voorkwamen en de vijf onderwerpen die het minst vaak voorkwamen in programma’s in onze dataset.
 
-<iframe src='https://public.flourish.studio/visualisation/28661438/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/28661438/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/28661438/?utm_source=embed&utm_campaign=visualisation/28661438' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 4.1 De vijf meest en vijf minst besproken onderwerpen._
 
@@ -230,7 +230,7 @@ Andere laag-scorende onderwerpen zijn ‘Diversiteit’, ‘Dierenrechten’ en 
 
 Figuur 4.2 laat zien hoe de bespreking van deze onderwerpen zich ontwikkelde over de periode van de zes campagneweken.  
 
-<iframe src='https://public.flourish.studio/visualisation/27888722/' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<iframe src='https://public.flourish.studio/visualisation/27888722/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27888722/?utm_source=embed&utm_campaign=visualisation/27888722' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 _Figuur 4.2: Gespreksonderwerpen gedurende de zes campagneweken._
 
