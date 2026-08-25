@@ -1,6 +1,6 @@
 ---
 title: Partij-top op TV, kleine partijen met moeite hoorbaar - Analyse van mediaoptredens bij de NPO tijdens de verkiezingscampagne 2025
-date: "2026-08-10"
+date: "2026-08-10" 
 description: "Tijdens verkiezingen verschijnen veel politici in de media. Welke politici komen aan het woord? Hoe is de verdeling tussen vrouwen en mannen? Welke partijen krijgen het meeste aandacht? Deze Data Story deed onderzoek naar de Tweede Kamerverkiezingen van 2025 en analyseerde TV- en radioprogramma's van de publieke omroep om deze vragen te beantwoorden."
 ---
 
@@ -16,7 +16,7 @@ De NPO biedt een belangrijk platform voor maatschappelijk debat en heeft als pub
 ### Data en analyses
 De vier hierboven genoemde onderzoeksvragen beantwoorden we aan de hand van radio en TV-uitzendingen van een [selectie van 45 programmatitels](#selectie) van de NPO, uitgezonden van woensdag 17 september tot en met dinsdag 28 oktober 2025 (de dag voor verkiezingsdag, de laatste campagnedag). De selectie is gebaseerd op programma’s waarin het waarschijnlijk is dat politici optreden, zoals nieuws- en actualiteitenprogramma’s, praatprogramma’s en verkiezingsdebatten.  
 
-Om analyseerbare data te krijgen, hebben we de geselecteerde programma’s onderworpen aan [gezichts- en stemherkenning](#andere-herkenning). Daarnaast hebben we [automatische spraakherkenning (ASR)](#asr) ingezet om de inhoud van programma’s om te zetten in tekst. We hebben de volgende analyses uitgevoerd:
+Om analyseerbare data te krijgen, hebben we de geselecteerde programma’s onderworpen aan [gezichts- en stemherkenning](#andere-herkenning) (<a target="_blank" href="https://mediasuitedatastories.clariah.nl/elections-2025/appendix_programmalijst_sprekers_gezichten/">Appendix 3</a>). Daarnaast hebben we [automatische spraakherkenning (ASR)](#asr) (<a target="_blank" href="https://mediasuitedatastories.clariah.nl/elections-2025/appendix_programmalijst_spraaktranscripten/">Appendix 2</a>) ingezet om de inhoud van programma’s om te zetten in tekst. We hebben de volgende analyses uitgevoerd:
 1. We hebben de inhoud met gezichts- en stemherkenning geanalyseerd op politici. Aan hun namen is een geslacht (vrouw, man, of non-binair) en een partij gekoppeld. Zo kunnen uitspraken worden gedaan over de genderverdeling en de verdeling langs (coalitie- en oppositie)partijen en partij-ideologie. 
 2. De spraakherkenningsbestanden hebben we geanalyseerd op onderwerpen die aan bod kwamen.
 
@@ -27,7 +27,7 @@ We bespreken de bevindingen aan de hand van, achtereenvolgens, politici, partije
 
 Voor dit onderzoek is vooraf een lijst van 165 politici samengesteld. Hierbij is gekeken naar de kieslijsten: van de grote partijen (PVV, GL-PvdA, VVD, NSC, D66, BBB, CDA) zijn de eerste 10 kandidaten meegenomen, van de middelgrote partijen (SP, DENK, PvdD, FvD, SGP, CU, Volt, JA21) de eerste 5 en van de kleinere partijen (Vrede voor Dieren, BVNL, BIJ1, Libertaire Partij (LP), 50PLUS, Piratenpartij, FNP) de eerste 2. Deze lijst is aangevuld met 14 partijprominenten en de ministers en staatssecretarissen.
 
-Van deze 165 personen zijn uiteindelijk 114 politici gedurende de campagneperiode daadwerkelijk herkend via hun gezicht of stem
+Van deze 165 personen zijn uiteindelijk 114 politici gedurende de campagneperiode daadwerkelijk herkend via hun gezicht of stem.
 
 #### 1. Politici: een langzame start en radio versus televisie
 We bespreken hier eerst de aanwezigheid van individuele politici over de gehele campagneperiode en daarna splitsen we de data verder uit.  
@@ -46,9 +46,9 @@ In week 1 en 2 is de totale aanwezigheid van alle politici nog laag en liggen de
 
 In week 4 vindt een verschuiving plaats. Timmermans (GL-PvdA) schiet omhoog en Yeşilgöz (VVD) begint aan een opmars. Bikker (CU) en Eerdmans (JA21) springen er ook uit.  
 
-Dassen (Volt), Dijk (SP), De Vos (FvD), Moorman (GL-PvdA) en Stoffer (SGP) zijn voornamelijk te horen, terwijl Keizer (BBB), Jetten (D66) en Bontenbal (CDA) voornamelijk te zien zijn.
+Dassen (Volt), Dijk, De Vos (FvD), Moorman (GL-PvdA) en Stoffer (SGP) zijn voornamelijk te horen, terwijl Keizer (BBB), Jetten (D66) en Bontenbal voornamelijk te zien zijn.
 
-In week 5 zijn er vijf koplopers. Jetten (D66) is vooral te zien, wat zou kunnen komen doordat tijdens debatten vaker op hem werd ingezoomd of doordat er veel over hem werd gesproken en zijn foto werd getoond, mogelijk in de context van het RTL-debat van 12 oktober 2025 waar hij in plaats van Wilders aan mocht deelnemen en in het kader van zijn veelbesproken deelname aan de finale van de kwis De Slimste Mens, uitgezonden op 18 oktober 2025. Timmermans is ongeveer even zichtbaar als in week 4 maar iets minder te horen. Yeşilgöz, Bontenbal en Dijk zijn het meest aan het woord. 
+In week 5 zijn er vijf koplopers. Jetten is vooral te zien, wat zou kunnen komen doordat tijdens debatten vaker op hem werd ingezoomd of doordat er veel over hem werd gesproken en zijn foto werd getoond, mogelijk in de context van het RTL-debat van 12 oktober 2025 waar hij in plaats van Wilders (PVV) aan mocht deelnemen en in het kader van zijn veelbesproken deelname aan de finale van de kwis De Slimste Mens, uitgezonden op 18 oktober 2025. Timmermans is ongeveer even zichtbaar als in week 4 maar iets minder te horen. Yeşilgöz, Bontenbal en Dijk zijn het meest aan het woord. 
 
 Negen andere politici zetten de achtervolging in, met name op basis van hun stem: Bikker, Dassen en in iets mindere mate Nanninga (JA21), Van Hijum (NSC), Ouwehand (PvdD) en Eerdmans. Van der Plas (BBB) en Keizer zijn ongeveer evenveel aan het woord als in beeld. Stoffer sluit deze rij. De overige politici blijven met lage scores veel minder zicht- en hoorbaar.
 
@@ -79,7 +79,7 @@ _Figuur 1.3. Totaal aantal minuten stemherkenning top 20._
 
 Wat betreft spreektijd is de top 3 – Yeşilgöz, Bontenbal en Timmermans – hetzelfde als bij gezichtsherkenning maar met een groter verschil. Timmermans is namelijk ongeveer 60 minuten minder te horen dan Yeşilgöz en 30 minuten minder dan Bontenbal. Dijk en Bikker nemen de vierde en vijfde plaats in. Jetten neemt de zesde plaats in, gevolgd door Van Hijum.
 
-Figuren 1.2 en 1.3 laten zien dat traditionele partijen meer domineren op televisie dan op de radio. Het lijkt erop dat radio meer ruimte biedt voor diverse stemmen dan televisie. Dit verschil is goed te zien bij iemand als Mirjam Bikker (CU): in figuur 1.2 (gezichtsherkenning) staat zij op plek 11, terwijl ze in figuur 1.3 (stemherkenning) stijgt naar plek 5. Zij was dus minder in beeld op TV, maar aanzienlijk meer te horen op de radio.
+Figuren 1.2 en 1.3 laten zien dat traditionele partijen meer domineren op televisie dan op de radio. Het lijkt erop dat radio meer ruimte biedt voor diverse stemmen dan televisie. Dit verschil is goed te zien bij iemand als Mirjam Bikker: in figuur 1.2 (gezichtsherkenning) staat zij op plek 11, terwijl ze in figuur 1.3 (stemherkenning) stijgt naar plek 5. Zij was dus minder in beeld op TV, maar aanzienlijk meer te horen op de radio.
 
 Hoe vaak politici zijn herkend, hebben we eveneens gevisualiseerd. Figuur 1.4 toont de resultaten.
 
@@ -97,9 +97,9 @@ _Figuur 1.5a. De gemiddelde spreektijd van de top 20._
 
 Wanneer we alleen kijken naar hoe lang politici gemiddeld aan het woord zijn, is er veel meer diversiteit aan sprekers te zien. De overlap met de totale spreektijd is klein: slechts 6 van de 20 politici met de meeste spreektijd (zie figuur 1.3) staan ook in de top 20 van politici met gemiddeld de langste spreektijd (figuur 1.5a). Van Berkel (D66) staat duidelijk op de eerste plaats, terwijl ze niet in de top 20 van politici met de meeste spreektijd staat (figuur 1.3). Ze is dus weinig keren maar lang aan het woord geweest, waardoor het totaal laag is maar het gemiddelde hoog. 
 
-Van Berkel wordt gevolgd door Schippers (VVD). De derde plek is voor Bamenga (D66), daarna Nanninga (JA21) en Steen (CDA), gevolgd door Rummeni (CDA), Soepboer (FNP) en Moerman (D66). Er is dus diversiteit in gender en etniciteit maar het gaat duidelijk om de partij-subtop op de radio. De subtop wordt uitgenodigd voor langere gesprekken; de eerste personen van grote partijen komen niet eens in de eerste twintig voor wat betreft gemiddelde spreektijd. 
+Van Berkel wordt gevolgd door Schippers (VVD). De derde plek is voor Bamenga (D66), daarna Nanninga en Steen, gevolgd door Rummeni (CDA), Soepboer en Moerman (D66). Er is dus diversiteit in gender en etniciteit maar het gaat duidelijk om de partij-subtop op de radio. De subtop wordt uitgenodigd voor langere gesprekken; de eerste personen van grote partijen komen niet eens in de eerste twintig voor wat betreft gemiddelde spreektijd. 
 
-De eerste partijleider is Dassen (Volt) op plek zestien, dan Stoffer (SGP) op zeventien, daarna volgt demissionair minister Gouke Moes (BBB) en partijleiders Van Hijum (NSC) en Struijs (50+) op plekken achttien tot twintig. Het verschil met nummer één over de gehele campagneperiode is twintig minuten. 
+De eerste partijleider is Dassen op plek zestien, dan Stoffer op zeventien, daarna volgt demissionair minister Moes (BBB) en partijleiders Van Hijum en Struijs (50+) op plekken achttien tot twintig. Het verschil met nummer één over de gehele campagneperiode is twintig minuten. 
 
 In figuur 1.5b hebben we de resultaten van de gemiddelde spreektijd gesorteerd op de volgorde van politici zoals weergegeven in figuur 1.3, het totaal van de stemherkenning. 
 
@@ -107,7 +107,7 @@ In figuur 1.5b hebben we de resultaten van de gemiddelde spreektijd gesorteerd o
 
 _Figuur 1.5b. De gemiddelde spreektijd van de top 20 op volgorde van duur stemherkenning._
 
-De visualisatie in figuur 1.5b bevestigt niet alleen de eerdere conclusies maar voegt een essentiële nuance toe over de aard van de spreektijd. Ze bevestigt dat Yeşilgöz vaak maar kort aan het woord is geweest in vergelijking met bijvoorbeeld Schippers of Nanninga, die veel minder vaak maar veel langer mogen spreken. Dit wijst op een fundamenteel verschil in mediagebruik: lijsttrekkers als Yeşilgöz verschijnen weliswaar frequent maar hun bijdragen zijn beperkt tot korte citaten, nieuwsflitsen of debatinterrupties. Daarentegen krijgen partij-subtop en specialisten – zoals Schippers (VVD) en Nanninga (JA21) – ruim de tijd voor diepte-interviews, achtergrondduiding en langere analyses. De data suggereren dat radio hierin een specifieke rol speelt: waar televisie de neiging heeft om bekende gezichten kort en frequent te tonen, biedt radio een platform voor langere, meer uiteenzettende gesprekken met een breder scala aan stemmen. Dit verklaart ook waarom de eerste partijleiders pas op plek zestien (Dassen) en zeventien (Stoffer) opduiken in de ranglijst van langste spreektijd. De conclusie is dat zichtbaarheid in aantal verschijningen niet gelijk staat aan spreektijd of inhoudelijke ruimte. De campagne kreeg op de radio een ander, meer divers en diepgravender podium dan op televisie.
+De visualisatie in figuur 1.5b bevestigt niet alleen de eerdere conclusies maar voegt een essentiële nuance toe over de aard van de spreektijd. Ze bevestigt dat Yeşilgöz vaak maar kort aan het woord is geweest in vergelijking met bijvoorbeeld Schippers of Nanninga, die veel minder vaak maar veel langer mogen spreken. Dit wijst op een fundamenteel verschil in mediagebruik: lijsttrekkers als Yeşilgöz verschijnen weliswaar frequent maar hun bijdragen zijn beperkt tot korte citaten, nieuwsflitsen of debatinterrupties. Daarentegen krijgen partij-subtop en specialisten – zoals Schippers en Nanninga – ruim de tijd voor diepte-interviews, achtergrondduiding en langere analyses. De data suggereren dat radio hierin een specifieke rol speelt: waar televisie de neiging heeft om bekende gezichten kort en frequent te tonen, biedt radio een platform voor langere, meer uiteenzettende gesprekken met een breder scala aan stemmen. Dit verklaart ook waarom de eerste partijleiders pas op plek zestien (Dassen) en zeventien (Stoffer) opduiken in de ranglijst van langste spreektijd. De conclusie is dat zichtbaarheid in aantal verschijningen niet gelijk staat aan spreektijd of inhoudelijke ruimte. De campagne kreeg op de radio een ander, meer divers en diepgravender podium dan op televisie.
 
 ### 2. Partijen: rechts domineert het ongelijke speelveld
 We analyseerden ook de zichtbaarheid van partijen tijdens de campagneweken, aan de hand van hun politici. We bespreken eerst de resultaten in totaal en daarna de ontwikkelingen gedurende de zes campagneweken.
@@ -152,7 +152,7 @@ De VVD staat ook hier op de eerste plaats en is 510 keer herkend, ruim meer dan 
 Al met al gaat de meeste aandacht uit naar de overgebleven coalitiepartijen VVD en BBB en hun uitdagers GL-PvdA, CDA en D66. Christelijke partijen CU en NSC vinden daarnaast gehoor op de radio. Voor kleinere partijen is in de campagneperiode beduidend minder aandacht. 
 
 #### 2.2 Rechts domineert
-De analyse naar ideologie (figuur 2.5) laat zien dat coalitiepartijen (PVV, VVD, NSC, BBB) aanzienlijk hoger scoren dan oppositiepartijen (links: GL-PvdA, SP, DENK, PvdD; rechts-populistisch: FvD, JA21), zowel in beeld als in stem en vooral vanaf week 4. 
+De analyse naar ideologie (figuur 2.5, zie <a target="_blank" href="https://mediasuitedatastories.clariah.nl/elections-2025/appendix_partij-indeling/">Appendix 4</a>) laat zien dat coalitiepartijen (PVV, VVD, NSC, BBB) aanzienlijk hoger scoren dan oppositiepartijen (links: GL-PvdA, SP, DENK, PvdD; rechts-populistisch: FvD, JA21), zowel in beeld als in stem en vooral vanaf week 4. 
 
 <iframe src='https://public.flourish.studio/visualisation/27522216/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/27522216/?utm_source=embed&utm_campaign=visualisation/27522216' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
@@ -214,7 +214,7 @@ Een ander beeld zien we bij de VVD en de BBB. Deze weinig progressieve partijen 
 Samenvattend krijgen de vrouwen minder aandacht op radio en televisie dan op basis van hun aandeel verwacht mag worden en zegt partijsignatuur niets over de media-aanwezigheid van vrouwen en mannen: bij conservatieve partijen domineren vrouwen, bij ‘progressieve’ partijen domineren mannen. 
 
 ### 4. Onderwerpen: verdediging dominant
-Op basis van de stellingen in het <a target="_blank" href="https://tweedekamer2025.kieskompas.nl/nl/">Kieskompas</a> en de trefwoorden in de toelichting bij standpunten van de partijen hebben we gekeken welke onderwerpen domineerden tijdens de campagne. In deze bronnen zijn 20 onderwerpen geïdentificeerd (zie [appendix 5](#appendix5) voor de volledige lijst). Figuur 4.1 toont de vijf onderwerpen die het vaakst voorkwamen en de vijf onderwerpen die het minst vaak voorkwamen in programma’s in onze dataset.
+Op basis van de stellingen in het <a target="_blank" href="https://tweedekamer2025.kieskompas.nl/nl/">Kieskompas</a> en de trefwoorden in de toelichting bij standpunten van de partijen hebben we gekeken welke onderwerpen domineerden tijdens de campagne. In deze bronnen zijn 20 onderwerpen geïdentificeerd (<a target="_blank" href="https://mediasuitedatastories.clariah.nl/elections-2025/appendix_subjects/">appendix 5</a> voor de volledige lijst). Figuur 4.1 toont de vijf onderwerpen die het vaakst voorkwamen en de vijf onderwerpen die het minst vaak voorkwamen in programma’s in onze dataset.
 
 <iframe src='https://public.flourish.studio/visualisation/28661438/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/28661438/?utm_source=embed&utm_campaign=visualisation/28661438' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
@@ -301,4 +301,4 @@ Aan die namen van herkende politici hebben we een geslacht (vrouw, man of non-bi
 
 * [Onderwerpen](appendix_subjects)
 
-[^1]: In 2021 rapporteerden we deze resultaten in seconden maar dit keer kiezen we voor minuten, zodat deze eenheid in alle visualisaties hetzelfde is. 
+[^1]: In 2021 rapporteerden we deze resultaten in seconden, behalve visualisatie 3.2, in verband met de leesbaarheid van de afbeelding. Deze keer kiezen we voor minuten, zodat deze eenheid in alle visualisaties hetzelfde is. 
