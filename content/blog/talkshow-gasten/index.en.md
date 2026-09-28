@@ -252,6 +252,11 @@ details.ds-samenvatting[open]>summary::before{transform:rotate(90deg);}
 .ds-referenties li:has(span[id^="ref-"]:target){background:#fdf3d8;box-shadow:0 0 0 4px #fdf3d8;border-radius:2px;}
 /* Scrollmarge, zodat het doel niet onder de bovenrand van het scherm valt. */
 .ds-referenties span[id^="ref-"]{scroll-margin-top:1.5rem;}
+
+/* Hoe te citeren: colofon, het laatste en soberste blok. */
+.ds-citeren{padding:0.2rem 0 0 0;margin:0 0 1.5rem 0;}
+.ds-citeren h2{margin-top:0;font-size:1.15rem;}
+.ds-citeren p{font-size:0.88rem;line-height:1.55;color:#4a5560;}
 </style>
 <div class="ds-auteurs">
 <div class="ds-auteur"><img class="ds-portret" src="/authors/roeland-ordelman.jpg" alt="Roeland Ordelman"><div><div class="ds-auteur-naam">Roeland Ordelman</div><div class="ds-auteur-meta">Manager CLARIAH Media Suite, Beeld &amp; Geluid en Universiteit Twente</div><div class="ds-auteur-meta"><a href="https://orcid.org/0000-0001-9229-0006" target="_blank" rel="noopener">ORCID 0000-0001-9229-0006</a> · <a href="https://www.linkedin.com/in/roelandordelman/" target="_blank" rel="noopener">LinkedIn</a></div></div></div>
@@ -643,4 +648,14 @@ Bij dit artikel horen vier bijlagen met het onderliggende materiaal.
 - GTAA — Gemeenschappelijke Thesaurus Audiovisuele Archieven, Beeld & Geluid. https://gtaa.beeldengeluid.nl
 - SANE — beveiligde analyseomgeving. https://www.surf.nl/diensten/rekenen/sane
 - <span id="ref-ai-meta-2024"></span>AI@Meta (2024). The Llama 3 Herd of Models. arXiv preprint arXiv:2407.21783. https://arxiv.org/abs/2407.21783
+</div>
+
+<div class="ds-citeren">
+
+## Hoe te citeren
+
+Ordelman, R., Bus, H. & Klein, R. (2026). *Wie is de meest gevraagde talkshowgast bij de publieke omroep?* Media Suite Data Stories, 29 september 2026. https://mediasuitedatastories.clariah.nl/talkshow-gasten/
+
+Dit artikel is beschikbaar onder een [CC BY 4.0-licentie](https://creativecommons.org/licenses/by/4.0/): hergebruik mag, met bronvermelding. De brontekst van dit artikel staat in [beeldengeluid/data-stories](https://github.com/beeldengeluid/data-stories/blob/main/content/blog/talkshow-gasten/index.en.md).
+
 </div>
