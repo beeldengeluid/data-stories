@@ -131,6 +131,11 @@ description: "Wie schoof het vaakst aan als gast bij een praatprogramma van de p
   },
   {
    "@type": "CreativeWork",
+   "name": "VARAgids (2026). Dit is de meestgevraagde talkshowgast van Nederland, 29 september 2026.",
+   "url": "https://www.bnnvara.nl/varagids/artikelen/huisarts-ted-van-essen-is-de-meestgevraagde-talkshowgast-van-nederland"
+  },
+  {
+   "@type": "CreativeWork",
    "name": "Wikipedia. Lijst van televisiepraatprogramma’s, geraadpleegd 28 juli 2026.",
    "url": "https://nl.wikipedia.org/wiki/Lijst_van_televisiepraatprogramma's"
   },
@@ -285,6 +290,8 @@ Deze data story is de tweede analyse van Nederlandse praatprogramma’s op basis
 > Het gaat ons niet om tafelheren, of -dames (zoals bij DWDD destijds) of vaste gasten à la René van der Gijp in VI (maar dat is geen NPO), het gaat om gasten die vanwege hun expertise geregeld werden gevraagd in Pauw & Witteman, Barend & Witteman, OP1, M, DWDD, etc.
 
 Aan de vraag was een verwachting verbonden: Frits Wester, met Alexander Pechtold als goede tweede.
+
+De VARAgids bracht de uitkomsten in het nummer van 29 september 2026 [(VARAgids, 2026)](#ref-varagids-2026); deze data story beschrijft hoe ze tot stand zijn gekomen.
 
 Een omroeparchief leent zich in beginsel goed voor dit type vraag. Beeld & Geluid bewaart een aanzienlijk deel van wat de Nederlandse publieke omroep sinds haar ontstaan heeft uitgezonden, doorgaans voorzien van een beschrijving die door omroepmedewerkers of archivarissen is ingevoerd. Het tellen van personen die in die beschrijvingen voorkomen lijkt daarmee een kwestie van de juiste zoekopdracht.
 
@@ -644,6 +651,7 @@ Bij dit artikel horen vier bijlagen met het onderliggende materiaal.
 - <span id="ref-manders-wigham-2024"></span>Manders, T. & Wigham, M. (2024). Metadata fractures — don’t let them undermine your work! Beeld & Geluid, 24 januari 2024. https://data.beeldengeluid.nl/showcases/data-fractures
 - <span id="ref-van-kemenade-2020"></span>Van Kemenade, P., Koppelman, W., Van Noord, N., Ordelman, R., Van Peteghem, M. & Wigham, M. (2020). 15 years of the popular Dutch chat show ‘DWDD’ — in data. Media Suite Data Stories, 27 maart 2020. https://mediasuitedatastories.clariah.nl/DWDD/
 - NRC (2015). Jan Mulder kwam ’t vaakst, 6 oktober 2015. Onderzoek: LJS Nieuwsmonitor (Nel Ruigrok, Wouter van Atteveld, Floris de Boer), 1.537 uitzendingen.
+- <span id="ref-varagids-2026"></span>VARAgids (2026). Dit is de meestgevraagde talkshowgast van Nederland, 29 september 2026. https://www.bnnvara.nl/varagids/artikelen/huisarts-ted-van-essen-is-de-meestgevraagde-talkshowgast-van-nederland
 - <span id="ref-wikipedia-2026"></span>Wikipedia. Lijst van televisiepraatprogramma’s, geraadpleegd 28 juli 2026. https://nl.wikipedia.org/wiki/Lijst_van_televisiepraatprogramma's
 - GTAA — Gemeenschappelijke Thesaurus Audiovisuele Archieven, Beeld & Geluid. https://gtaa.beeldengeluid.nl
 - SANE — beveiligde analyseomgeving. https://www.surf.nl/diensten/rekenen/sane
